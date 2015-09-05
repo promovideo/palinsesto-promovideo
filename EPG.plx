@@ -1,5 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-05/09/2015	16:55:20	Infiltratospeciale_mpeg2video	Sconosciuto	Infiltrato  speciale	01:34:35	1	Film
 05/09/2015	18:29:55	FantozziFracchiaLaBelvaUmana	FANTOZZI FRACCHAI LA BELVAUMANA	LA BELVA  UMANA	01:36:05	1	Film
 05/09/2015	20:06:01	IngannoGlobale11settembre2001(versionecompleta)	INGANNO  GLOBALE	TORRI  GEMELLE	01:31:56	41	programmi culturali
 05/09/2015	21:37:58	FLASHPARTE6INONDADAL17-08-15AL23-08-15DOPOLE22,30	Sconosciuto	Nuovo File	00:04:59	0	
@@ -7,11 +6,11 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 05/09/2015	21:43:04	7Monacidoro_mpeg2video	Sconosciuto	7  MONACI D' ORO	01:33:49	1	Film
 05/09/2015	23:16:53	TG	TG 	TELEGIORNALE	00:02:35	31	programmi informativi
 05/09/2015	23:19:28	BovaChoratuVuaIlGioielloD'Aspromonte	BOVA GIOIELLO D' ASPROMONTE	BOVA	00:16:11	41	programmi culturali
-05/09/2015	23:35:39	FLASHPARTE6INONDADAL17-08-15AL23-08-15DOPOLE22,30	Sconosciuto	Nuovo File	00:04:59	0	
+05/09/2015	23:35:40	FLASHPARTE6INONDADAL17-08-15AL23-08-15DOPOLE22,30	Sconosciuto	Nuovo File	00:04:59	0	
 05/09/2015	23:40:39	SPOTtraPROMOVIDEOTV4	Sconosciuto	SPOTtraPROMOVIDEOTV4	00:00:03	11	spot
 05/09/2015	23:40:42	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
 05/09/2015	23:40:57	Sedottiebidonati	Sconosciuto	Sedotti ed abbandonati	01:37:13	1	Film
-06/09/2015	01:18:10	MondialeSynchroDance_Spot30sec	PROMO MONDIALE SYINCRO	PROMO MONDIALE SYNCRO	00:00:31	11	spot
+06/09/2015	01:18:11	MondialeSynchroDance_Spot30sec	PROMO MONDIALE SYINCRO	PROMO MONDIALE SYNCRO	00:00:31	11	spot
 06/09/2015	01:18:42	FLASHPARTE5INONDADAL17-08-15AL23-08-15SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:04:58	0	
 06/09/2015	01:23:40	PROMOVIDEOSPOT1	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:06	11	spot
 06/09/2015	01:23:47	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
