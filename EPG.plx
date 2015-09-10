@@ -1,5 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-10/09/2015	18:26:53	Infiltratospeciale_mpeg2video	Sconosciuto	Infiltrato  speciale	01:34:35	1	Film
 10/09/2015	20:01:28	FantozziFracchiaLaBelvaUmana	FANTOZZI FRACCHAI LA BELVAUMANA	LA BELVA  UMANA	01:36:05	1	Film
 10/09/2015	21:37:34	IngannoGlobale11settembre2001(versionecompleta)	INGANNO  GLOBALE	TORRI  GEMELLE	01:31:56	41	programmi culturali
 10/09/2015	23:09:31	FLASHPARTE6INONDADAL17-08-15AL23-08-15DOPOLE22,30	Sconosciuto	Nuovo File	00:04:59	0	
@@ -9,7 +8,7 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 11/09/2015	00:51:02	BovaChoratuVuaIlGioielloD'Aspromonte	BOVA GIOIELLO D' ASPROMONTE	BOVA	00:16:11	41	programmi culturali
 11/09/2015	01:07:13	FLASHPARTE6INONDADAL17-08-15AL23-08-15DOPOLE22,30	Sconosciuto	Nuovo File	00:04:59	0	
 11/09/2015	01:12:12	SPOTtraPROMOVIDEOTV4	Sconosciuto	SPOTtraPROMOVIDEOTV4	00:00:03	11	spot
-11/09/2015	01:12:15	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
+11/09/2015	01:12:16	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
 11/09/2015	01:12:31	Sedottiebidonati	Sconosciuto	Sedotti ed abbandonati	01:37:13	1	Film
 11/09/2015	02:49:44	MondialeSynchroDance_Spot30sec	PROMO MONDIALE SYINCRO	PROMO MONDIALE SYNCRO	00:00:31	11	spot
 11/09/2015	02:50:15	FLASHPARTE5INONDADAL17-08-15AL23-08-15SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:04:58	0	
