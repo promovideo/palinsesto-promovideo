@@ -2,37 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>AttackForce</IdName>
-				<StartDate>2015-09-12</StartDate>
-				<StartTime>19:36:36</StartTime>
-				<EndDate>2015-09-12</EndDate>
-				<EndTime>21:07:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ATTACK FORCR </Name>
-					<Description>ATTACK FORCE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2015-09-12</StartDate>
-				<StartTime>21:07:11</StartTime>
-				<EndDate>2015-09-12</EndDate>
-				<EndTime>21:07:18</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
 				<IdName>conferenzastampaRealeAccademiaFilarmonicadiGerace</IdName>
 				<StartDate>2015-09-12</StartDate>
-				<StartTime>21:07:18</StartTime>
+				<StartTime>21:07:15</StartTime>
 				<EndDate>2015-09-12</EndDate>
-				<EndTime>21:45:32</EndTime>
+				<EndTime>21:45:29</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -40,12 +14,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="2">
 				<IdName>filmcompletoPiratiRPolanski1986</IdName>
 				<StartDate>2015-09-12</StartDate>
-				<StartTime>21:45:32</StartTime>
+				<StartTime>21:45:29</StartTime>
 				<EndDate>2015-09-12</EndDate>
-				<EndTime>23:31:12</EndTime>
+				<EndTime>23:31:08</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -53,12 +27,12 @@
 					<Description>Pirati</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="3">
 				<IdName>tg_20150518_50899</IdName>
 				<StartDate>2015-09-12</StartDate>
-				<StartTime>23:31:12</StartTime>
+				<StartTime>23:31:08</StartTime>
 				<EndDate>2015-09-12</EndDate>
-				<EndTime>23:33:31</EndTime>
+				<EndTime>23:33:27</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -66,12 +40,38 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="4">
 				<IdName>AltrimentiCiArrabbiamo</IdName>
 				<StartDate>2015-09-12</StartDate>
-				<StartTime>23:33:31</StartTime>
+				<StartTime>23:33:27</StartTime>
 				<EndDate>2015-09-13</EndDate>
-				<EndTime>01:11:06</EndTime>
+				<EndTime>01:11:02</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="5">
+				<IdName>spotDIGIII</IdName>
+				<StartDate>2015-09-13</StartDate>
+				<StartTime>01:11:02</StartTime>
+				<EndDate>2015-09-13</EndDate>
+				<EndTime>01:11:17</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOT DIGII</Name>
+					<Description>SPOT PROMOVIDEO</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="6">
+				<IdName>FLASHPARTE4INONDADAL24-08-15AL30-08-15SOLODALLE16,00ALLE18,00</IdName>
+				<StartDate>2015-09-13</StartDate>
+				<StartTime>01:11:17</StartTime>
+				<EndDate>2015-09-13</EndDate>
+				<EndTime>01:16:28</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -80,50 +80,24 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="7">
-				<IdName>spotDIGIII</IdName>
+				<IdName>GratteriGeraceBeniconfiscati</IdName>
 				<StartDate>2015-09-13</StartDate>
-				<StartTime>01:11:06</StartTime>
+				<StartTime>01:16:28</StartTime>
 				<EndDate>2015-09-13</EndDate>
-				<EndTime>01:11:21</EndTime>
+				<EndTime>01:29:14</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>SPOT DIGII</Name>
-					<Description>SPOT PROMOVIDEO</Description>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="8">
-				<IdName>FLASHPARTE4INONDADAL24-08-15AL30-08-15SOLODALLE16,00ALLE18,00</IdName>
-				<StartDate>2015-09-13</StartDate>
-				<StartTime>01:11:21</StartTime>
-				<EndDate>2015-09-13</EndDate>
-				<EndTime>01:16:31</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="9">
-				<IdName>GratteriGeraceBeniconfiscati</IdName>
-				<StartDate>2015-09-13</StartDate>
-				<StartTime>01:16:31</StartTime>
-				<EndDate>2015-09-13</EndDate>
-				<EndTime>01:29:18</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
 				<IdName>BadBoys</IdName>
 				<StartDate>2015-09-13</StartDate>
-				<StartTime>01:29:18</StartTime>
+				<StartTime>01:29:14</StartTime>
 				<EndDate>2015-09-13</EndDate>
-				<EndTime>03:23:22</EndTime>
+				<EndTime>03:23:18</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -131,12 +105,12 @@
 					<Description>BAD BOYS</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="9">
 				<IdName>TG</IdName>
 				<StartDate>2015-09-13</StartDate>
-				<StartTime>03:23:22</StartTime>
+				<StartTime>03:23:18</StartTime>
 				<EndDate>2015-09-13</EndDate>
-				<EndTime>03:25:41</EndTime>
+				<EndTime>03:25:37</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -144,12 +118,38 @@
 					<Description>TELEGIORNALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="10">
 				<IdName>inLiberta_20150901_53361</IdName>
 				<StartDate>2015-09-13</StartDate>
-				<StartTime>03:25:41</StartTime>
+				<StartTime>03:25:37</StartTime>
 				<EndDate>2015-09-13</EndDate>
-				<EndTime>03:27:11</EndTime>
+				<EndTime>03:27:07</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="11">
+				<IdName>AntoniminaOssAmbientale</IdName>
+				<StartDate>2015-09-13</StartDate>
+				<StartTime>03:27:07</StartTime>
+				<EndDate>2015-09-13</EndDate>
+				<EndTime>03:49:46</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="12">
+				<IdName>FLASHPARTE1INONDADAL17-08-15AL23-08-15NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
+				<StartDate>2015-09-13</StartDate>
+				<StartTime>03:49:46</StartTime>
+				<EndDate>2015-09-13</EndDate>
+				<EndTime>03:54:51</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -158,11 +158,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="13">
-				<IdName>AntoniminaOssAmbientale</IdName>
+				<IdName>agrisapori-624x30-8-15</IdName>
 				<StartDate>2015-09-13</StartDate>
-				<StartTime>03:27:11</StartTime>
+				<StartTime>03:54:51</StartTime>
 				<EndDate>2015-09-13</EndDate>
-				<EndTime>03:49:50</EndTime>
+				<EndTime>04:22:26</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -171,11 +171,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="14">
-				<IdName>FLASHPARTE1INONDADAL17-08-15AL23-08-15NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
+				<IdName>011-DoppioSenso13</IdName>
 				<StartDate>2015-09-13</StartDate>
-				<StartTime>03:49:50</StartTime>
+				<StartTime>04:22:26</StartTime>
 				<EndDate>2015-09-13</EndDate>
-				<EndTime>03:54:54</EndTime>
+				<EndTime>05:20:20</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -184,11 +184,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="15">
-				<IdName>agrisapori-624x30-8-15</IdName>
+				<IdName>salusTg_20150217_48569</IdName>
 				<StartDate>2015-09-13</StartDate>
-				<StartTime>03:54:54</StartTime>
+				<StartTime>05:20:20</StartTime>
 				<EndDate>2015-09-13</EndDate>
-				<EndTime>04:22:30</EndTime>
+				<EndTime>05:22:31</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -197,11 +197,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="16">
-				<IdName>011-DoppioSenso13</IdName>
+				<IdName>DanceIT_puntata_9</IdName>
 				<StartDate>2015-09-13</StartDate>
-				<StartTime>04:22:30</StartTime>
+				<StartTime>05:22:31</StartTime>
 				<EndDate>2015-09-13</EndDate>
-				<EndTime>05:20:24</EndTime>
+				<EndTime>05:52:23</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -210,37 +210,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="17">
-				<IdName>salusTg_20150217_48569</IdName>
-				<StartDate>2015-09-13</StartDate>
-				<StartTime>05:20:24</StartTime>
-				<EndDate>2015-09-13</EndDate>
-				<EndTime>05:22:34</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="18">
-				<IdName>DanceIT_puntata_9</IdName>
-				<StartDate>2015-09-13</StartDate>
-				<StartTime>05:22:34</StartTime>
-				<EndDate>2015-09-13</EndDate>
-				<EndTime>05:52:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="19">
 				<IdName>DanceIT_puntata_10</IdName>
 				<StartDate>2015-09-13</StartDate>
-				<StartTime>05:52:26</StartTime>
+				<StartTime>05:52:23</StartTime>
 				<EndDate>2015-09-13</EndDate>
-				<EndTime>06:22:28</EndTime>
+				<EndTime>06:22:24</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
