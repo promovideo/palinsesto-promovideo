@@ -2,84 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Moschetta2012_mpeg2video</IdName>
-				<StartDate>2015-09-16</StartDate>
-				<StartTime>16:33:50</StartTime>
-				<EndDate>2015-09-16</EndDate>
-				<EndTime>17:59:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Moschetta 2012</Name>
-					<Description>Moschetta 2012</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>PROMOVIDEOSPOT1</IdName>
-				<StartDate>2015-09-16</StartDate>
-				<StartTime>17:59:54</StartTime>
-				<EndDate>2015-09-16</EndDate>
-				<EndTime>18:00:01</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PROMOVIDEOSPOT</Name>
-					<Description>PROMOVIDEOSPOT</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>nozzediamante</IdName>
-				<StartDate>2015-09-16</StartDate>
-				<StartTime>18:00:01</StartTime>
-				<EndDate>2015-09-16</EndDate>
-				<EndTime>18:30:50</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>NOZZE DIAMANTE</Name>
-					<Description>NOZZE DIAMANTE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>FLASHPARTE4INONDADAL24-08-15AL30-08-15SOLODALLE16,00ALLE18,00</IdName>
-				<StartDate>2015-09-16</StartDate>
-				<StartTime>18:30:50</StartTime>
-				<EndDate>2015-09-16</EndDate>
-				<EndTime>18:36:00</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
-				<IdName>Musa_TV_20150901_53370</IdName>
-				<StartDate>2015-09-16</StartDate>
-				<StartTime>18:36:00</StartTime>
-				<EndDate>2015-09-16</EndDate>
-				<EndTime>18:47:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
-				<IdName>tg_20150630_51975</IdName>
-				<StartDate>2015-09-16</StartDate>
-				<StartTime>18:47:08</StartTime>
-				<EndDate>2015-09-16</EndDate>
-				<EndTime>18:49:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
 				<IdName>0110-1968-Calmaragazzeoggimisposo-LouisDeFunes_mpeg2video</IdName>
 				<StartDate>2015-09-16</StartDate>
 				<StartTime>18:49:46</StartTime>
@@ -92,7 +14,7 @@
 					<Description>CALMA RAGAZZE  OGGI   MI  SPOSO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="2">
 				<IdName>PillolaSalute_20150226_48837</IdName>
 				<StartDate>2015-09-16</StartDate>
 				<StartTime>20:15:42</StartTime>
@@ -105,7 +27,7 @@
 					<Description>pillole salute</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="3">
 				<IdName>BestofMr.Bean_mpeg2video</IdName>
 				<StartDate>2015-09-16</StartDate>
 				<StartTime>20:16:08</StartTime>
@@ -118,7 +40,7 @@
 					<Description>MISTER BEAN</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="4">
 				<IdName>SerraSanBrunoPiccolaGrandeItalia</IdName>
 				<StartDate>2015-09-16</StartDate>
 				<StartTime>21:28:05</StartTime>
@@ -131,7 +53,7 @@
 					<Description>SERRA S. BRUNO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="5">
 				<IdName>FLASHPARTE6INONDADAL24-08-15AL30-08-15DOPOLE22,30</IdName>
 				<StartDate>2015-09-16</StartDate>
 				<StartTime>21:49:03</StartTime>
@@ -144,7 +66,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="6">
 				<IdName>minispotapplicazione</IdName>
 				<StartDate>2015-09-16</StartDate>
 				<StartTime>21:54:21</StartTime>
@@ -157,7 +79,7 @@
 					<Description>SPOTAPP</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="7">
 				<IdName>tg_20150630_51975</IdName>
 				<StartDate>2015-09-16</StartDate>
 				<StartTime>21:54:32</StartTime>
@@ -170,7 +92,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="8">
 				<IdName>PROMOVIDEOSPOT</IdName>
 				<StartDate>2015-09-16</StartDate>
 				<StartTime>21:57:10</StartTime>
@@ -183,12 +105,12 @@
 					<Description>PROMOVIDEOSOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="9">
 				<IdName>_1779_Recanatese_Lunaametà</IdName>
 				<StartDate>2015-09-16</StartDate>
 				<StartTime>21:57:32</StartTime>
 				<EndDate>2015-09-16</EndDate>
-				<EndTime>22:05:50</EndTime>
+				<EndTime>22:05:49</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -196,10 +118,10 @@
 					<Description>RECANATESE  LUNA A METa'</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="10">
 				<IdName>FLASHPARTE4INONDADAL24-08-15AL30-08-15SOLODALLE16,00ALLE18,00</IdName>
 				<StartDate>2015-09-16</StartDate>
-				<StartTime>22:05:50</StartTime>
+				<StartTime>22:05:49</StartTime>
 				<EndDate>2015-09-16</EndDate>
 				<EndTime>22:11:00</EndTime>
 				<ShortEventDescription>
@@ -209,7 +131,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="11">
 				<IdName>PROMOVIDEOSPOT2</IdName>
 				<StartDate>2015-09-16</StartDate>
 				<StartTime>22:11:00</StartTime>
@@ -222,7 +144,7 @@
 					<Description>SPOT  PROMOVIDEOTV 2</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="12">
 				<IdName>Filmato</IdName>
 				<StartDate>2015-09-16</StartDate>
 				<StartTime>22:11:07</StartTime>
@@ -235,7 +157,7 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="13">
 				<IdName>minispotapplicazione</IdName>
 				<StartDate>2015-09-16</StartDate>
 				<StartTime>22:13:36</StartTime>
@@ -248,7 +170,7 @@
 					<Description>SPOTAPP</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="14">
 				<IdName>Americangraffiti_1_mpeg2video</IdName>
 				<StartDate>2015-09-16</StartDate>
 				<StartTime>22:13:47</StartTime>
@@ -261,7 +183,7 @@
 					<Description>AMERICAN GRAFFITI_1</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="21">
+			<Event id="15">
 				<IdName>benessere_20150826_53254</IdName>
 				<StartDate>2015-09-16</StartDate>
 				<StartTime>23:11:21</StartTime>
@@ -274,12 +196,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="22">
+			<Event id="16">
 				<IdName>tg_20150630_51975</IdName>
 				<StartDate>2015-09-16</StartDate>
 				<StartTime>23:11:32</StartTime>
 				<EndDate>2015-09-16</EndDate>
-				<EndTime>23:14:11</EndTime>
+				<EndTime>23:14:10</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -287,10 +209,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="23">
+			<Event id="17">
 				<IdName>ArrivaDurangopagaomuori19711°t.</IdName>
 				<StartDate>2015-09-16</StartDate>
-				<StartTime>23:14:11</StartTime>
+				<StartTime>23:14:10</StartTime>
 				<EndDate>2015-09-16</EndDate>
 				<EndTime>23:53:44</EndTime>
 				<ShortEventDescription>
@@ -300,7 +222,7 @@
 					<Description>Arriva Durango paga o muori1971  1°t.</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="24">
+			<Event id="18">
 				<IdName>FLASHPARTE8INONDADAL24-08-15AL30-08-15DOPOLE22,30</IdName>
 				<StartDate>2015-09-16</StartDate>
 				<StartTime>23:53:44</StartTime>
@@ -313,7 +235,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="25">
+			<Event id="19">
 				<IdName>Americangraffiti_2_mpeg2video</IdName>
 				<StartDate>2015-09-16</StartDate>
 				<StartTime>23:59:02</StartTime>
@@ -326,7 +248,7 @@
 					<Description>AMERICAN GRAFFITI_2</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="26">
+			<Event id="20">
 				<IdName>SPOTtraPROMOVIDEOTV4</IdName>
 				<StartDate>2015-09-17</StartDate>
 				<StartTime>00:49:07</StartTime>
@@ -339,7 +261,7 @@
 					<Description>SPOTtraPROMOVIDEOTV4</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="27">
+			<Event id="21">
 				<IdName>AttackForce</IdName>
 				<StartDate>2015-09-17</StartDate>
 				<StartTime>00:49:10</StartTime>
@@ -352,7 +274,7 @@
 					<Description>ATTACK FORCE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="28">
+			<Event id="22">
 				<IdName>tg_20150630_51975</IdName>
 				<StartDate>2015-09-17</StartDate>
 				<StartTime>02:19:45</StartTime>
@@ -365,12 +287,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="29">
+			<Event id="23">
 				<IdName>FLASHPARTE3INONDADAL24-08-15AL30-08-15NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2015-09-17</StartDate>
 				<StartTime>02:22:24</StartTime>
 				<EndDate>2015-09-17</EndDate>
-				<EndTime>02:27:42</EndTime>
+				<EndTime>02:27:41</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -378,10 +300,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="30">
+			<Event id="24">
 				<IdName>SPOTtraPROMOVIDEOTV5</IdName>
 				<StartDate>2015-09-17</StartDate>
-				<StartTime>02:27:42</StartTime>
+				<StartTime>02:27:41</StartTime>
 				<EndDate>2015-09-17</EndDate>
 				<EndTime>02:27:45</EndTime>
 				<ShortEventDescription>
@@ -391,7 +313,7 @@
 					<Description>SPOTtraPROMOVIDEOTV5</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="31">
+			<Event id="25">
 				<IdName>BadBoys</IdName>
 				<StartDate>2015-09-17</StartDate>
 				<StartTime>02:27:45</StartTime>
@@ -404,7 +326,7 @@
 					<Description>BAD BOYS</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="32">
+			<Event id="26">
 				<IdName>Cacciaallavolpe_2_mpeg2video</IdName>
 				<StartDate>2015-09-17</StartDate>
 				<StartTime>04:21:49</StartTime>
@@ -417,7 +339,7 @@
 					<Description>CACCIA ALLA VOLPE 2</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="33">
+			<Event id="27">
 				<IdName>SPOTtraPROMOVIDEOTV6</IdName>
 				<StartDate>2015-09-17</StartDate>
 				<StartTime>05:05:43</StartTime>
@@ -430,7 +352,7 @@
 					<Description>SPOTtraPROMOVIDEOTV6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="34">
+			<Event id="28">
 				<IdName>FLASHPARTE5INONDADAL24-08-15AL30-08-15SOLODALLE16,00ALLE18,00</IdName>
 				<StartDate>2015-09-17</StartDate>
 				<StartTime>05:05:47</StartTime>
@@ -443,7 +365,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="35">
+			<Event id="29">
 				<IdName>Arma.Da.Taglio.19721°t</IdName>
 				<StartDate>2015-09-17</StartDate>
 				<StartTime>05:10:57</StartTime>
@@ -456,7 +378,7 @@
 					<Description>ARMA DA TAGLIO 1°</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="36">
+			<Event id="30">
 				<IdName>Arma.Da.Taglio.19722°t</IdName>
 				<StartDate>2015-09-17</StartDate>
 				<StartTime>05:56:42</StartTime>
@@ -469,7 +391,7 @@
 					<Description>ARMA DA TAGLIO 2°</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="37">
+			<Event id="31">
 				<IdName>tg_20150630_51975</IdName>
 				<StartDate>2015-09-17</StartDate>
 				<StartTime>06:34:00</StartTime>
@@ -482,7 +404,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="38">
+			<Event id="32">
 				<IdName>SPOTtraPROMOVIDEOTV7</IdName>
 				<StartDate>2015-09-17</StartDate>
 				<StartTime>06:36:39</StartTime>
@@ -495,7 +417,7 @@
 					<Description>SPOTtraPROMOVIDEOTV7</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="39">
+			<Event id="33">
 				<IdName>Musa_TV_20150901_53370</IdName>
 				<StartDate>2015-09-17</StartDate>
 				<StartTime>06:36:43</StartTime>
@@ -508,7 +430,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="40">
+			<Event id="34">
 				<IdName>FLASHPARTE6INONDADAL24-08-15AL30-08-15DOPOLE22,30</IdName>
 				<StartDate>2015-09-17</StartDate>
 				<StartTime>06:47:50</StartTime>
@@ -521,12 +443,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="41">
+			<Event id="35">
 				<IdName>PillolaSalute_20150828_53308</IdName>
 				<StartDate>2015-09-17</StartDate>
 				<StartTime>06:53:08</StartTime>
 				<EndDate>2015-09-17</EndDate>
-				<EndTime>06:53:48</EndTime>
+				<EndTime>06:53:47</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -534,10 +456,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="42">
+			<Event id="36">
 				<IdName>SPOTtraPROMOVIDEOTV8</IdName>
 				<StartDate>2015-09-17</StartDate>
-				<StartTime>06:53:48</StartTime>
+				<StartTime>06:53:47</StartTime>
 				<EndDate>2015-09-17</EndDate>
 				<EndTime>06:53:51</EndTime>
 				<ShortEventDescription>
@@ -547,7 +469,7 @@
 					<Description>SPOTPROMOVIDEOTV1</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="43">
+			<Event id="37">
 				<IdName>FLASHPARTE5INONDADAL24-08-15AL30-08-15SOLODALLE16,00ALLE18,00</IdName>
 				<StartDate>2015-09-17</StartDate>
 				<StartTime>06:53:51</StartTime>
@@ -560,7 +482,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="44">
+			<Event id="38">
 				<IdName>SPOTtraPROMOVIDEOTV9</IdName>
 				<StartDate>2015-09-17</StartDate>
 				<StartTime>06:59:01</StartTime>
