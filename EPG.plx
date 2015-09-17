@@ -1,6 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-17/09/2015	17:33:00	0110-1968-Calmaragazzeoggimisposo-LouisDeFunes_mpeg2video	Sconosciuto	CALMA RAGAZZE  OGGI   MI  SPOSO	01:25:55	1	Film
-17/09/2015	18:58:56	PillolaSalute_20150226_48837	Sconosciuto	pillole salute	00:00:25	41	programmi culturali
 17/09/2015	18:59:22	BestofMr.Bean_mpeg2video	Sconosciuto	MISTER BEAN	01:11:57	1	Film
 17/09/2015	20:11:19	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	documentari
 17/09/2015	20:32:17	80NOSTALGIA01	Sconosciuto	Nuovo File	00:32:11	0	
