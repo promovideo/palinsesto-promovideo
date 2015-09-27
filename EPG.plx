@@ -1,6 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-27/09/2015	17:38:38	0110-1968-Calmaragazzeoggimisposo-LouisDeFunes_mpeg2video	Sconosciuto	CALMA RAGAZZE  OGGI   MI  SPOSO	01:25:55	1	Film
-27/09/2015	19:04:34	PillolaSalute_20150226_48837	Sconosciuto	pillole salute	00:00:25	41	programmi culturali
 27/09/2015	19:05:00	BestofMr.Bean_mpeg2video	Sconosciuto	MISTER BEAN	01:11:57	1	Film
 27/09/2015	20:16:57	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	documentari
 27/09/2015	20:37:55	FLASHPARTE6INONDADAL24-08-15AL30-08-15DOPOLE22,30	Sconosciuto	Nuovo File	00:05:17	0	
@@ -21,7 +19,7 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 28/09/2015	01:52:54	tg_20150630_51975	Sconosciuto	Nuovo File	00:02:06	0	
 28/09/2015	01:55:01	FLASHPARTE3INONDADAL24-08-15AL30-08-15NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
 28/09/2015	02:00:18	SPOTtraPROMOVIDEOTV5	Sconosciuto	SPOTtraPROMOVIDEOTV5	00:00:03	11	spot
-28/09/2015	02:00:22	BadBoys	BAD BOYS	BAD BOYS	01:54:04	1	Film
+28/09/2015	02:00:21	BadBoys	BAD BOYS	BAD BOYS	01:54:04	1	Film
 28/09/2015	03:54:26	Cacciaallavolpe_2_mpeg2video	Sconosciuto	CACCIA ALLA VOLPE 2	00:43:54	1	Film
 28/09/2015	04:38:20	SPOTtraPROMOVIDEOTV6	Sconosciuto	SPOTtraPROMOVIDEOTV6	00:00:03	11	spot
 28/09/2015	04:38:24	FLASHPARTE5INONDADAL24-08-15AL30-08-15SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:10	0	
