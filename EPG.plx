@@ -1,30 +1,6 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-02/10/2015	21:35:12	Rotocalco_20150902_53384	Sconosciuto	Nuovo File	00:11:42	0	
-02/10/2015	21:46:54	CariatiPiccolaGrandeItalia	CARIATI	cariati	00:21:41	71	documentari
-02/10/2015	22:08:35	jerry.lewis.l.idolo.delle.donne.19612°t.	L' IDOLO DELLE DONNE 2°	L' IDOLO DELLE DONNE 2°	00:44:37	1	Film
-02/10/2015	22:53:13	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-02/10/2015	22:53:24	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-02/10/2015	22:53:30	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
-02/10/2015	23:03:28	PillolaLab_20150520_50983	Sconosciuto	Nuovo File	00:02:21	0	
-02/10/2015	23:05:50	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-02/10/2015	23:06:05	FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
-02/10/2015	23:11:23	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-02/10/2015	23:11:29	benessere_20150902_53400	Sconosciuto	Nuovo File	00:00:36	0	
-02/10/2015	23:12:06	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-02/10/2015	23:12:17	Musa_TV_20150901_53370	Sconosciuto	Nuovo File	00:11:07	0	
-02/10/2015	23:23:25	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-02/10/2015	23:23:32	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-02/10/2015	23:23:47	jerry.lewis.l.idolo.delle.donne.19612°t.	L' IDOLO DELLE DONNE 2°	L' IDOLO DELLE DONNE 2°	00:44:37	1	Film
-03/10/2015	00:08:25	TRAILERPARTE5SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:56	0	
-03/10/2015	00:18:21	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-03/10/2015	00:18:32	L'isoladeisopravvissuti	Sconosciuto	L' isola dei sopravvissuti 	01:31:43	1	Film
-03/10/2015	01:50:15	'ComeEravamo'	COME ERAVAMO	COME ERAVAMO 	00:02:11	11	spot
-03/10/2015	01:52:27	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-03/10/2015	01:52:34	Laclinicadellamore_mpeg2video	Sconosciuto	La clinica dell'amore	01:28:52	1	Film
-03/10/2015	03:21:27	LichiamaronoBrigantifilmcompleto	LI CHIAMARONO BRIGANTI	LI CHIAMARONO BRIGANTI	02:00:51	1	Film
-03/10/2015	05:22:18	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-03/10/2015	05:22:29	MenInBlackI_mpeg2video	Sconosciuto	Men In Black I	01:34:00	1	Film
-03/10/2015	06:56:30	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-03/10/2015	06:57:35	Rotocalco_20150902_53384	Sconosciuto	Nuovo File	00:11:42	0	
-03/10/2015	07:09:17	Wargames_mpeg2video	WARGAMES	Wrgames	01:48:02	1	Film
-03/10/2015	08:57:20	Caulonia_LaSvelata2013__mpeg2video	CAULONIA	LA SVELATA 2013	00:30:20	41	programmi culturali
+03/10/2015	05:19:04	MenInBlackI_mpeg2video	Sconosciuto	Men In Black I	01:34:00	1	Film
+03/10/2015	06:53:05	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+03/10/2015	06:54:10	Rotocalco_20150902_53384	Sconosciuto	Nuovo File	00:11:42	0	
+03/10/2015	07:05:53	Wargames_mpeg2video	WARGAMES	Wrgames	01:48:02	1	Film
+03/10/2015	08:53:55	Caulonia_LaSvelata2013__mpeg2video	CAULONIA	LA SVELATA 2013	00:30:20	41	programmi culturali
