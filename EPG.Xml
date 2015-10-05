@@ -2,45 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>TotoaParigi_mpeg2video</IdName>
-				<StartDate>2015-10-05</StartDate>
-				<StartTime>17:40:53</StartTime>
-				<EndDate>2015-10-05</EndDate>
-				<EndTime>19:14:35</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Tot a Prigi</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>80NOSTALGIA02</IdName>
-				<StartDate>2015-10-05</StartDate>
-				<StartTime>19:14:35</StartTime>
-				<EndDate>2015-10-05</EndDate>
-				<EndTime>19:46:52</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>80NOSTALGIA02</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>SPOTtraPROMOVIDEOTV5</IdName>
-				<StartDate>2015-10-05</StartDate>
-				<StartTime>19:46:52</StartTime>
-				<EndDate>2015-10-05</EndDate>
-				<EndTime>19:46:55</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>SPOTtraPROMOVIDEOTV5</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
 				<IdName>TRAILERPARTE7DOPOLE22,30</IdName>
 				<StartDate>2015-10-05</StartDate>
 				<StartTime>19:46:55</StartTime>
@@ -53,7 +14,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="2">
 				<IdName>AmiciMieiAttoII_mpeg2video</IdName>
 				<StartDate>2015-10-05</StartDate>
 				<StartTime>19:56:45</StartTime>
@@ -66,7 +27,7 @@
 					<Description>AMICI MIEI  ATTO II</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="3">
 				<IdName>tg_20150922_53842</IdName>
 				<StartDate>2015-10-05</StartDate>
 				<StartTime>22:03:45</StartTime>
@@ -79,7 +40,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="4">
 				<IdName>3PROMOVIDEOSPOT3</IdName>
 				<StartDate>2015-10-05</StartDate>
 				<StartTime>22:06:02</StartTime>
@@ -92,7 +53,7 @@
 					<Description>SPOT PROMOVIDEOTV 3</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="5">
 				<IdName>GERACE-Citt‡millenaria</IdName>
 				<StartDate>2015-10-05</StartDate>
 				<StartTime>22:06:09</StartTime>
@@ -105,12 +66,12 @@
 					<Description>GERACECITTAMILLENARIA SPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="6">
 				<IdName>rotocalco_20150924_53906</IdName>
 				<StartDate>2015-10-05</StartDate>
 				<StartTime>22:07:14</StartTime>
 				<EndDate>2015-10-05</EndDate>
-				<EndTime>22:31:02</EndTime>
+				<EndTime>22:31:01</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,10 +79,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="7">
 				<IdName>TRAILERPARTE6DOPOLE22,30</IdName>
 				<StartDate>2015-10-05</StartDate>
-				<StartTime>22:31:02</StartTime>
+				<StartTime>22:31:01</StartTime>
 				<EndDate>2015-10-05</EndDate>
 				<EndTime>22:41:06</EndTime>
 				<ShortEventDescription>
@@ -131,7 +92,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="8">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2015-10-05</StartDate>
 				<StartTime>22:41:06</StartTime>
@@ -144,7 +105,7 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="9">
 				<IdName>tg_20150922_53842</IdName>
 				<StartDate>2015-10-05</StartDate>
 				<StartTime>22:41:21</StartTime>
@@ -157,7 +118,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="10">
 				<IdName>IngannoGlobale11settembre2001(versionecompleta)</IdName>
 				<StartDate>2015-10-05</StartDate>
 				<StartTime>22:43:38</StartTime>
@@ -170,7 +131,7 @@
 					<Description>TORRI  GEMELLE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="11">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2015-10-06</StartDate>
 				<StartTime>00:15:35</StartTime>
@@ -183,7 +144,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="12">
 				<IdName>Melicucc‡PiccolaGrandeItalia</IdName>
 				<StartDate>2015-10-06</StartDate>
 				<StartTime>00:15:42</StartTime>
@@ -196,7 +157,7 @@
 					<Description>Melicucc‡</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="13">
 				<IdName>LeComiche2</IdName>
 				<StartDate>2015-10-06</StartDate>
 				<StartTime>00:34:04</StartTime>
@@ -209,7 +170,7 @@
 					<Description>Le comiche 2</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="14">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2015-10-06</StartDate>
 				<StartTime>02:01:20</StartTime>
@@ -222,7 +183,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="15">
 				<IdName>LeDueTorri</IdName>
 				<StartDate>2015-10-06</StartDate>
 				<StartTime>02:01:27</StartTime>
@@ -235,7 +196,7 @@
 					<Description>Le due torri </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="16">
 				<IdName>TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2015-10-06</StartDate>
 				<StartTime>04:53:31</StartTime>
@@ -248,7 +209,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="17">
 				<IdName>LaPretoraE.Fenechv.m.1419761∞t.</IdName>
 				<StartDate>2015-10-06</StartDate>
 				<StartTime>05:03:28</StartTime>
@@ -261,7 +222,7 @@
 					<Description>LA PRETORA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="21">
+			<Event id="18">
 				<IdName>LaPretoraE.Fenechv.m.1419762∞t.</IdName>
 				<StartDate>2015-10-06</StartDate>
 				<StartTime>05:51:35</StartTime>
@@ -274,7 +235,7 @@
 					<Description>LA PRETORA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="22">
+			<Event id="19">
 				<IdName>011-DoppioSenso05</IdName>
 				<StartDate>2015-10-06</StartDate>
 				<StartTime>06:37:59</StartTime>
@@ -287,7 +248,7 @@
 					<Description>DoppioSenso05</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="23">
+			<Event id="20">
 				<IdName>FantozziInParadiso</IdName>
 				<StartDate>2015-10-06</StartDate>
 				<StartTime>07:37:38</StartTime>
