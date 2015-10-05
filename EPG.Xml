@@ -2,24 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>TRAILERPARTE7DOPOLE22,30</IdName>
-				<StartDate>2015-10-05</StartDate>
-				<StartTime>19:46:55</StartTime>
-				<EndDate>2015-10-05</EndDate>
-				<EndTime>19:56:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
 				<IdName>AmiciMieiAttoII_mpeg2video</IdName>
 				<StartDate>2015-10-05</StartDate>
-				<StartTime>19:56:45</StartTime>
+				<StartTime>19:56:43</StartTime>
 				<EndDate>2015-10-05</EndDate>
-				<EndTime>22:03:45</EndTime>
+				<EndTime>22:03:43</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -27,12 +14,12 @@
 					<Description>AMICI MIEI  ATTO II</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="3">
+			<Event id="2">
 				<IdName>tg_20150922_53842</IdName>
 				<StartDate>2015-10-05</StartDate>
-				<StartTime>22:03:45</StartTime>
+				<StartTime>22:03:43</StartTime>
 				<EndDate>2015-10-05</EndDate>
-				<EndTime>22:06:02</EndTime>
+				<EndTime>22:06:00</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -40,12 +27,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="3">
 				<IdName>3PROMOVIDEOSPOT3</IdName>
 				<StartDate>2015-10-05</StartDate>
-				<StartTime>22:06:02</StartTime>
+				<StartTime>22:06:00</StartTime>
 				<EndDate>2015-10-05</EndDate>
-				<EndTime>22:06:09</EndTime>
+				<EndTime>22:06:07</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -53,12 +40,12 @@
 					<Description>SPOT PROMOVIDEOTV 3</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="4">
 				<IdName>GERACE-Citt‡millenaria</IdName>
 				<StartDate>2015-10-05</StartDate>
-				<StartTime>22:06:09</StartTime>
+				<StartTime>22:06:07</StartTime>
 				<EndDate>2015-10-05</EndDate>
-				<EndTime>22:07:14</EndTime>
+				<EndTime>22:07:12</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -66,12 +53,25 @@
 					<Description>GERACECITTAMILLENARIA SPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="5">
 				<IdName>rotocalco_20150924_53906</IdName>
 				<StartDate>2015-10-05</StartDate>
-				<StartTime>22:07:14</StartTime>
+				<StartTime>22:07:12</StartTime>
 				<EndDate>2015-10-05</EndDate>
-				<EndTime>22:31:01</EndTime>
+				<EndTime>22:30:59</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="6">
+				<IdName>tg_20150922_53842</IdName>
+				<StartDate>2015-10-05</StartDate>
+				<StartTime>22:30:59</StartTime>
+				<EndDate>2015-10-05</EndDate>
+				<EndTime>22:33:16</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -82,9 +82,9 @@
 			<Event id="7">
 				<IdName>TRAILERPARTE6DOPOLE22,30</IdName>
 				<StartDate>2015-10-05</StartDate>
-				<StartTime>22:31:01</StartTime>
+				<StartTime>22:33:16</StartTime>
 				<EndDate>2015-10-05</EndDate>
-				<EndTime>22:41:06</EndTime>
+				<EndTime>22:43:21</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -95,9 +95,9 @@
 			<Event id="8">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2015-10-05</StartDate>
-				<StartTime>22:41:06</StartTime>
+				<StartTime>22:43:21</StartTime>
 				<EndDate>2015-10-05</EndDate>
-				<EndTime>22:41:21</EndTime>
+				<EndTime>22:43:36</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -108,9 +108,9 @@
 			<Event id="9">
 				<IdName>tg_20150922_53842</IdName>
 				<StartDate>2015-10-05</StartDate>
-				<StartTime>22:41:21</StartTime>
+				<StartTime>22:43:36</StartTime>
 				<EndDate>2015-10-05</EndDate>
-				<EndTime>22:43:38</EndTime>
+				<EndTime>22:45:53</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -121,9 +121,9 @@
 			<Event id="10">
 				<IdName>IngannoGlobale11settembre2001(versionecompleta)</IdName>
 				<StartDate>2015-10-05</StartDate>
-				<StartTime>22:43:38</StartTime>
+				<StartTime>22:45:53</StartTime>
 				<EndDate>2015-10-06</EndDate>
-				<EndTime>00:15:35</EndTime>
+				<EndTime>00:17:50</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -134,9 +134,9 @@
 			<Event id="11">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2015-10-06</StartDate>
-				<StartTime>00:15:35</StartTime>
+				<StartTime>00:17:50</StartTime>
 				<EndDate>2015-10-06</EndDate>
-				<EndTime>00:15:42</EndTime>
+				<EndTime>00:17:57</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -145,63 +145,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="12">
-				<IdName>Melicucc‡PiccolaGrandeItalia</IdName>
+				<IdName>tg_20150922_53842</IdName>
 				<StartDate>2015-10-06</StartDate>
-				<StartTime>00:15:42</StartTime>
+				<StartTime>00:17:57</StartTime>
 				<EndDate>2015-10-06</EndDate>
-				<EndTime>00:34:04</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola grande Italia</Name>
-					<Description>Melicucc‡</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="13">
-				<IdName>LeComiche2</IdName>
-				<StartDate>2015-10-06</StartDate>
-				<StartTime>00:34:04</StartTime>
-				<EndDate>2015-10-06</EndDate>
-				<EndTime>02:01:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Le comiche 2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="14">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2015-10-06</StartDate>
-				<StartTime>02:01:20</StartTime>
-				<EndDate>2015-10-06</EndDate>
-				<EndTime>02:01:27</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="15">
-				<IdName>LeDueTorri</IdName>
-				<StartDate>2015-10-06</StartDate>
-				<StartTime>02:01:27</StartTime>
-				<EndDate>2015-10-06</EndDate>
-				<EndTime>04:53:31</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Le due torri </Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="16">
-				<IdName>TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2015-10-06</StartDate>
-				<StartTime>04:53:31</StartTime>
-				<EndDate>2015-10-06</EndDate>
-				<EndTime>05:03:28</EndTime>
+				<EndTime>00:20:14</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -209,12 +157,90 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
+			<Event id="13">
+				<IdName>Melicucc‡PiccolaGrandeItalia</IdName>
+				<StartDate>2015-10-06</StartDate>
+				<StartTime>00:20:14</StartTime>
+				<EndDate>2015-10-06</EndDate>
+				<EndTime>00:38:36</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Piccola grande Italia</Name>
+					<Description>Melicucc‡</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="14">
+				<IdName>LeComiche2</IdName>
+				<StartDate>2015-10-06</StartDate>
+				<StartTime>00:38:36</StartTime>
+				<EndDate>2015-10-06</EndDate>
+				<EndTime>02:05:52</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Le comiche 2</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="15">
+				<IdName>6PROMOVIDEOSPOT6</IdName>
+				<StartDate>2015-10-06</StartDate>
+				<StartTime>02:05:52</StartTime>
+				<EndDate>2015-10-06</EndDate>
+				<EndTime>02:05:58</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>6 SPOT PTOMOVIDEO</Name>
+					<Description>PROMOVIDEOSPOT 6</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="16">
+				<IdName>LeDueTorri</IdName>
+				<StartDate>2015-10-06</StartDate>
+				<StartTime>02:05:58</StartTime>
+				<EndDate>2015-10-06</EndDate>
+				<EndTime>04:58:02</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Le due torri </Description>
+				</ShortEventDescription>
+			</Event>
 			<Event id="17">
+				<IdName>TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
+				<StartDate>2015-10-06</StartDate>
+				<StartTime>04:58:02</StartTime>
+				<EndDate>2015-10-06</EndDate>
+				<EndTime>05:08:00</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="18">
+				<IdName>tg_20150922_53842</IdName>
+				<StartDate>2015-10-06</StartDate>
+				<StartTime>05:08:00</StartTime>
+				<EndDate>2015-10-06</EndDate>
+				<EndTime>05:10:17</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="19">
 				<IdName>LaPretoraE.Fenechv.m.1419761∞t.</IdName>
 				<StartDate>2015-10-06</StartDate>
-				<StartTime>05:03:28</StartTime>
+				<StartTime>05:10:17</StartTime>
 				<EndDate>2015-10-06</EndDate>
-				<EndTime>05:51:35</EndTime>
+				<EndTime>05:58:23</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -222,12 +248,12 @@
 					<Description>LA PRETORA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="20">
 				<IdName>LaPretoraE.Fenechv.m.1419762∞t.</IdName>
 				<StartDate>2015-10-06</StartDate>
-				<StartTime>05:51:35</StartTime>
+				<StartTime>05:58:23</StartTime>
 				<EndDate>2015-10-06</EndDate>
-				<EndTime>06:37:59</EndTime>
+				<EndTime>06:44:48</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -235,12 +261,12 @@
 					<Description>LA PRETORA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="21">
 				<IdName>011-DoppioSenso05</IdName>
 				<StartDate>2015-10-06</StartDate>
-				<StartTime>06:37:59</StartTime>
+				<StartTime>06:44:48</StartTime>
 				<EndDate>2015-10-06</EndDate>
-				<EndTime>07:37:38</EndTime>
+				<EndTime>07:44:27</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -248,12 +274,12 @@
 					<Description>DoppioSenso05</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="22">
 				<IdName>FantozziInParadiso</IdName>
 				<StartDate>2015-10-06</StartDate>
-				<StartTime>07:37:38</StartTime>
+				<StartTime>07:44:27</StartTime>
 				<EndDate>2015-10-06</EndDate>
-				<EndTime>09:10:09</EndTime>
+				<EndTime>09:16:58</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
