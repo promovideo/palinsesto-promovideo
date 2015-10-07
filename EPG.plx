@@ -1,9 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-07/10/2015	18:58:00	MammaHoRipersoL'aereoEMiSonoSmarritoANewYork	Mamma ho riperso l' aereo e mi  sono smarrito a New York	Nuovo File	01:48:03	1	Film
-07/10/2015	20:46:04	PROMOVIDEOSPOT	PROMOVIDEOSPOT	PROMOVIDEOSOT	00:00:21	11	spot
-07/10/2015	20:46:25	TEATROEMUSICA_mpeg2video	Sconosciuto	Nuovo File	01:02:16	0	
-07/10/2015	21:48:41	PROMORADIONETWORK_mpeg2video	PROMORADIONETWORK	PROMORADIONETWORK	00:00:57	11	spot
-07/10/2015	21:49:39	PROMOVIDEOSPOT1	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:06	11	spot
 07/10/2015	21:49:46	TG	TG 	TELEGIORNALE	00:02:09	31	programmi informativi
 07/10/2015	21:51:56	AustinPowers-IlControspione	Sconosciuto	Nuovo File	01:30:47	22	
 07/10/2015	23:22:43	Arma.Da.Taglio.19721°t	ARMA DA TAGLIO 1°	ARMA DA TAGLIO 1°	00:45:44	1	Film
