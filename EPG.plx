@@ -1,6 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-08/10/2015	19:08:43	MammaHoRipersoL'aereoEMiSonoSmarritoANewYork	Mamma ho riperso l' aereo e mi  sono smarrito a New York	Nuovo File	01:48:03	1	Film
-08/10/2015	20:56:47	PROMOVIDEOSPOT	PROMOVIDEOSPOT	PROMOVIDEOSOT	00:00:21	11	spot
 08/10/2015	20:57:08	TEATROEMUSICA_mpeg2video	Sconosciuto	Nuovo File	01:02:16	0	
 08/10/2015	21:59:24	PROMORADIONETWORK_mpeg2video	PROMORADIONETWORK	PROMORADIONETWORK	00:00:57	11	spot
 08/10/2015	22:00:22	PROMOVIDEOSPOT1	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:06	11	spot
@@ -11,16 +9,16 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 09/10/2015	00:21:20	PROMOVIDEOSPOT2	SPOT  PROMOVIDEOTV 2	SPOT  PROMOVIDEOTV 2	00:00:06	11	spot
 09/10/2015	00:21:27	Arma.Da.Taglio.19722°t	ARMA DA TAGLIO 2°	ARMA DA TAGLIO 2°	00:37:18	1	Film
 09/10/2015	00:58:46	TartarugheNinja-08Angel	Sconosciuto	Nuovo File	00:21:52	0	
-09/10/2015	01:20:39	BonifatiPiccolaGrandeItalia	bonifati	bonifati	00:21:55	71	documentari
+09/10/2015	01:20:38	BonifatiPiccolaGrandeItalia	bonifati	bonifati	00:21:55	71	documentari
 09/10/2015	01:42:34	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
 09/10/2015	03:13:09	PROMOVIDEOSPOT	PROMOVIDEOSPOT	PROMOVIDEOSOT	00:00:21	11	spot
 09/10/2015	03:13:31	PROMOVIDEOSPOT1	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:06	11	spot
 09/10/2015	03:13:38	TG	TG 	TELEGIORNALE	00:02:09	31	programmi informativi
 09/10/2015	03:15:48	GeraceconsegnachiaviMuseoDiocesano	Sconosciuto	Nuovo File	00:21:55	0	
 09/10/2015	03:37:43	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
-09/10/2015	03:43:01	MV_2015_p14	MILLE  VOCI	MV_2015_p14	00:06:02	81	videoclip
-09/10/2015	03:49:03	GeraceconsegnachiaviMuseoDiocesano	Sconosciuto	Nuovo File	00:21:55	0	
+09/10/2015	03:43:00	MV_2015_p14	MILLE  VOCI	MV_2015_p14	00:06:02	81	videoclip
+09/10/2015	03:49:02	GeraceconsegnachiaviMuseoDiocesano	Sconosciuto	Nuovo File	00:21:55	0	
 09/10/2015	04:10:58	L'isoladeisopravvissuti	Sconosciuto	L' isola dei sopravvissuti 	01:31:43	1	Film
-09/10/2015	05:42:42	agrisapori604x12-4-15	AGRISAPORI	AGRISAPORI	00:29:07	71	documentari
+09/10/2015	05:42:41	agrisapori604x12-4-15	AGRISAPORI	AGRISAPORI	00:29:07	71	documentari
 09/10/2015	06:11:49	GeraceLibroAperto	Sconosciuto	Nuovo File	00:07:26	0	
 09/10/2015	06:19:15	Promo_01_MilleVoci_2015	PROMO 1000 VOCI	Nuovo File	00:00:37	0	
