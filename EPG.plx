@@ -1,5 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-10/10/2015	16:47:45	Infiltratospeciale_mpeg2video	Sconosciuto	Infiltrato  speciale	01:34:35	1	Film
 10/10/2015	18:22:20	FantozziFracchiaLaBelvaUmana	FANTOZZI FRACCHAI LA BELVAUMANA	LA BELVA  UMANA	01:36:05	1	Film
 10/10/2015	19:58:26	IngannoGlobale11settembre2001(versionecompleta)	INGANNO  GLOBALE	TORRI  GEMELLE	01:31:56	41	programmi culturali
 10/10/2015	21:30:23	FLASHPARTE6INONDADAL17-08-15AL23-08-15DOPOLE22,30	Sconosciuto	Nuovo File	00:04:59	0	
@@ -21,7 +20,7 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 11/10/2015	01:20:04	FLASHPARTE1INONDADAL17-08-15AL23-08-15NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:04	0	
 11/10/2015	01:25:08	TG	TG 	TELEGIORNALE	00:02:09	31	programmi informativi
 11/10/2015	01:27:18	PROMOVIDEOSPOT	PROMOVIDEOSPOT	PROMOVIDEOSOT	00:00:21	11	spot
-11/10/2015	01:27:39	Salus_TV_20150805_52800	Sconosciuto	Nuovo File	00:13:51	0	
+11/10/2015	01:27:40	Salus_TV_20150805_52800	Sconosciuto	Nuovo File	00:13:51	0	
 11/10/2015	01:41:31	LARIVOLTADEIPRETORIANIFilmpeplum1964diAlfonsoBresciacompletoinItaliano	Sconosciuto	LARIVOLTA DEI PRETORIANI	01:33:20	1	Film
 11/10/2015	03:14:52	TG	TG 	TELEGIORNALE	00:02:09	31	programmi informativi
 11/10/2015	03:17:02	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
