@@ -1,6 +1,6 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-13/10/2015	05:53:56	'ComeEravamo'	COME ERAVAMO	COME ERAVAMO 	00:02:11	11	spot
-13/10/2015	05:56:08	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+13/10/2015	09:06:01	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	documentari
+13/10/2015	09:58:11	INNACaliente(OFFICIALVIDEO)	Caliente	Inna	00:03:21	162	
 14/10/2015	06:00:00	BERTEIOBALLOSOLA	Ballo sola	Berte'	00:05:07	81	videoclip
 14/10/2015	06:05:07	ZAGORTVIlmarchiodiKriminal19681°t.	ZAGORTV MARCHIO  DI  KRIMINAL 1°	ZAGORTV MARCHIO  DI  KRIMINAL 1°	00:47:32	1	Film
 14/10/2015	06:52:39	Coldplay-ASkyFullOfStars(Officialvideo)	COLDPLAY	FULL OF STERS	00:04:13	81	videoclip

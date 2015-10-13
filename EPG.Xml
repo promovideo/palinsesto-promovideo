@@ -2,29 +2,29 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
+				<IdName>MagnificaItaliaCalabria_mpeg2video</IdName>
+				<StartDate>2015-10-13</StartDate>
+				<StartTime>09:06:01</StartTime>
+				<EndDate>2015-10-13</EndDate>
+				<EndTime>09:58:11</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Calabria</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="2">
 				<IdName>INNACaliente(OFFICIALVIDEO)</IdName>
 				<StartDate>2015-10-13</StartDate>
-				<StartTime>05:50:35</StartTime>
+				<StartTime>09:58:11</StartTime>
 				<EndDate>2015-10-13</EndDate>
-				<EndTime>05:53:57</EndTime>
+				<EndTime>10:01:32</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Caliente</Name>
 					<Description>Inna</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>'ComeEravamo'</IdName>
-				<StartDate>2015-10-13</StartDate>
-				<StartTime>05:53:57</StartTime>
-				<EndDate>2015-10-13</EndDate>
-				<EndTime>05:56:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>COME ERAVAMO</Name>
-					<Description>COME ERAVAMO </Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="3">
