@@ -1,19 +1,17 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-15/10/2015	17:33:35	20-GliOrmoni	ESPLORANDO IL  CORPO UMANO	GLI  ORMONI	00:26:12	51	cartoni animati
-15/10/2015	17:59:47	Rotocalco_20150930_54049	Sconosciuto	Nuovo File	00:18:41	0	
-15/10/2015	18:18:28	2Fastand2Furios	Sconosciuto	Nuovo File	01:43:10	1	Film
+15/10/2015	18:18:29	2Fastand2Furios	Sconosciuto	Nuovo File	01:43:10	1	Film
 15/10/2015	20:01:39	GeracepresentatoilDiariofotograficodi25annidicammino(byEL)	LIBRO  FOTOGRAFICO 25  ANNI  DI  CAMMINO	GERACE 25  ANNI  DI CAMMINO	00:31:39	41	programmi culturali
 15/10/2015	20:33:18	GO-KARTv_36	Sconosciuto	Nuovo File	00:35:42	0	
-15/10/2015	21:09:00	ItaliaEconomia_20150930_54051	Sconosciuto	Nuovo File	00:09:12	0	
+15/10/2015	21:09:01	ItaliaEconomia_20150930_54051	Sconosciuto	Nuovo File	00:09:12	0	
 15/10/2015	21:18:13	TG	TG 	TELEGIORNALE	00:02:09	31	programmi informativi
 15/10/2015	21:20:23	80NOSTALGIA_LUCCACOMICSPRESENTAZIONE	Sconosciuto	Nuovo File	00:30:14	0	
 15/10/2015	21:50:37	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
 15/10/2015	22:15:01	ON-RACETV_36	Sconosciuto	Nuovo File	00:27:43	0	
 15/10/2015	22:42:44	Adoppiamandata_mpeg2video	Sconosciuto	A DOPPIA MANDATA	01:24:07	1	Film
 16/10/2015	00:06:52	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-16/10/2015	00:16:57	FRATELLIDISANGUE_mpeg2video	FRATELLI  DI SANGUE	FRATELLI  DI SANGUE	00:20:03	41	programmi culturali
+16/10/2015	00:16:58	FRATELLIDISANGUE_mpeg2video	FRATELLI  DI SANGUE	FRATELLI  DI SANGUE	00:20:03	41	programmi culturali
 16/10/2015	00:37:01	MukkoSummer052015	cartoni mukko 05	cartoni mukko 05	00:12:05	51	cartoni animati
-16/10/2015	00:49:06	TartarugheNinja-01Nonuscitedaqueltombino	Sconosciuto	Non uscite dal  quel tombino	00:21:58	51	cartoni animati
+16/10/2015	00:49:07	TartarugheNinja-01Nonuscitedaqueltombino	Sconosciuto	Non uscite dal  quel tombino	00:21:58	51	cartoni animati
 16/10/2015	01:11:05	SPOTtraPROMOVIDEOTV10	Sconosciuto	SPOT PROMOVIDEOTV2	00:00:03	11	spot
 16/10/2015	01:11:09	TG	TG 	TELEGIORNALE	00:02:09	31	programmi informativi
 16/10/2015	01:13:19	SPOTtraPROMOVIDEOTV6	Sconosciuto	SPOTtraPROMOVIDEOTV6	00:00:03	11	spot
