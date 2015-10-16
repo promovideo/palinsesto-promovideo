@@ -1,27 +1,6 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-15/10/2015	21:50:39	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
-15/10/2015	22:15:03	ON-RACETV_36	Sconosciuto	Nuovo File	00:27:43	0	
-15/10/2015	22:42:47	Adoppiamandata_mpeg2video	Sconosciuto	A DOPPIA MANDATA	01:24:07	1	Film
-16/10/2015	00:06:54	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-16/10/2015	00:17:00	FRATELLIDISANGUE_mpeg2video	FRATELLI  DI SANGUE	FRATELLI  DI SANGUE	00:20:03	41	programmi culturali
-16/10/2015	00:37:03	MukkoSummer052015	cartoni mukko 05	cartoni mukko 05	00:12:05	51	cartoni animati
-16/10/2015	00:49:09	TartarugheNinja-01Nonuscitedaqueltombino	Sconosciuto	Non uscite dal  quel tombino	00:21:58	51	cartoni animati
-16/10/2015	01:11:07	SPOTtraPROMOVIDEOTV10	Sconosciuto	SPOT PROMOVIDEOTV2	00:00:03	11	spot
-16/10/2015	01:11:11	TG	TG 	TELEGIORNALE	00:02:09	31	programmi informativi
-16/10/2015	01:13:21	SPOTtraPROMOVIDEOTV6	Sconosciuto	SPOTtraPROMOVIDEOTV6	00:00:03	11	spot
-16/10/2015	01:13:24	inMoto_20150202_48142	Sconosciuto	inMoto_2015 02 02_	00:01:50	31	programmi informativi
-16/10/2015	01:15:15	SPOTtraPROMOVIDEOTV5	Sconosciuto	SPOTtraPROMOVIDEOTV5	00:00:03	11	spot
-16/10/2015	01:15:18	Arma.Da.Taglio.19721°t	ARMA DA TAGLIO 1°	ARMA DA TAGLIO 1°	00:45:44	1	Film
-16/10/2015	02:01:03	Arma.Da.Taglio.19722°t	ARMA DA TAGLIO 2°	ARMA DA TAGLIO 2°	00:37:18	1	Film
-16/10/2015	02:38:22	SPOTtraPROMOVIDEOTV7	Sconosciuto	SPOTtraPROMOVIDEOTV7	00:00:03	11	spot
-16/10/2015	02:38:25	ItaliaEconomia_20150930_54051	Sconosciuto	Nuovo File	00:09:12	0	
-16/10/2015	02:47:38	SPOTtraPROMOVIDEOTV8	Sconosciuto	SPOTPROMOVIDEOTV1	00:00:03	11	spot
-16/10/2015	02:47:41	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-16/10/2015	02:57:46	SPOTtraPROMOVIDEOTV9	Sconosciuto	SPOT PROMOVIDEOTV	00:00:03	11	spot
-16/10/2015	02:57:50	TG	TG 	TELEGIORNALE	00:02:09	31	programmi informativi
-16/10/2015	03:00:00	AmicimieiattoIII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO III	01:49:20	1	Film
-16/10/2015	04:49:21	AlbertoSordiIlVedovo	Sconosciuto	IL  VEDOVO	01:27:06	1	Film
-16/10/2015	06:16:27	Bowfinger_1_mpeg2video	Sconosciuto	BOWFINGER 1P	00:44:18	1	Film
-16/10/2015	07:00:46	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-16/10/2015	07:10:51	Bowfinger_2_mpeg2video	Sconosciuto	BOWFINGER 2 P	00:48:07	1	Film
-16/10/2015	07:58:58	BestofMr.Bean_mpeg2video	Sconosciuto	MISTER BEAN	01:11:57	1	Film
+16/10/2015	04:48:55	AlbertoSordiIlVedovo	Sconosciuto	IL  VEDOVO	01:27:06	1	Film
+16/10/2015	06:16:02	Bowfinger_1_mpeg2video	Sconosciuto	BOWFINGER 1P	00:44:18	1	Film
+16/10/2015	07:00:20	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+16/10/2015	07:10:26	Bowfinger_2_mpeg2video	Sconosciuto	BOWFINGER 2 P	00:48:07	1	Film
+16/10/2015	07:58:33	BestofMr.Bean_mpeg2video	Sconosciuto	MISTER BEAN	01:11:57	1	Film
