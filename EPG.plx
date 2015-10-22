@@ -36,3 +36,60 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 22/10/2015	04:59:38	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
 22/10/2015	05:09:43	Bowfinger_2_mpeg2video	Sconosciuto	BOWFINGER 2 P	00:48:07	1	Film
 22/10/2015	05:57:50	BestofMr.Bean_mpeg2video	Sconosciuto	MISTER BEAN	01:11:57	1	Film
+22/10/2015	06:00:00	Buenavistasocialclub_mpeg2video	BUENA VISTA SOCIAL CLUB	buena vista social club	01:40:28	81	videoclip
+22/10/2015	07:40:28	CONVEGNOROTARYsulREGISTROTUMORI21marzo2015	Sconosciuto	CONVEGNO ROTARY	02:09:14	41	programmi culturali
+22/10/2015	09:49:42	Coldplay-ASkyFullOfStars(Officialvideo)	COLDPLAY	FULL OF STERS	00:04:13	81	videoclip
+22/10/2015	09:53:56	CleanBandit-RatherBe(feat.JessGlynne)(OfficialVideo)	RATHER BE	CLEAN BANDIT	00:04:28	81	videoclip
+22/10/2015	09:58:24	TartarugheNinja-46UngrandeTriceraton-parte2	TARTARUGHE NINIJA	46 UN GRANDE TRICERATON	00:20:01	51	cartoni animati
+22/10/2015	10:18:26	CleanBandit-Extraordinary(feat.SharnaBass)(OfficialVideo)	EXTRAORINARY	CLEAN BLANDIT	00:04:16	81	videoclip
+22/10/2015	10:22:42	TartarugheNinja-31LaguerradeiTriceraton	tartarucghe ninjai	31 la guaerra dei triceraton	00:09:34	51	cartoni animati
+22/10/2015	10:32:16	SPOTtraPROMOVIDEOTV10	Sconosciuto	SPOT PROMOVIDEOTV2	00:00:03	11	spot
+22/10/2015	10:32:20	80NOSTALGIA01	80NOSTALGIA01	80NOSTALGIA01	00:32:11	81	videoclip
+22/10/2015	11:04:31	SPOTtraPROMOVIDEOTV5	Sconosciuto	SPOTtraPROMOVIDEOTV5	00:00:03	11	spot
+22/10/2015	11:04:34	SPOTtraPROMOVIDEOTV6	Sconosciuto	SPOTtraPROMOVIDEOTV6	00:00:03	11	spot
+22/10/2015	11:04:38	TartarugheNinja-51Ilduellodeiduelli-parte3	Tartarughe Ninja	51 Il duello deiduelli-parte3	00:19:53	51	cartoni animati
+22/10/2015	11:24:31	SPOTtraPROMOVIDEOTV9	Sconosciuto	SPOT PROMOVIDEOTV	00:00:03	11	spot
+22/10/2015	11:24:35	agrisapori627X20-9_15	AGRISAPORI	AGRISAPORI	00:26:45	71	documentari
+22/10/2015	11:51:21	SPOTtraPROMOVIDEOTV7	Sconosciuto	SPOTtraPROMOVIDEOTV7	00:00:03	11	spot
+22/10/2015	11:51:24	JuwannaMann_mpeg2video	Sconosciuto	Juawanna Mann	01:26:54	1	Film
+22/10/2015	13:18:19	Arancinidiriso,laricettadiGiallozafferano	ARANCINI  DI  RISO	ARANCINI  DI  RISO	00:08:13	41	programmi culturali
+22/10/2015	13:26:32	SPOTtraPROMOVIDEOTV8	Sconosciuto	SPOTPROMOVIDEOTV1	00:00:03	11	spot
+22/10/2015	13:26:36	19-Guerraaimicrobi	ESPLORANDO IL  CORPO UMANO	GUERRA AI MICROBI	00:24:16	51	cartoni animati
+22/10/2015	13:50:52	19-Guerraaimicrobi	ESPLORANDO IL  CORPO UMANO	GUERRA AI MICROBI	00:24:16	51	cartoni animati
+22/10/2015	14:15:09	SPOTtraPROMOVIDEOTV4	Sconosciuto	SPOTtraPROMOVIDEOTV4	00:00:03	11	spot
+22/10/2015	14:15:12	20-GliOrmoni	ESPLORANDO IL  CORPO UMANO	GLI  ORMONI	00:26:12	51	cartoni animati
+22/10/2015	14:41:25	Rotocalco_20150930_54049	Sconosciuto	Nuovo File	00:18:41	0	
+22/10/2015	15:00:06	2Fastand2Furios	Sconosciuto	Nuovo File	01:43:10	1	Film
+22/10/2015	16:43:16	GeracepresentatoilDiariofotograficodi25annidicammino(byEL)	LIBRO  FOTOGRAFICO 25  ANNI  DI  CAMMINO	GERACE 25  ANNI  DI CAMMINO	00:31:39	41	programmi culturali
+22/10/2015	17:14:55	GO-KARTv_36	Sconosciuto	Nuovo File	00:35:42	0	
+22/10/2015	17:50:38	ItaliaEconomia_20150930_54051	Sconosciuto	Nuovo File	00:09:12	0	
+22/10/2015	17:59:50	TG	TG 	TELEGIORNALE	00:02:09	31	programmi informativi
+22/10/2015	18:02:00	80NOSTALGIA_LUCCACOMICSPRESENTAZIONE	Sconosciuto	Nuovo File	00:30:14	0	
+22/10/2015	18:32:14	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
+22/10/2015	18:56:38	ON-RACETV_36	Sconosciuto	Nuovo File	00:27:43	0	
+22/10/2015	19:24:21	Adoppiamandata_mpeg2video	Sconosciuto	A DOPPIA MANDATA	01:24:07	1	Film
+22/10/2015	20:48:29	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+22/10/2015	20:58:34	FRATELLIDISANGUE_mpeg2video	FRATELLI  DI SANGUE	FRATELLI  DI SANGUE	00:20:03	41	programmi culturali
+22/10/2015	21:18:38	MukkoSummer052015	cartoni mukko 05	cartoni mukko 05	00:12:05	51	cartoni animati
+22/10/2015	21:30:43	TartarugheNinja-01Nonuscitedaqueltombino	Sconosciuto	Non uscite dal  quel tombino	00:21:58	51	cartoni animati
+22/10/2015	21:52:42	SPOTtraPROMOVIDEOTV10	Sconosciuto	SPOT PROMOVIDEOTV2	00:00:03	11	spot
+22/10/2015	21:52:46	TG	TG 	TELEGIORNALE	00:02:09	31	programmi informativi
+22/10/2015	21:54:55	SPOTtraPROMOVIDEOTV6	Sconosciuto	SPOTtraPROMOVIDEOTV6	00:00:03	11	spot
+22/10/2015	21:54:59	inMoto_20150202_48142	Sconosciuto	inMoto_2015 02 02_	00:01:50	31	programmi informativi
+22/10/2015	21:56:49	SPOTtraPROMOVIDEOTV5	Sconosciuto	SPOTtraPROMOVIDEOTV5	00:00:03	11	spot
+22/10/2015	21:56:53	Arma.Da.Taglio.19721°t	ARMA DA TAGLIO 1°	ARMA DA TAGLIO 1°	00:45:44	1	Film
+22/10/2015	22:42:37	Arma.Da.Taglio.19722°t	ARMA DA TAGLIO 2°	ARMA DA TAGLIO 2°	00:37:18	1	Film
+22/10/2015	23:19:56	SPOTtraPROMOVIDEOTV7	Sconosciuto	SPOTtraPROMOVIDEOTV7	00:00:03	11	spot
+22/10/2015	23:19:59	ItaliaEconomia_20150930_54051	Sconosciuto	Nuovo File	00:09:12	0	
+22/10/2015	23:29:12	SPOTtraPROMOVIDEOTV8	Sconosciuto	SPOTPROMOVIDEOTV1	00:00:03	11	spot
+22/10/2015	23:29:15	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+22/10/2015	23:39:21	SPOTtraPROMOVIDEOTV9	Sconosciuto	SPOT PROMOVIDEOTV	00:00:03	11	spot
+22/10/2015	23:39:24	TG	TG 	TELEGIORNALE	00:02:09	31	programmi informativi
+22/10/2015	23:41:34	AmicimieiattoIII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO III	01:49:20	1	Film
+23/10/2015	01:30:55	Bowfinger_1_mpeg2video	Sconosciuto	BOWFINGER 1P	00:44:18	1	Film
+23/10/2015	02:15:13	Bowfinger_2_mpeg2video	Sconosciuto	BOWFINGER 2 P	00:48:07	1	Film
+23/10/2015	03:03:20	agrisapori630X11-10-15	Sconosciuto	Nuovo File	00:29:43	0	
+23/10/2015	03:33:04	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+23/10/2015	03:43:09	AlbertoSordiIlVedovo	Sconosciuto	IL  VEDOVO	01:27:06	1	Film
+23/10/2015	05:10:16	agrisapori630X11-10-15	Sconosciuto	Nuovo File	00:29:43	0	
+23/10/2015	05:39:59	BestofMr.Bean_mpeg2video	Sconosciuto	MISTER BEAN	01:11:57	1	Film
