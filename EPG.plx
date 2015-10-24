@@ -1,16 +1,3 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-23/10/2015	20:39:34	Arma.Da.Taglio.19722°t	ARMA DA TAGLIO 2°	ARMA DA TAGLIO 2°	00:37:18	1	Film
-23/10/2015	21:16:53	SPOTtraPROMOVIDEOTV7	Sconosciuto	SPOTtraPROMOVIDEOTV7	00:00:03	11	spot
-23/10/2015	21:16:56	ItaliaEconomia_20150930_54051	Sconosciuto	Nuovo File	00:09:12	0	
-23/10/2015	21:26:09	SPOTtraPROMOVIDEOTV8	Sconosciuto	SPOTPROMOVIDEOTV1	00:00:03	11	spot
-23/10/2015	21:26:12	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-23/10/2015	21:36:17	SPOTtraPROMOVIDEOTV9	Sconosciuto	SPOT PROMOVIDEOTV	00:00:03	11	spot
-23/10/2015	21:36:21	TG	TG 	TELEGIORNALE	00:02:09	31	programmi informativi
-23/10/2015	21:38:30	AmicimieiattoIII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO III	01:49:20	1	Film
-23/10/2015	23:27:51	Bowfinger_1_mpeg2video	Sconosciuto	BOWFINGER 1P	00:44:18	1	Film
-24/10/2015	00:12:10	Bowfinger_2_mpeg2video	Sconosciuto	BOWFINGER 2 P	00:48:07	1	Film
-24/10/2015	01:00:17	agrisapori630X11-10-15	Sconosciuto	Nuovo File	00:29:43	0	
-24/10/2015	01:30:01	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-24/10/2015	01:40:06	AlbertoSordiIlVedovo	Sconosciuto	IL  VEDOVO	01:27:06	1	Film
-24/10/2015	03:07:12	agrisapori630X11-10-15	Sconosciuto	Nuovo File	00:29:43	0	
-24/10/2015	03:36:56	BestofMr.Bean_mpeg2video	Sconosciuto	MISTER BEAN	01:11:57	1	Film
+24/10/2015	02:57:39	agrisapori630X11-10-15	Sconosciuto	Nuovo File	00:29:43	0	
+24/10/2015	03:27:22	BestofMr.Bean_mpeg2video	Sconosciuto	MISTER BEAN	01:11:57	1	Film
