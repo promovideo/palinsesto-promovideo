@@ -1,9 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-25/10/2015	19:33:13	GO-KARTv_36	Sconosciuto	Nuovo File	00:35:42	0	
-25/10/2015	20:08:56	TG	TG 	TELEGIORNALE	00:02:09	31	programmi informativi
-25/10/2015	20:11:05	80NOSTALGIA_LUCCACOMICSPRESENTAZIONE	Sconosciuto	Nuovo File	00:30:14	0	
-25/10/2015	20:41:20	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
-25/10/2015	21:05:43	ON-RACETV_36	Sconosciuto	Nuovo File	00:27:43	0	
 25/10/2015	21:33:27	Adoppiamandata_mpeg2video	Sconosciuto	A DOPPIA MANDATA	01:24:07	1	Film
 25/10/2015	22:57:35	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
 25/10/2015	23:07:40	FRATELLIDISANGUE_mpeg2video	FRATELLI  DI SANGUE	FRATELLI  DI SANGUE	00:20:03	41	programmi culturali
