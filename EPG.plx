@@ -1,9 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-03/11/2015	19:37:10	ItaliaEconomia_20151021_54577	Sconosciuto	Nuovo File	00:12:56	0	
-03/11/2015	19:50:07	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-03/11/2015	19:50:22	PalmiFestadellavaria2013	Sconosciuto	Nuovo File	00:34:05	0	
-03/11/2015	20:24:27	ON-RACETV_36	Sconosciuto	Nuovo File	00:27:43	0	
-03/11/2015	20:52:11	FLASHPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:00	0	
 03/11/2015	20:57:12	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
 03/11/2015	22:48:54	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
 04/11/2015	00:51:04	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
@@ -23,5 +18,5 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 04/11/2015	10:58:05	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 04/11/2015	10:58:12	agrisapori606x27-4-15	AGRISAPORI	AGRISAPORI	00:30:54	71	documentari
 04/11/2015	11:29:06	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-04/11/2015	11:30:11	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+04/11/2015	11:30:12	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 04/11/2015	11:30:18	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
