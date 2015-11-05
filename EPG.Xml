@@ -2,24 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>CityofGhost_mpeg2video</IdName>
-				<StartDate>2015-11-05</StartDate>
-				<StartTime>18:23:42</StartTime>
-				<EndDate>2015-11-05</EndDate>
-				<EndTime>20:15:25</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CYTY OF GHOST</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
 				<IdName>Colpogrosso_mpeg2video</IdName>
 				<StartDate>2015-11-05</StartDate>
 				<StartTime>20:15:25</StartTime>
 				<EndDate>2015-11-05</EndDate>
-				<EndTime>22:17:35</EndTime>
+				<EndTime>22:17:34</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -27,10 +14,10 @@
 					<Description>COLPO  GROSSO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="3">
+			<Event id="2">
 				<IdName>TG</IdName>
 				<StartDate>2015-11-05</StartDate>
-				<StartTime>22:17:35</StartTime>
+				<StartTime>22:17:34</StartTime>
 				<EndDate>2015-11-05</EndDate>
 				<EndTime>22:19:44</EndTime>
 				<ShortEventDescription>
@@ -40,7 +27,7 @@
 					<Description>TELEGIORNALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="3">
 				<IdName>3PROMOVIDEOSPOT3</IdName>
 				<StartDate>2015-11-05</StartDate>
 				<StartTime>22:19:44</StartTime>
@@ -53,12 +40,12 @@
 					<Description>SPOT PROMOVIDEOTV 3</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="4">
 				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
 				<StartDate>2015-11-05</StartDate>
 				<StartTime>22:19:51</StartTime>
 				<EndDate>2015-11-05</EndDate>
-				<EndTime>22:42:04</EndTime>
+				<EndTime>22:42:03</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -66,10 +53,10 @@
 					<Description>Reggio piccola grande Italia  </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="5">
 				<IdName>CommandPerformance2009iTALiANDVDRipXviDPrEsTiGe</IdName>
 				<StartDate>2015-11-05</StartDate>
-				<StartTime>22:42:04</StartTime>
+				<StartTime>22:42:03</StartTime>
 				<EndDate>2015-11-06</EndDate>
 				<EndTime>00:11:26</EndTime>
 				<ShortEventDescription>
@@ -79,7 +66,7 @@
 					<Description>Command performance</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="6">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2015-11-06</StartDate>
 				<StartTime>00:11:26</StartTime>
@@ -92,7 +79,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="7">
 				<IdName>TG</IdName>
 				<StartDate>2015-11-06</StartDate>
 				<StartTime>00:11:33</StartTime>
@@ -105,7 +92,7 @@
 					<Description>TELEGIORNALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="8">
 				<IdName>LibrocasinoMacrì_mpeg2video</IdName>
 				<StartDate>2015-11-06</StartDate>
 				<StartTime>00:13:42</StartTime>
@@ -118,7 +105,7 @@
 					<Description>LIBRO CASINO MACRI'</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="9">
 				<IdName>Fantozzi-GrandiMagazzini</IdName>
 				<StartDate>2015-11-06</StartDate>
 				<StartTime>01:18:45</StartTime>
@@ -131,7 +118,7 @@
 					<Description>GRANDI MAGAZZINI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="10">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2015-11-06</StartDate>
 				<StartTime>03:09:21</StartTime>
@@ -144,7 +131,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="11">
 				<IdName>3PROMOVIDEOSPOT3</IdName>
 				<StartDate>2015-11-06</StartDate>
 				<StartTime>03:09:28</StartTime>
@@ -157,12 +144,12 @@
 					<Description>SPOT PROMOVIDEOTV 3</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="12">
 				<IdName>Filmato</IdName>
 				<StartDate>2015-11-06</StartDate>
 				<StartTime>03:09:35</StartTime>
 				<EndDate>2015-11-06</EndDate>
-				<EndTime>03:12:05</EndTime>
+				<EndTime>03:12:04</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -170,12 +157,12 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="13">
 				<IdName>CompagnoDonCamillo_mpeg2video</IdName>
 				<StartDate>2015-11-06</StartDate>
-				<StartTime>03:12:05</StartTime>
+				<StartTime>03:12:04</StartTime>
 				<EndDate>2015-11-06</EndDate>
-				<EndTime>04:54:22</EndTime>
+				<EndTime>04:54:21</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -183,10 +170,10 @@
 					<Description>COMPAGNO  DON CAMILLO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="14">
 				<IdName>filmcompletoPiratiRPolanski1986</IdName>
 				<StartDate>2015-11-06</StartDate>
-				<StartTime>04:54:22</StartTime>
+				<StartTime>04:54:21</StartTime>
 				<EndDate>2015-11-06</EndDate>
 				<EndTime>06:40:01</EndTime>
 				<ShortEventDescription>
@@ -196,7 +183,7 @@
 					<Description>Pirati</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="15">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2015-11-06</StartDate>
 				<StartTime>06:40:01</StartTime>
@@ -209,7 +196,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="16">
 				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
 				<StartDate>2015-11-06</StartDate>
 				<StartTime>06:40:08</StartTime>
@@ -222,7 +209,7 @@
 					<Description>CRASH CONTATTO  FINALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="17">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2015-11-06</StartDate>
 				<StartTime>08:28:39</StartTime>
@@ -235,7 +222,7 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="18">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2015-11-06</StartDate>
 				<StartTime>08:28:54</StartTime>
@@ -248,12 +235,12 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="19">
 				<IdName>agrisapori606x27-4-15</IdName>
 				<StartDate>2015-11-06</StartDate>
 				<StartTime>08:29:01</StartTime>
 				<EndDate>2015-11-06</EndDate>
-				<EndTime>08:59:56</EndTime>
+				<EndTime>08:59:55</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -261,10 +248,10 @@
 					<Description>AGRISAPORI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="21">
+			<Event id="20">
 				<IdName>GERACE-Cittàmillenaria</IdName>
 				<StartDate>2015-11-06</StartDate>
-				<StartTime>08:59:56</StartTime>
+				<StartTime>08:59:55</StartTime>
 				<EndDate>2015-11-06</EndDate>
 				<EndTime>09:01:01</EndTime>
 				<ShortEventDescription>
@@ -274,12 +261,12 @@
 					<Description>GERACECITTAMILLENARIA SPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="22">
+			<Event id="21">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2015-11-06</StartDate>
 				<StartTime>09:01:01</StartTime>
 				<EndDate>2015-11-06</EndDate>
-				<EndTime>09:01:08</EndTime>
+				<EndTime>09:01:07</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -287,10 +274,10 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="23">
+			<Event id="22">
 				<IdName>minispotapplicazione</IdName>
 				<StartDate>2015-11-06</StartDate>
-				<StartTime>09:01:08</StartTime>
+				<StartTime>09:01:07</StartTime>
 				<EndDate>2015-11-06</EndDate>
 				<EndTime>09:01:18</EndTime>
 				<ShortEventDescription>
