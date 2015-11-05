@@ -1,6 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-05/11/2015	17:50:58	ON-RACETV_36	Sconosciuto	Nuovo File	00:27:43	0	
-05/11/2015	18:18:42	FLASHPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:00	0	
 05/11/2015	18:23:42	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
 05/11/2015	20:15:25	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
 05/11/2015	22:17:35	TG	TG 	TELEGIORNALE	00:02:09	31	programmi informativi
