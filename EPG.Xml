@@ -2,37 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Scuoladipolizia6_mpeg2video</IdName>
-				<StartDate>2015-11-13</StartDate>
-				<StartTime>17:19:53</StartTime>
-				<EndDate>2015-11-13</EndDate>
-				<EndTime>18:39:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Scuola d i polizia 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>TG</IdName>
-				<StartDate>2015-11-13</StartDate>
-				<StartTime>18:39:48</StartTime>
-				<EndDate>2015-11-13</EndDate>
-				<EndTime>18:42:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
 				<IdName>UFOLeProve</IdName>
 				<StartDate>2015-11-13</StartDate>
-				<StartTime>18:42:43</StartTime>
+				<StartTime>18:42:36</StartTime>
 				<EndDate>2015-11-13</EndDate>
-				<EndTime>20:04:56</EndTime>
+				<EndTime>20:04:49</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -40,12 +14,38 @@
 					<Description>Ufo le  prove</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="2">
 				<IdName>agrisapori633X1-11-15</IdName>
 				<StartDate>2015-11-13</StartDate>
-				<StartTime>20:04:56</StartTime>
+				<StartTime>20:04:49</StartTime>
 				<EndDate>2015-11-13</EndDate>
-				<EndTime>20:35:29</EndTime>
+				<EndTime>20:35:22</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="3">
+				<IdName>80NOSTALGIA_LUCCACOMICSPRESENTAZIONE</IdName>
+				<StartDate>2015-11-13</StartDate>
+				<StartTime>20:35:22</StartTime>
+				<EndDate>2015-11-13</EndDate>
+				<EndTime>21:05:36</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="4">
+				<IdName>ON-RACETV_39</IdName>
+				<StartDate>2015-11-13</StartDate>
+				<StartTime>21:05:36</StartTime>
+				<EndDate>2015-11-13</EndDate>
+				<EndTime>21:35:38</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -54,37 +54,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="5">
-				<IdName>80NOSTALGIA_LUCCACOMICSPRESENTAZIONE</IdName>
-				<StartDate>2015-11-13</StartDate>
-				<StartTime>20:35:29</StartTime>
-				<EndDate>2015-11-13</EndDate>
-				<EndTime>21:05:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
-				<IdName>ON-RACETV_39</IdName>
-				<StartDate>2015-11-13</StartDate>
-				<StartTime>21:05:43</StartTime>
-				<EndDate>2015-11-13</EndDate>
-				<EndTime>21:35:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
 				<IdName>Toto'aColoriFilmCompleto(FullMovie)</IdName>
 				<StartDate>2015-11-13</StartDate>
-				<StartTime>21:35:45</StartTime>
+				<StartTime>21:35:38</StartTime>
 				<EndDate>2015-11-13</EndDate>
-				<EndTime>23:08:15</EndTime>
+				<EndTime>23:08:08</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,12 +66,12 @@
 					<Description>Tot a  colori</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="6">
 				<IdName>PROMOVIDEOSPOT</IdName>
 				<StartDate>2015-11-13</StartDate>
-				<StartTime>23:08:15</StartTime>
+				<StartTime>23:08:08</StartTime>
 				<EndDate>2015-11-13</EndDate>
-				<EndTime>23:08:37</EndTime>
+				<EndTime>23:08:30</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -105,12 +79,12 @@
 					<Description>PROMOVIDEOSOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="7">
 				<IdName>OnceWereWarriors2(completo)</IdName>
 				<StartDate>2015-11-13</StartDate>
-				<StartTime>23:08:37</StartTime>
+				<StartTime>23:08:30</StartTime>
 				<EndDate>2015-11-14</EndDate>
-				<EndTime>00:47:00</EndTime>
+				<EndTime>00:46:53</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,12 +92,12 @@
 					<Description>Once were Warriors</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="8">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2015-11-14</StartDate>
-				<StartTime>00:47:00</StartTime>
+				<StartTime>00:46:53</StartTime>
 				<EndDate>2015-11-14</EndDate>
-				<EndTime>00:47:16</EndTime>
+				<EndTime>00:47:09</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -131,12 +105,12 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="9">
 				<IdName>PROMOVIDEOSPOT1</IdName>
 				<StartDate>2015-11-14</StartDate>
-				<StartTime>00:47:16</StartTime>
+				<StartTime>00:47:09</StartTime>
 				<EndDate>2015-11-14</EndDate>
-				<EndTime>00:47:22</EndTime>
+				<EndTime>00:47:15</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -144,12 +118,12 @@
 					<Description>PROMOVIDEOSPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="10">
 				<IdName>GO-KARTv_39</IdName>
 				<StartDate>2015-11-14</StartDate>
-				<StartTime>00:47:22</StartTime>
+				<StartTime>00:47:15</StartTime>
 				<EndDate>2015-11-14</EndDate>
-				<EndTime>01:14:43</EndTime>
+				<EndTime>01:14:36</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -157,12 +131,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="11">
 				<IdName>SpotEdilMericisrl25070142014</IdName>
 				<StartDate>2015-11-14</StartDate>
-				<StartTime>01:14:43</StartTime>
+				<StartTime>01:14:36</StartTime>
 				<EndDate>2015-11-14</EndDate>
-				<EndTime>01:15:42</EndTime>
+				<EndTime>01:15:36</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -170,12 +144,12 @@
 					<Description>edil merici spot 7 014</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="12">
 				<IdName>TG</IdName>
 				<StartDate>2015-11-14</StartDate>
-				<StartTime>01:15:42</StartTime>
+				<StartTime>01:15:36</StartTime>
 				<EndDate>2015-11-14</EndDate>
-				<EndTime>01:18:37</EndTime>
+				<EndTime>01:18:30</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -183,12 +157,12 @@
 					<Description>TELEGIORNALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="13">
 				<IdName>LARIVOLTADEIPRETORIANIFilmpeplum1964diAlfonsoBresciacompletoinItaliano</IdName>
 				<StartDate>2015-11-14</StartDate>
-				<StartTime>01:18:37</StartTime>
+				<StartTime>01:18:30</StartTime>
 				<EndDate>2015-11-14</EndDate>
-				<EndTime>02:51:58</EndTime>
+				<EndTime>02:51:51</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -196,12 +170,12 @@
 					<Description>LARIVOLTA DEI PRETORIANI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="14">
 				<IdName>Fantozzisubisceancora</IdName>
 				<StartDate>2015-11-14</StartDate>
-				<StartTime>02:51:58</StartTime>
+				<StartTime>02:51:51</StartTime>
 				<EndDate>2015-11-14</EndDate>
-				<EndTime>04:15:44</EndTime>
+				<EndTime>04:15:38</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -209,12 +183,12 @@
 					<Description>FANTOZZI  SUBISCE ANCORA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="15">
 				<IdName>TG</IdName>
 				<StartDate>2015-11-14</StartDate>
-				<StartTime>04:15:44</StartTime>
+				<StartTime>04:15:38</StartTime>
 				<EndDate>2015-11-14</EndDate>
-				<EndTime>04:18:39</EndTime>
+				<EndTime>04:18:32</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -222,12 +196,12 @@
 					<Description>TELEGIORNALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="16">
 				<IdName>PROMOVIDEOSPOT2</IdName>
 				<StartDate>2015-11-14</StartDate>
-				<StartTime>04:18:39</StartTime>
+				<StartTime>04:18:32</StartTime>
 				<EndDate>2015-11-14</EndDate>
-				<EndTime>04:18:46</EndTime>
+				<EndTime>04:18:39</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -235,12 +209,12 @@
 					<Description>SPOT  PROMOVIDEOTV 2</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="17">
 				<IdName>filmcompletoPiratiRPolanski1986</IdName>
 				<StartDate>2015-11-14</StartDate>
-				<StartTime>04:18:46</StartTime>
+				<StartTime>04:18:39</StartTime>
 				<EndDate>2015-11-14</EndDate>
-				<EndTime>06:04:26</EndTime>
+				<EndTime>06:04:19</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -248,12 +222,12 @@
 					<Description>Pirati</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="18">
 				<IdName>LeDueTorri</IdName>
 				<StartDate>2015-11-14</StartDate>
-				<StartTime>06:04:26</StartTime>
+				<StartTime>06:04:19</StartTime>
 				<EndDate>2015-11-14</EndDate>
-				<EndTime>08:56:30</EndTime>
+				<EndTime>08:56:23</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -261,12 +235,12 @@
 					<Description>Le due torri </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="21">
+			<Event id="19">
 				<IdName>MenInBlackII</IdName>
 				<StartDate>2015-11-14</StartDate>
-				<StartTime>08:56:30</StartTime>
+				<StartTime>08:56:23</StartTime>
 				<EndDate>2015-11-14</EndDate>
-				<EndTime>10:21:02</EndTime>
+				<EndTime>10:20:55</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -274,12 +248,12 @@
 					<Description>Men In Black II</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="22">
+			<Event id="20">
 				<IdName>X-Men</IdName>
 				<StartDate>2015-11-14</StartDate>
-				<StartTime>10:21:02</StartTime>
+				<StartTime>10:20:55</StartTime>
 				<EndDate>2015-11-14</EndDate>
-				<EndTime>12:01:04</EndTime>
+				<EndTime>12:00:57</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
