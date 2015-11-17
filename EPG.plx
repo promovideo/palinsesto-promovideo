@@ -1,17 +1,5 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-16/11/2015	19:41:54	OnceWereWarriors2(completo)	ONCE WERRIORS 2	Once were Warriors	01:38:23	1	Film
-16/11/2015	21:20:17	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-16/11/2015	21:20:33	TG	TG 	TELEGIORNALE	00:02:54	31	programmi informativi
-16/11/2015	21:23:27	PROMOVIDEOSPOT1	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:06	11	spot
-16/11/2015	21:23:34	GO-KARTv_39	Sconosciuto	Nuovo File	00:27:20	0	
-16/11/2015	21:50:55	SpotEdilMericisrl25070142014	SPOT EDIL MERICI 014	edil merici spot 7 014	00:00:59	11	spot
-16/11/2015	21:51:54	TG	TG 	TELEGIORNALE	00:02:54	31	programmi informativi
-16/11/2015	21:54:49	LARIVOLTADEIPRETORIANIFilmpeplum1964diAlfonsoBresciacompletoinItaliano	Sconosciuto	LARIVOLTA DEI PRETORIANI	01:33:20	1	Film
-16/11/2015	23:28:09	Fantozzisubisceancora	FANTOZZI  SUBISCE ANCORA	FANTOZZI  SUBISCE ANCORA	01:23:46	1	Film
-17/11/2015	00:51:56	TG	TG 	TELEGIORNALE	00:02:54	31	programmi informativi
-17/11/2015	00:54:51	PROMOVIDEOSPOT2	SPOT  PROMOVIDEOTV 2	SPOT  PROMOVIDEOTV 2	00:00:06	11	spot
-17/11/2015	00:54:58	filmcompletoPiratiRPolanski1986	PIRATI	Pirati	01:45:39	1	Film
-17/11/2015	02:40:37	LeDueTorri	Sconosciuto	Le due torri 	02:52:03	22	
-17/11/2015	05:32:41	MenInBlackII	Sconosciuto	Men In Black II	01:24:32	1	Film
-17/11/2015	06:57:13	TG	TG 	TELEGIORNALE	00:02:54	31	programmi informativi
-17/11/2015	07:00:08	X-Men	X - MEN	X - MEN	01:40:02	1	Film
+17/11/2015	02:38:49	LeDueTorri	Sconosciuto	Le due torri 	02:52:03	22	
+17/11/2015	05:30:53	MenInBlackII	Sconosciuto	Men In Black II	01:24:32	1	Film
+17/11/2015	06:55:25	TG	TG 	TELEGIORNALE	00:02:54	31	programmi informativi
+17/11/2015	06:58:20	X-Men	X - MEN	X - MEN	01:40:02	1	Film
