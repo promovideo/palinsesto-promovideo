@@ -1,15 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-17/11/2015	20:06:18	OnceWereWarriors2(completo)	ONCE WERRIORS 2	Once were Warriors	01:38:23	1	Film
-17/11/2015	21:44:41	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-17/11/2015	21:44:56	PROMOVIDEOSPOT1	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:06	11	spot
-17/11/2015	21:45:03	GO-KARTv_39	Sconosciuto	Nuovo File	00:27:20	0	
-17/11/2015	22:12:24	SpotEdilMericisrl25070142014	SPOT EDIL MERICI 014	edil merici spot 7 014	00:00:59	11	spot
-17/11/2015	22:13:23	TG	TG 	TELEGIORNALE	00:02:54	31	programmi informativi
-17/11/2015	22:16:18	LARIVOLTADEIPRETORIANIFilmpeplum1964diAlfonsoBresciacompletoinItaliano	Sconosciuto	LARIVOLTA DEI PRETORIANI	01:33:20	1	Film
-17/11/2015	23:49:38	Fantozzisubisceancora	FANTOZZI  SUBISCE ANCORA	FANTOZZI  SUBISCE ANCORA	01:23:46	1	Film
-18/11/2015	01:13:25	TG	TG 	TELEGIORNALE	00:02:54	31	programmi informativi
-18/11/2015	01:16:20	PROMOVIDEOSPOT2	SPOT  PROMOVIDEOTV 2	SPOT  PROMOVIDEOTV 2	00:00:06	11	spot
-18/11/2015	01:16:27	filmcompletoPiratiRPolanski1986	PIRATI	Pirati	01:45:39	1	Film
-18/11/2015	03:02:07	LeDueTorri	Sconosciuto	Le due torri 	02:52:03	22	
-18/11/2015	05:54:10	MenInBlackII	Sconosciuto	Men In Black II	01:24:32	1	Film
-18/11/2015	07:18:42	X-Men	X - MEN	X - MEN	01:40:02	1	Film
+18/11/2015	03:00:54	LeDueTorri	Sconosciuto	Le due torri 	02:52:03	22	
+18/11/2015	05:52:58	MenInBlackII	Sconosciuto	Men In Black II	01:24:32	1	Film
+18/11/2015	07:17:30	X-Men	X - MEN	X - MEN	01:40:02	1	Film

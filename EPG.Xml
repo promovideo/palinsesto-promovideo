@@ -2,115 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>GO-KARTv_39</IdName>
-				<StartDate>2015-11-17</StartDate>
-				<StartTime>21:45:03</StartTime>
-				<EndDate>2015-11-17</EndDate>
-				<EndTime>22:12:24</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>SpotEdilMericisrl25070142014</IdName>
-				<StartDate>2015-11-17</StartDate>
-				<StartTime>22:12:24</StartTime>
-				<EndDate>2015-11-17</EndDate>
-				<EndTime>22:13:23</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT EDIL MERICI 014</Name>
-					<Description>edil merici spot 7 014</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>TG</IdName>
-				<StartDate>2015-11-17</StartDate>
-				<StartTime>22:13:23</StartTime>
-				<EndDate>2015-11-17</EndDate>
-				<EndTime>22:16:18</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>LARIVOLTADEIPRETORIANIFilmpeplum1964diAlfonsoBresciacompletoinItaliano</IdName>
-				<StartDate>2015-11-17</StartDate>
-				<StartTime>22:16:18</StartTime>
-				<EndDate>2015-11-17</EndDate>
-				<EndTime>23:49:38</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>LARIVOLTA DEI PRETORIANI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
-				<IdName>Fantozzisubisceancora</IdName>
-				<StartDate>2015-11-17</StartDate>
-				<StartTime>23:49:38</StartTime>
-				<EndDate>2015-11-18</EndDate>
-				<EndTime>01:13:25</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>FANTOZZI  SUBISCE ANCORA</Name>
-					<Description>FANTOZZI  SUBISCE ANCORA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
-				<IdName>TG</IdName>
-				<StartDate>2015-11-18</StartDate>
-				<StartTime>01:13:25</StartTime>
-				<EndDate>2015-11-18</EndDate>
-				<EndTime>01:16:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
-				<IdName>PROMOVIDEOSPOT2</IdName>
-				<StartDate>2015-11-18</StartDate>
-				<StartTime>01:16:20</StartTime>
-				<EndDate>2015-11-18</EndDate>
-				<EndTime>01:16:27</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV 2</Name>
-					<Description>SPOT  PROMOVIDEOTV 2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="8">
-				<IdName>filmcompletoPiratiRPolanski1986</IdName>
-				<StartDate>2015-11-18</StartDate>
-				<StartTime>01:16:27</StartTime>
-				<EndDate>2015-11-18</EndDate>
-				<EndTime>03:02:06</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PIRATI</Name>
-					<Description>Pirati</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="9">
 				<IdName>LeDueTorri</IdName>
 				<StartDate>2015-11-18</StartDate>
-				<StartTime>03:02:06</StartTime>
+				<StartTime>03:00:54</StartTime>
 				<EndDate>2015-11-18</EndDate>
-				<EndTime>05:54:10</EndTime>
+				<EndTime>05:52:58</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,12 +14,12 @@
 					<Description>Le due torri </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="2">
 				<IdName>MenInBlackII</IdName>
 				<StartDate>2015-11-18</StartDate>
-				<StartTime>05:54:10</StartTime>
+				<StartTime>05:52:58</StartTime>
 				<EndDate>2015-11-18</EndDate>
-				<EndTime>07:18:42</EndTime>
+				<EndTime>07:17:30</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -131,12 +27,12 @@
 					<Description>Men In Black II</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="3">
 				<IdName>X-Men</IdName>
 				<StartDate>2015-11-18</StartDate>
-				<StartTime>07:18:42</StartTime>
+				<StartTime>07:17:30</StartTime>
 				<EndDate>2015-11-18</EndDate>
-				<EndTime>08:58:44</EndTime>
+				<EndTime>08:57:32</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
