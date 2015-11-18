@@ -2,19 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>LeDueTorri</IdName>
-				<StartDate>2015-11-18</StartDate>
-				<StartTime>03:00:54</StartTime>
-				<EndDate>2015-11-18</EndDate>
-				<EndTime>05:52:58</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Le due torri </Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
 				<IdName>MenInBlackII</IdName>
 				<StartDate>2015-11-18</StartDate>
 				<StartTime>05:52:58</StartTime>
@@ -27,7 +14,7 @@
 					<Description>Men In Black II</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="3">
+			<Event id="2">
 				<IdName>X-Men</IdName>
 				<StartDate>2015-11-18</StartDate>
 				<StartTime>07:17:30</StartTime>
