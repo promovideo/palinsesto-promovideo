@@ -2,102 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>IlritornodelRe</IdName>
-				<StartDate>2015-11-20</StartDate>
-				<StartTime>15:01:31</StartTime>
-				<EndDate>2015-11-20</EndDate>
-				<EndTime>18:14:17</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Il  ritorno del re</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>3PROMOVIDEOSPOT3</IdName>
-				<StartDate>2015-11-20</StartDate>
-				<StartTime>18:14:17</StartTime>
-				<EndDate>2015-11-20</EndDate>
-				<EndTime>18:14:24</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>spot promovideotv</Name>
-					<Description>SPOT PROMOVIDEOTV 3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>GliAnimalipiPericolosiGiunglaUrbana(ITA)</IdName>
-				<StartDate>2015-11-20</StartDate>
-				<StartTime>18:14:24</StartTime>
-				<EndDate>2015-11-20</EndDate>
-				<EndTime>19:01:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Animali pericolosi</Name>
-					<Description>ANIMALI PERICOLOSI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>TG</IdName>
-				<StartDate>2015-11-20</StartDate>
-				<StartTime>19:01:26</StartTime>
-				<EndDate>2015-11-20</EndDate>
-				<EndTime>19:04:21</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2015-11-20</StartDate>
-				<StartTime>19:04:21</StartTime>
-				<EndDate>2015-11-20</EndDate>
-				<EndTime>19:04:28</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
-				<IdName>agrisapori-624x30-8-15</IdName>
-				<StartDate>2015-11-20</StartDate>
-				<StartTime>19:04:28</StartTime>
-				<EndDate>2015-11-20</EndDate>
-				<EndTime>19:32:04</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>grisapori</Name>
-					<Description>AGRISAPORI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2015-11-20</StartDate>
-				<StartTime>19:32:04</StartTime>
-				<EndDate>2015-11-20</EndDate>
-				<EndTime>19:32:10</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="8">
 				<IdName>Unbigliettoindue_1_mpeg2video</IdName>
 				<StartDate>2015-11-20</StartDate>
-				<StartTime>19:32:10</StartTime>
+				<StartTime>19:31:44</StartTime>
 				<EndDate>2015-11-20</EndDate>
-				<EndTime>20:15:51</EndTime>
+				<EndTime>20:15:24</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -105,12 +14,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="2">
 				<IdName>PillolaSalute_20150904_53457</IdName>
 				<StartDate>2015-11-20</StartDate>
-				<StartTime>20:15:51</StartTime>
+				<StartTime>20:15:24</StartTime>
 				<EndDate>2015-11-20</EndDate>
-				<EndTime>20:16:43</EndTime>
+				<EndTime>20:16:17</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,12 +27,103 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="3">
 				<IdName>TG</IdName>
 				<StartDate>2015-11-20</StartDate>
-				<StartTime>20:16:43</StartTime>
+				<StartTime>20:16:17</StartTime>
 				<EndDate>2015-11-20</EndDate>
-				<EndTime>20:19:38</EndTime>
+				<EndTime>20:19:11</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>TG </Name>
+					<Description>TELEGIORNALE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="4">
+				<IdName>Unbigliettoindue_2_mpeg2video</IdName>
+				<StartDate>2015-11-20</StartDate>
+				<StartTime>20:19:11</StartTime>
+				<EndDate>2015-11-20</EndDate>
+				<EndTime>21:03:50</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Un biglietto in due_2 P</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="5">
+				<IdName>3PROMOVIDEOSPOT3</IdName>
+				<StartDate>2015-11-20</StartDate>
+				<StartTime>21:03:50</StartTime>
+				<EndDate>2015-11-20</EndDate>
+				<EndTime>21:03:56</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>spot promovideotv</Name>
+					<Description>SPOT PROMOVIDEOTV 3</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="6">
+				<IdName>StoriadelVaticanoIsegretidiAngelieDemoni</IdName>
+				<StartDate>2015-11-20</StartDate>
+				<StartTime>21:03:56</StartTime>
+				<EndDate>2015-11-20</EndDate>
+				<EndTime>22:34:48</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>STOTIA DEL  VATICANO</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="7">
+				<IdName>Storiediamorieinfedelta_mpeg2video</IdName>
+				<StartDate>2015-11-20</StartDate>
+				<StartTime>22:34:48</StartTime>
+				<EndDate>2015-11-20</EndDate>
+				<EndTime>23:58:18</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Storie di  amori ed infedeltà</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="8">
+				<IdName>6PROMOVIDEOSPOT6</IdName>
+				<StartDate>2015-11-20</StartDate>
+				<StartTime>23:58:18</StartTime>
+				<EndDate>2015-11-20</EndDate>
+				<EndTime>23:58:25</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>6 SPOT PTOMOVIDEO</Name>
+					<Description>PROMOVIDEOSPOT 6</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="9">
+				<IdName>StarshipTroopers-FanteriaDelloSpazio</IdName>
+				<StartDate>2015-11-20</StartDate>
+				<StartTime>23:58:25</StartTime>
+				<EndDate>2015-11-21</EndDate>
+				<EndTime>02:02:44</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>STARSHIP TROOPERS</Name>
+					<Description>STARSHIP TROOPERS</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="10">
+				<IdName>TG</IdName>
+				<StartDate>2015-11-21</StartDate>
+				<StartTime>02:02:44</StartTime>
+				<EndDate>2015-11-21</EndDate>
+				<EndTime>02:05:39</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -132,102 +132,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="11">
-				<IdName>Unbigliettoindue_2_mpeg2video</IdName>
-				<StartDate>2015-11-20</StartDate>
-				<StartTime>20:19:38</StartTime>
-				<EndDate>2015-11-20</EndDate>
-				<EndTime>21:04:16</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Un biglietto in due_2 P</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="12">
-				<IdName>3PROMOVIDEOSPOT3</IdName>
-				<StartDate>2015-11-20</StartDate>
-				<StartTime>21:04:16</StartTime>
-				<EndDate>2015-11-20</EndDate>
-				<EndTime>21:04:23</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>spot promovideotv</Name>
-					<Description>SPOT PROMOVIDEOTV 3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="13">
-				<IdName>StoriadelVaticanoIsegretidiAngelieDemoni</IdName>
-				<StartDate>2015-11-20</StartDate>
-				<StartTime>21:04:23</StartTime>
-				<EndDate>2015-11-20</EndDate>
-				<EndTime>22:35:14</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>STOTIA DEL  VATICANO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="14">
-				<IdName>Storiediamorieinfedelta_mpeg2video</IdName>
-				<StartDate>2015-11-20</StartDate>
-				<StartTime>22:35:14</StartTime>
-				<EndDate>2015-11-20</EndDate>
-				<EndTime>23:58:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Storie di  amori ed infedeltà</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="15">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2015-11-20</StartDate>
-				<StartTime>23:58:45</StartTime>
-				<EndDate>2015-11-20</EndDate>
-				<EndTime>23:58:51</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="16">
-				<IdName>StarshipTroopers-FanteriaDelloSpazio</IdName>
-				<StartDate>2015-11-20</StartDate>
-				<StartTime>23:58:51</StartTime>
-				<EndDate>2015-11-21</EndDate>
-				<EndTime>02:03:10</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>STARSHIP TROOPERS</Name>
-					<Description>STARSHIP TROOPERS</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="17">
-				<IdName>TG</IdName>
-				<StartDate>2015-11-21</StartDate>
-				<StartTime>02:03:10</StartTime>
-				<EndDate>2015-11-21</EndDate>
-				<EndTime>02:06:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="18">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2015-11-21</StartDate>
-				<StartTime>02:06:05</StartTime>
+				<StartTime>02:05:39</StartTime>
 				<EndDate>2015-11-21</EndDate>
-				<EndTime>02:06:12</EndTime>
+				<EndTime>02:05:45</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -235,12 +144,12 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="12">
 				<IdName>Toto'aColoriFilmCompleto(FullMovie)</IdName>
 				<StartDate>2015-11-21</StartDate>
-				<StartTime>02:06:12</StartTime>
+				<StartTime>02:05:45</StartTime>
 				<EndDate>2015-11-21</EndDate>
-				<EndTime>03:38:41</EndTime>
+				<EndTime>03:38:15</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -248,12 +157,12 @@
 					<Description>Tot a  colori</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="13">
 				<IdName>inVista_20150905_53470</IdName>
 				<StartDate>2015-11-21</StartDate>
-				<StartTime>03:38:41</StartTime>
+				<StartTime>03:38:15</StartTime>
 				<EndDate>2015-11-21</EndDate>
-				<EndTime>03:40:01</EndTime>
+				<EndTime>03:39:34</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -261,12 +170,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="21">
+			<Event id="14">
 				<IdName>'IlsegretodiSantaVittoria'(1969)conAnnaMagnanieAnthonyQuinn_mpeg2video</IdName>
 				<StartDate>2015-11-21</StartDate>
-				<StartTime>03:40:01</StartTime>
+				<StartTime>03:39:34</StartTime>
 				<EndDate>2015-11-21</EndDate>
-				<EndTime>05:53:15</EndTime>
+				<EndTime>05:52:49</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -274,12 +183,12 @@
 					<Description>IL SEGRETO DI SANTA  VITTORIA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="22">
+			<Event id="15">
 				<IdName>AdrianoCelentanoJoanLuiFilmCompleto</IdName>
 				<StartDate>2015-11-21</StartDate>
-				<StartTime>05:53:15</StartTime>
+				<StartTime>05:52:49</StartTime>
 				<EndDate>2015-11-21</EndDate>
-				<EndTime>07:58:55</EndTime>
+				<EndTime>07:58:28</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
