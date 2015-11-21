@@ -1,5 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-21/11/2015	19:35:54	LefiabeDisneyVolume6	LE FIABE DI DISNEY	LE FIABE DI  DISNEY	00:48:01	51	cartoni animati
 21/11/2015	20:23:55	IlritornodelRe	Sconosciuto	Il  ritorno del re	03:12:46	22	
 21/11/2015	23:36:42	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
 21/11/2015	23:36:48	GliAnimalipiPericolosiGiunglaUrbana(ITA)	Animali pericolosi	ANIMALI PERICOLOSI	00:47:02	71	documentari
@@ -18,4 +17,4 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 22/11/2015	07:22:40	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 22/11/2015	07:22:47	ON-RACETV_34	Sconosciuto	Nuovo File	00:30:00	0	
 22/11/2015	07:52:47	Toto'aColoriFilmCompleto(FullMovie)	TOTO  A COLORI	Tot a  colori	01:32:29	1	Film
-22/11/2015	09:25:17	inVista_20150905_53470	Sconosciuto	Nuovo File	00:01:19	0	
+22/11/2015	09:25:16	inVista_20150905_53470	Sconosciuto	Nuovo File	00:01:19	0	
