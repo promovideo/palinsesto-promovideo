@@ -2,19 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>LefiabeDisneyVolume6</IdName>
-				<StartDate>2015-11-28</StartDate>
-				<StartTime>19:16:52</StartTime>
-				<EndDate>2015-11-28</EndDate>
-				<EndTime>20:04:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LE FIABE DI DISNEY</Name>
-					<Description>LE FIABE DI  DISNEY</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
 				<IdName>IlritornodelRe</IdName>
 				<StartDate>2015-11-28</StartDate>
 				<StartTime>20:04:53</StartTime>
@@ -27,7 +14,7 @@
 					<Description>Il  ritorno del re</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="3">
+			<Event id="2">
 				<IdName>3PROMOVIDEOSPOT3</IdName>
 				<StartDate>2015-11-28</StartDate>
 				<StartTime>23:17:40</StartTime>
@@ -40,7 +27,7 @@
 					<Description>SPOT PROMOVIDEOTV 3</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="3">
 				<IdName>GliAnimalipiPericolosiGiunglaUrbana(ITA)</IdName>
 				<StartDate>2015-11-28</StartDate>
 				<StartTime>23:17:47</StartTime>
@@ -53,7 +40,7 @@
 					<Description>ANIMALI PERICOLOSI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="4">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2015-11-29</StartDate>
 				<StartTime>00:04:49</StartTime>
@@ -66,7 +53,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="5">
 				<IdName>agrisapori-624x30-8-15</IdName>
 				<StartDate>2015-11-29</StartDate>
 				<StartTime>00:04:56</StartTime>
@@ -79,12 +66,12 @@
 					<Description>AGRISAPORI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="6">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2015-11-29</StartDate>
 				<StartTime>00:32:32</StartTime>
 				<EndDate>2015-11-29</EndDate>
-				<EndTime>00:32:39</EndTime>
+				<EndTime>00:32:38</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,10 +79,10 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="7">
 				<IdName>Unbigliettoindue_1_mpeg2video</IdName>
 				<StartDate>2015-11-29</StartDate>
-				<StartTime>00:32:39</StartTime>
+				<StartTime>00:32:38</StartTime>
 				<EndDate>2015-11-29</EndDate>
 				<EndTime>01:16:19</EndTime>
 				<ShortEventDescription>
@@ -105,7 +92,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="8">
 				<IdName>PillolaSalute_20150904_53457</IdName>
 				<StartDate>2015-11-29</StartDate>
 				<StartTime>01:16:19</StartTime>
@@ -118,12 +105,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="9">
 				<IdName>TG</IdName>
 				<StartDate>2015-11-29</StartDate>
 				<StartTime>01:17:11</StartTime>
 				<EndDate>2015-11-29</EndDate>
-				<EndTime>01:19:52</EndTime>
+				<EndTime>01:19:51</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -131,10 +118,10 @@
 					<Description>TELEGIORNALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="10">
 				<IdName>Unbigliettoindue_2_mpeg2video</IdName>
 				<StartDate>2015-11-29</StartDate>
-				<StartTime>01:19:52</StartTime>
+				<StartTime>01:19:51</StartTime>
 				<EndDate>2015-11-29</EndDate>
 				<EndTime>02:04:30</EndTime>
 				<ShortEventDescription>
@@ -144,12 +131,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="11">
 				<IdName>3PROMOVIDEOSPOT3</IdName>
 				<StartDate>2015-11-29</StartDate>
 				<StartTime>02:04:30</StartTime>
 				<EndDate>2015-11-29</EndDate>
-				<EndTime>02:04:37</EndTime>
+				<EndTime>02:04:36</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -157,10 +144,10 @@
 					<Description>SPOT PROMOVIDEOTV 3</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="12">
 				<IdName>StoriadelVaticanoIsegretidiAngelieDemoni</IdName>
 				<StartDate>2015-11-29</StartDate>
-				<StartTime>02:04:37</StartTime>
+				<StartTime>02:04:36</StartTime>
 				<EndDate>2015-11-29</EndDate>
 				<EndTime>03:35:28</EndTime>
 				<ShortEventDescription>
@@ -170,7 +157,7 @@
 					<Description>STOTIA DEL  VATICANO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="13">
 				<IdName>Storiediamorieinfedelta_mpeg2video</IdName>
 				<StartDate>2015-11-29</StartDate>
 				<StartTime>03:35:28</StartTime>
@@ -183,7 +170,7 @@
 					<Description>Storie di  amori ed infedeltà</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="14">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2015-11-29</StartDate>
 				<StartTime>04:58:58</StartTime>
@@ -196,7 +183,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="15">
 				<IdName>StarshipTroopers-FanteriaDelloSpazio</IdName>
 				<StartDate>2015-11-29</StartDate>
 				<StartTime>04:59:05</StartTime>
@@ -209,7 +196,7 @@
 					<Description>STARSHIP TROOPERS</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="16">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2015-11-29</StartDate>
 				<StartTime>07:03:24</StartTime>
@@ -222,7 +209,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="17">
 				<IdName>ON-RACETV_34</IdName>
 				<StartDate>2015-11-29</StartDate>
 				<StartTime>07:03:31</StartTime>
@@ -235,7 +222,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="18">
 				<IdName>Toto'aColoriFilmCompleto(FullMovie)</IdName>
 				<StartDate>2015-11-29</StartDate>
 				<StartTime>07:33:31</StartTime>
@@ -248,12 +235,12 @@
 					<Description>Tot a  colori</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="19">
 				<IdName>inVista_20150905_53470</IdName>
 				<StartDate>2015-11-29</StartDate>
 				<StartTime>09:06:00</StartTime>
 				<EndDate>2015-11-29</EndDate>
-				<EndTime>09:07:20</EndTime>
+				<EndTime>09:07:19</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
