@@ -2,193 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>IlritornodelRe</IdName>
-				<StartDate>2015-11-28</StartDate>
-				<StartTime>20:04:53</StartTime>
-				<EndDate>2015-11-28</EndDate>
-				<EndTime>23:17:40</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Il  ritorno del re</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>3PROMOVIDEOSPOT3</IdName>
-				<StartDate>2015-11-28</StartDate>
-				<StartTime>23:17:40</StartTime>
-				<EndDate>2015-11-28</EndDate>
-				<EndTime>23:17:47</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>spot promovideotv</Name>
-					<Description>SPOT PROMOVIDEOTV 3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>GliAnimalipiPericolosiGiunglaUrbana(ITA)</IdName>
-				<StartDate>2015-11-28</StartDate>
-				<StartTime>23:17:47</StartTime>
-				<EndDate>2015-11-29</EndDate>
-				<EndTime>00:04:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Animali pericolosi</Name>
-					<Description>ANIMALI PERICOLOSI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2015-11-29</StartDate>
-				<StartTime>00:04:49</StartTime>
-				<EndDate>2015-11-29</EndDate>
-				<EndTime>00:04:56</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
-				<IdName>agrisapori-624x30-8-15</IdName>
-				<StartDate>2015-11-29</StartDate>
-				<StartTime>00:04:56</StartTime>
-				<EndDate>2015-11-29</EndDate>
-				<EndTime>00:32:32</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>grisapori</Name>
-					<Description>AGRISAPORI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2015-11-29</StartDate>
-				<StartTime>00:32:32</StartTime>
-				<EndDate>2015-11-29</EndDate>
-				<EndTime>00:32:38</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
-				<IdName>Unbigliettoindue_1_mpeg2video</IdName>
-				<StartDate>2015-11-29</StartDate>
-				<StartTime>00:32:38</StartTime>
-				<EndDate>2015-11-29</EndDate>
-				<EndTime>01:16:19</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Un biglietto in due_1 P</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="8">
-				<IdName>PillolaSalute_20150904_53457</IdName>
-				<StartDate>2015-11-29</StartDate>
-				<StartTime>01:16:19</StartTime>
-				<EndDate>2015-11-29</EndDate>
-				<EndTime>01:17:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="9">
-				<IdName>TG</IdName>
-				<StartDate>2015-11-29</StartDate>
-				<StartTime>01:17:11</StartTime>
-				<EndDate>2015-11-29</EndDate>
-				<EndTime>01:19:51</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
-				<IdName>Unbigliettoindue_2_mpeg2video</IdName>
-				<StartDate>2015-11-29</StartDate>
-				<StartTime>01:19:51</StartTime>
-				<EndDate>2015-11-29</EndDate>
-				<EndTime>02:04:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Un biglietto in due_2 P</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="11">
-				<IdName>3PROMOVIDEOSPOT3</IdName>
-				<StartDate>2015-11-29</StartDate>
-				<StartTime>02:04:30</StartTime>
-				<EndDate>2015-11-29</EndDate>
-				<EndTime>02:04:36</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>spot promovideotv</Name>
-					<Description>SPOT PROMOVIDEOTV 3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="12">
-				<IdName>StoriadelVaticanoIsegretidiAngelieDemoni</IdName>
-				<StartDate>2015-11-29</StartDate>
-				<StartTime>02:04:36</StartTime>
-				<EndDate>2015-11-29</EndDate>
-				<EndTime>03:35:28</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>STOTIA DEL  VATICANO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="13">
-				<IdName>Storiediamorieinfedelta_mpeg2video</IdName>
-				<StartDate>2015-11-29</StartDate>
-				<StartTime>03:35:28</StartTime>
-				<EndDate>2015-11-29</EndDate>
-				<EndTime>04:58:58</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Storie di  amori ed infedeltà</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="14">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2015-11-29</StartDate>
-				<StartTime>04:58:58</StartTime>
-				<EndDate>2015-11-29</EndDate>
-				<EndTime>04:59:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="15">
 				<IdName>StarshipTroopers-FanteriaDelloSpazio</IdName>
 				<StartDate>2015-11-29</StartDate>
-				<StartTime>04:59:05</StartTime>
+				<StartTime>04:59:15</StartTime>
 				<EndDate>2015-11-29</EndDate>
-				<EndTime>07:03:24</EndTime>
+				<EndTime>07:03:34</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -196,12 +14,12 @@
 					<Description>STARSHIP TROOPERS</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="2">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2015-11-29</StartDate>
-				<StartTime>07:03:24</StartTime>
+				<StartTime>07:03:34</StartTime>
 				<EndDate>2015-11-29</EndDate>
-				<EndTime>07:03:31</EndTime>
+				<EndTime>07:03:41</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -209,12 +27,12 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="3">
 				<IdName>ON-RACETV_34</IdName>
 				<StartDate>2015-11-29</StartDate>
-				<StartTime>07:03:31</StartTime>
+				<StartTime>07:03:41</StartTime>
 				<EndDate>2015-11-29</EndDate>
-				<EndTime>07:33:31</EndTime>
+				<EndTime>07:33:41</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -222,12 +40,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="4">
 				<IdName>Toto'aColoriFilmCompleto(FullMovie)</IdName>
 				<StartDate>2015-11-29</StartDate>
-				<StartTime>07:33:31</StartTime>
+				<StartTime>07:33:41</StartTime>
 				<EndDate>2015-11-29</EndDate>
-				<EndTime>09:06:00</EndTime>
+				<EndTime>09:06:10</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -235,12 +53,12 @@
 					<Description>Tot a  colori</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="5">
 				<IdName>inVista_20150905_53470</IdName>
 				<StartDate>2015-11-29</StartDate>
-				<StartTime>09:06:00</StartTime>
+				<StartTime>09:06:10</StartTime>
 				<EndDate>2015-11-29</EndDate>
-				<EndTime>09:07:19</EndTime>
+				<EndTime>09:07:30</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
