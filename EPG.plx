@@ -1,25 +1,24 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-07/12/2015	16:33:20	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
 07/12/2015	18:25:02	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
 07/12/2015	20:27:12	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-07/12/2015	20:27:19	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
-07/12/2015	20:49:32	SpotNatale2015	natale 2015 a siderno	natale 2015 a sidernbo	00:01:44	11	spot
+07/12/2015	20:27:18	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
+07/12/2015	20:49:31	SpotNatale2015	natale 2015 a siderno	natale 2015 a sidernbo	00:01:44	11	spot
 07/12/2015	20:51:16	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 07/12/2015	20:51:23	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
 07/12/2015	22:21:58	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
 07/12/2015	22:22:05	SpotNatale2015	natale 2015 a siderno	natale 2015 a sidernbo	00:01:44	11	spot
-07/12/2015	22:23:50	LibrocasinoMacrì_mpeg2video	LIBRO CASINO' MACRI	LIBRO CASINO MACRI'	01:05:03	41	programmi culturali
-07/12/2015	23:28:53	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
+07/12/2015	22:23:49	LibrocasinoMacrì_mpeg2video	LIBRO CASINO' MACRI	LIBRO CASINO MACRI'	01:05:03	41	programmi culturali
+07/12/2015	23:28:52	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
 08/12/2015	01:19:28	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
 08/12/2015	01:19:35	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
 08/12/2015	01:22:05	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-08/12/2015	01:22:12	TG	TG 	TELEGIORNALE	00:02:32	31	programmi informativi
+08/12/2015	01:22:11	TG	TG 	TELEGIORNALE	00:02:32	31	programmi informativi
 08/12/2015	01:24:44	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
 08/12/2015	01:24:55	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-08/12/2015	01:25:02	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
-08/12/2015	02:48:11	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
-08/12/2015	02:49:14	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
+08/12/2015	01:25:01	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
+08/12/2015	02:48:10	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
+08/12/2015	02:49:13	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
 08/12/2015	03:41:19	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
 08/12/2015	05:29:50	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-08/12/2015	05:30:06	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+08/12/2015	05:30:05	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 08/12/2015	05:30:12	Gerace	GERACE	GERACE	00:06:01	71	documentari
