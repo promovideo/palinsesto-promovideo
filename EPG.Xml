@@ -2,193 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>AttackForce</IdName>
-				<StartDate>2015-12-07</StartDate>
-				<StartTime>20:53:09</StartTime>
-				<EndDate>2015-12-07</EndDate>
-				<EndTime>22:23:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ATTACK FORCR </Name>
-					<Description>ATTACK FORCE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2015-12-07</StartDate>
-				<StartTime>22:23:44</StartTime>
-				<EndDate>2015-12-07</EndDate>
-				<EndTime>22:23:51</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>SpotNatale2015</IdName>
-				<StartDate>2015-12-07</StartDate>
-				<StartTime>22:23:51</StartTime>
-				<EndDate>2015-12-07</EndDate>
-				<EndTime>22:25:35</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>natale 2015 a siderno</Name>
-					<Description>natale 2015 a sidernbo</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>LibrocasinoMacrì_mpeg2video</IdName>
-				<StartDate>2015-12-07</StartDate>
-				<StartTime>22:25:35</StartTime>
-				<EndDate>2015-12-07</EndDate>
-				<EndTime>23:30:38</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LIBRO CASINO' MACRI</Name>
-					<Description>LIBRO CASINO MACRI'</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
-				<IdName>Fantozzi-GrandiMagazzini</IdName>
-				<StartDate>2015-12-07</StartDate>
-				<StartTime>23:30:38</StartTime>
-				<EndDate>2015-12-08</EndDate>
-				<EndTime>01:21:14</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>FANTOZZI GRANDI MAGAZZINI</Name>
-					<Description>GRANDI MAGAZZINI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
-				<IdName>3PROMOVIDEOSPOT3</IdName>
-				<StartDate>2015-12-08</StartDate>
-				<StartTime>01:21:14</StartTime>
-				<EndDate>2015-12-08</EndDate>
-				<EndTime>01:21:21</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>spot promovideotv</Name>
-					<Description>SPOT PROMOVIDEOTV 3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
-				<IdName>Filmato</IdName>
-				<StartDate>2015-12-08</StartDate>
-				<StartTime>01:21:21</StartTime>
-				<EndDate>2015-12-08</EndDate>
-				<EndTime>01:23:51</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GERACE IN 2 MINUTI</Name>
-					<Description>GERACE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="8">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2015-12-08</StartDate>
-				<StartTime>01:23:51</StartTime>
-				<EndDate>2015-12-08</EndDate>
-				<EndTime>01:23:58</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="9">
-				<IdName>TG</IdName>
-				<StartDate>2015-12-08</StartDate>
-				<StartTime>01:23:58</StartTime>
-				<EndDate>2015-12-08</EndDate>
-				<EndTime>01:26:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
-				<IdName>minispotapplicazione</IdName>
-				<StartDate>2015-12-08</StartDate>
-				<StartTime>01:26:30</StartTime>
-				<EndDate>2015-12-08</EndDate>
-				<EndTime>01:26:41</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTAPP</Name>
-					<Description>SPOTAPP</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="11">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2015-12-08</StartDate>
-				<StartTime>01:26:41</StartTime>
-				<EndDate>2015-12-08</EndDate>
-				<EndTime>01:26:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="12">
-				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
-				<StartDate>2015-12-08</StartDate>
-				<StartTime>01:26:48</StartTime>
-				<EndDate>2015-12-08</EndDate>
-				<EndTime>02:49:57</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>BELLEZZE SULLA SPIAGGIA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="13">
-				<IdName>benessere_20150512_50742</IdName>
-				<StartDate>2015-12-08</StartDate>
-				<StartTime>02:49:57</StartTime>
-				<EndDate>2015-12-08</EndDate>
-				<EndTime>02:51:00</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>benessere</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="14">
-				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
-				<StartDate>2015-12-08</StartDate>
-				<StartTime>02:51:00</StartTime>
-				<EndDate>2015-12-08</EndDate>
-				<EndTime>03:43:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ANIMALI SERPENTI</Name>
-					<Description>ANIMALI SERPENTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="15">
 				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
 				<StartDate>2015-12-08</StartDate>
-				<StartTime>03:43:05</StartTime>
+				<StartTime>03:44:37</StartTime>
 				<EndDate>2015-12-08</EndDate>
-				<EndTime>05:31:36</EndTime>
+				<EndTime>05:33:08</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -196,12 +14,12 @@
 					<Description>CRASH CONTATTO  FINALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="2">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2015-12-08</StartDate>
-				<StartTime>05:31:36</StartTime>
+				<StartTime>05:33:08</StartTime>
 				<EndDate>2015-12-08</EndDate>
-				<EndTime>05:31:52</EndTime>
+				<EndTime>05:33:24</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -209,12 +27,12 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="3">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2015-12-08</StartDate>
-				<StartTime>05:31:52</StartTime>
+				<StartTime>05:33:24</StartTime>
 				<EndDate>2015-12-08</EndDate>
-				<EndTime>05:31:58</EndTime>
+				<EndTime>05:33:30</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -222,12 +40,12 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="4">
 				<IdName>Gerace</IdName>
 				<StartDate>2015-12-08</StartDate>
-				<StartTime>05:31:58</StartTime>
+				<StartTime>05:33:30</StartTime>
 				<EndDate>2015-12-08</EndDate>
-				<EndTime>05:37:59</EndTime>
+				<EndTime>05:39:32</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
