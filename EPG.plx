@@ -1,43 +1,26 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-20/12/2015	09:41:46	21-LaVaccinazione	ESPLORANDO IL  CORPO UMANO	LA VACCINAZIONE	00:26:31	51	cartoni animati
-20/12/2015	10:08:17	22-LaVitaEIlSogno	ESPLORANDO IL  CORPO UMANO	LA VITA E  IL  SOGNO	00:24:21	51	cartoni animati
-20/12/2015	10:32:39	23-L'origineDellaVita	Sconosciuto	L' ORIGINE DELLA VITA	00:25:01	51	cartoni animati
-20/12/2015	10:57:41	SPOTEDILMERICInatale2015ufficiale	EDIL MERICI NATALE 	edil mericinatale	00:02:55	11	spot
-20/12/2015	11:00:37	TRAILERPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:10:04	0	
-20/12/2015	11:10:41	GO-KARTv_45	Sconosciuto	Nuovo File	00:31:13	0	
-20/12/2015	11:41:54	CauloniaTrenitaliaripristinalafermata	Sconosciuto	Nuovo File	00:07:55	0	
-20/12/2015	11:49:50	benessere_20150715_52345	Sconosciuto	Nuovo File	00:01:11	0	
-20/12/2015	11:51:02	agrisapori-635x15-11-15	Sconosciuto	Nuovo File	00:32:17	0	
-20/12/2015	12:23:19	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-20/12/2015	12:33:24	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-20/12/2015	12:34:05	MV_2015_p03	mille  voci 2015	mille 015 voci p. 3	00:50:50	81	videoclip
-20/12/2015	13:24:55	SPOTEDILMERICInatale2015ufficiale	EDIL MERICI NATALE 	edil mericinatale	00:02:55	11	spot
-20/12/2015	13:27:51	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-20/12/2015	13:27:58	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
-20/12/2015	13:50:10	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
-20/12/2015	15:20:46	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-20/12/2015	15:20:53	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-20/12/2015	15:20:59	CACCIATORIDITESTE1	Sconosciuto	Nuovo File	00:29:17	0	
-20/12/2015	15:50:17	inItalia_20150506_50604	Sconosciuto	in italia	00:02:21	41	programmi culturali
-20/12/2015	15:52:38	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-20/12/2015	15:52:45	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
-20/12/2015	15:55:14	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-20/12/2015	15:55:21	TG	TG 	TELEGIORNALE	00:02:30	31	programmi informativi
-20/12/2015	15:57:52	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-20/12/2015	15:58:03	IngannoGlobale11settembre2001(versionecompleta)	INGANNO  GLOBALE	TORRI  GEMELLE	01:31:56	41	programmi culturali
-20/12/2015	17:30:00	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-20/12/2015	17:30:11	23-L'origineDellaVita	Sconosciuto	L' ORIGINE DELLA VITA	00:25:01	51	cartoni animati
-20/12/2015	17:55:12	22-LaVitaEIlSogno	ESPLORANDO IL  CORPO UMANO	LA VITA E  IL  SOGNO	00:24:21	51	cartoni animati
-20/12/2015	18:19:34	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-20/12/2015	18:19:41	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
-20/12/2015	19:42:50	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
-20/12/2015	19:43:53	AltrimentiCiArrabbiamo	Sconosciuto	Nuovo File	01:37:35	1	Film
-20/12/2015	21:21:28	'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video	Commedia	Natale in casa   Cupiello	02:12:48	1	Film
-20/12/2015	23:34:16	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
-21/12/2015	00:26:22	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
-21/12/2015	02:14:53	AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI	Sconosciuto	ABRAMO ISACCO GIACOBBE	01:26:07	1	Film
-21/12/2015	03:41:00	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-21/12/2015	03:41:15	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-21/12/2015	03:41:22	AlbertoSordiIlVedovo	Sconosciuto	IL  VEDOVO	01:27:06	1	Film
-21/12/2015	05:08:28	Gerace	GERACE	GERACE	00:06:01	71	documentari
-21/12/2015	05:14:30	Adoppiamandata_mpeg2video	Sconosciuto	A DOPPIA MANDATA	01:24:07	1	Film
+20/12/2015	17:34:12	GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)	CONSIGLIO  COMUNALE GERACE 	Consiglio  comunale gerace del 16 dic 015	00:50:31	31	programmi informativi
+20/12/2015	18:24:43	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+20/12/2015	18:24:50	CACCIATORIDITESTE1	Sconosciuto	Nuovo File	00:29:17	0	
+20/12/2015	18:54:08	inItalia_20150506_50604	Sconosciuto	in italia	00:02:21	41	programmi culturali
+20/12/2015	18:56:29	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
+20/12/2015	18:56:36	SPOTEDILMERICInatale2015ufficiale	EDIL MERICI NATALE 	edil mericinatale	00:02:55	11	spot
+20/12/2015	18:59:32	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+20/12/2015	18:59:39	TG	TG 	TELEGIORNALE	00:02:30	31	programmi informativi
+20/12/2015	19:02:09	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+20/12/2015	19:02:20	IngannoGlobale11settembre2001(versionecompleta)	INGANNO  GLOBALE	TORRI  GEMELLE	01:31:56	41	programmi culturali
+20/12/2015	20:34:17	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+20/12/2015	20:34:28	23-L'origineDellaVita	Sconosciuto	L' ORIGINE DELLA VITA	00:25:01	51	cartoni animati
+20/12/2015	20:59:30	22-LaVitaEIlSogno	ESPLORANDO IL  CORPO UMANO	LA VITA E  IL  SOGNO	00:24:21	51	cartoni animati
+20/12/2015	21:23:51	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+20/12/2015	21:23:58	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
+20/12/2015	22:47:07	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
+20/12/2015	22:48:10	AltrimentiCiArrabbiamo	Sconosciuto	Nuovo File	01:37:35	1	Film
+21/12/2015	00:25:45	'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video	Commedia	Natale in casa   Cupiello	02:12:48	1	Film
+21/12/2015	02:38:33	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
+21/12/2015	03:30:39	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
+21/12/2015	05:19:10	AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI	Sconosciuto	ABRAMO ISACCO GIACOBBE	01:26:07	1	Film
+21/12/2015	06:45:17	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+21/12/2015	06:45:32	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+21/12/2015	06:45:39	Gerace	GERACE	GERACE	00:06:01	71	documentari
+21/12/2015	06:51:40	Adoppiamandata_mpeg2video	Sconosciuto	A DOPPIA MANDATA	01:24:07	1	Film
