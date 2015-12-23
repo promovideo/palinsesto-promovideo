@@ -1,73 +1,27 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-23/12/2015	09:42:37	AllexinnoStarchildSenorita_mpeg2video(1)	Senorita	Alexino	00:03:37	81	videoclip
-23/12/2015	09:46:14	MAXPEZZALIECCOTI	Eccoti	Max Pezzali	00:04:05	81	videoclip
-23/12/2015	09:50:20	CalvinHarris-Summer	SUMMER	CALVIN HARRIS	00:03:53	81	videoclip
-23/12/2015	09:54:14	AlexMicaDalinda	Dalinda	Alex Mica	00:03:25	81	videoclip
-23/12/2015	09:57:40	AllexinnoStarchildNadaSemVoc(withlyrics)	Starchild Nada Sem Voc	ALEXINNO	00:03:46	81	videoclip
-23/12/2015	10:01:26	AllexinnoStarchildSenorita	Starchild Senorita	Allexinno	00:03:37	81	videoclip
-23/12/2015	10:05:03	AllexinnoStarchildSenorita_mpeg2video(1)	Senorita	Alexino	00:03:37	81	videoclip
-23/12/2015	10:08:40	CleanBandit-Extraordinary(feat.SharnaBass)(OfficialVideo)	EXTRAORINARY	CLEAN BLANDIT	00:04:16	81	videoclip
-23/12/2015	10:12:56	CleanBandit-RatherBe(feat.JessGlynne)(OfficialVideo)	RATHER BE	CLEAN BANDIT	00:04:28	81	videoclip
-23/12/2015	10:17:25	TG	TG 	TELEGIORNALE	00:02:30	31	programmi informativi
-23/12/2015	10:19:56	MV_2015_p01	Sconosciuto	MV_2015_p01	00:15:27	81	videoclip
-23/12/2015	10:35:23	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
-23/12/2015	10:45:21	MuseoEgiziodelCairo(parte3)	MUSEO EGIZIO DEL CAIRO 3^ P	MUSEO EGIZIO DEL CAIRO 3^ P	00:29:05	41	programmi culturali
-23/12/2015	11:14:26	TG	TG 	TELEGIORNALE	00:02:30	31	programmi informativi
-23/12/2015	11:16:57	pillolaPrometeo_20150522_51046	Sconosciuto	Nuovo File	00:00:33	0	
-23/12/2015	11:17:30	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
-23/12/2015	11:27:28	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-23/12/2015	11:28:33	SPOTEDILMERICInatale2015ufficiale	EDIL MERICI NATALE 	edil mericinatale	00:02:55	11	spot
-23/12/2015	11:31:29	MuseoEgiziodelCairo(parte2)	MUSEO EGIZIO DEL CAIRO 2^	MUSEO EGIZIO DEL CAIRO 2^	00:26:08	41	programmi culturali
-23/12/2015	11:57:38	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-23/12/2015	11:57:48	2012VUEMMESPOT	VUEMMEFAST	VUEMMEFAST	00:00:37	11	spot
-23/12/2015	11:58:26	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
-23/12/2015	12:22:49	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
-23/12/2015	12:31:57	21-LaVaccinazione	ESPLORANDO IL  CORPO UMANO	LA VACCINAZIONE	00:26:31	51	cartoni animati
-23/12/2015	12:58:28	22-LaVitaEIlSogno	ESPLORANDO IL  CORPO UMANO	LA VITA E  IL  SOGNO	00:24:21	51	cartoni animati
-23/12/2015	13:22:50	23-L'origineDellaVita	Sconosciuto	L' ORIGINE DELLA VITA	00:25:01	51	cartoni animati
-23/12/2015	13:47:52	SPOTEDILMERICInatale2015ufficiale	EDIL MERICI NATALE 	edil mericinatale	00:02:55	11	spot
-23/12/2015	13:50:47	TRAILERPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:10:04	0	
-23/12/2015	14:00:52	inTavola_20150226_48823	Sconosciuto	Nuovo File	00:01:58	0	
-23/12/2015	14:02:51	TG	TG 	TELEGIORNALE	00:02:30	31	programmi informativi
-23/12/2015	14:05:22	TRAILERPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:10:04	0	
-23/12/2015	14:15:26	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-23/12/2015	14:15:33	80NOSTALGIA12	80NOSTALGIA12	80NOSTALGIA12	00:32:37	81	videoclip
-23/12/2015	14:48:10	benessere_20150715_52345	Sconosciuto	Nuovo File	00:01:11	0	
-23/12/2015	14:49:22	agrisapori-635x15-11-15	Sconosciuto	Nuovo File	00:32:17	0	
-23/12/2015	15:21:39	P07Mukk016-17	Sconosciuto	Nuovo File	00:14:04	0	
-23/12/2015	15:35:44	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-23/12/2015	15:45:49	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-23/12/2015	15:46:29	SPOTEDILMERICInatale2015ufficiale	EDIL MERICI NATALE 	edil mericinatale	00:02:55	11	spot
-23/12/2015	15:49:25	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-23/12/2015	15:49:32	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
-23/12/2015	16:11:45	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
-23/12/2015	17:42:20	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-23/12/2015	17:42:27	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-23/12/2015	17:42:34	inItalia_20150506_50604	Sconosciuto	in italia	00:02:21	41	programmi culturali
-23/12/2015	17:44:55	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-23/12/2015	17:45:02	TartarugheNinja-62Cacciaall'Alieno	Sconosciuto	Nuovo File	00:20:26	0	
-23/12/2015	18:05:29	TartarugheNinja-61Braccato	Sconosciuto	Nuovo File	00:20:28	0	
-23/12/2015	18:25:57	TartarugheNinja-60Agguatonellefogne	Sconosciuto	Nuovo File	00:20:29	0	
-23/12/2015	18:46:27	vendettaallo.k19671°t.	VENDETTA ALLO K 1^	VENDETTA ALLO K 1^	00:50:31	1	Film
-23/12/2015	19:36:58	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-23/12/2015	19:37:05	TG	TG 	TELEGIORNALE	00:02:30	31	programmi informativi
-23/12/2015	19:39:36	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-23/12/2015	19:39:47	Wargames_mpeg2video	WARGAMES	Wrgames	01:48:02	1	Film
-23/12/2015	21:27:49	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-23/12/2015	21:28:00	23-L'origineDellaVita	Sconosciuto	L' ORIGINE DELLA VITA	00:25:01	51	cartoni animati
-23/12/2015	21:53:01	22-LaVitaEIlSogno	ESPLORANDO IL  CORPO UMANO	LA VITA E  IL  SOGNO	00:24:21	51	cartoni animati
-23/12/2015	22:17:23	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-23/12/2015	22:17:30	Uomo.Avvisato.Mezzo.Ammazzato.19722°t.	UOMO  AVVISATO MEZZO AMMAZZATO 2^ 	UOMO  AVVISATO MEZZO AMMAZZATO 2^	00:43:11	1	Film
-23/12/2015	23:00:41	DonCamilloMonsignoremanontroppo	DON CAMILLO   MONSIGNORE	DON CAMILLO MONSIGNORE	01:53:25	1	Film
-24/12/2015	00:54:07	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
-24/12/2015	02:17:16	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
-24/12/2015	02:18:19	ZAGORTVIlmarchiodiKriminal19682°t.	ZAGORTV MARCHIO  DI  KRIMINAL 2°	ZAGORTV MARCHIO  DI  KRIMINAL  2°	00:38:08	1	Film
-24/12/2015	02:56:28	AltrimentiCiArrabbiamo	Sconosciuto	Nuovo File	01:37:35	1	Film
-24/12/2015	04:34:03	'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video	Commedia	Natale in casa   Cupiello	02:12:48	1	Film
-24/12/2015	06:46:51	FLASHPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:00	0	
-24/12/2015	06:51:52	0110-1968-Calmaragazzeoggimisposo-LouisDeFunes_mpeg2video	Sconosciuto	CALMA RAGAZZE  OGGI   MI  SPOSO	01:25:55	1	Film
-24/12/2015	08:17:48	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-24/12/2015	08:18:03	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-24/12/2015	08:18:10	Gerace	GERACE	GERACE	00:06:01	71	documentari
-24/12/2015	08:24:11	LeComiche2	Sconosciuto	Le comiche 2	01:27:16	22	
-24/12/2015	09:51:27	Adoppiamandata_mpeg2video	Sconosciuto	A DOPPIA MANDATA	01:24:07	1	Film
+23/12/2015	17:43:26	TartarugheNinja-62Cacciaall'Alieno	Sconosciuto	Nuovo File	00:20:26	0	
+23/12/2015	18:03:53	TartarugheNinja-61Braccato	Sconosciuto	Nuovo File	00:20:28	0	
+23/12/2015	18:24:21	TartarugheNinja-60Agguatonellefogne	Sconosciuto	Nuovo File	00:20:29	0	
+23/12/2015	18:44:51	vendettaallo.k19671°t.	VENDETTA ALLO K 1^	VENDETTA ALLO K 1^	00:50:31	1	Film
+23/12/2015	19:35:22	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+23/12/2015	19:35:29	TG	TG 	TELEGIORNALE	00:02:30	31	programmi informativi
+23/12/2015	19:38:00	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+23/12/2015	19:38:11	Wargames_mpeg2video	WARGAMES	Wrgames	01:48:02	1	Film
+23/12/2015	21:26:13	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+23/12/2015	21:26:24	23-L'origineDellaVita	Sconosciuto	L' ORIGINE DELLA VITA	00:25:01	51	cartoni animati
+23/12/2015	21:51:26	22-LaVitaEIlSogno	ESPLORANDO IL  CORPO UMANO	LA VITA E  IL  SOGNO	00:24:21	51	cartoni animati
+23/12/2015	22:15:48	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+23/12/2015	22:15:54	Uomo.Avvisato.Mezzo.Ammazzato.19722°t.	UOMO  AVVISATO MEZZO AMMAZZATO 2^ 	UOMO  AVVISATO MEZZO AMMAZZATO 2^	00:43:11	1	Film
+23/12/2015	22:59:06	DonCamilloMonsignoremanontroppo	DON CAMILLO   MONSIGNORE	DON CAMILLO MONSIGNORE	01:53:25	1	Film
+24/12/2015	00:52:31	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
+24/12/2015	02:15:40	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
+24/12/2015	02:16:43	ZAGORTVIlmarchiodiKriminal19682°t.	ZAGORTV MARCHIO  DI  KRIMINAL 2°	ZAGORTV MARCHIO  DI  KRIMINAL  2°	00:38:08	1	Film
+24/12/2015	02:54:52	AltrimentiCiArrabbiamo	Sconosciuto	Nuovo File	01:37:35	1	Film
+24/12/2015	04:32:27	'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video	Commedia	Natale in casa   Cupiello	02:12:48	1	Film
+24/12/2015	06:45:15	FLASHPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:00	0	
+24/12/2015	06:50:16	0110-1968-Calmaragazzeoggimisposo-LouisDeFunes_mpeg2video	Sconosciuto	CALMA RAGAZZE  OGGI   MI  SPOSO	01:25:55	1	Film
+24/12/2015	08:16:12	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+24/12/2015	08:16:28	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+24/12/2015	08:16:34	Gerace	GERACE	GERACE	00:06:01	71	documentari
+24/12/2015	08:22:35	LeComiche2	Sconosciuto	Le comiche 2	01:27:16	22	
+24/12/2015	09:49:52	Adoppiamandata_mpeg2video	Sconosciuto	A DOPPIA MANDATA	01:24:07	1	Film
