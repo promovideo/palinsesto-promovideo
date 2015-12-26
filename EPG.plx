@@ -1,14 +1,72 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-25/12/2015	20:35:34	TotoaParigi_mpeg2video	Sconosciuto	Tot a Prigi	01:33:42	1	Film
-25/12/2015	22:09:17	CariatiPiccolaGrandeItalia	CARIATI	cariati	00:21:41	71	documentari
-25/12/2015	22:30:58	CauloniaTrenitaliaripristinalafermata	Sconosciuto	Nuovo File	00:07:55	0	
-25/12/2015	22:38:53	musaTv_20151207_55709	Sconosciuto	Nuovo File	00:13:22	0	
-25/12/2015	22:52:16	Gerace	GERACE	GERACE	00:06:01	71	documentari
-25/12/2015	22:58:17	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
-26/12/2015	00:48:53	_1717_Altuoposto	L'AUTOPOSTO	L'AUTOPOSTO	00:07:45	61	Telefilm
-26/12/2015	00:56:38	Kriminal19661°t.	KRIMINAL 1°	KRIMINAL 1°	00:51:34	1	Film
-26/12/2015	01:48:13	Kriminal19662°t.	KRIMINAL 2° T	KRIMINAL 2° T	00:43:38	1	Film
-26/12/2015	02:31:51	LeComiche2	Sconosciuto	Le comiche 2	01:27:16	22	
-26/12/2015	03:59:07	Adoppiamandata_mpeg2video	Sconosciuto	A DOPPIA MANDATA	01:24:07	1	Film
-26/12/2015	05:23:15	Il.Diavolo.bn19631°t	IL DIAVOLO B/N SORDI 1°	IL DIAVOLO B/N SORDI 1°	00:51:44	1	Film
-26/12/2015	06:14:59	agrisapori-635x15-11-15	Sconosciuto	Nuovo File	00:32:17	0	
+26/12/2015	06:03:37	MAXPEZZALIECCOTI	Eccoti	Max Pezzali	00:04:05	81	videoclip
+26/12/2015	06:07:43	CalvinHarris-Summer	SUMMER	CALVIN HARRIS	00:03:53	81	videoclip
+26/12/2015	06:11:37	AlexMicaDalinda	Dalinda	Alex Mica	00:03:25	81	videoclip
+26/12/2015	06:15:02	AllexinnoStarchildNadaSemVoc(withlyrics)	Starchild Nada Sem Voc	ALEXINNO	00:03:46	81	videoclip
+26/12/2015	06:18:49	AllexinnoStarchildSenorita	Starchild Senorita	Allexinno	00:03:37	81	videoclip
+26/12/2015	06:22:26	AllexinnoStarchildSenorita_mpeg2video(1)	Senorita	Alexino	00:03:37	81	videoclip
+26/12/2015	06:26:03	CleanBandit-Extraordinary(feat.SharnaBass)(OfficialVideo)	EXTRAORINARY	CLEAN BLANDIT	00:04:16	81	videoclip
+26/12/2015	06:30:19	CleanBandit-RatherBe(feat.JessGlynne)(OfficialVideo)	RATHER BE	CLEAN BANDIT	00:04:28	81	videoclip
+26/12/2015	06:34:48	TG	TG 	TELEGIORNALE	00:02:30	31	programmi informativi
+26/12/2015	06:37:18	MV_2015_p01	Sconosciuto	MV_2015_p01	00:15:27	81	videoclip
+26/12/2015	06:52:46	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
+26/12/2015	07:02:44	MuseoEgiziodelCairo(parte3)	MUSEO EGIZIO DEL CAIRO 3^ P	MUSEO EGIZIO DEL CAIRO 3^ P	00:29:05	41	programmi culturali
+26/12/2015	07:31:49	TG	TG 	TELEGIORNALE	00:02:30	31	programmi informativi
+26/12/2015	07:34:20	pillolaPrometeo_20150522_51046	Sconosciuto	Nuovo File	00:00:33	0	
+26/12/2015	07:34:53	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
+26/12/2015	07:44:51	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+26/12/2015	07:45:56	SPOTEDILMERICInatale2015ufficiale	EDIL MERICI NATALE 	edil mericinatale	00:02:55	11	spot
+26/12/2015	07:48:52	MuseoEgiziodelCairo(parte2)	MUSEO EGIZIO DEL CAIRO 2^	MUSEO EGIZIO DEL CAIRO 2^	00:26:08	41	programmi culturali
+26/12/2015	08:15:00	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+26/12/2015	08:15:11	2012VUEMMESPOT	VUEMMEFAST	VUEMMEFAST	00:00:37	11	spot
+26/12/2015	08:15:49	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
+26/12/2015	08:40:12	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+26/12/2015	08:49:20	21-LaVaccinazione	ESPLORANDO IL  CORPO UMANO	LA VACCINAZIONE	00:26:31	51	cartoni animati
+26/12/2015	09:15:51	22-LaVitaEIlSogno	ESPLORANDO IL  CORPO UMANO	LA VITA E  IL  SOGNO	00:24:21	51	cartoni animati
+26/12/2015	09:40:13	23-L'origineDellaVita	Sconosciuto	L' ORIGINE DELLA VITA	00:25:01	51	cartoni animati
+26/12/2015	10:05:14	SPOTEDILMERICInatale2015ufficiale	EDIL MERICI NATALE 	edil mericinatale	00:02:55	11	spot
+26/12/2015	10:08:10	TRAILERPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:10:04	0	
+26/12/2015	10:18:15	inTavola_20150226_48823	Sconosciuto	Nuovo File	00:01:58	0	
+26/12/2015	10:20:14	TG	TG 	TELEGIORNALE	00:02:30	31	programmi informativi
+26/12/2015	10:22:45	TRAILERPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:10:04	0	
+26/12/2015	10:32:49	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+26/12/2015	10:32:56	80NOSTALGIA12	80NOSTALGIA12	80NOSTALGIA12	00:32:37	81	videoclip
+26/12/2015	11:05:33	benessere_20150715_52345	Sconosciuto	Nuovo File	00:01:11	0	
+26/12/2015	11:06:45	agrisapori-635x15-11-15	Sconosciuto	Nuovo File	00:32:17	0	
+26/12/2015	11:39:02	P07Mukk016-17	Sconosciuto	Nuovo File	00:14:04	0	
+26/12/2015	11:53:07	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+26/12/2015	12:03:12	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
+26/12/2015	12:03:52	SPOTEDILMERICInatale2015ufficiale	EDIL MERICI NATALE 	edil mericinatale	00:02:55	11	spot
+26/12/2015	12:06:48	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
+26/12/2015	12:06:55	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
+26/12/2015	12:29:08	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
+26/12/2015	13:59:43	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+26/12/2015	13:59:50	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+26/12/2015	13:59:57	inItalia_20150506_50604	Sconosciuto	in italia	00:02:21	41	programmi culturali
+26/12/2015	14:02:18	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
+26/12/2015	14:02:25	TartarugheNinja-62Cacciaall'Alieno	Sconosciuto	Nuovo File	00:20:26	0	
+26/12/2015	14:22:51	TartarugheNinja-61Braccato	Sconosciuto	Nuovo File	00:20:28	0	
+26/12/2015	14:43:20	TartarugheNinja-60Agguatonellefogne	Sconosciuto	Nuovo File	00:20:29	0	
+26/12/2015	15:03:49	vendettaallo.k19671°t.	VENDETTA ALLO K 1^	VENDETTA ALLO K 1^	00:50:31	1	Film
+26/12/2015	15:54:21	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+26/12/2015	15:54:28	TG	TG 	TELEGIORNALE	00:02:30	31	programmi informativi
+26/12/2015	15:56:59	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+26/12/2015	15:57:10	Wargames_mpeg2video	WARGAMES	Wrgames	01:48:02	1	Film
+26/12/2015	17:45:12	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+26/12/2015	17:45:23	23-L'origineDellaVita	Sconosciuto	L' ORIGINE DELLA VITA	00:25:01	51	cartoni animati
+26/12/2015	18:10:24	22-LaVitaEIlSogno	ESPLORANDO IL  CORPO UMANO	LA VITA E  IL  SOGNO	00:24:21	51	cartoni animati
+26/12/2015	18:34:46	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+26/12/2015	18:34:53	Uomo.Avvisato.Mezzo.Ammazzato.19722°t.	UOMO  AVVISATO MEZZO AMMAZZATO 2^ 	UOMO  AVVISATO MEZZO AMMAZZATO 2^	00:43:11	1	Film
+26/12/2015	19:18:04	DonCamilloMonsignoremanontroppo	DON CAMILLO   MONSIGNORE	DON CAMILLO MONSIGNORE	01:53:25	1	Film
+26/12/2015	21:11:30	'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video	Commedia	Natale in casa   Cupiello	02:12:48	1	Film
+26/12/2015	23:24:18	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
+27/12/2015	00:47:27	AltrimentiCiArrabbiamo	Sconosciuto	Nuovo File	01:37:35	1	Film
+27/12/2015	02:25:02	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
+27/12/2015	02:26:05	ZAGORTVIlmarchiodiKriminal19682°t.	ZAGORTV MARCHIO  DI  KRIMINAL 2°	ZAGORTV MARCHIO  DI  KRIMINAL  2°	00:38:08	1	Film
+27/12/2015	03:04:14	FLASHPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:00	0	
+27/12/2015	03:09:15	0110-1968-Calmaragazzeoggimisposo-LouisDeFunes_mpeg2video	Sconosciuto	CALMA RAGAZZE  OGGI   MI  SPOSO	01:25:55	1	Film
+27/12/2015	04:35:11	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+27/12/2015	04:35:26	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+27/12/2015	04:35:33	Gerace	GERACE	GERACE	00:06:01	71	documentari
+27/12/2015	04:41:34	LeComiche2	Sconosciuto	Le comiche 2	01:27:16	22	
+27/12/2015	06:08:50	Adoppiamandata_mpeg2video	Sconosciuto	A DOPPIA MANDATA	01:24:07	1	Film
