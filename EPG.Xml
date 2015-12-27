@@ -2,141 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>DonCamilloMonsignoremanontroppo</IdName>
-				<StartDate>2015-12-26</StartDate>
-				<StartTime>20:17:44</StartTime>
-				<EndDate>2015-12-26</EndDate>
-				<EndTime>22:11:10</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>DON CAMILLO   MONSIGNORE</Name>
-					<Description>DON CAMILLO MONSIGNORE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video</IdName>
-				<StartDate>2015-12-26</StartDate>
-				<StartTime>22:11:10</StartTime>
-				<EndDate>2015-12-27</EndDate>
-				<EndTime>00:23:58</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Commedia</Name>
-					<Description>Natale in casa   Cupiello</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
-				<StartDate>2015-12-27</StartDate>
-				<StartTime>00:23:58</StartTime>
-				<EndDate>2015-12-27</EndDate>
-				<EndTime>01:47:07</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>BELLEZZE SULLA SPIAGGIA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>AltrimentiCiArrabbiamo</IdName>
-				<StartDate>2015-12-27</StartDate>
-				<StartTime>01:47:07</StartTime>
-				<EndDate>2015-12-27</EndDate>
-				<EndTime>03:24:42</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
-				<IdName>benessere_20150512_50742</IdName>
-				<StartDate>2015-12-27</StartDate>
-				<StartTime>03:24:42</StartTime>
-				<EndDate>2015-12-27</EndDate>
-				<EndTime>03:25:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>benessere</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
-				<IdName>ZAGORTVIlmarchiodiKriminal19682°t.</IdName>
-				<StartDate>2015-12-27</StartDate>
-				<StartTime>03:25:45</StartTime>
-				<EndDate>2015-12-27</EndDate>
-				<EndTime>04:03:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ZAGORTV MARCHIO  DI  KRIMINAL 2°</Name>
-					<Description>ZAGORTV MARCHIO  DI  KRIMINAL  2°</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
-				<IdName>FLASHPARTE4SOLODALLE16,00ALLE18,00</IdName>
-				<StartDate>2015-12-27</StartDate>
-				<StartTime>04:03:54</StartTime>
-				<EndDate>2015-12-27</EndDate>
-				<EndTime>04:08:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="8">
-				<IdName>0110-1968-Calmaragazzeoggimisposo-LouisDeFunes_mpeg2video</IdName>
-				<StartDate>2015-12-27</StartDate>
-				<StartTime>04:08:54</StartTime>
-				<EndDate>2015-12-27</EndDate>
-				<EndTime>05:34:50</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CALMA RAGAZZE  OGGI   MI  SPOSO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="9">
-				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
-				<StartDate>2015-12-27</StartDate>
-				<StartTime>05:34:50</StartTime>
-				<EndDate>2015-12-27</EndDate>
-				<EndTime>05:35:06</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ISCRIVITI CANALE YOU TUBE</Name>
-					<Description>ISCRIVITI CANALE YOU TUBE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2015-12-27</StartDate>
-				<StartTime>05:35:06</StartTime>
-				<EndDate>2015-12-27</EndDate>
-				<EndTime>05:35:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="11">
 				<IdName>Gerace</IdName>
 				<StartDate>2015-12-27</StartDate>
-				<StartTime>05:35:13</StartTime>
+				<StartTime>05:35:08</StartTime>
 				<EndDate>2015-12-27</EndDate>
-				<EndTime>05:41:14</EndTime>
+				<EndTime>05:41:09</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -144,12 +14,12 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="2">
 				<IdName>LeComiche2</IdName>
 				<StartDate>2015-12-27</StartDate>
-				<StartTime>05:41:14</StartTime>
+				<StartTime>05:41:09</StartTime>
 				<EndDate>2015-12-27</EndDate>
-				<EndTime>07:08:30</EndTime>
+				<EndTime>07:08:25</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
