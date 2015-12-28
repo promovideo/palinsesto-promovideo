@@ -1,37 +1,24 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-28/12/2015	19:00:59	TRAILERPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:10:04	0	
-28/12/2015	19:11:03	inTavola_20150226_48823	Sconosciuto	Nuovo File	00:01:58	0	
-28/12/2015	19:13:02	TG	TG 	TELEGIORNALE	00:02:30	31	programmi informativi
-28/12/2015	19:15:33	TRAILERPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:10:04	0	
-28/12/2015	19:25:37	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-28/12/2015	19:25:44	80NOSTALGIA12	80NOSTALGIA12	80NOSTALGIA12	00:32:37	81	videoclip
-28/12/2015	19:58:21	benessere_20150715_52345	Sconosciuto	Nuovo File	00:01:11	0	
-28/12/2015	19:59:33	agrisapori-635x15-11-15	Sconosciuto	Nuovo File	00:32:17	0	
-28/12/2015	20:31:50	P07Mukk016-17	Sconosciuto	Nuovo File	00:14:04	0	
-28/12/2015	20:45:55	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-28/12/2015	20:56:00	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-28/12/2015	20:56:40	SPOTEDILMERICInatale2015ufficiale	EDIL MERICI NATALE 	edil mericinatale	00:02:55	11	spot
-28/12/2015	20:59:36	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-28/12/2015	20:59:43	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
-28/12/2015	21:21:56	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
-28/12/2015	22:52:31	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-28/12/2015	22:52:38	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-28/12/2015	22:52:45	inItalia_20150506_50604	Sconosciuto	in italia	00:02:21	41	programmi culturali
-28/12/2015	22:55:06	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-28/12/2015	22:55:13	TartarugheNinja-62Cacciaall'Alieno	Sconosciuto	Nuovo File	00:20:26	0	
-28/12/2015	23:15:40	TartarugheNinja-61Braccato	Sconosciuto	Nuovo File	00:20:28	0	
-28/12/2015	23:36:08	TartarugheNinja-60Agguatonellefogne	Sconosciuto	Nuovo File	00:20:29	0	
-28/12/2015	23:56:38	vendettaallo.k19671配.	VENDETTA ALLO K 1^	VENDETTA ALLO K 1^	00:50:31	1	Film
-29/12/2015	00:47:09	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-29/12/2015	00:47:16	TG	TG 	TELEGIORNALE	00:02:30	31	programmi informativi
-29/12/2015	00:49:47	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-29/12/2015	00:49:58	Wargames_mpeg2video	WARGAMES	Wrgames	01:48:02	1	Film
-29/12/2015	02:38:00	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-29/12/2015	02:38:11	23-L'origineDellaVita	Sconosciuto	L' ORIGINE DELLA VITA	00:25:01	51	cartoni animati
-29/12/2015	03:03:12	22-LaVitaEIlSogno	ESPLORANDO IL  CORPO UMANO	LA VITA E  IL  SOGNO	00:24:21	51	cartoni animati
-29/12/2015	03:27:34	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-29/12/2015	03:27:41	Uomo.Avvisato.Mezzo.Ammazzato.19722配.	UOMO  AVVISATO MEZZO AMMAZZATO 2^ 	UOMO  AVVISATO MEZZO AMMAZZATO 2^	00:43:11	1	Film
-29/12/2015	04:10:53	DonCamilloMonsignoremanontroppo	DON CAMILLO   MONSIGNORE	DON CAMILLO MONSIGNORE	01:53:25	1	Film
-29/12/2015	06:04:18	'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video	Commedia	Natale in casa   Cupiello	02:12:48	1	Film
-29/12/2015	08:17:06	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
-29/12/2015	09:40:15	AltrimentiCiArrabbiamo	Sconosciuto	Nuovo File	01:37:35	1	Film
+28/12/2015	20:56:23	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
+28/12/2015	21:18:36	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
+28/12/2015	22:49:11	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+28/12/2015	22:49:18	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+28/12/2015	22:49:25	inItalia_20150506_50604	Sconosciuto	in italia	00:02:21	41	programmi culturali
+28/12/2015	22:51:46	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
+28/12/2015	22:51:53	TartarugheNinja-62Cacciaall'Alieno	Sconosciuto	Nuovo File	00:20:26	0	
+28/12/2015	23:12:19	TartarugheNinja-61Braccato	Sconosciuto	Nuovo File	00:20:28	0	
+28/12/2015	23:32:47	TartarugheNinja-60Agguatonellefogne	Sconosciuto	Nuovo File	00:20:29	0	
+28/12/2015	23:53:17	vendettaallo.k19671配.	VENDETTA ALLO K 1^	VENDETTA ALLO K 1^	00:50:31	1	Film
+29/12/2015	00:43:49	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+29/12/2015	00:43:56	TG	TG 	TELEGIORNALE	00:02:30	31	programmi informativi
+29/12/2015	00:46:27	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+29/12/2015	00:46:37	Wargames_mpeg2video	WARGAMES	Wrgames	01:48:02	1	Film
+29/12/2015	02:34:40	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+29/12/2015	02:34:51	23-L'origineDellaVita	Sconosciuto	L' ORIGINE DELLA VITA	00:25:01	51	cartoni animati
+29/12/2015	02:59:52	22-LaVitaEIlSogno	ESPLORANDO IL  CORPO UMANO	LA VITA E  IL  SOGNO	00:24:21	51	cartoni animati
+29/12/2015	03:24:14	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+29/12/2015	03:24:21	Uomo.Avvisato.Mezzo.Ammazzato.19722配.	UOMO  AVVISATO MEZZO AMMAZZATO 2^ 	UOMO  AVVISATO MEZZO AMMAZZATO 2^	00:43:11	1	Film
+29/12/2015	04:07:32	DonCamilloMonsignoremanontroppo	DON CAMILLO   MONSIGNORE	DON CAMILLO MONSIGNORE	01:53:25	1	Film
+29/12/2015	06:00:58	'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video	Commedia	Natale in casa   Cupiello	02:12:48	1	Film
+29/12/2015	08:13:46	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
+29/12/2015	09:36:55	AltrimentiCiArrabbiamo	Sconosciuto	Nuovo File	01:37:35	1	Film
