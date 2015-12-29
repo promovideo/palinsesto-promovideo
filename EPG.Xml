@@ -2,19 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video</IdName>
-				<StartDate>2015-12-29</StartDate>
-				<StartTime>06:00:50</StartTime>
-				<EndDate>2015-12-29</EndDate>
-				<EndTime>08:13:38</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Commedia</Name>
-					<Description>Natale in casa   Cupiello</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
 				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
 				<StartDate>2015-12-29</StartDate>
 				<StartTime>08:13:38</StartTime>
@@ -27,7 +14,7 @@
 					<Description>BELLEZZE SULLA SPIAGGIA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="3">
+			<Event id="2">
 				<IdName>AltrimentiCiArrabbiamo</IdName>
 				<StartDate>2015-12-29</StartDate>
 				<StartTime>09:36:47</StartTime>
