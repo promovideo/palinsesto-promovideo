@@ -1,37 +1,3 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-30/12/2015	21:29:08	agrisapori-635x15-11-15	Sconosciuto	Nuovo File	00:32:17	0	
-30/12/2015	22:01:25	P07Mukk016-17	Sconosciuto	Nuovo File	00:14:04	0	
-30/12/2015	22:15:30	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-30/12/2015	22:25:35	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-30/12/2015	22:26:15	MV_2015_p03	mille  voci 2015	mille 015 voci p. 3	00:50:50	81	videoclip
-30/12/2015	23:17:05	Reportage_20151118_55249	Sconosciuto	Nuovo File	00:04:45	0	
-30/12/2015	23:21:51	SPOTEDILMERICInatale2015ufficiale	EDIL MERICI NATALE 	edil mericinatale	00:02:55	11	spot
-30/12/2015	23:24:47	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-30/12/2015	23:24:54	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
-30/12/2015	23:47:07	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
-31/12/2015	01:17:42	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-31/12/2015	01:17:49	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-31/12/2015	01:17:56	CACCIATORIDITESTE1	Sconosciuto	Nuovo File	00:29:17	0	
-30/12/2015	15:57:00	inItalia_20150506_50604	Sconosciuto	in italia	00:02:21	41	programmi culturali
-30/12/2015	15:59:21	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-30/12/2015	15:59:28	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
-30/12/2015	16:01:57	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-30/12/2015	16:02:04	TG	TG 	TELEGIORNALE	00:02:30	31	programmi informativi
-30/12/2015	16:04:35	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-30/12/2015	16:04:46	IngannoGlobale11settembre2001(versionecompleta)	INGANNO  GLOBALE	TORRI  GEMELLE	01:31:56	41	programmi culturali
-30/12/2015	17:36:43	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-30/12/2015	17:36:53	23-L'origineDellaVita	Sconosciuto	L' ORIGINE DELLA VITA	00:25:01	51	cartoni animati
-30/12/2015	18:01:55	22-LaVitaEIlSogno	ESPLORANDO IL  CORPO UMANO	LA VITA E  IL  SOGNO	00:24:21	51	cartoni animati
-30/12/2015	18:26:17	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-30/12/2015	18:26:24	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
-30/12/2015	19:49:33	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
-30/12/2015	19:50:36	AltrimentiCiArrabbiamo	Sconosciuto	Nuovo File	01:37:35	1	Film
-30/12/2015	21:28:11	'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video	Commedia	Natale in casa   Cupiello	02:12:48	1	Film
-30/12/2015	23:40:59	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
-31/12/2015	00:33:04	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
-31/12/2015	02:21:35	AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI	Sconosciuto	ABRAMO ISACCO GIACOBBE	01:26:07	1	Film
-31/12/2015	03:47:42	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-31/12/2015	03:47:58	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-31/12/2015	03:48:05	AlbertoSordiIlVedovo	Sconosciuto	IL  VEDOVO	01:27:06	1	Film
-31/12/2015	05:15:11	Gerace	GERACE	GERACE	00:06:01	71	documentari
-31/12/2015	05:21:12	Adoppiamandata_mpeg2video	Sconosciuto	A DOPPIA MANDATA	01:24:07	1	Film
+31/12/2015	04:10:50	'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video	Commedia	Natale in casa   Cupiello	02:12:48	1	Film
+31/12/2015	06:23:38	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
