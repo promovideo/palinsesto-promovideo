@@ -1,7 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-12/01/2016	18:25:21	filmcompletoPiratiRPolanski1986	PIRATI	Pirati	01:45:39	1	Film
-12/01/2016	20:11:00	tg_20151126_55466	Sconosciuto	Nuovo File	00:02:51	0	
-12/01/2016	20:13:51	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
 12/01/2016	20:14:07	ImaginaryHeroes	IMMAGINARY HEROES	Immaginary Heores	01:51:03	1	Film
 12/01/2016	22:05:11	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
 12/01/2016	23:55:47	tg_20151126_55466	Sconosciuto	Nuovo File	00:02:51	0	
