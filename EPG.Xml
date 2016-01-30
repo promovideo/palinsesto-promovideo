@@ -2,102 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Bowfinger_2_mpeg2video</IdName>
-				<StartDate>2016-01-30</StartDate>
-				<StartTime>05:50:22</StartTime>
-				<EndDate>2016-01-30</EndDate>
-				<EndTime>06:38:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>BOWFINGER 2 P</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2016-01-30</StartDate>
-				<StartTime>06:38:29</StartTime>
-				<EndDate>2016-01-30</EndDate>
-				<EndTime>06:43:42</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>spotDIGIII</IdName>
-				<StartDate>2016-01-30</StartDate>
-				<StartTime>06:43:42</StartTime>
-				<EndDate>2016-01-30</EndDate>
-				<EndTime>06:43:58</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT DIGII</Name>
-					<Description>SPOT PROMOVIDEO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>ZAGORTVSatanik19671°t.</IdName>
-				<StartDate>2016-01-30</StartDate>
-				<StartTime>06:43:58</StartTime>
-				<EndDate>2016-01-30</EndDate>
-				<EndTime>07:31:03</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ZAGORTV SATANIK 1° T</Name>
-					<Description>ZAGORTV SATANIK 1° T</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
-				<IdName>ZAGORTVSatanik19672°t.</IdName>
-				<StartDate>2016-01-30</StartDate>
-				<StartTime>07:31:03</StartTime>
-				<EndDate>2016-01-30</EndDate>
-				<EndTime>08:07:12</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ZAGOR TV SATANIK 2° T</Name>
-					<Description>ZAGOR TV SATANIK 2° T</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
-				<IdName>PillolaSalute_20150302_48922</IdName>
-				<StartDate>2016-01-30</StartDate>
-				<StartTime>08:07:12</StartTime>
-				<EndDate>2016-01-30</EndDate>
-				<EndTime>08:07:52</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
-				<IdName>CityofGhost_mpeg2video</IdName>
-				<StartDate>2016-01-30</StartDate>
-				<StartTime>08:07:52</StartTime>
-				<EndDate>2016-01-30</EndDate>
-				<EndTime>09:59:34</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CYTY OF GHOST</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="8">
 				<IdName>Colpogrosso_mpeg2video</IdName>
 				<StartDate>2016-01-30</StartDate>
-				<StartTime>09:59:34</StartTime>
+				<StartTime>09:59:24</StartTime>
 				<EndDate>2016-01-30</EndDate>
-				<EndTime>12:01:44</EndTime>
+				<EndTime>12:01:34</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -105,12 +14,12 @@
 					<Description>COLPO  GROSSO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="2">
 				<IdName>3PROMOVIDEOSPOT3</IdName>
 				<StartDate>2016-01-30</StartDate>
-				<StartTime>12:01:44</StartTime>
+				<StartTime>12:01:34</StartTime>
 				<EndDate>2016-01-30</EndDate>
-				<EndTime>12:01:51</EndTime>
+				<EndTime>12:01:41</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,12 +27,12 @@
 					<Description>SPOT PROMOVIDEOTV 3</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="3">
 				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
 				<StartDate>2016-01-30</StartDate>
-				<StartTime>12:01:51</StartTime>
+				<StartTime>12:01:41</StartTime>
 				<EndDate>2016-01-30</EndDate>
-				<EndTime>12:24:04</EndTime>
+				<EndTime>12:23:54</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -131,12 +40,12 @@
 					<Description>Reggio piccola grande Italia  </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="4">
 				<IdName>FLASHPARTE6DOPOLE22,30</IdName>
 				<StartDate>2016-01-30</StartDate>
-				<StartTime>12:24:04</StartTime>
+				<StartTime>12:23:54</StartTime>
 				<EndDate>2016-01-30</EndDate>
-				<EndTime>12:29:10</EndTime>
+				<EndTime>12:29:00</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -144,12 +53,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="5">
 				<IdName>AttackForce</IdName>
 				<StartDate>2016-01-30</StartDate>
-				<StartTime>12:29:10</StartTime>
+				<StartTime>12:29:00</StartTime>
 				<EndDate>2016-01-30</EndDate>
-				<EndTime>13:59:45</EndTime>
+				<EndTime>13:59:35</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -157,12 +66,12 @@
 					<Description>ATTACK FORCE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="6">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2016-01-30</StartDate>
-				<StartTime>13:59:45</StartTime>
+				<StartTime>13:59:35</StartTime>
 				<EndDate>2016-01-30</EndDate>
-				<EndTime>13:59:52</EndTime>
+				<EndTime>13:59:42</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -170,12 +79,12 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="7">
 				<IdName>LibrocasinoMacrì_mpeg2video</IdName>
 				<StartDate>2016-01-30</StartDate>
-				<StartTime>13:59:52</StartTime>
+				<StartTime>13:59:42</StartTime>
 				<EndDate>2016-01-30</EndDate>
-				<EndTime>15:04:55</EndTime>
+				<EndTime>15:04:45</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -183,7 +92,7 @@
 					<Description>LIBRO CASINO MACRI'</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="8">
 				<IdName>Fantozzi-GrandiMagazzini</IdName>
 				<StartDate>2015-01-29</StartDate>
 				<StartTime>23:01:00</StartTime>
@@ -196,7 +105,7 @@
 					<Description>GRANDI MAGAZZINI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="9">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>00:51:35</StartTime>
@@ -209,7 +118,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="10">
 				<IdName>Filmato</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>00:51:42</StartTime>
@@ -222,7 +131,7 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="11">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>00:54:12</StartTime>
@@ -235,7 +144,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="12">
 				<IdName>minispotapplicazione</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>00:54:19</StartTime>
@@ -248,7 +157,7 @@
 					<Description>SPOTAPP</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="13">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>00:54:29</StartTime>
@@ -261,7 +170,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="21">
+			<Event id="14">
 				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>00:54:36</StartTime>
@@ -274,7 +183,7 @@
 					<Description>BELLEZZE SULLA SPIAGGIA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="22">
+			<Event id="15">
 				<IdName>benessere_20150512_50742</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>02:17:45</StartTime>
@@ -287,7 +196,7 @@
 					<Description>benessere</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="23">
+			<Event id="16">
 				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>02:18:48</StartTime>
@@ -300,7 +209,7 @@
 					<Description>ANIMALI SERPENTI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="24">
+			<Event id="17">
 				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>03:10:54</StartTime>
@@ -313,7 +222,7 @@
 					<Description>CRASH CONTATTO  FINALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="25">
+			<Event id="18">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>04:59:25</StartTime>
@@ -326,7 +235,7 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="26">
+			<Event id="19">
 				<IdName>IlVizietto1°t.</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>04:59:40</StartTime>
@@ -339,7 +248,7 @@
 					<Description>IL VIZIETTO 1° T</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="27">
+			<Event id="20">
 				<IdName>IlVizietto2°t.</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>05:48:22</StartTime>
@@ -352,7 +261,7 @@
 					<Description>IL VIZIETTO 2° T</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="28">
+			<Event id="21">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>06:32:48</StartTime>
@@ -365,7 +274,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="29">
+			<Event id="22">
 				<IdName>_1779_Recanatese_Lunaametà</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>06:32:55</StartTime>
@@ -378,7 +287,7 @@
 					<Description>RECANATESE  LUNA A METa'</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="30">
+			<Event id="23">
 				<IdName>ZAPPINGTV_CARTONE_005_OK</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>06:41:12</StartTime>
@@ -391,7 +300,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="31">
+			<Event id="24">
 				<IdName>Gerace</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>06:50:46</StartTime>
@@ -404,7 +313,7 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="32">
+			<Event id="25">
 				<IdName>Buenavistasocialclub_mpeg2video</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>06:00:00</StartTime>
@@ -417,7 +326,7 @@
 					<Description>buena vista social club</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="33">
+			<Event id="26">
 				<IdName>MAXPEZZALIECCOTI</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>07:40:28</StartTime>
@@ -430,7 +339,7 @@
 					<Description>Max Pezzali</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="34">
+			<Event id="27">
 				<IdName>Filmato</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>07:44:34</StartTime>
@@ -443,7 +352,7 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="35">
+			<Event id="28">
 				<IdName>PROMOVIDEOSPOT</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>07:47:03</StartTime>
@@ -456,7 +365,7 @@
 					<Description>PROMOVIDEOSOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="36">
+			<Event id="29">
 				<IdName>PROMOVIDEOSPOT1</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>07:47:25</StartTime>
@@ -469,7 +378,7 @@
 					<Description>PROMOVIDEOSPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="37">
+			<Event id="30">
 				<IdName>GURUJOSHInfinity2012_mpeg2video(1)</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>07:47:32</StartTime>
@@ -482,7 +391,7 @@
 					<Description>GURUJOSH</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="38">
+			<Event id="31">
 				<IdName>NEKLASCIACHEIOSIA</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>07:51:06</StartTime>
@@ -495,7 +404,7 @@
 					<Description>Nek</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="39">
+			<Event id="32">
 				<IdName>OceanaEndlessSummer_mpeg2video</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>07:54:35</StartTime>
@@ -508,7 +417,7 @@
 					<Description>Oceania</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="40">
+			<Event id="33">
 				<IdName>LefiabeDisneyVolume6</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>07:59:27</StartTime>
@@ -521,7 +430,7 @@
 					<Description>LE FIABE DI  DISNEY</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="41">
+			<Event id="34">
 				<IdName>1960Bracciodiferro-IlTesoroSommerso_1</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>08:47:28</StartTime>
@@ -534,7 +443,7 @@
 					<Description>IL TESORO  SOMMERSO 1</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="42">
+			<Event id="35">
 				<IdName>PROMOVIDEOSPOT1</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>08:53:06</StartTime>
@@ -547,7 +456,7 @@
 					<Description>PROMOVIDEOSPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="43">
+			<Event id="36">
 				<IdName>1960BracciodiFerroIncontraIlMostro</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>08:53:13</StartTime>
@@ -560,7 +469,7 @@
 					<Description>BRACCIO DI FERRO  INCONTRA  IL  MOSTRO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="44">
+			<Event id="37">
 				<IdName>Carnevale2013Flashsulprimocorsomascherato</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>08:59:51</StartTime>
@@ -573,7 +482,7 @@
 					<Description>CARNEVALE VENEZIA 2</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="45">
+			<Event id="38">
 				<IdName>PROMOVIDEOSPOT2</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>09:22:56</StartTime>
@@ -586,7 +495,7 @@
 					<Description>SPOT  PROMOVIDEOTV 2</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="46">
+			<Event id="39">
 				<IdName>Fantozzisubisceancora</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>09:23:03</StartTime>
@@ -599,7 +508,7 @@
 					<Description>FANTOZZI  SUBISCE ANCORA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="47">
+			<Event id="40">
 				<IdName>GliAnimalipiPericolosiGiunglaUrbana(ITA)</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>10:46:49</StartTime>
@@ -612,7 +521,7 @@
 					<Description>ANIMALI PERICOLOSI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="48">
+			<Event id="41">
 				<IdName>PROMOVIDEOSPOT1</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>11:33:52</StartTime>
@@ -625,7 +534,7 @@
 					<Description>PROMOVIDEOSPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="49">
+			<Event id="42">
 				<IdName>GERACE-Cittàmillenaria</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>11:33:59</StartTime>
@@ -638,7 +547,7 @@
 					<Description>GERACECITTAMILLENARIA SPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="50">
+			<Event id="43">
 				<IdName>PROMORADIONETWORK_mpeg2video</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>11:35:04</StartTime>
@@ -651,7 +560,7 @@
 					<Description>PROMORADIONETWORK</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="51">
+			<Event id="44">
 				<IdName>12-IReni</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>11:36:02</StartTime>
@@ -664,7 +573,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="52">
+			<Event id="45">
 				<IdName>12-Annaconfessa</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>12:02:49</StartTime>
@@ -677,7 +586,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="53">
+			<Event id="46">
 				<IdName>PROMOVIDEOSPOT1</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>12:27:27</StartTime>
@@ -690,7 +599,7 @@
 					<Description>PROMOVIDEOSPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="54">
+			<Event id="47">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>12:27:34</StartTime>
@@ -703,7 +612,7 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="55">
+			<Event id="48">
 				<IdName>13-LaPelle</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>12:27:50</StartTime>
@@ -716,7 +625,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="56">
+			<Event id="49">
 				<IdName>spotDIGIII</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>12:51:47</StartTime>
@@ -729,7 +638,7 @@
 					<Description>SPOT PROMOVIDEO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="57">
+			<Event id="50">
 				<IdName>FLASHPARTE5SOLODALLE16,00ALLE18,00</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>12:52:03</StartTime>
@@ -742,7 +651,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="58">
+			<Event id="51">
 				<IdName>CocktaildiGamberetti,laricettadiGiallozafferano</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>12:57:13</StartTime>
@@ -755,7 +664,7 @@
 					<Description>COKTAIL DI GAMBERETTI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="59">
+			<Event id="52">
 				<IdName>Arancinidiriso,laricettadiGiallozafferano</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>13:00:12</StartTime>
@@ -768,7 +677,7 @@
 					<Description>ARANCINI  DI  RISO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="60">
+			<Event id="53">
 				<IdName>PROMOVIDEOSPOT</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>13:08:25</StartTime>
@@ -781,7 +690,7 @@
 					<Description>PROMOVIDEOSOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="61">
+			<Event id="54">
 				<IdName>MondialeSynchroDance_Spot30sec</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>13:08:47</StartTime>
@@ -794,7 +703,7 @@
 					<Description>PROMO MONDIALE SYNCRO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="62">
+			<Event id="55">
 				<IdName>spotDIGIII</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>13:09:19</StartTime>
@@ -807,7 +716,7 @@
 					<Description>SPOT PROMOVIDEO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="63">
+			<Event id="56">
 				<IdName>agrisapori592x18-1-15</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>13:09:34</StartTime>
@@ -820,7 +729,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="64">
+			<Event id="57">
 				<IdName>ItaliaEconomia_20150121_47825</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>13:40:03</StartTime>
@@ -833,7 +742,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="65">
+			<Event id="58">
 				<IdName>SpotEdilMericisrl25070142014</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>13:49:31</StartTime>
@@ -846,7 +755,7 @@
 					<Description>edil merici spot 7 014</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="66">
+			<Event id="59">
 				<IdName>MassafraPiccolaGrandeItalia</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>13:50:31</StartTime>
@@ -859,7 +768,7 @@
 					<Description>Massafra</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="67">
+			<Event id="60">
 				<IdName>1963Agente007JamesBond-DallaRussiaconAmore-SeanConnery</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>14:12:05</StartTime>
@@ -872,7 +781,7 @@
 					<Description>DALLA RUSSIA  CON AMORE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="68">
+			<Event id="61">
 				<IdName>SPOTPROMOVIDEOTV4</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>16:02:29</StartTime>
@@ -885,7 +794,7 @@
 					<Description>SPOT  PROMOVIDEOTV 4</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="69">
+			<Event id="62">
 				<IdName>DanceIT_puntata_18</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>16:02:33</StartTime>
@@ -898,7 +807,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="70">
+			<Event id="63">
 				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>16:31:17</StartTime>
@@ -911,7 +820,7 @@
 					<Description>ANIMALI SERPENTI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="71">
+			<Event id="64">
 				<IdName>Rotocalco_20150121_47824</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>17:23:22</StartTime>
@@ -924,7 +833,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="72">
+			<Event id="65">
 				<IdName>PROMOVIDEOSPOT1</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>17:41:31</StartTime>
@@ -937,7 +846,7 @@
 					<Description>PROMOVIDEOSPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="73">
+			<Event id="66">
 				<IdName>_1779_Recanatese_Lunaametà</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>17:41:38</StartTime>
@@ -950,7 +859,7 @@
 					<Description>RECANATESE  LUNA A METa'</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="74">
+			<Event id="67">
 				<IdName>1960ColpoGrosso-DeanMartinAngieDickinsonFrankSinatra</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>17:49:55</StartTime>
@@ -963,7 +872,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="75">
+			<Event id="68">
 				<IdName>FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>19:51:57</StartTime>
@@ -976,7 +885,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="76">
+			<Event id="69">
 				<IdName>PROMOVIDEOSPOT2</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>19:57:15</StartTime>
@@ -989,7 +898,7 @@
 					<Description>SPOT  PROMOVIDEOTV 2</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="77">
+			<Event id="70">
 				<IdName>1965CincinnatiKid-SteveMcQueen</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>19:57:22</StartTime>
@@ -1002,7 +911,7 @@
 					<Description>CINCINNATI KID</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="78">
+			<Event id="71">
 				<IdName>ItaliaEconomia_20150121_47825</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>21:34:56</StartTime>
@@ -1015,7 +924,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="79">
+			<Event id="72">
 				<IdName>PROMOVIDEOSPOT1</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>21:44:25</StartTime>
@@ -1028,7 +937,7 @@
 					<Description>PROMOVIDEOSPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="80">
+			<Event id="73">
 				<IdName>CaraSposa19771°t.</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>21:44:31</StartTime>
@@ -1041,7 +950,7 @@
 					<Description>CARA SPOSA 1°</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="81">
+			<Event id="74">
 				<IdName>FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>22:34:28</StartTime>
@@ -1054,7 +963,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="82">
+			<Event id="75">
 				<IdName>PROMOVIDEOSPOT2</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>22:39:46</StartTime>
@@ -1067,7 +976,7 @@
 					<Description>SPOT  PROMOVIDEOTV 2</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="83">
+			<Event id="76">
 				<IdName>CaraSposa19772°t.</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>22:39:53</StartTime>
@@ -1080,7 +989,7 @@
 					<Description>CARA SPOSA 2°</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="84">
+			<Event id="77">
 				<IdName>Salus_TV_20150107_47479</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>23:34:18</StartTime>
@@ -1093,7 +1002,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="85">
+			<Event id="78">
 				<IdName>PROMOVIDEOSPOT1</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>23:48:32</StartTime>
@@ -1106,7 +1015,7 @@
 					<Description>PROMOVIDEOSPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="86">
+			<Event id="79">
 				<IdName>FLASHPARTE5SOLODALLE16,00ALLE18,00</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>23:48:39</StartTime>
@@ -1119,7 +1028,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="87">
+			<Event id="80">
 				<IdName>IngannoGlobale11settembre2001(versionecompleta)</IdName>
 				<StartDate>2015-01-30</StartDate>
 				<StartTime>23:53:49</StartTime>
@@ -1132,7 +1041,7 @@
 					<Description>TORRI  GEMELLE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="88">
+			<Event id="81">
 				<IdName>PROMOVIDEOSPOT1</IdName>
 				<StartDate>2015-01-31</StartDate>
 				<StartTime>01:25:46</StartTime>
@@ -1145,7 +1054,7 @@
 					<Description>PROMOVIDEOSPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="89">
+			<Event id="82">
 				<IdName>AlbertoSordiIlVedovo</IdName>
 				<StartDate>2015-01-31</StartDate>
 				<StartTime>01:25:53</StartTime>
@@ -1158,7 +1067,7 @@
 					<Description>IL  VEDOVO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="90">
+			<Event id="83">
 				<IdName>LichiamaronoBrigantifilmcompleto</IdName>
 				<StartDate>2015-01-31</StartDate>
 				<StartTime>02:53:00</StartTime>
@@ -1171,7 +1080,7 @@
 					<Description>LI CHIAMARONO BRIGANTI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="91">
+			<Event id="84">
 				<IdName>'ComeEravamo'</IdName>
 				<StartDate>2015-01-31</StartDate>
 				<StartTime>04:53:51</StartTime>
@@ -1184,7 +1093,7 @@
 					<Description>COME ERAVAMO </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="92">
+			<Event id="85">
 				<IdName>PROMOVIDEOSPOT2</IdName>
 				<StartDate>2015-01-31</StartDate>
 				<StartTime>04:56:03</StartTime>
@@ -1197,7 +1106,7 @@
 					<Description>SPOT  PROMOVIDEOTV 2</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="93">
+			<Event id="86">
 				<IdName>CorsoUrgenzaEmergenza</IdName>
 				<StartDate>2015-01-31</StartDate>
 				<StartTime>04:56:10</StartTime>
@@ -1210,7 +1119,7 @@
 					<Description>CORSO  URGENZA EMERGENZA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="94">
+			<Event id="87">
 				<IdName>PROMOVIDEOSPOT</IdName>
 				<StartDate>2015-01-31</StartDate>
 				<StartTime>05:59:26</StartTime>
@@ -1223,7 +1132,7 @@
 					<Description>PROMOVIDEOSOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="95">
+			<Event id="88">
 				<IdName>Musa_TV_20150107_47480</IdName>
 				<StartDate>2015-01-31</StartDate>
 				<StartTime>05:59:48</StartTime>
