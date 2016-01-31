@@ -1,7 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-31/01/2016	17:20:35	ZAGORTVSatanik19671°t.	ZAGORTV SATANIK 1° T	ZAGORTV SATANIK 1° T	00:47:05	1	
-31/01/2016	18:07:40	ZAGORTVSatanik19672°t.	ZAGOR TV SATANIK 2° T	ZAGOR TV SATANIK 2° T	00:36:09	1	
-31/01/2016	18:43:49	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
 31/01/2016	18:44:30	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	
 31/01/2016	20:36:12	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	
 31/01/2016	22:38:22	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	
