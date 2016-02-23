@@ -1,7 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-23/02/2016	19:17:14	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
-23/02/2016	20:40:23	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
-23/02/2016	20:41:26	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
 23/02/2016	21:33:32	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
 23/02/2016	23:22:03	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
 23/02/2016	23:22:18	IlVizietto1°t.	IL VIZIETTO 1° T	IL VIZIETTO 1° T	00:48:41	1	Film
