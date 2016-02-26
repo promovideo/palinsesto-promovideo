@@ -1,7 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-26/02/2016	17:26:56	ZAGORTVSatanik19671°t.	ZAGORTV SATANIK 1° T	ZAGORTV SATANIK 1° T	00:47:05	1	Film
-26/02/2016	18:14:01	ZAGORTVSatanik19672°t.	ZAGOR TV SATANIK 2° T	ZAGOR TV SATANIK 2° T	00:36:09	1	Film
-26/02/2016	18:50:10	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
 26/02/2016	18:50:51	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
 26/02/2016	20:42:33	italiaEconomia_20150311_49151	Sconosciuto	Nuovo File	00:08:29	0	
 26/02/2016	20:51:03	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
@@ -25,7 +22,7 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 27/02/2016	08:22:51	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
 27/02/2016	08:23:07	IlVizietto1°t.	IL VIZIETTO 1° T	IL VIZIETTO 1° T	00:48:41	1	Film
 27/02/2016	09:11:49	IlVizietto2°t.	IL VIZIETTO 2° T	IL VIZIETTO 2° T	00:44:25	1	Film
-27/02/2016	09:56:15	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+27/02/2016	09:56:14	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 27/02/2016	09:56:21	_1779_Recanatese_Lunaametà	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
 27/02/2016	10:04:39	ZAPPINGTV_CARTONE_005_OK	Sconosciuto	Nuovo File	00:09:33	0	
 27/02/2016	10:14:12	Gerace	GERACE	GERACE	00:06:01	71	documentari
