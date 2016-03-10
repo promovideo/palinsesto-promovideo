@@ -2,19 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>LeDueTorri</IdName>
-				<StartDate>2016-03-10</StartDate>
-				<StartTime>18:47:40</StartTime>
-				<EndDate>2016-03-10</EndDate>
-				<EndTime>21:39:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Le due torri </Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
 				<IdName>IlVizietto1°t.</IdName>
 				<StartDate>2016-03-10</StartDate>
 				<StartTime>21:39:44</StartTime>
@@ -27,12 +14,12 @@
 					<Description>IL VIZIETTO 1° T</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="3">
+			<Event id="2">
 				<IdName>IlVizietto2°t.</IdName>
 				<StartDate>2016-03-10</StartDate>
 				<StartTime>22:28:26</StartTime>
 				<EndDate>2016-03-10</EndDate>
-				<EndTime>23:12:52</EndTime>
+				<EndTime>23:12:51</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -40,12 +27,12 @@
 					<Description>IL VIZIETTO 2° T</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="3">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2016-03-10</StartDate>
-				<StartTime>23:12:52</StartTime>
+				<StartTime>23:12:51</StartTime>
 				<EndDate>2016-03-10</EndDate>
-				<EndTime>23:12:59</EndTime>
+				<EndTime>23:12:58</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -53,10 +40,10 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="4">
 				<IdName>_1779_Recanatese_Lunaametà</IdName>
 				<StartDate>2016-03-10</StartDate>
-				<StartTime>23:12:59</StartTime>
+				<StartTime>23:12:58</StartTime>
 				<EndDate>2016-03-10</EndDate>
 				<EndTime>23:21:16</EndTime>
 				<ShortEventDescription>
@@ -66,12 +53,12 @@
 					<Description>RECANATESE  LUNA A METa'</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="5">
 				<IdName>ZAPPINGTV_CARTONE_005_OK</IdName>
 				<StartDate>2016-03-10</StartDate>
 				<StartTime>23:21:16</StartTime>
 				<EndDate>2016-03-10</EndDate>
-				<EndTime>23:30:50</EndTime>
+				<EndTime>23:30:49</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -79,12 +66,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="6">
 				<IdName>TG</IdName>
 				<StartDate>2016-03-10</StartDate>
-				<StartTime>23:30:50</StartTime>
+				<StartTime>23:30:49</StartTime>
 				<EndDate>2016-03-10</EndDate>
-				<EndTime>23:33:19</EndTime>
+				<EndTime>23:33:18</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,10 +79,10 @@
 					<Description>TELEGIORNALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="7">
 				<IdName>Gerace</IdName>
 				<StartDate>2016-03-10</StartDate>
-				<StartTime>23:33:19</StartTime>
+				<StartTime>23:33:18</StartTime>
 				<EndDate>2016-03-10</EndDate>
 				<EndTime>23:39:20</EndTime>
 				<ShortEventDescription>
@@ -105,12 +92,12 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="8">
 				<IdName>inMoto_20150202_48142</IdName>
 				<StartDate>2016-03-10</StartDate>
 				<StartTime>23:39:20</StartTime>
 				<EndDate>2016-03-10</EndDate>
-				<EndTime>23:41:11</EndTime>
+				<EndTime>23:41:10</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,10 +105,10 @@
 					<Description>inMoto_2015 02 02_</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="9">
 				<IdName>LocriConcorsoNazCaciocavallo_mpeg2video</IdName>
 				<StartDate>2016-03-10</StartDate>
-				<StartTime>23:41:11</StartTime>
+				<StartTime>23:41:10</StartTime>
 				<EndDate>2016-03-11</EndDate>
 				<EndTime>02:09:12</EndTime>
 				<ShortEventDescription>
@@ -131,7 +118,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="10">
 				<IdName>AdrianoCelentanoJoanLuiFilmCompleto</IdName>
 				<StartDate>2016-03-11</StartDate>
 				<StartTime>02:09:12</StartTime>
@@ -144,7 +131,7 @@
 					<Description>JOAN LUI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="11">
 				<IdName>AmiciMieiAttoII_mpeg2video</IdName>
 				<StartDate>2016-03-11</StartDate>
 				<StartTime>04:14:51</StartTime>
@@ -157,12 +144,12 @@
 					<Description>AMICI MIEI  ATTO II</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="12">
 				<IdName>Ilpadrino</IdName>
 				<StartDate>2016-03-11</StartDate>
 				<StartTime>06:21:51</StartTime>
 				<EndDate>2016-03-11</EndDate>
-				<EndTime>09:09:56</EndTime>
+				<EndTime>09:09:55</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
