@@ -1,54 +1,11 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-16/03/2016	08:19:25	Buenavistasocialclub_mpeg2video	BUENA VISTA SOCIAL CLUB	buena vista social club	01:40:28	81	videoclip
-16/03/2016	09:59:54	BiagioAntonacciPazzoDiLei	Pazzo  di  Lei	Biagio  Antonacci	00:04:09	81	videoclip
-16/03/2016	10:04:03	CalvinHarris-Summer	SUMMER	CALVIN HARRIS	00:03:53	81	videoclip
-16/03/2016	10:07:57	ArianaGrande-Problemft.IggyAzalea	PROBLEMFT	ARIANA GRANDE	00:03:27	81	videoclip
-16/03/2016	10:11:24	AloeBlacc-TheMan(Explicit)	ALOE BLACC	THE MAN	00:04:24	81	videoclip
-16/03/2016	10:15:49	1959-Labellaaddormentatanelbosco	LA BELLA A DDORMENTATA  NEL  BOSCO	la bella addormenatta  nel  bosco	01:12:21	51	cartoni animati
-16/03/2016	11:28:11	PROMONUVOLE	Sconosciuto	Nuovo File	00:00:07	0	
-16/03/2016	11:28:18	5PROMOVIDEOSPOT5	 PROMOVIDEOSPOT 5	5PROMOVIDEOSPOT	00:00:06	11	spot
-16/03/2016	11:28:25	1968ZumZumZum-LaCanzoneCheMiPassaPerLaTesta-LittleTonyPeppinoDeFilippoEnzoCannavale	Sconosciuto	Nuovo File	01:35:14	0	
-16/03/2016	13:03:39	rotocalco_20150312_49180	Sconosciuto	Nuovo File	00:17:34	0	
-16/03/2016	13:21:13	TartarugheNinja-52Ilduellodeiduelli-parte4	Tartarughe Ninja	52 Il duellodei duelli-parte4	00:19:52	51	cartoni animati
-16/03/2016	13:41:06	TartarugheNinja-55Gliinvasorispaziali-parte2	Tartarughe Ninja	55 Gli invasori spaziali-parte2	00:19:54	51	cartoni animati
-16/03/2016	14:01:01	FLASHPARTE8DOPOLE22,30	Sconosciuto	Nuovo File	00:05:11	0	
-16/03/2016	14:06:13	1965MinnesotaClay-CameronMitchell	Minnesota  Clay	Cameron Mitchell	01:28:20	1	Film
-16/03/2016	15:34:34	SENESE_MASTER_INT-HD720pteresatv	Sconosciuto	Nuovo File	00:10:54	0	
-16/03/2016	15:45:28	PROMONUVOLE	Sconosciuto	Nuovo File	00:00:07	0	
-16/03/2016	15:45:36	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-16/03/2016	15:45:43	italiaEconomia_20150311_49151	Sconosciuto	Nuovo File	00:08:29	0	
-16/03/2016	15:54:12	4PROMOVIDEOSPOT4	4 SPOT PROMOVIDEO	PREMOVIDEO SPOT 4	00:00:06	11	spot
-16/03/2016	15:54:19	tg_20150314_49255	Sconosciuto	Nuovo File	00:02:39	0	
-16/03/2016	15:56:58	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-16/03/2016	15:57:05	agrisapori591x28-12-14	AGRISAPORI	GORLAGO  BG	00:29:34	41	programmi culturali
-16/03/2016	16:26:40	8PROMOVIDEOspot8	Sconosciuto	promovideotv	00:00:06	11	spot
-16/03/2016	16:26:46	1968Ilmercenario-FrancoNeroTonyMusante	IL MERCENARIO	Franco Nero Tony   Musante	01:41:45	1	Film
-16/03/2016	18:08:32	JenniferLopezDanceAgainftPitbull_mpeg2video	Dnce Again Ptbul	Jennifer Lopez	00:04:26	162	
-16/03/2016	18:12:59	_1779_Recanatese_Lunaametà	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
-16/03/2016	18:21:16	PROMONUVOLE	Sconosciuto	Nuovo File	00:00:07	0	
-16/03/2016	18:21:24	FLASHPARTE8DOPOLE22,30	Sconosciuto	Nuovo File	00:05:11	0	
-16/03/2016	18:26:35	CompagnoDonCamillo_mpeg2video	Sconosciuto	COMPAGNO  DON CAMILLO	01:42:17	1	Film
-16/03/2016	20:08:52	benessere_20150309_49105	Sconosciuto	Nuovo File	00:00:59	0	
-16/03/2016	20:09:52	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-16/03/2016	20:09:59	VTS_01_1	UNA VOCE PER LO JONIO 2014	UNA VOCE PER LO JONIO 2014	00:40:53	81	videoclip
-16/03/2016	20:50:53	4PROMOVIDEOSPOT4	4 SPOT PROMOVIDEO	PREMOVIDEO SPOT 4	00:00:06	11	spot
-16/03/2016	20:51:00	1969Prendiisoldiescappa-WoodyAllenJanetMargolin	PRENDI I  SOLDI E SCAPPA	PRENDI I SOLDI E SCAPPA	01:21:27	1	Film
-16/03/2016	22:12:27	5PROMOVIDEOSPOT5	 PROMOVIDEOSPOT 5	5PROMOVIDEOSPOT	00:00:06	11	spot
-16/03/2016	22:12:34	CaraSposa19771°t.	CARA SPOSA 1°	CARA SPOSA 1°	00:49:56	1	Film
-16/03/2016	23:02:30	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-16/03/2016	23:02:37	CaraSposa19772°t.	CARA SPOSA 2°	CARA SPOSA 2°	00:54:24	1	Film
-16/03/2016	23:57:02	8PROMOVIDEOspot8	Sconosciuto	promovideotv	00:00:06	11	spot
-16/03/2016	23:57:09	FLASHPARTE7DOPOLE22,30	Sconosciuto	Nuovo File	00:05:11	0	
-17/03/2016	00:02:21	CONSERVAITUOIRICORDI	CONSERVA I TUOI RICORDI	CONSERVA I TUOI RICORDI	00:00:36	11	spot
-17/03/2016	00:02:57	Ritorno.Al.Futuro.1-iTALiAN.DvDRip	Sconosciuto	Ritorno  al  futuro  1	01:51:13	1	Film
-17/03/2016	01:54:11	'ComeEravamo'	COME ERAVAMO	COME ERAVAMO 	00:02:11	11	spot
-17/03/2016	01:56:23	X-Men	X - MEN	X - MEN	01:40:02	1	Film
-17/03/2016	03:36:25	Tentazionemortale_mpeg2video	Sconosciuto	Tentazione mortale	01:27:28	22	
-17/03/2016	05:03:53	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-17/03/2016	05:04:09	L'UltimoTrenoDellaNotte19751°t.	L' ULTIMO TRENO DELLA NOTTE 1° T	L' ULTIMO TRENO DELLA   NOTTE 1° T	00:46:26	1	Film
-17/03/2016	05:50:35	L'UltimoTrenoDellaNotte19752°t.	L' ULTIMO TRENO DELLA NOTTE 2° T	L' ULTIMO TRENO DELLA NOTTE 2° T	00:44:07	1	Film
-17/03/2016	06:34:42	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
-17/03/2016	06:59:06	Perunpugnonellocchio_mpeg2video	Sconosciuto	Per  un  pugno  nell' occhio	01:34:51	1	Film
+16/03/2016	18:01:33	X-Men	X - MEN	X - MEN	01:40:02	1	Film
+16/03/2016	19:41:35	Tentazionemortale_mpeg2video	Sconosciuto	Tentazione mortale	01:27:28	22	
+16/03/2016	21:09:04	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+16/03/2016	21:09:19	L'UltimoTrenoDellaNotte19751°t.	L' ULTIMO TRENO DELLA NOTTE 1° T	L' ULTIMO TRENO DELLA   NOTTE 1° T	00:46:26	1	Film
+16/03/2016	21:55:45	L'UltimoTrenoDellaNotte19752°t.	L' ULTIMO TRENO DELLA NOTTE 2° T	L' ULTIMO TRENO DELLA NOTTE 2° T	00:44:07	1	Film
+16/03/2016	22:39:53	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
+16/03/2016	23:04:16	Perunpugnonellocchio_mpeg2video	Sconosciuto	Per  un  pugno  nell' occhio	01:34:51	1	Film
 17/03/2015	06:00:00	Buenavistasocialclub_mpeg2video	BUENA VISTA SOCIAL CLUB	buena vista social club	01:40:28	81	videoclip
 17/03/2015	07:40:28	CalvinHarris-Summer	SUMMER	CALVIN HARRIS	00:03:53	81	videoclip
 17/03/2015	07:44:22	Avicii-AddictedToYou	ADDICTED YO YOU	AVICII	00:03:23	81	videoclip
