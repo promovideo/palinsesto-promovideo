@@ -1,7 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-16/03/2016	18:01:33	X-Men	X - MEN	X - MEN	01:40:02	1	Film
-16/03/2016	19:41:35	Tentazionemortale_mpeg2video	Sconosciuto	Tentazione mortale	01:27:28	22	
-16/03/2016	21:09:04	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
 16/03/2016	21:09:19	L'UltimoTrenoDellaNotte19751°t.	L' ULTIMO TRENO DELLA NOTTE 1° T	L' ULTIMO TRENO DELLA   NOTTE 1° T	00:46:26	1	Film
 16/03/2016	21:55:45	L'UltimoTrenoDellaNotte19752°t.	L' ULTIMO TRENO DELLA NOTTE 2° T	L' ULTIMO TRENO DELLA NOTTE 2° T	00:44:07	1	Film
 16/03/2016	22:39:53	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
