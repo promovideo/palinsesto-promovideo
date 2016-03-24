@@ -2,37 +2,50 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Ancora48ore_2_mpeg2video</IdName>
+				<IdName>GrotteriaPresepe2012_mpeg2video(1)</IdName>
 				<StartDate>2016-03-24</StartDate>
-				<StartTime>09:21:03</StartTime>
+				<StartTime>17:31:09</StartTime>
 				<EndDate>2016-03-24</EndDate>
-				<EndTime>10:09:24</EndTime>
+				<EndTime>18:17:24</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>GROTTERIA PRESEPE</Name>
+					<Description>GROTTERIA PRESEPE</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="2">
-				<IdName>SPOTINTERPUBBLICITARI#5</IdName>
+				<IdName>Filmato</IdName>
 				<StartDate>2016-03-24</StartDate>
-				<StartTime>10:09:24</StartTime>
+				<StartTime>18:17:24</StartTime>
 				<EndDate>2016-03-24</EndDate>
-				<EndTime>10:09:32</EndTime>
+				<EndTime>18:19:54</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>GERACE IN 2 MINUTI</Name>
+					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="3">
-				<IdName>AltrimentiCiArrabbiamo</IdName>
+				<IdName>inItalia_20150204_48221</IdName>
 				<StartDate>2016-03-24</StartDate>
-				<StartTime>10:09:32</StartTime>
+				<StartTime>18:19:54</StartTime>
 				<EndDate>2016-03-24</EndDate>
-				<EndTime>11:47:07</EndTime>
+				<EndTime>18:21:49</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>inItalia_2015  02  04</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="4">
+				<IdName>Ancora48ore_2_mpeg2video</IdName>
+				<StartDate>2016-03-24</StartDate>
+				<StartTime>18:21:49</StartTime>
+				<EndDate>2016-03-24</EndDate>
+				<EndTime>19:10:11</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -40,38 +53,25 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
-				<IdName>agrisapori596x8-2-15</IdName>
-				<StartDate>2016-03-24</StartDate>
-				<StartTime>11:47:07</StartTime>
-				<EndDate>2016-03-24</EndDate>
-				<EndTime>12:18:27</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GIAGLIONESconosciuto</Name>
-					<Description>Nuovo FiAGRISAPORI</Description>
-				</ShortEventDescription>
-			</Event>
 			<Event id="5">
-				<IdName>10-L'occhio</IdName>
+				<IdName>SPOTINTERPUBBLICITARI#5</IdName>
 				<StartDate>2016-03-24</StartDate>
-				<StartTime>12:18:27</StartTime>
+				<StartTime>19:10:11</StartTime>
 				<EndDate>2016-03-24</EndDate>
-				<EndTime>12:24:11</EndTime>
+				<EndTime>19:10:18</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>L 'OCCHIO</Name>
-					<Description>L'OCCHIO</Description>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="6">
-				<IdName>12-Annaconfessa</IdName>
+				<IdName>AltrimentiCiArrabbiamo</IdName>
 				<StartDate>2016-03-24</StartDate>
-				<StartTime>12:24:11</StartTime>
+				<StartTime>19:10:18</StartTime>
 				<EndDate>2016-03-24</EndDate>
-				<EndTime>12:48:50</EndTime>
+				<EndTime>20:47:53</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -80,37 +80,37 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="7">
-				<IdName>SPOTPROMOVIDEOTV6</IdName>
+				<IdName>TG</IdName>
 				<StartDate>2016-03-24</StartDate>
-				<StartTime>12:48:50</StartTime>
+				<StartTime>20:47:53</StartTime>
 				<EndDate>2016-03-24</EndDate>
-				<EndTime>12:48:53</EndTime>
+				<EndTime>20:50:51</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 6</Name>
-					<Description>SPOT PROMOVIDEOTV6</Description>
+					<Name>TG </Name>
+					<Description>TELEGIORNALE</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="8">
-				<IdName>16-AnnaninvitaDianaacasa</IdName>
+				<IdName>agrisapori596x8-2-15</IdName>
 				<StartDate>2016-03-24</StartDate>
-				<StartTime>12:48:53</StartTime>
+				<StartTime>20:50:51</StartTime>
 				<EndDate>2016-03-24</EndDate>
-				<EndTime>13:13:32</EndTime>
+				<EndTime>21:22:11</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>GIAGLIONESconosciuto</Name>
+					<Description>Nuovo FiAGRISAPORI</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="9">
 				<IdName>SENESE_MASTER_INT-HD720pteresatv</IdName>
 				<StartDate>2016-03-24</StartDate>
-				<StartTime>13:13:32</StartTime>
+				<StartTime>21:22:11</StartTime>
 				<EndDate>2016-03-24</EndDate>
-				<EndTime>13:24:27</EndTime>
+				<EndTime>21:33:06</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -119,24 +119,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="10">
-				<IdName>1959ErcoleELaReginaDiLidia-SteveReevesSylvaKoscina</IdName>
-				<StartDate>2016-03-24</StartDate>
-				<StartTime>13:24:27</StartTime>
-				<EndDate>2016-03-24</EndDate>
-				<EndTime>15:00:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ERCOLE E LA REGINA LINDA</Name>
-					<Description>ERCOLE E LA REGINA LINDAe</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="11">
 				<IdName>FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2016-03-24</StartDate>
-				<StartTime>15:00:54</StartTime>
+				<StartTime>21:33:06</StartTime>
 				<EndDate>2016-03-24</EndDate>
-				<EndTime>15:06:12</EndTime>
+				<EndTime>21:38:23</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -144,12 +131,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="11">
 				<IdName>inTavola_20150115_47701</IdName>
 				<StartDate>2016-03-24</StartDate>
-				<StartTime>15:06:12</StartTime>
+				<StartTime>21:38:23</StartTime>
 				<EndDate>2016-03-24</EndDate>
-				<EndTime>15:08:12</EndTime>
+				<EndTime>21:40:23</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -157,12 +144,12 @@
 					<Description>inTavola 1</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="12">
 				<IdName>1959Lacambiale-VittorioGassmanSylvaKoscinaUgoTognazzi</IdName>
 				<StartDate>2016-03-24</StartDate>
-				<StartTime>15:08:12</StartTime>
+				<StartTime>21:40:23</StartTime>
 				<EndDate>2016-03-24</EndDate>
-				<EndTime>16:08:01</EndTime>
+				<EndTime>22:40:12</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -170,12 +157,12 @@
 					<Description>LA CAMBIALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="13">
 				<IdName>MagnificaItaliaCalabria_mpeg2video</IdName>
 				<StartDate>2016-03-24</StartDate>
-				<StartTime>16:08:01</StartTime>
+				<StartTime>22:40:12</StartTime>
 				<EndDate>2016-03-24</EndDate>
-				<EndTime>17:00:11</EndTime>
+				<EndTime>23:32:22</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -183,12 +170,12 @@
 					<Description>Calabria</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="14">
 				<IdName>GERACE-Cittàmillenaria</IdName>
 				<StartDate>2016-03-24</StartDate>
-				<StartTime>17:00:11</StartTime>
+				<StartTime>23:32:22</StartTime>
 				<EndDate>2016-03-24</EndDate>
-				<EndTime>17:01:16</EndTime>
+				<EndTime>23:33:27</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -196,12 +183,12 @@
 					<Description>GERACECITTAMILLENARIA SPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="15">
 				<IdName>MondialeSynchroDance_Spot30sec</IdName>
 				<StartDate>2016-03-24</StartDate>
-				<StartTime>17:01:16</StartTime>
+				<StartTime>23:33:27</StartTime>
 				<EndDate>2016-03-24</EndDate>
-				<EndTime>17:01:47</EndTime>
+				<EndTime>23:33:58</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -209,12 +196,25 @@
 					<Description>PROMO MONDIALE SYNCRO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="16">
 				<IdName>musaTv_20150310_49121</IdName>
 				<StartDate>2016-03-24</StartDate>
-				<StartTime>17:01:47</StartTime>
+				<StartTime>23:33:58</StartTime>
 				<EndDate>2016-03-24</EndDate>
-				<EndTime>17:18:48</EndTime>
+				<EndTime>23:50:59</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="17">
+				<IdName>italiaEconomia_20150311_49151</IdName>
+				<StartDate>2016-03-24</StartDate>
+				<StartTime>23:50:59</StartTime>
+				<EndDate>2016-03-24</EndDate>
+				<EndTime>23:59:29</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -223,1259 +223,50 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="18">
-				<IdName>SPOTPROMOVIDEOTV6</IdName>
+				<IdName>inMoto_20150209_48312</IdName>
 				<StartDate>2016-03-24</StartDate>
-				<StartTime>17:18:48</StartTime>
-				<EndDate>2016-03-24</EndDate>
-				<EndTime>17:18:52</EndTime>
+				<StartTime>23:59:29</StartTime>
+				<EndDate>2016-03-25</EndDate>
+				<EndTime>00:01:18</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 6</Name>
-					<Description>SPOT PROMOVIDEOTV6</Description>
+					<Name>IN MOTO3</Name>
+					<Description>IN MOTO3</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="19">
-				<IdName>1959Costaazzurra-AlbertoSordiFrancoFabriziElsaMartinelliGiovannaRalli</IdName>
-				<StartDate>2016-03-24</StartDate>
-				<StartTime>17:18:52</StartTime>
-				<EndDate>2016-03-24</EndDate>
-				<EndTime>18:53:04</EndTime>
+				<IdName>POLSIARCHIVIOPROMOCULTURA</IdName>
+				<StartDate>2016-03-25</StartDate>
+				<StartTime>00:01:18</StartTime>
+				<EndDate>2016-03-25</EndDate>
+				<EndTime>00:15:19</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>1959Costaazzurra-AlbertoSordiFranco Fabrizi Elsa Martinelli Giovanna Ralli</Name>
-					<Description>Costazzurra</Description>
+					<Name>POLSI</Name>
+					<Description>POLSI</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="20">
-				<IdName>SPOTPROMOVIDEOTV4</IdName>
-				<StartDate>2016-03-24</StartDate>
-				<StartTime>18:53:04</StartTime>
-				<EndDate>2016-03-24</EndDate>
-				<EndTime>18:53:08</EndTime>
+				<IdName>Papadiventamamma_mpeg2video</IdName>
+				<StartDate>2016-03-25</StartDate>
+				<StartTime>00:15:19</StartTime>
+				<EndDate>2016-03-25</EndDate>
+				<EndTime>01:35:42</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 5</Name>
-					<Description>SPOT  PROMOVIDEOTV 4</Description>
+					<Name>PAPA  DIVENTA  MAMMA</Name>
+					<Description>PAPA  DIVENTA  MAMMA</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="21">
-				<IdName>1959LaMummia-YvonneFurneauxChristoferLee</IdName>
-				<StartDate>2016-03-24</StartDate>
-				<StartTime>18:53:08</StartTime>
-				<EndDate>2016-03-24</EndDate>
-				<EndTime>20:16:35</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LA MUMMIA 1959</Name>
-					<Description>LS MUMMIS 1959</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="22">
-				<IdName>SPOTPROMOVIDEOTV10</IdName>
-				<StartDate>2016-03-24</StartDate>
-				<StartTime>20:16:35</StartTime>
-				<EndDate>2016-03-24</EndDate>
-				<EndTime>20:16:38</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 10</Name>
-					<Description>SPOT  PROMOVIDEOTV10</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="23">
-				<IdName>italiaEconomia_20150311_49151</IdName>
-				<StartDate>2016-03-24</StartDate>
-				<StartTime>20:16:38</StartTime>
-				<EndDate>2016-03-24</EndDate>
-				<EndTime>20:25:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="24">
-				<IdName>inMoto_20150209_48312</IdName>
-				<StartDate>2016-03-24</StartDate>
-				<StartTime>20:25:08</StartTime>
-				<EndDate>2016-03-24</EndDate>
-				<EndTime>20:26:57</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IN MOTO3</Name>
-					<Description>IN MOTO3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="25">
-				<IdName>SPOTPROMOVIDEOTV7</IdName>
-				<StartDate>2016-03-24</StartDate>
-				<StartTime>20:26:57</StartTime>
-				<EndDate>2016-03-24</EndDate>
-				<EndTime>20:27:01</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 7</Name>
-					<Description>SPOT PROMOVIDEOTV7</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="26">
-				<IdName>POLSIARCHIVIOPROMOCULTURA</IdName>
-				<StartDate>2016-03-24</StartDate>
-				<StartTime>20:27:01</StartTime>
-				<EndDate>2016-03-24</EndDate>
-				<EndTime>20:41:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>POLSI</Name>
-					<Description>POLSI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="27">
-				<IdName>Papadiventamamma_mpeg2video</IdName>
-				<StartDate>2016-03-24</StartDate>
-				<StartTime>20:41:02</StartTime>
-				<EndDate>2016-03-24</EndDate>
-				<EndTime>22:01:25</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PAPA  DIVENTA  MAMMA</Name>
-					<Description>PAPA  DIVENTA  MAMMA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="28">
-				<IdName>SPOTPROMOVIDEOTV8</IdName>
-				<StartDate>2016-03-24</StartDate>
-				<StartTime>22:01:25</StartTime>
-				<EndDate>2016-03-24</EndDate>
-				<EndTime>22:01:28</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 8</Name>
-					<Description>SPOT PROMOVIDEOTV 8</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="29">
-				<IdName>FLASHPARTE5SOLODALLE16,00ALLE18,00</IdName>
-				<StartDate>2016-03-24</StartDate>
-				<StartTime>22:01:28</StartTime>
-				<EndDate>2016-03-24</EndDate>
-				<EndTime>22:06:40</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="30">
-				<IdName>SPOTPROMOVIDEOTV9</IdName>
-				<StartDate>2016-03-24</StartDate>
-				<StartTime>22:06:40</StartTime>
-				<EndDate>2016-03-24</EndDate>
-				<EndTime>22:06:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV 9</Name>
-					<Description>SPOT PROMOVIDEOTV 9</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="31">
-				<IdName>1963Igiglidelcampo-SidneyPoitier</IdName>
-				<StartDate>2016-03-24</StartDate>
-				<StartTime>22:06:44</StartTime>
-				<EndDate>2016-03-24</EndDate>
-				<EndTime>23:37:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>1963 Igigli del campo-</Name>
-					<Description>Sidney Poitier</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="32">
-				<IdName>SPOTPROMOVIDEOTV4</IdName>
-				<StartDate>2016-03-24</StartDate>
-				<StartTime>23:37:26</StartTime>
-				<EndDate>2016-03-24</EndDate>
-				<EndTime>23:37:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 5</Name>
-					<Description>SPOT  PROMOVIDEOTV 4</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="33">
-				<IdName>1963Lacaldavita-CatherineSpaakJacquesPerrin</IdName>
-				<StartDate>2016-03-24</StartDate>
-				<StartTime>23:37:30</StartTime>
-				<EndDate>2016-03-25</EndDate>
-				<EndTime>01:17:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="34">
-				<IdName>1963LaverginediNorimberga</IdName>
-				<StartDate>2016-03-25</StartDate>
-				<StartTime>01:17:46</StartTime>
-				<EndDate>2016-03-25</EndDate>
-				<EndTime>02:37:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>1963 Lavergine di Norimberga</Name>
-					<Description>1963 La vergine di Norimberga</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="35">
-				<IdName>SPOTPROMOVIDEOTV8</IdName>
-				<StartDate>2016-03-25</StartDate>
-				<StartTime>02:37:48</StartTime>
-				<EndDate>2016-03-25</EndDate>
-				<EndTime>02:37:52</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 8</Name>
-					<Description>SPOT PROMOVIDEOTV 8</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="36">
-				<IdName>1963IlGattopardo-BurtLancasterClaudiaCardinaleAlainDelonPaoloStoppa</IdName>
-				<StartDate>2016-03-25</StartDate>
-				<StartTime>02:37:52</StartTime>
-				<EndDate>2016-03-25</EndDate>
-				<EndTime>05:35:34</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>BURT LANCASTER</Name>
-					<Description>IL GATTOPARDO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="37">
-				<IdName>AloeBlacc-TheMan(Explicit)</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>06:00:00</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>06:04:24</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ALOE BLACC</Name>
-					<Description>THE MAN</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="38">
-				<IdName>PhilCollinsCan'tstoplovingyou(HQLive2004)</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>06:04:24</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>06:08:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Can'tstoplovingyou(HQLive2004)nosciuto</Name>
-					<Description>PHIL COLLINS</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="39">
-				<IdName>OceanaEndlessSummer_mpeg2video</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>06:08:49</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>06:13:40</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Endless Summer</Name>
-					<Description>Oceania</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="40">
-				<IdName>SamSmith-ImNotTheOnlyOne</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>06:13:40</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>06:17:37</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Im  Not The Only One</Name>
-					<Description>Sm Smiyth</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="41">
-				<IdName>SEQUUPFEATLAISLABONITA</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>06:17:37</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>06:20:51</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LA ISLA  BONITA</Name>
-					<Description>FEAT</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="42">
-				<IdName>STADIOMIVUOIANCORA</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>06:20:51</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>06:25:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>MI  VUOI  ANCORA</Name>
-					<Description>STADIO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="43">
-				<IdName>TheAvener-FadeOutLines</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>06:25:02</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>06:29:18</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>The Avener</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="44">
-				<IdName>THERASMUSNOFEAR</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>06:29:18</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>06:33:25</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>NO FEAR</Name>
-					<Description>THERASMUS</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="45">
-				<IdName>TizianoFerro-SenzaScappareMaiPiù</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>06:33:25</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>06:37:03</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>senza scapapre ami   piu  </Name>
-					<Description>tiziano ferro</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="46">
-				<IdName>U2-TheMiracle</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>06:37:03</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>06:41:17</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>The Miracle</Name>
-					<Description>U2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="47">
-				<IdName>VascoRossi-ComeVorrei</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>06:41:17</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>06:45:31</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Come Vorrei</Name>
-					<Description>Vasco Rossi</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="48">
-				<IdName>VTS_01_1</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>06:45:31</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>07:26:25</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>UNA VOCE PER LO JONIO 2014</Name>
-					<Description>UNA VOCE PER LO JONIO 2014</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="49">
-				<IdName>SamSmith-ImNotTheOnlyOne</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>07:26:25</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>07:30:22</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Im  Not The Only One</Name>
-					<Description>Sm Smiyth</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="50">
-				<IdName>SEQUUPFEATLAISLABONITA</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>07:30:22</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>07:33:35</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LA ISLA  BONITA</Name>
-					<Description>FEAT</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="51">
-				<IdName>TizianoFerro-SenzaScappareMaiPiù</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>07:33:35</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>07:37:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>senza scapapre ami   piu  </Name>
-					<Description>tiziano ferro</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="52">
-				<IdName>1970Asterix&Cleopatra-Cartoni</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>07:37:13</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>08:46:25</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ASTERIX E CLEOPATRA</Name>
-					<Description>ASTERIX E CLEOPATRA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="53">
-				<IdName>SPOTPROMOVIDEOTV4</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>08:46:25</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>08:46:28</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 5</Name>
-					<Description>SPOT  PROMOVIDEOTV 4</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="54">
-				<IdName>tg_20150323_49475</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>08:46:28</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>08:49:10</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="55">
-				<IdName>GrotteriaPresepe2012_mpeg2video(1)</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>08:49:10</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>09:35:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GROTTERIA PRESEPE</Name>
-					<Description>GROTTERIA PRESEPE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="56">
-				<IdName>FLASHPARTE7DOPOLE22,30</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>09:35:26</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>09:40:38</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="57">
-				<IdName>Filmato</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>09:40:38</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>09:43:07</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GERACE IN 2 MINUTI</Name>
-					<Description>GERACE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="58">
-				<IdName>inItalia_20150204_48221</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>09:43:07</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>09:45:03</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>inItalia_2015  02  04</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="59">
-				<IdName>Ancora48ore_2_mpeg2video</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>09:45:03</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>10:33:24</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="60">
-				<IdName>SPOTPROMOVIDEOTV8</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>10:33:24</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>10:33:28</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 8</Name>
-					<Description>SPOT PROMOVIDEOTV 8</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="61">
-				<IdName>SPOTINTERPUBBLICITARI#5</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>10:33:28</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>10:33:35</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="62">
-				<IdName>AltrimentiCiArrabbiamo</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>10:33:35</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>12:11:10</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="63">
-				<IdName>agrisapori596x8-2-15</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>12:11:10</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>12:42:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GIAGLIONESconosciuto</Name>
-					<Description>Nuovo FiAGRISAPORI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="64">
-				<IdName>10-L'occhio</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>12:42:30</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>12:48:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>L 'OCCHIO</Name>
-					<Description>L'OCCHIO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="65">
-				<IdName>12-Annaconfessa</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>12:48:15</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>13:12:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="66">
-				<IdName>SPOTPROMOVIDEOTV6</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>13:12:53</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>13:12:57</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 6</Name>
-					<Description>SPOT PROMOVIDEOTV6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="67">
-				<IdName>16-AnnaninvitaDianaacasa</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>13:12:57</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>13:37:36</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="68">
-				<IdName>SENESE_MASTER_INT-HD720pteresatv</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>13:37:36</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>13:48:31</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="69">
-				<IdName>1959ErcoleELaReginaDiLidia-SteveReevesSylvaKoscina</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>13:48:31</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>15:24:58</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ERCOLE E LA REGINA LINDA</Name>
-					<Description>ERCOLE E LA REGINA LINDAe</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="70">
-				<IdName>FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>15:24:58</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>15:30:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="71">
-				<IdName>inTavola_20150115_47701</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>15:30:15</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>15:32:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>inTavola 1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="72">
-				<IdName>1959Lacambiale-VittorioGassmanSylvaKoscinaUgoTognazzi</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>15:32:15</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>16:32:04</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GASMAN</Name>
-					<Description>LA CAMBIALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="73">
-				<IdName>MagnificaItaliaCalabria_mpeg2video</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>16:32:04</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>17:24:14</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Calabria</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="74">
-				<IdName>GERACE-Cittàmillenaria</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>17:24:14</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>17:25:19</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT GERACE CITTà1000ENARIA</Name>
-					<Description>GERACECITTAMILLENARIA SPOT</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="75">
-				<IdName>MondialeSynchroDance_Spot30sec</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>17:25:19</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>17:25:51</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PROMO MONDIALE SYINCRO</Name>
-					<Description>PROMO MONDIALE SYNCRO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="76">
-				<IdName>musaTv_20150310_49121</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>17:25:51</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>17:42:51</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="77">
-				<IdName>SPOTPROMOVIDEOTV6</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>17:42:51</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>17:42:55</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 6</Name>
-					<Description>SPOT PROMOVIDEOTV6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="78">
-				<IdName>1959Costaazzurra-AlbertoSordiFrancoFabriziElsaMartinelliGiovannaRalli</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>17:42:55</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>19:17:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>1959Costaazzurra-AlbertoSordiFranco Fabrizi Elsa Martinelli Giovanna Ralli</Name>
-					<Description>Costazzurra</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="79">
-				<IdName>SPOTPROMOVIDEOTV4</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>19:17:08</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>19:17:12</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 5</Name>
-					<Description>SPOT  PROMOVIDEOTV 4</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="80">
-				<IdName>1959LaMummia-YvonneFurneauxChristoferLee</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>19:17:12</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>20:40:38</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LA MUMMIA 1959</Name>
-					<Description>LS MUMMIS 1959</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="81">
-				<IdName>SPOTPROMOVIDEOTV10</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>20:40:38</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>20:40:42</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 10</Name>
-					<Description>SPOT  PROMOVIDEOTV10</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="82">
-				<IdName>italiaEconomia_20150311_49151</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>20:40:42</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>20:49:12</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="83">
-				<IdName>inMoto_20150209_48312</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>20:49:12</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>20:51:01</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IN MOTO3</Name>
-					<Description>IN MOTO3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="84">
-				<IdName>SPOTPROMOVIDEOTV7</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>20:51:01</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>20:51:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 7</Name>
-					<Description>SPOT PROMOVIDEOTV7</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="85">
-				<IdName>POLSIARCHIVIOPROMOCULTURA</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>20:51:05</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>21:05:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>POLSI</Name>
-					<Description>POLSI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="86">
-				<IdName>Papadiventamamma_mpeg2video</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>21:05:05</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>22:25:28</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PAPA  DIVENTA  MAMMA</Name>
-					<Description>PAPA  DIVENTA  MAMMA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="87">
-				<IdName>SPOTPROMOVIDEOTV8</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>22:25:28</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>22:25:32</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 8</Name>
-					<Description>SPOT PROMOVIDEOTV 8</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="88">
-				<IdName>FLASHPARTE5SOLODALLE16,00ALLE18,00</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>22:25:32</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>22:30:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="89">
-				<IdName>SPOTPROMOVIDEOTV9</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>22:30:44</StartTime>
-				<EndDate>2015-03-25</EndDate>
-				<EndTime>22:30:47</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV 9</Name>
-					<Description>SPOT PROMOVIDEOTV 9</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="90">
-				<IdName>1963Igiglidelcampo-SidneyPoitier</IdName>
-				<StartDate>2015-03-25</StartDate>
-				<StartTime>22:30:47</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>00:01:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>1963 Igigli del campo-</Name>
-					<Description>Sidney Poitier</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="91">
-				<IdName>SPOTPROMOVIDEOTV4</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>00:01:30</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>00:01:34</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 5</Name>
-					<Description>SPOT  PROMOVIDEOTV 4</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="92">
-				<IdName>1963Lacaldavita-CatherineSpaakJacquesPerrin</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>00:01:34</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>01:41:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="93">
-				<IdName>1963LaverginediNorimberga</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>01:41:49</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>03:01:52</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>1963 Lavergine di Norimberga</Name>
-					<Description>1963 La vergine di Norimberga</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="94">
-				<IdName>SPOTPROMOVIDEOTV8</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>03:01:52</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>03:01:55</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 8</Name>
-					<Description>SPOT PROMOVIDEOTV 8</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="95">
-				<IdName>1963IlGattopardo-BurtLancasterClaudiaCardinaleAlainDelonPaoloStoppa</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>03:01:55</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>05:59:38</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>BURT LANCASTER</Name>
-					<Description>IL GATTOPARDO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="96">
-				<IdName>AlexMicaDalinda</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>06:00:00</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>06:03:25</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Dalinda</Name>
-					<Description>Alex Mica</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="97">
-				<IdName>AllexinnoStarchildSenorita</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>06:03:25</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>06:07:03</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Starchild Senorita</Name>
-					<Description>Allexinno</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="98">
-				<IdName>BiagioAntonacciPazzoDiLei</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>06:07:03</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>06:11:12</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Pazzo  di  Lei</Name>
-					<Description>Biagio  Antonacci</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="99">
-				<IdName>CONCERTOQUARTAUMENTATA_mpeg2video</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>06:11:12</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>07:55:51</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>QUARTAUMENTATA</Name>
-					<Description>CONCENTO  QUARTAUMENTATA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="100">
-				<IdName>FLASHPARTE7DOPOLE22,30</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>07:55:51</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>08:01:03</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="101">
-				<IdName>OceanaEndlessSummer_mpeg2video</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>08:01:03</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>08:05:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Endless Summer</Name>
-					<Description>Oceania</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="102">
-				<IdName>1970Asterix&Cleopatra-Cartoni</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>08:05:54</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>09:15:06</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ASTERIX E CLEOPATRA</Name>
-					<Description>ASTERIX E CLEOPATRA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="103">
-				<IdName>1970Iosonolalegge-BurtLancaster</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>09:15:06</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>10:49:59</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="104">
-				<IdName>inMoto_20150112_47615</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>10:49:59</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>10:51:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>IN  MOTO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="105">
-				<IdName>4PROMOVIDEOSPOT4</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>10:51:43</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>10:51:50</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>4 SPOT PROMOVIDEO</Name>
-					<Description>PREMOVIDEO SPOT 4</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="106">
-				<IdName>1971Noncommettereattiimpuri-LucianoSalceBarbaraBouchet</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>10:51:50</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>12:20:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="107">
-				<IdName>PillolaSalute_20150302_48922</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>12:20:49</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>12:21:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="108">
-				<IdName>CONSERVAITUOIRICORDI</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>12:21:29</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>12:22:06</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSERVA I TUOI RICORDI</Name>
-					<Description>CONSERVA I TUOI RICORDI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="109">
-				<IdName>FLASHPARTE5SOLODALLE16,00ALLE18,00</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>12:22:06</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>12:27:18</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="110">
-				<IdName>SPOTPROMOVIDEOTV8</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>12:27:18</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>12:27:21</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 8</Name>
-					<Description>SPOT PROMOVIDEOTV 8</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="111">
-				<IdName>27-MatthewELeManicheASbuffo</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>12:27:21</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>12:52:00</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="112">
-				<IdName>33-ProspettivePerIlFuturo</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>12:52:00</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>13:16:39</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="113">
-				<IdName>40-SpettacoloDiBeneficienza</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>13:16:39</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>13:41:18</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="114">
 				<IdName>inTavola_20150129_48063</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>13:41:18</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>13:43:17</EndTime>
+				<StartDate>2016-03-25</StartDate>
+				<StartTime>01:35:42</StartTime>
+				<EndDate>2016-03-25</EndDate>
+				<EndTime>01:37:41</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -1483,12 +274,12 @@
 					<Description>inTavola 3</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="115">
+			<Event id="22">
 				<IdName>4PROMOVIDEOSPOT4</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>13:43:17</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>13:43:23</EndTime>
+				<StartDate>2016-03-25</StartDate>
+				<StartTime>01:37:41</StartTime>
+				<EndDate>2016-03-25</EndDate>
+				<EndTime>01:37:48</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -1496,12 +287,12 @@
 					<Description>PREMOVIDEO SPOT 4</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="116">
+			<Event id="23">
 				<IdName>Pubblicità_mpeg2video</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>13:43:23</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>13:43:29</EndTime>
+				<StartDate>2016-03-25</StartDate>
+				<StartTime>01:37:48</StartTime>
+				<EndDate>2016-03-25</EndDate>
+				<EndTime>01:37:54</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -1509,12 +300,12 @@
 					<Description>PUBBLICITà</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="117">
+			<Event id="24">
 				<IdName>2012VUEMMESPOT</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>13:43:29</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>13:44:07</EndTime>
+				<StartDate>2016-03-25</StartDate>
+				<StartTime>01:37:54</StartTime>
+				<EndDate>2016-03-25</EndDate>
+				<EndTime>01:38:31</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -1522,12 +313,12 @@
 					<Description>VUEMMEFAST</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="118">
+			<Event id="25">
 				<IdName>italiaEconomia_20150311_49151</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>13:44:07</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>13:52:37</EndTime>
+				<StartDate>2016-03-25</StartDate>
+				<StartTime>01:38:31</StartTime>
+				<EndDate>2016-03-25</EndDate>
+				<EndTime>01:47:01</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -1535,12 +326,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="119">
+			<Event id="26">
 				<IdName>MondialeSynchroDance_Spot30sec</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>13:52:37</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>13:53:08</EndTime>
+				<StartDate>2016-03-25</StartDate>
+				<StartTime>01:47:01</StartTime>
+				<EndDate>2016-03-25</EndDate>
+				<EndTime>01:47:32</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -1548,12 +339,12 @@
 					<Description>PROMO MONDIALE SYNCRO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="120">
+			<Event id="27">
 				<IdName>SPOTINTERPUBBLICITARI#2</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>13:53:08</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>13:53:15</EndTime>
+				<StartDate>2016-03-25</StartDate>
+				<StartTime>01:47:32</StartTime>
+				<EndDate>2016-03-25</EndDate>
+				<EndTime>01:47:40</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -1561,12 +352,12 @@
 					<Description>promoradiotv</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="121">
+			<Event id="28">
 				<IdName>agrisapori596x8-2-15</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>13:53:15</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>14:24:35</EndTime>
+				<StartDate>2016-03-25</StartDate>
+				<StartTime>01:47:40</StartTime>
+				<EndDate>2016-03-25</EndDate>
+				<EndTime>02:18:59</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -1574,12 +365,12 @@
 					<Description>Nuovo FiAGRISAPORI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="122">
+			<Event id="29">
 				<IdName>4PROMOVIDEOSPOT4</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>14:24:35</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>14:24:42</EndTime>
+				<StartDate>2016-03-25</StartDate>
+				<StartTime>02:18:59</StartTime>
+				<EndDate>2016-03-25</EndDate>
+				<EndTime>02:19:06</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -1587,12 +378,51 @@
 					<Description>PREMOVIDEO SPOT 4</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="123">
+			<Event id="30">
+				<IdName>GeracepresentatoilDiariofotograficodi25annidicammino(byEL)</IdName>
+				<StartDate>2016-03-25</StartDate>
+				<StartTime>02:19:06</StartTime>
+				<EndDate>2016-03-25</EndDate>
+				<EndTime>02:50:45</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>LIBRO  FOTOGRAFICO 25  ANNI  DI  CAMMINO</Name>
+					<Description>GERACE 25  ANNI  DI CAMMINO</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="31">
+				<IdName>ViaggioAspromonte</IdName>
+				<StartDate>2016-03-25</StartDate>
+				<StartTime>02:50:45</StartTime>
+				<EndDate>2016-03-25</EndDate>
+				<EndTime>03:05:23</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>VIAGGIO IN ASPROMONTE</Name>
+					<Description>VIAGGIO IN ASPROMONTE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="32">
+				<IdName>80NOSTALGIA_LUCCACOMICSPRESENTAZIONE</IdName>
+				<StartDate>2016-03-25</StartDate>
+				<StartTime>03:05:23</StartTime>
+				<EndDate>2016-03-25</EndDate>
+				<EndTime>03:35:38</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="33">
 				<IdName>TropeaPiccolaGrandeItalia</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>14:24:42</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>14:51:35</EndTime>
+				<StartDate>2016-03-25</StartDate>
+				<StartTime>03:35:38</StartTime>
+				<EndDate>2016-03-25</EndDate>
+				<EndTime>04:02:31</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -1600,38 +430,12 @@
 					<Description>TROPEA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="124">
-				<IdName>1962Amantediguerra-SteveMcQueenRobertWagner</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>14:51:35</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>16:32:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>AMANTE  DI  GUERRA</Name>
-					<Description>AMANTE  DI GUERRA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="125">
-				<IdName>SPOTPROMOVIDEOTV8</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>16:32:54</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>16:32:58</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 8</Name>
-					<Description>SPOT PROMOVIDEOTV 8</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="126">
-				<IdName>PillolaAdn_20150227_48879</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>16:32:58</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>16:34:22</EndTime>
+			<Event id="34">
+				<IdName>agrisapori631X18-10-15</IdName>
+				<StartDate>2016-03-25</StartDate>
+				<StartTime>04:02:31</StartTime>
+				<EndDate>2016-03-25</EndDate>
+				<EndTime>04:31:49</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -1639,303 +443,43 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="127">
-				<IdName>1962LaCitta'Prigioniera-DavidNivenLeaMassariBenGazzara</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>16:34:22</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>18:15:24</EndTime>
+			<Event id="35">
+				<IdName>IlVizietto1°t.</IdName>
+				<StartDate>2016-03-25</StartDate>
+				<StartTime>04:31:49</StartTime>
+				<EndDate>2016-03-25</EndDate>
+				<EndTime>05:20:31</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>LA CITTA PRIGIONIERA</Name>
-					<Description>LA CITTA PRIGIONIERA</Description>
+					<Name>IL VIZIETTO 1° T</Name>
+					<Description>IL VIZIETTO 1° T</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="128">
-				<IdName>21-LaVaccinazione</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>18:15:24</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>18:41:55</EndTime>
+			<Event id="36">
+				<IdName>IlVizietto2°t.</IdName>
+				<StartDate>2016-03-25</StartDate>
+				<StartTime>05:20:31</StartTime>
+				<EndDate>2016-03-25</EndDate>
+				<EndTime>06:04:57</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>ESPLORANDO IL  CORPO UMANO</Name>
-					<Description>LA VACCINAZIONE</Description>
+					<Name>IL VIZIETTO 2° T</Name>
+					<Description>IL VIZIETTO 2° T</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="129">
-				<IdName>SPOTPROMOVIDEOTV8</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>18:41:55</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>18:41:59</EndTime>
+			<Event id="37">
+				<IdName>Summer2015Mukko08</IdName>
+				<StartDate>2016-03-25</StartDate>
+				<StartTime>06:04:57</StartTime>
+				<EndDate>2016-03-25</EndDate>
+				<EndTime>06:49:22</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 8</Name>
-					<Description>SPOT PROMOVIDEOTV 8</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="130">
-				<IdName>rotocalco_20150312_49180</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>18:41:59</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>18:59:34</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="131">
-				<IdName>22LatortadiAnna</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>18:59:34</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>19:24:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="132">
-				<IdName>Synchro_Dance_puntata_15-1</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>19:24:13</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>19:54:01</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="133">
-				<IdName>PraiaaMarePiccolaGrandeItalia</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>19:54:01</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>20:18:35</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola grande Italia</Name>
-					<Description>PRAIA A MARE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="134">
-				<IdName>benessere_20150309_49105</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>20:18:35</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>20:19:35</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="135">
-				<IdName>SPOTPROMOVIDEOTV6</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>20:19:35</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>20:19:38</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 6</Name>
-					<Description>SPOT PROMOVIDEOTV6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="136">
-				<IdName>1970Soldatoblu-DonaldPleasenceCandiceBergen</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>20:19:38</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>22:09:31</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Donald Pleasenc e Candice Bergen</Name>
-					<Description>1970Soldato blu</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="137">
-				<IdName>SPOTPROMOVIDEOTV8</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>22:09:31</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>22:09:35</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 8</Name>
-					<Description>SPOT PROMOVIDEOTV 8</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="138">
-				<IdName>SENESE_MASTER_INT-HD720pteresatv</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>22:09:35</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>22:20:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="139">
-				<IdName>PROMORADIONETWORK_mpeg2video</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>22:20:30</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>22:21:28</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PROMORADIONETWORK</Name>
-					<Description>PROMORADIONETWORK</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="140">
-				<IdName>FLASHPARTE5SOLODALLE16,00ALLE18,00</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>22:21:28</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>22:26:39</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="141">
-				<IdName>SPOTINTERPUBBLICITARI#8</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>22:26:39</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>22:26:47</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="142">
-				<IdName>SPOTPROMOVIDEOTV6</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>22:26:47</StartTime>
-				<EndDate>2015-03-26</EndDate>
-				<EndTime>22:26:50</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 6</Name>
-					<Description>SPOT PROMOVIDEOTV6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="143">
-				<IdName>1963Agente007JamesBond-DallaRussiaconAmore-SeanConnery</IdName>
-				<StartDate>2015-03-26</StartDate>
-				<StartTime>22:26:50</StartTime>
-				<EndDate>2015-03-27</EndDate>
-				<EndTime>00:17:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>JAMES BOND</Name>
-					<Description>DALLA RUSSIA  CON AMORE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="144">
-				<IdName>Speed</IdName>
-				<StartDate>2015-03-27</StartDate>
-				<StartTime>00:17:15</StartTime>
-				<EndDate>2015-03-27</EndDate>
-				<EndTime>02:07:16</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPEED</Name>
-					<Description>SPEED</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="145">
-				<IdName>SPOTPROMOVIDEOTV8</IdName>
-				<StartDate>2015-03-27</StartDate>
-				<StartTime>02:07:16</StartTime>
-				<EndDate>2015-03-27</EndDate>
-				<EndTime>02:07:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 8</Name>
-					<Description>SPOT PROMOVIDEOTV 8</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="146">
-				<IdName>1965IlGranLupochiama-CaryGrantLeslieCaron</IdName>
-				<StartDate>2015-03-27</StartDate>
-				<StartTime>02:07:20</StartTime>
-				<EndDate>2015-03-27</EndDate>
-				<EndTime>03:58:58</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="147">
-				<IdName>FLASHPARTE7DOPOLE22,30</IdName>
-				<StartDate>2015-03-27</StartDate>
-				<StartTime>03:58:58</StartTime>
-				<EndDate>2015-03-27</EndDate>
-				<EndTime>04:04:10</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="148">
-				<IdName>SPOTPROMOVIDEOTV6</IdName>
-				<StartDate>2015-03-27</StartDate>
-				<StartTime>04:04:10</StartTime>
-				<EndDate>2015-03-27</EndDate>
-				<EndTime>04:04:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT PROMOVIDEOTV 6</Name>
-					<Description>SPOT PROMOVIDEOTV6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="149">
-				<IdName>1968Bullitt-SteveMcQueen</IdName>
-				<StartDate>2015-03-27</StartDate>
-				<StartTime>04:04:13</StartTime>
-				<EndDate>2015-03-27</EndDate>
-				<EndTime>05:53:18</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>cartoni mukko 08</Name>
+					<Description>cartoni mukko 08</Description>
 				</ShortEventDescription>
 			</Event>
 		</Service>
