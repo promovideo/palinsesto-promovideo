@@ -2,37 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>LeComiche2</IdName>
-				<StartDate>2016-04-04</StartDate>
-				<StartTime>16:58:52</StartTime>
-				<EndDate>2016-04-04</EndDate>
-				<EndTime>18:26:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Le comiche 2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>FRATELLIDISANGUE_mpeg2video</IdName>
-				<StartDate>2016-04-04</StartDate>
-				<StartTime>18:26:08</StartTime>
-				<EndDate>2016-04-04</EndDate>
-				<EndTime>18:46:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>FRATELLI  DI SANGUE</Name>
-					<Description>FRATELLI  DI SANGUE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
 				<IdName>Ilpadrino</IdName>
 				<StartDate>2016-04-04</StartDate>
 				<StartTime>18:46:11</StartTime>
 				<EndDate>2016-04-04</EndDate>
-				<EndTime>21:34:16</EndTime>
+				<EndTime>21:34:15</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -40,10 +14,10 @@
 					<Description>Il padrino</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="2">
 				<IdName>MammaHoRipersoL'aereoEMiSonoSmarritoANewYork</IdName>
 				<StartDate>2016-04-04</StartDate>
-				<StartTime>21:34:16</StartTime>
+				<StartTime>21:34:15</StartTime>
 				<EndDate>2016-04-04</EndDate>
 				<EndTime>23:22:19</EndTime>
 				<ShortEventDescription>
@@ -53,7 +27,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="3">
 				<IdName>KarateKid</IdName>
 				<StartDate>2016-04-04</StartDate>
 				<StartTime>23:22:19</StartTime>
@@ -66,12 +40,12 @@
 					<Description>Karate Kid</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="4">
 				<IdName>Moschetta2012_mpeg2video</IdName>
 				<StartDate>2016-04-05</StartDate>
 				<StartTime>01:23:56</StartTime>
 				<EndDate>2016-04-05</EndDate>
-				<EndTime>02:50:01</EndTime>
+				<EndTime>02:50:00</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -79,10 +53,10 @@
 					<Description>Moschetta 2012</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="5">
 				<IdName>IlritornodelRe</IdName>
 				<StartDate>2016-04-05</StartDate>
-				<StartTime>02:50:01</StartTime>
+				<StartTime>02:50:00</StartTime>
 				<EndDate>2016-04-05</EndDate>
 				<EndTime>06:02:47</EndTime>
 				<ShortEventDescription>
