@@ -2,45 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Ilpadrino</IdName>
-				<StartDate>2016-04-04</StartDate>
-				<StartTime>18:46:11</StartTime>
-				<EndDate>2016-04-04</EndDate>
-				<EndTime>21:34:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IL PADRINO</Name>
-					<Description>Il padrino</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>MammaHoRipersoL'aereoEMiSonoSmarritoANewYork</IdName>
-				<StartDate>2016-04-04</StartDate>
-				<StartTime>21:34:15</StartTime>
-				<EndDate>2016-04-04</EndDate>
-				<EndTime>23:22:19</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Mamma ho riperso l' aereo e mi  sono smarrito a New York</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>KarateKid</IdName>
-				<StartDate>2016-04-04</StartDate>
-				<StartTime>23:22:19</StartTime>
-				<EndDate>2016-04-05</EndDate>
-				<EndTime>01:23:56</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Karate Kid</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
 				<IdName>Moschetta2012_mpeg2video</IdName>
 				<StartDate>2016-04-05</StartDate>
 				<StartTime>01:23:56</StartTime>
@@ -53,7 +14,7 @@
 					<Description>Moschetta 2012</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="2">
 				<IdName>IlritornodelRe</IdName>
 				<StartDate>2016-04-05</StartDate>
 				<StartTime>02:50:00</StartTime>
