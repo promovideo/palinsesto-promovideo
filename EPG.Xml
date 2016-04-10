@@ -2,19 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>BadBoys</IdName>
-				<StartDate>2016-04-10</StartDate>
-				<StartTime>16:23:45</StartTime>
-				<EndDate>2016-04-10</EndDate>
-				<EndTime>18:17:50</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>BAD BOYS</Name>
-					<Description>BAD BOYS</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
 				<IdName>Colpogrosso_mpeg2video</IdName>
 				<StartDate>2016-04-10</StartDate>
 				<StartTime>18:17:50</StartTime>
@@ -27,7 +14,7 @@
 					<Description>COLPO  GROSSO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="3">
+			<Event id="2">
 				<IdName>3PROMOVIDEOSPOT3</IdName>
 				<StartDate>2016-04-10</StartDate>
 				<StartTime>20:19:59</StartTime>
@@ -40,7 +27,7 @@
 					<Description>SPOT PROMOVIDEOTV 3</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="3">
 				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
 				<StartDate>2016-04-10</StartDate>
 				<StartTime>20:20:06</StartTime>
@@ -53,7 +40,7 @@
 					<Description>Reggio piccola grande Italia  </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="4">
 				<IdName>X-Men</IdName>
 				<StartDate>2016-04-10</StartDate>
 				<StartTime>20:42:19</StartTime>
@@ -66,7 +53,7 @@
 					<Description>X - MEN</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="5">
 				<IdName>FLASHPARTE4SOLODALLE16,00ALLE18,00</IdName>
 				<StartDate>2016-04-10</StartDate>
 				<StartTime>22:22:21</StartTime>
@@ -79,7 +66,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="6">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2016-04-10</StartDate>
 				<StartTime>22:27:22</StartTime>
@@ -92,7 +79,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="7">
 				<IdName>SICILIAMARSALAprocessionedelgiovedìsantoHD</IdName>
 				<StartDate>2016-04-10</StartDate>
 				<StartTime>22:27:29</StartTime>
@@ -105,7 +92,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="8">
 				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
 				<StartDate>2016-04-10</StartDate>
 				<StartTime>22:27:37</StartTime>
@@ -118,7 +105,7 @@
 					<Description>CRASH CONTATTO  FINALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="9">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2016-04-11</StartDate>
 				<StartTime>00:16:08</StartTime>
@@ -131,7 +118,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="10">
 				<IdName>FLASHPARTE4SOLODALLE16,00ALLE18,00</IdName>
 				<StartDate>2016-04-11</StartDate>
 				<StartTime>00:16:15</StartTime>
@@ -144,12 +131,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="11">
 				<IdName>Filmato</IdName>
 				<StartDate>2016-04-11</StartDate>
 				<StartTime>00:21:16</StartTime>
 				<EndDate>2016-04-11</EndDate>
-				<EndTime>00:23:45</EndTime>
+				<EndTime>00:23:46</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -157,10 +144,10 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="12">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2016-04-11</StartDate>
-				<StartTime>00:23:45</StartTime>
+				<StartTime>00:23:46</StartTime>
 				<EndDate>2016-04-11</EndDate>
 				<EndTime>00:23:52</EndTime>
 				<ShortEventDescription>
@@ -170,7 +157,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="13">
 				<IdName>SanRocco2006</IdName>
 				<StartDate>2016-04-11</StartDate>
 				<StartTime>00:23:52</StartTime>
@@ -183,7 +170,7 @@
 					<Description>S.ROCCO 2006 GIOIOSA J</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="14">
 				<IdName>Cittaviolenta19701°t.</IdName>
 				<StartDate>2016-04-11</StartDate>
 				<StartTime>00:40:42</StartTime>
@@ -196,7 +183,7 @@
 					<Description>CITTA' VIOLENTA 1°</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="15">
 				<IdName>Cittaviolenta19702°t.</IdName>
 				<StartDate>2016-04-11</StartDate>
 				<StartTime>01:34:37</StartTime>
@@ -209,7 +196,7 @@
 					<Description>CITTA' VIOLENTA 2°</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="16">
 				<IdName>minispotapplicazione</IdName>
 				<StartDate>2016-04-11</StartDate>
 				<StartTime>02:25:26</StartTime>
@@ -222,7 +209,7 @@
 					<Description>SPOTAPP</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="17">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2016-04-11</StartDate>
 				<StartTime>02:25:36</StartTime>
@@ -235,7 +222,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="18">
 				<IdName>benessere_20150512_50742</IdName>
 				<StartDate>2016-04-11</StartDate>
 				<StartTime>02:25:43</StartTime>
@@ -248,7 +235,7 @@
 					<Description>benessere</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="19">
 				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
 				<StartDate>2016-04-11</StartDate>
 				<StartTime>02:26:46</StartTime>
@@ -261,7 +248,7 @@
 					<Description>ANIMALI SERPENTI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="21">
+			<Event id="20">
 				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
 				<StartDate>2016-04-11</StartDate>
 				<StartTime>03:18:52</StartTime>
@@ -274,7 +261,7 @@
 					<Description>CRASH CONTATTO  FINALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="22">
+			<Event id="21">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2016-04-11</StartDate>
 				<StartTime>05:07:23</StartTime>
@@ -287,7 +274,7 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="23">
+			<Event id="22">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2016-04-11</StartDate>
 				<StartTime>05:07:38</StartTime>
@@ -300,7 +287,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="24">
+			<Event id="23">
 				<IdName>Gerace</IdName>
 				<StartDate>2016-04-11</StartDate>
 				<StartTime>05:07:45</StartTime>
