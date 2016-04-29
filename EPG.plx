@@ -1,6 +1,6 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-29/04/2016	04:49:01	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	documentari
-29/04/2016	05:41:11	INNACaliente(OFFICIALVIDEO)	Caliente	Inna	00:03:21	162	
+29/04/2016	08:56:37	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	documentari
+29/04/2016	09:48:47	INNACaliente(OFFICIALVIDEO)	Caliente	Inna	00:03:21	162	
 28/05/2016	16:26:00	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
 28/05/2016	18:17:42	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
 28/05/2016	20:19:52	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
