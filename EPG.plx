@@ -1,39 +1,6 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-08/05/2016	21:08:33	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
-08/05/2016	21:18:31	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-08/05/2016	21:19:36	silaautentica	Sconosciuto	Nuovo File	00:07:20	0	
-08/05/2016	21:26:57	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-08/05/2016	21:27:07	2012VUEMMESPOT	VUEMMEFAST	VUEMMEFAST	00:00:37	11	spot
-08/05/2016	21:27:45	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
-08/05/2016	21:52:08	TG	TG 	TELEGIORNALE	00:02:41	31	programmi informativi
-08/05/2016	21:54:49	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
-08/05/2016	22:03:57	TartarugheNinja-16Ilredeifumetti	Sconosciuto	Nuovo File	00:22:01	0	
-08/05/2016	22:25:59	TartarugheNinja-14Avventurenelsottosuolo-parte2	Sconosciuto	Nuovo File	00:22:04	0	
-08/05/2016	22:48:03	TG	TG 	TELEGIORNALE	00:02:41	31	programmi informativi
-08/05/2016	22:50:44	TartarugheNinja-13Avventurenelsottosuolo-parte1	Sconosciuto	Nuovo File	00:22:05	0	
-08/05/2016	23:12:49	inTavola_20150226_48823	Sconosciuto	Nuovo File	00:01:58	0	
-08/05/2016	23:14:48	TRAILERPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:10:04	0	
-08/05/2016	23:24:53	TG	TG 	TELEGIORNALE	00:02:41	31	programmi informativi
-08/05/2016	23:27:34	GeracepresentatoilDiariofotograficodi25annidicammino(byEL)	LIBRO  FOTOGRAFICO 25  ANNI  DI  CAMMINO	GERACE 25  ANNI  DI CAMMINO	00:31:39	41	programmi culturali
-08/05/2016	23:59:13	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-08/05/2016	23:59:20	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-08/05/2016	23:59:36	SpegniLaTv...MettitiABallare	Sconosciuto	Nuovo File	00:01:44	0	
-09/05/2016	00:01:20	jerry.lewis.l.idolo.delle.donne.19611°t.	L' IDOLO DELLE DONNE 1°	L' IDOLO DELLE DONNE 1°	00:47:12	1	Film
-09/05/2016	00:48:32	Arma.Da.Taglio.19722°t	ARMA DA TAGLIO 2°	ARMA DA TAGLIO 2°	00:37:18	1	Film
-09/05/2016	01:25:50	FLASHPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:00	0	
-09/05/2016	01:30:51	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-09/05/2016	01:31:56	benessere_20150715_52345	Sconosciuto	Nuovo File	00:01:11	0	
-09/05/2016	01:33:08	silaautentica	Sconosciuto	Nuovo File	00:07:20	0	
-09/05/2016	01:40:29	TG	TG 	TELEGIORNALE	00:02:41	31	programmi informativi
-09/05/2016	01:43:10	Bowfinger_1_mpeg2video	Sconosciuto	BOWFINGER 1P	00:44:18	1	Film
-09/05/2016	02:27:29	Bowfinger_2_mpeg2video	Sconosciuto	BOWFINGER 2 P	00:48:07	1	Film
-09/05/2016	03:15:36	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
-09/05/2016	03:20:49	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-09/05/2016	03:21:04	ZAGORTVSatanik19671°t.	ZAGORTV SATANIK 1° T	ZAGORTV SATANIK 1° T	00:47:05	1	Film
-09/05/2016	04:08:10	ZAGORTVSatanik19672°t.	ZAGOR TV SATANIK 2° T	ZAGOR TV SATANIK 2° T	00:36:09	1	Film
-09/05/2016	04:44:19	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-09/05/2016	04:44:59	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
-09/05/2016	06:36:41	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
+09/05/2016	04:45:01	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
+09/05/2016	06:36:43	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
 08/05/2015	19:13:00	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
 08/05/2015	19:13:06	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
 08/05/2015	19:35:19	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
