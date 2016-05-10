@@ -2,19 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>ON-RACETV_10</IdName>
-				<StartDate>2016-05-10</StartDate>
-				<StartTime>19:27:04</StartTime>
-				<EndDate>2016-05-10</EndDate>
-				<EndTime>20:10:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
 				<IdName>Locri'SulletraccediPersefone'a100annidalritrovamento</IdName>
 				<StartDate>2016-05-10</StartDate>
 				<StartTime>20:10:13</StartTime>
@@ -27,7 +14,7 @@
 					<Description>SULLE TRACCE DELLA PERSEFONE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="3">
+			<Event id="2">
 				<IdName>ImaginaryHeroes</IdName>
 				<StartDate>2016-05-10</StartDate>
 				<StartTime>21:42:48</StartTime>
@@ -40,7 +27,7 @@
 					<Description>Immaginary Heores</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="3">
 				<IdName>Puntatan.03_2014_PRONTA</IdName>
 				<StartDate>2016-05-10</StartDate>
 				<StartTime>23:33:52</StartTime>
@@ -53,12 +40,12 @@
 					<Description>3MILLE VOCI2014</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="4">
 				<IdName>ZAPPINGTV_CARTONE_005_OK</IdName>
 				<StartDate>2016-05-11</StartDate>
 				<StartTime>01:33:26</StartTime>
 				<EndDate>2016-05-11</EndDate>
-				<EndTime>01:43:00</EndTime>
+				<EndTime>01:42:59</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -66,12 +53,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="5">
 				<IdName>PhilCollinsCan'tstoplovingyou(HQLive2004)</IdName>
 				<StartDate>2016-05-11</StartDate>
-				<StartTime>01:43:00</StartTime>
+				<StartTime>01:42:59</StartTime>
 				<EndDate>2016-05-11</EndDate>
-				<EndTime>01:47:25</EndTime>
+				<EndTime>01:47:24</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -79,12 +66,12 @@
 					<Description>PHIL COLLINS</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="6">
 				<IdName>Atlantis</IdName>
 				<StartDate>2016-05-11</StartDate>
-				<StartTime>01:47:25</StartTime>
+				<StartTime>01:47:24</StartTime>
 				<EndDate>2016-05-11</EndDate>
-				<EndTime>03:15:01</EndTime>
+				<EndTime>03:15:00</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,10 +79,10 @@
 					<Description>ATLANTIS</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="7">
 				<IdName>LaCompagniaDell'Anello</IdName>
 				<StartDate>2016-05-11</StartDate>
-				<StartTime>03:15:01</StartTime>
+				<StartTime>03:15:00</StartTime>
 				<EndDate>2016-05-11</EndDate>
 				<EndTime>06:34:56</EndTime>
 				<ShortEventDescription>
@@ -105,7 +92,7 @@
 					<Description>La compagnia dell'anello </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="8">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2016-05-11</StartDate>
 				<StartTime>06:34:56</StartTime>
@@ -118,7 +105,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="9">
 				<IdName>_1779_Recanatese_Lunaametà</IdName>
 				<StartDate>2016-05-11</StartDate>
 				<StartTime>06:35:03</StartTime>
@@ -131,7 +118,7 @@
 					<Description>RECANATESE  LUNA A METa'</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="10">
 				<IdName>Gerace</IdName>
 				<StartDate>2016-05-11</StartDate>
 				<StartTime>06:43:20</StartTime>
