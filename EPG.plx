@@ -1,7 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-18/05/2016	17:26:30	ZAGORTVSatanik19672°t.	ZAGOR TV SATANIK 2° T	ZAGOR TV SATANIK 2° T	00:36:09	1	Film
-18/05/2016	18:02:39	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-18/05/2016	18:03:20	rotocalco_20160511_58936	Sconosciuto	Nuovo File	00:19:01	0	
 18/05/2016	18:22:21	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
 18/05/2016	20:14:03	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
 18/05/2016	20:36:16	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
@@ -14,7 +11,7 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 19/05/2016	01:07:57	salusTg_20160510_58913	Sconosciuto	Nuovo File	00:02:05	0	
 19/05/2016	01:10:02	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
 19/05/2016	01:12:32	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-19/05/2016	01:12:38	rotocalco_20160511_58936	Sconosciuto	Nuovo File	00:19:01	0	
+19/05/2016	01:12:39	rotocalco_20160511_58936	Sconosciuto	Nuovo File	00:19:01	0	
 19/05/2016	01:31:40	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
 19/05/2016	01:31:51	TG	TG 	TELEGIORNALE	00:02:41	31	programmi informativi
 19/05/2016	01:34:32	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
