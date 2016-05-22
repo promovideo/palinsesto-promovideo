@@ -1,39 +1,28 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-22/05/2016	19:41:21	MuseoEgiziodelCairo(parte3)	MUSEO EGIZIO DEL CAIRO 3^ P	MUSEO EGIZIO DEL CAIRO 3^ P	00:29:05	41	programmi culturali
-22/05/2016	20:10:26	Promo_01_MilleVoci_2015	PROMO 1000 VOCI	Nuovo File	00:00:37	0	
-22/05/2016	20:11:04	TRAILERPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:10:04	0	
-22/05/2016	20:21:08	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-22/05/2016	20:22:13	silaautentica	Sconosciuto	Nuovo File	00:07:20	0	
-22/05/2016	20:29:34	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-22/05/2016	20:29:45	2012VUEMMESPOT	VUEMMEFAST	VUEMMEFAST	00:00:37	11	spot
-22/05/2016	20:30:22	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
-22/05/2016	20:54:45	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
-22/05/2016	21:03:53	TartarugheNinja-16Ilredeifumetti	Sconosciuto	Nuovo File	00:22:01	0	
-22/05/2016	21:25:55	TartarugheNinja-14Avventurenelsottosuolo-parte2	Sconosciuto	Nuovo File	00:22:04	0	
-22/05/2016	21:47:59	TartarugheNinja-13Avventurenelsottosuolo-parte1	Sconosciuto	Nuovo File	00:22:05	0	
-22/05/2016	22:10:04	TartarugheNinja-17IlritormodiShredder-parte1	Sconosciuto	Nuovo File	00:21:54	0	
-22/05/2016	22:31:58	TartarugheNinja-16Ilredeifumetti	Sconosciuto	Nuovo File	00:22:01	0	
-22/05/2016	22:54:00	TartarugheNinja-15Avventurenelsottosuolo-parte3	Sconosciuto	Nuovo File	00:21:41	0	
-22/05/2016	23:15:41	inTavola_20150226_48823	Sconosciuto	Nuovo File	00:01:58	0	
-22/05/2016	23:17:40	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-22/05/2016	23:17:47	rotocalco_20160511_58936	Sconosciuto	Nuovo File	00:19:01	0	
-22/05/2016	23:36:48	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-22/05/2016	23:37:04	musaTv_20160511_58928	Sconosciuto	Nuovo File	00:14:30	0	
-22/05/2016	23:51:35	SpegniLaTv...MettitiABallare	Sconosciuto	Nuovo File	00:01:44	0	
-22/05/2016	23:53:19	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
-23/05/2016	00:03:16	jerry.lewis.l.idolo.delle.donne.19611°t.	L' IDOLO DELLE DONNE 1°	L' IDOLO DELLE DONNE 1°	00:47:12	1	Film
-23/05/2016	00:50:28	salusTg_20160510_58913	Sconosciuto	Nuovo File	00:02:05	0	
-23/05/2016	00:52:34	FLASHPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:00	0	
-23/05/2016	00:57:34	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-23/05/2016	00:58:40	benessere_20150715_52345	Sconosciuto	Nuovo File	00:01:11	0	
-23/05/2016	00:59:51	silaautentica	Sconosciuto	Nuovo File	00:07:20	0	
-23/05/2016	01:07:12	salusTg_20160510_58913	Sconosciuto	Nuovo File	00:02:05	0	
-23/05/2016	01:09:18	Bowfinger_1_mpeg2video	Sconosciuto	BOWFINGER 1P	00:44:18	1	Film
-23/05/2016	01:53:36	Bowfinger_2_mpeg2video	Sconosciuto	BOWFINGER 2 P	00:48:07	1	Film
-23/05/2016	02:41:43	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
-23/05/2016	02:46:57	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-23/05/2016	02:47:12	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
-23/05/2016	04:49:22	ZAGORTVSatanik19671°t.	ZAGORTV SATANIK 1° T	ZAGORTV SATANIK 1° T	00:47:05	1	Film
+22/05/2016	21:28:46	TartarugheNinja-13Avventurenelsottosuolo-parte1	Sconosciuto	Nuovo File	00:22:05	0	
+22/05/2016	21:50:51	TartarugheNinja-17IlritormodiShredder-parte1	Sconosciuto	Nuovo File	00:21:54	0	
+22/05/2016	22:12:45	TartarugheNinja-16Ilredeifumetti	Sconosciuto	Nuovo File	00:22:01	0	
+22/05/2016	22:34:46	TartarugheNinja-15Avventurenelsottosuolo-parte3	Sconosciuto	Nuovo File	00:21:41	0	
+22/05/2016	22:56:28	inTavola_20150226_48823	Sconosciuto	Nuovo File	00:01:58	0	
+22/05/2016	22:58:27	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+22/05/2016	22:58:34	rotocalco_20160511_58936	Sconosciuto	Nuovo File	00:19:01	0	
+22/05/2016	23:17:35	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+22/05/2016	23:17:51	musaTv_20160511_58928	Sconosciuto	Nuovo File	00:14:30	0	
+22/05/2016	23:32:21	SpegniLaTv...MettitiABallare	Sconosciuto	Nuovo File	00:01:44	0	
+22/05/2016	23:34:05	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
+22/05/2016	23:44:03	jerry.lewis.l.idolo.delle.donne.19611°t.	L' IDOLO DELLE DONNE 1°	L' IDOLO DELLE DONNE 1°	00:47:12	1	Film
+23/05/2016	00:31:15	salusTg_20160510_58913	Sconosciuto	Nuovo File	00:02:05	0	
+23/05/2016	00:33:20	FLASHPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:00	0	
+23/05/2016	00:38:21	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+23/05/2016	00:39:26	benessere_20150715_52345	Sconosciuto	Nuovo File	00:01:11	0	
+23/05/2016	00:40:38	silaautentica	Sconosciuto	Nuovo File	00:07:20	0	
+23/05/2016	00:47:59	salusTg_20160510_58913	Sconosciuto	Nuovo File	00:02:05	0	
+23/05/2016	00:50:04	Bowfinger_1_mpeg2video	Sconosciuto	BOWFINGER 1P	00:44:18	1	Film
+23/05/2016	01:34:23	Bowfinger_2_mpeg2video	Sconosciuto	BOWFINGER 2 P	00:48:07	1	Film
+23/05/2016	02:22:30	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
+23/05/2016	02:27:44	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
+23/05/2016	02:27:59	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
+23/05/2016	04:30:09	ZAGORTVSatanik19671°t.	ZAGORTV SATANIK 1° T	ZAGORTV SATANIK 1° T	00:47:05	1	Film
 22/05/2016	17:18:19	ZAGORTVSatanik19672°t.	ZAGOR TV SATANIK 2° T	ZAGOR TV SATANIK 2° T	00:36:09	1	Film
 22/05/2016	17:54:28	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
 22/05/2016	17:55:09	rotocalco_20160511_58936	Sconosciuto	Nuovo File	00:19:01	0	
