@@ -1,14 +1,8 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-23/05/2016	09:38:13	rotocalco_20160511_58936	Sconosciuto	Nuovo File	00:19:01	0	
-23/05/2016	09:57:15	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-23/05/2016	09:57:25	TG	TG 	TELEGIORNALE	00:02:41	31	programmi informativi
-23/05/2016	10:00:07	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-23/05/2016	10:00:14	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
-23/05/2016	11:23:23	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
-23/05/2016	12:15:28	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
-23/05/2016	14:03:59	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-23/05/2016	14:04:15	TG	TG 	TELEGIORNALE	00:02:41	31	programmi informativi
-23/05/2016	14:06:57	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-23/05/2016	14:07:03	_1779_Recanatese_Lunaametà	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
-23/05/2016	14:15:21	ZAPPINGTV_CARTONE_005_OK	Sconosciuto	Nuovo File	00:09:33	0	
-23/05/2016	14:24:54	Gerace	GERACE	GERACE	00:06:01	71	documentari
+23/05/2016	17:42:13	GeraceCCdel30042014	Sconosciuto	Nuovo File	01:58:40	0	
+23/05/2016	19:40:54	LaMummia	Sconosciuto	La mummia	01:59:39	22	
+23/05/2016	21:40:33	CONFERENZASINDACIX970K	Sconosciuto	Nuovo File	00:12:39	0	
+23/05/2016	21:53:13	LeDueTorri	Sconosciuto	Le due torri 	02:52:03	22	
+24/05/2016	00:45:17	Ilpadrino	IL PADRINO	Il padrino	02:48:04	1	Film
+24/05/2016	03:33:21	EttoreScolaC'eravamotantoamati(1974)_mpeg2video	Sconosciuto	CERAVAMO TANTO  AMATI	02:00:23	1	Film
+24/05/2016	05:33:45	Gerace	GERACE	GERACE	00:06:01	71	documentari
