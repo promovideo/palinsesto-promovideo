@@ -1,18 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-21/06/2016	20:17:57	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
-21/06/2016	22:09:39	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
-22/06/2016	00:11:49	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-22/06/2016	00:11:56	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
-22/06/2016	00:34:09	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
-22/06/2016	00:39:15	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
-22/06/2016	02:09:50	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-22/06/2016	02:09:57	LibrocasinoMacrì_mpeg2video	LIBRO CASINO' MACRI	LIBRO CASINO MACRI'	01:05:03	41	programmi culturali
-22/06/2016	03:15:00	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
-22/06/2016	05:05:36	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-22/06/2016	05:05:42	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
-22/06/2016	05:08:12	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-22/06/2016	05:08:19	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-22/06/2016	05:08:30	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-22/06/2016	05:08:36	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
-22/06/2016	06:31:45	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
-22/06/2016	06:32:48	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
+22/06/2016	05:03:25	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
+22/06/2016	06:26:34	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
+22/06/2016	06:27:37	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
