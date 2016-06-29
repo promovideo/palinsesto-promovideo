@@ -1,6 +1,2 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-29/06/2016	05:42:20	IlVizietto2°t.	IL VIZIETTO 2° T	IL VIZIETTO 2° T	00:44:25	1	Film
-29/06/2016	06:26:46	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-29/06/2016	06:26:52	_1779_Recanatese_Lunaametà	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
-29/06/2016	06:35:10	ZAPPINGTV_CARTONE_005_OK	Sconosciuto	Nuovo File	00:09:33	0	
-29/06/2016	06:44:44	Gerace	GERACE	GERACE	00:06:01	71	documentari
+29/06/2016	06:44:43	Gerace	GERACE	GERACE	00:06:01	71	documentari
