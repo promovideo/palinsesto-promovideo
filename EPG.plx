@@ -1,15 +1,5 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-03/07/2016	21:07:57	Speed	SPEED	SPEED	01:50:00	1	Film
-03/07/2016	22:57:58	ZAPPINGTV_CARTONE_005_OK	Sconosciuto	Nuovo File	00:09:33	0	
-03/07/2016	23:07:32	BadBoys	BAD BOYS	BAD BOYS	01:54:04	1	Film
-04/07/2016	01:01:36	SPOTINTERPUBBLICITARI#3	Sconosciuto	Nuovo File	00:00:07	0	
-04/07/2016	01:01:43	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-04/07/2016	01:08:58	Promo_01_MilleVoci_2015	PROMO 1000 VOCI	Nuovo File	00:00:37	0	
-04/07/2016	01:09:36	_1720_Consulentefinanziario	CONSU,ENTE  FINANNZIARIO	CONSULENTE FINANZIARIO	00:19:55	61	Telefilm
-04/07/2016	01:29:31	CONSIGLIOCOMUNALEGERACEDEL28062016	CONSIGLIO  COMUN GERACE DEL 28 06 2016	CONS COMUN 28 06 2016	01:02:31	41	programmi culturali
-04/07/2016	02:32:02	0114-1968PreparatiLaBara-TerenceHill_mpeg2video	Sconosciuto	PREPARATI LA  BARA	01:28:01	1	Film
-04/07/2016	04:00:03	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	programmi informativi
-04/07/2016	04:12:49	A027DaLasVegas_mpeg2video	Sconosciuto	A 27 LAS VEGAS	01:30:34	1	Film
-04/07/2016	05:43:23	AmiciMieiAttoII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO II	02:07:00	1	Film
-04/07/2016	07:50:23	FLASHPARTE8DOPOLE22,30	Sconosciuto	Nuovo File	00:05:11	0	
-04/07/2016	07:55:35	benessere_20150903_53428	Sconosciuto	Nuovo File	00:00:18	0	
+04/07/2016	04:12:48	A027DaLasVegas_mpeg2video	Sconosciuto	A 27 LAS VEGAS	01:30:34	1	Film
+04/07/2016	05:43:22	AmiciMieiAttoII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO II	02:07:00	1	Film
+04/07/2016	07:50:22	FLASHPARTE8DOPOLE22,30	Sconosciuto	Nuovo File	00:05:11	0	
+04/07/2016	07:55:34	benessere_20150903_53428	Sconosciuto	Nuovo File	00:00:18	0	
