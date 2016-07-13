@@ -1,44 +1,8 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-12/07/2016	21:46:12	Puntatan.15_2014_PRONTA	MILLE VOCI 2014	15 PUNTATA	01:53:59	81	videoclip
-12/07/2016	23:40:11	SPOTtraPROMOVIDEOTV10	Sconosciuto	SPOT PROMOVIDEOTV2	00:00:03	11	spot
-12/07/2016	23:40:15	PASCOLOABUSIVO	PASCOLO ABUSIVO	PASCOLO ABUSIVO	00:10:03	71	documentari
-12/07/2016	23:50:18	Ritorno.Al.Futuro.1-iTALiAN.DvDRip	Sconosciuto	Ritorno  al  futuro  1	01:51:13	1	Film
-13/07/2016	01:41:32	Rotocalco_20150429_50428	Sconosciuto	Nuovo File	00:18:15	0	
-13/07/2016	01:59:47	24-GiochiPericolosi	Sconosciuto	Nuovo File	00:24:39	112	
-13/07/2016	02:24:27	benessere_20150228_48886	Sconosciuto	Nuovo File	00:01:01	0	
-13/07/2016	02:25:28	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-13/07/2016	02:25:39	28-LaRecitaDiNatale	Sconosciuto	Nuovo File	00:24:39	112	
-13/07/2016	02:50:18	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
-13/07/2016	02:55:32	spotcalabriaingustopromovideotv	SPOT CALABRIA IN GUSTO	CALABRIA IN GUSTO SPOT	00:00:57	11	spot
-13/07/2016	02:56:29	Salus_TV_20150428_50389	Sconosciuto	Nuovo File	00:13:23	0	
-13/07/2016	03:09:53	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-13/07/2016	03:10:03	SPOTtraPROMOVIDEOTV4	Sconosciuto	SPOTtraPROMOVIDEOTV4	00:00:03	11	spot
-13/07/2016	03:10:07	tg_20150323_49482	Sconosciuto	Nuovo File	00:02:23	0	
-13/07/2016	03:12:31	14-Annalascialascuola	Sconosciuto	Nuovo File	00:24:39	112	
-13/07/2016	03:37:10	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-13/07/2016	03:37:21	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
-13/07/2016	03:42:39	inItalia_20150204_48221	Sconosciuto	inItalia_2015  02  04	00:01:55	41	programmi culturali
-13/07/2016	03:44:34	tg_20150323_49482	Sconosciuto	Nuovo File	00:02:23	0	
-13/07/2016	03:46:58	SPOTtraPROMOVIDEOTV6	Sconosciuto	SPOTtraPROMOVIDEOTV6	00:00:03	11	spot
-13/07/2016	03:47:02	SPOTtraPROMOVIDEOTV5	Sconosciuto	SPOTtraPROMOVIDEOTV5	00:00:03	11	spot
-13/07/2016	03:47:05	Rotocalco_20150429_50428	Sconosciuto	Nuovo File	00:18:15	0	
-13/07/2016	04:05:20	1966TreUominiInFuga-LouisDeFunes	Sconosciuto	tre  uomini  in  fugag	01:58:43	1	Film
-13/07/2016	06:04:03	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-13/07/2016	06:04:14	benessere_20150309_49105	Sconosciuto	Nuovo File	00:00:59	0	
-13/07/2016	06:05:14	BovaChoratuVuaIlGioielloD'Aspromonte	BOVA GIOIELLO D' ASPROMONTE	BOVA	00:16:11	41	programmi culturali
-13/07/2016	06:21:25	1967TreFusti,DueBamboleEUnTesoro-ElvisPresley	Sconosciuto	1967Tre Fusti ,Due Bambole E Un Tesoro	01:31:01	1	Film
-13/07/2016	07:52:26	SPOTINTERPUBBLICITARI#3	Sconosciuto	Nuovo File	00:00:07	0	
-13/07/2016	07:52:34	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
-13/07/2016	07:57:47	tg_20150323_49482	Sconosciuto	Nuovo File	00:02:23	0	
-13/07/2016	08:00:11	1970-BeatoTraLeDonne-LouisDeFunes	BEATO TRA  LE DONNE	BEATO TRA  LE  DONNE	01:22:04	1	Film
-13/07/2016	09:22:15	ZAGORTVSatanik19671°t.	ZAGORTV SATANIK 1° T	ZAGORTV SATANIK 1° T	00:47:05	1	Film
-13/07/2016	10:09:20	ZAGORTVSatanik19672°t.	ZAGOR TV SATANIK 2° T	ZAGOR TV SATANIK 2° T	00:36:09	1	Film
-13/07/2016	10:45:29	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-13/07/2016	10:45:40	1969FioreDiCactus-IngridBergmanWalterMatthau	FIORE DI CACTUS BERGMAN	FIORE DI CACTUS 	01:39:33	1	Film
-13/07/2016	12:25:13	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
-13/07/2016	12:30:31	tg_20150323_49482	Sconosciuto	Nuovo File	00:02:23	0	
-13/07/2016	12:32:54	GeraceLibroAperto	Sconosciuto	Nuovo File	00:07:26	0	
-13/07/2016	12:40:21	1961IlFederale-UgoTognazziGianricoTedeschiGianniAgusStefaniaSandrelli	Sconosciuto	Nuovo File	01:37:20	0	
-13/07/2016	14:17:41	SPOTtraPROMOVIDEOTV2	Sconosciuto	SPOTPRIMAPUBBLICITA' PROMOV2	00:00:02	0	
-13/07/2016	14:17:44	1959L'UltimaSpiaggia-FredAstaireAvaGardnerGregoryPeck	FRED ASTAIRE	l' ultima spiaggia	02:08:52	0	
-13/07/2016	16:26:36	1968Ilmercenario-FrancoNeroTonyMusante	IL MERCENARIO	Franco Nero Tony   Musante	01:41:45	1	Film
+13/07/2016	04:51:02	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
+13/07/2016	04:56:19	tg_20150323_49482	Sconosciuto	Nuovo File	00:02:23	0	
+13/07/2016	04:58:43	GeraceLibroAperto	Sconosciuto	Nuovo File	00:07:26	0	
+13/07/2016	05:06:09	1961IlFederale-UgoTognazziGianricoTedeschiGianniAgusStefaniaSandrelli	Sconosciuto	Nuovo File	01:37:20	0	
+13/07/2016	06:43:30	SPOTtraPROMOVIDEOTV2	Sconosciuto	SPOTPRIMAPUBBLICITA' PROMOV2	00:00:02	0	
+13/07/2016	06:43:32	1959L'UltimaSpiaggia-FredAstaireAvaGardnerGregoryPeck	FRED ASTAIRE	l' ultima spiaggia	02:08:52	0	
+13/07/2016	08:52:25	1968Ilmercenario-FrancoNeroTonyMusante	IL MERCENARIO	Franco Nero Tony   Musante	01:41:45	1	Film
