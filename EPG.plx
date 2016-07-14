@@ -1,10 +1,6 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-14/07/2016	18:48:14	0114-1968PreparatiLaBara-TerenceHill_mpeg2video	Sconosciuto	PREPARATI LA  BARA	01:28:01	1	Film
-14/07/2016	20:16:15	inItalia_20150211_48398	Sconosciuto	IN  ITALIA	00:01:54	41	programmi culturali
-14/07/2016	20:18:09	SPOTtraPROMOVIDEOTV10	Sconosciuto	SPOT PROMOVIDEOTV2	00:00:03	11	spot
-14/07/2016	20:18:13	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
 14/07/2016	20:18:28	Scusi,MaLeiLePagaLeTasse	Sconosciuto	Scusi  ma Lei le  paga  le tasse	01:33:13	22	
-14/07/2016	21:51:42	SPOTCACCIATORIDITESTE	Sconosciuto	Nuovo File	00:00:45	0	
+14/07/2016	21:51:41	SPOTCACCIATORIDITESTE	Sconosciuto	Nuovo File	00:00:45	0	
 14/07/2016	21:52:27	MondialeSynchroDance_Spot30sec	PROMO MONDIALE SYINCRO	PROMO MONDIALE SYNCRO	00:00:31	11	spot
 14/07/2016	21:52:58	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
 14/07/2016	21:53:09	SPOTCACCIATORIDITESTE	Sconosciuto	Nuovo File	00:00:45	0	
@@ -12,12 +8,12 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 14/07/2016	21:54:51	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
 14/07/2016	21:55:02	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 14/07/2016	21:55:09	SPOTtraPROMOVIDEOTV6	Sconosciuto	SPOTtraPROMOVIDEOTV6	00:00:03	11	spot
-14/07/2016	21:55:13	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+14/07/2016	21:55:12	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
 14/07/2016	21:55:28	SPOTtraPROMOVIDEOTV2	Sconosciuto	SPOTPRIMAPUBBLICITA' PROMOV2	00:00:02	0	
-14/07/2016	21:55:31	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	documentari
-14/07/2016	22:17:00	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-14/07/2016	22:17:11	SPOTINTERPUBBLICITARI#3	Sconosciuto	Nuovo File	00:00:07	0	
+14/07/2016	21:55:30	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	documentari
+14/07/2016	22:16:59	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+14/07/2016	22:17:10	SPOTINTERPUBBLICITARI#3	Sconosciuto	Nuovo File	00:00:07	0	
 14/07/2016	22:17:18	1959-Ciaociaobambina-DomenicoModugnoCifarielloLorellaDeLuca	CIAO CIAO BAMBINA - Modugno	CIAO CIAO  BAMBINA	01:31:55	1	Film
-14/07/2016	23:49:14	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
+14/07/2016	23:49:13	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
 14/07/2016	23:56:28	Promo_01_MilleVoci_2015	PROMO 1000 VOCI	Nuovo File	00:00:37	0	
 14/07/2016	23:57:06	_1720_Consulentefinanziario	CONSU,ENTE  FINANNZIARIO	CONSULENTE FINANZIARIO	00:19:55	61	Telefilm
