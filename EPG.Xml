@@ -2,22 +2,9 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>LibrocasinoMacrì_mpeg2video</IdName>
-				<StartDate>2016-07-18</StartDate>
-				<StartTime>17:34:46</StartTime>
-				<EndDate>2016-07-18</EndDate>
-				<EndTime>18:39:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LIBRO CASINO' MACRI</Name>
-					<Description>LIBRO CASINO MACRI'</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
 				<IdName>Fantozzi-GrandiMagazzini</IdName>
 				<StartDate>2016-07-18</StartDate>
-				<StartTime>18:39:49</StartTime>
+				<StartTime>18:39:48</StartTime>
 				<EndDate>2016-07-18</EndDate>
 				<EndTime>20:30:24</EndTime>
 				<ShortEventDescription>
@@ -27,7 +14,7 @@
 					<Description>GRANDI MAGAZZINI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="3">
+			<Event id="2">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2016-07-18</StartDate>
 				<StartTime>20:30:24</StartTime>
@@ -40,7 +27,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="3">
 				<IdName>Filmato</IdName>
 				<StartDate>2016-07-18</StartDate>
 				<StartTime>20:30:31</StartTime>
@@ -53,12 +40,12 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="4">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2016-07-18</StartDate>
 				<StartTime>20:33:01</StartTime>
 				<EndDate>2016-07-18</EndDate>
-				<EndTime>20:33:08</EndTime>
+				<EndTime>20:33:07</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -66,10 +53,10 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="5">
 				<IdName>minispotapplicazione</IdName>
 				<StartDate>2016-07-18</StartDate>
-				<StartTime>20:33:08</StartTime>
+				<StartTime>20:33:07</StartTime>
 				<EndDate>2016-07-18</EndDate>
 				<EndTime>20:33:18</EndTime>
 				<ShortEventDescription>
@@ -79,7 +66,7 @@
 					<Description>SPOTAPP</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="6">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2016-07-18</StartDate>
 				<StartTime>20:33:18</StartTime>
@@ -92,7 +79,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="7">
 				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
 				<StartDate>2016-07-18</StartDate>
 				<StartTime>20:33:25</StartTime>
@@ -105,7 +92,7 @@
 					<Description>BELLEZZE SULLA SPIAGGIA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="8">
 				<IdName>3PROMOVIDEOSPOT3</IdName>
 				<StartDate>2016-07-18</StartDate>
 				<StartTime>21:56:34</StartTime>
@@ -118,7 +105,7 @@
 					<Description>SPOT PROMOVIDEOTV 3</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="9">
 				<IdName>benessere_20150512_50742</IdName>
 				<StartDate>2016-07-18</StartDate>
 				<StartTime>21:56:41</StartTime>
@@ -131,7 +118,7 @@
 					<Description>benessere</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="10">
 				<IdName>Gerace</IdName>
 				<StartDate>2016-07-18</StartDate>
 				<StartTime>21:57:44</StartTime>
@@ -144,7 +131,7 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="11">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2016-07-18</StartDate>
 				<StartTime>22:03:45</StartTime>
@@ -157,7 +144,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="12">
 				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
 				<StartDate>2016-07-18</StartDate>
 				<StartTime>22:03:52</StartTime>
@@ -170,7 +157,7 @@
 					<Description>ANIMALI SERPENTI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="13">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2016-07-18</StartDate>
 				<StartTime>22:55:57</StartTime>
@@ -183,7 +170,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="14">
 				<IdName>DonCamilloel'onorevolePeppone</IdName>
 				<StartDate>2016-07-18</StartDate>
 				<StartTime>22:56:04</StartTime>
@@ -196,7 +183,7 @@
 					<Description>DON CAMILLO E L 'ONOREVOLE PEPPONE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="15">
 				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
 				<StartDate>2016-07-19</StartDate>
 				<StartTime>00:33:05</StartTime>
@@ -209,7 +196,7 @@
 					<Description>CRASH CONTATTO  FINALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="16">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2016-07-19</StartDate>
 				<StartTime>02:21:36</StartTime>
@@ -222,7 +209,7 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="17">
 				<IdName>Fantozzi-GrandiMagazzini</IdName>
 				<StartDate>2016-07-19</StartDate>
 				<StartTime>02:21:51</StartTime>
@@ -235,7 +222,7 @@
 					<Description>GRANDI MAGAZZINI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="18">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2016-07-19</StartDate>
 				<StartTime>04:12:27</StartTime>
@@ -248,7 +235,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="19">
 				<IdName>GERACE-Cittàmillenaria</IdName>
 				<StartDate>2016-07-19</StartDate>
 				<StartTime>04:12:34</StartTime>
@@ -261,7 +248,7 @@
 					<Description>GERACECITTAMILLENARIA SPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="21">
+			<Event id="20">
 				<IdName>ZAPPINGTV_CARTONE_005_OK</IdName>
 				<StartDate>2016-07-19</StartDate>
 				<StartTime>04:13:39</StartTime>
