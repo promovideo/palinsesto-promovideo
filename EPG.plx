@@ -1,5 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-22/07/2016	16:42:47	ANDRANGHETAXTV	LIBRO SFRAMELI	ANDRANCHETA	01:18:19	41	programmi culturali
 22/07/2016	18:01:07	MammaHoRipersoL'aereoEMiSonoSmarritoANewYork	Mamma ho riperso l' aereo e mi  sono smarrito a New York	Nuovo File	01:48:03	1	Film
 22/07/2016	19:49:11	TG	TG 	TELEGIORNALE	00:02:23	31	programmi informativi
 22/07/2016	19:51:35	PROMOVIDEOSPOT	PROMOVIDEOSPOT	PROMOVIDEOSOT	00:00:21	11	spot
