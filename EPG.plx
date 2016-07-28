@@ -1,5 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-28/07/2016	19:29:08	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
 28/07/2016	20:21:13	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
 28/07/2016	22:09:44	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
 28/07/2016	22:10:47	Ilpadrino	IL PADRINO	Il padrino	02:48:04	1	Film
