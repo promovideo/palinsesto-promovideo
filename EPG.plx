@@ -1,12 +1,3 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-28/07/2016	20:21:13	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
-28/07/2016	22:09:44	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
-28/07/2016	22:10:47	Ilpadrino	IL PADRINO	Il padrino	02:48:04	1	Film
-29/07/2016	00:58:51	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-29/07/2016	01:08:57	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-29/07/2016	01:09:04	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-29/07/2016	01:09:19	LeDueTorri	Sconosciuto	Le due torri 	02:52:03	22	
-29/07/2016	04:01:23	italia_3_mpeg2video	Sconosciuto	Nuovo File	00:30:51	0	
-29/07/2016	04:32:15	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-29/07/2016	04:32:22	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
-29/07/2016	06:24:04	Gerace	GERACE	GERACE	00:06:01	71	documentari
+29/07/2016	04:27:06	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
+29/07/2016	06:18:48	Gerace	GERACE	GERACE	00:06:01	71	documentari
