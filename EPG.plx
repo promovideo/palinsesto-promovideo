@@ -1,7 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-13/08/2016	16:54:16	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
-13/08/2016	18:56:25	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-13/08/2016	18:56:32	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
 13/08/2016	19:18:45	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
 13/08/2016	20:49:20	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
 13/08/2016	20:49:27	LibrocasinoMacrì_mpeg2video	LIBRO CASINO' MACRI	LIBRO CASINO MACRI'	01:05:03	41	programmi culturali
@@ -17,8 +14,8 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 14/08/2016	02:04:24	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
 14/08/2016	03:52:55	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
 14/08/2016	03:53:11	IlVizietto1°t.	IL VIZIETTO 1° T	IL VIZIETTO 1° T	00:48:41	1	Film
-14/08/2016	04:41:52	IlVizietto2°t.	IL VIZIETTO 2° T	IL VIZIETTO 2° T	00:44:25	1	Film
+14/08/2016	04:41:53	IlVizietto2°t.	IL VIZIETTO 2° T	IL VIZIETTO 2° T	00:44:25	1	Film
 14/08/2016	05:26:18	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 14/08/2016	05:26:25	_1779_Recanatese_Lunaametà	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
-14/08/2016	05:34:42	ZAPPINGTV_CARTONE_005_OK	Sconosciuto	Nuovo File	00:09:33	0	
+14/08/2016	05:34:43	ZAPPINGTV_CARTONE_005_OK	Sconosciuto	Nuovo File	00:09:33	0	
 14/08/2016	05:44:16	Gerace	GERACE	GERACE	00:06:01	71	documentari
