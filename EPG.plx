@@ -1,9 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-19/08/2016	15:35:18	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
-19/08/2016	17:37:28	tg_20150525_51110	Sconosciuto	Nuovo File	00:02:22	0	
-19/08/2016	17:39:50	agrisapori639x13-12-15	Sconosciuto	Nuovo File	00:29:07	0	
-19/08/2016	18:08:58	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-19/08/2016	18:09:05	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
 19/08/2016	18:31:18	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
 19/08/2016	20:01:53	tg_20150525_51110	Sconosciuto	Nuovo File	00:02:22	0	
 19/08/2016	20:04:15	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
@@ -12,7 +7,7 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 19/08/2016	21:09:32	tg_20150525_51110	Sconosciuto	Nuovo File	00:02:22	0	
 19/08/2016	21:11:54	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
 19/08/2016	21:14:24	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-19/08/2016	21:14:31	Buenavistasocialclub_mpeg2video	BUENA VISTA SOCIAL CLUB	buena vista social club	01:40:28	81	videoclip
+19/08/2016	21:14:30	Buenavistasocialclub_mpeg2video	BUENA VISTA SOCIAL CLUB	buena vista social club	01:40:28	81	videoclip
 19/08/2016	22:54:59	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
 19/08/2016	22:55:10	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
 19/08/2016	22:55:17	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
@@ -24,6 +19,6 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 20/08/2016	03:00:28	SICILIAMARSALAprocessionedelgiovedìsantoHD	Sconosciuto	Nuovo File	00:00:08	0	
 20/08/2016	03:00:36	Locri'SulletraccediPersefone'a100annidalritrovamento	SULLE TRACCE DELLA PERSEFONE	SULLE TRACCE DELLA PERSEFONE	01:32:34	41	programmi culturali
 20/08/2016	04:33:11	LaCompagniaDell'Anello	Sconosciuto	La compagnia dell'anello 	03:19:55	22	
-20/08/2016	07:53:07	_1779_Recanatese_Lunaametà	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
+20/08/2016	07:53:06	_1779_Recanatese_Lunaametà	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
 20/08/2016	08:01:24	ZAPPINGTV_CARTONE_005_OK	Sconosciuto	Nuovo File	00:09:33	0	
-20/08/2016	08:10:58	Gerace	GERACE	GERACE	00:06:01	71	documentari
+20/08/2016	08:10:57	Gerace	GERACE	GERACE	00:06:01	71	documentari
