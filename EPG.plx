@@ -1,8 +1,6 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-01/09/2016	16:38:25	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
-01/09/2016	18:40:35	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
 01/09/2016	18:40:41	Unafortunasfacciata_mpeg2video	Sconosciuto	Una fortuna sfacciata	01:34:56	22	
-01/09/2016	20:15:37	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
+01/09/2016	20:15:38	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
 01/09/2016	20:37:50	jerry.lewis.l.idolo.delle.donne.19611°t.	L' IDOLO DELLE DONNE 1°	L' IDOLO DELLE DONNE 1°	00:47:12	1	Film
 01/09/2016	21:25:02	jerry.lewis.l.idolo.delle.donne.19612°t.	L' IDOLO DELLE DONNE 2°	L' IDOLO DELLE DONNE 2°	00:44:37	1	Film
 01/09/2016	22:09:40	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
