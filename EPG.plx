@@ -1,6 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-03/09/2016	19:32:38	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
-03/09/2016	21:34:48	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
 03/09/2016	21:34:55	Unafortunasfacciata_mpeg2video	Sconosciuto	Una fortuna sfacciata	01:34:56	22	
 03/09/2016	23:09:51	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
 03/09/2016	23:32:04	jerry.lewis.l.idolo.delle.donne.19611°t.	L' IDOLO DELLE DONNE 1°	L' IDOLO DELLE DONNE 1°	00:47:12	1	Film
@@ -13,7 +11,7 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 04/09/2016	04:02:15	DonCamilloMonsignoremanontroppo	DON CAMILLO   MONSIGNORE	DON CAMILLO MONSIGNORE	01:53:25	1	Film
 04/09/2016	05:55:41	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 04/09/2016	05:55:48	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-04/09/2016	05:55:58	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+04/09/2016	05:55:59	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
 04/09/2016	05:56:05	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
 04/09/2016	07:19:14	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
 04/09/2016	08:11:20	FLASHPARTE5SETTIMANASOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:04:50	0	
