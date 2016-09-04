@@ -2,32 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Colpogrosso_mpeg2video</IdName>
-				<StartDate>2016-09-04</StartDate>
-				<StartTime>17:24:23</StartTime>
-				<EndDate>2016-09-04</EndDate>
-				<EndTime>19:26:32</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Colpogrosso</Name>
-					<Description>COLPO  GROSSO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>3PROMOVIDEOSPOT3</IdName>
-				<StartDate>2016-09-04</StartDate>
-				<StartTime>19:26:32</StartTime>
-				<EndDate>2016-09-04</EndDate>
-				<EndTime>19:26:39</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>spot promovideotv</Name>
-					<Description>SPOT PROMOVIDEOTV 3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
 				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
 				<StartDate>2016-09-04</StartDate>
 				<StartTime>19:26:39</StartTime>
@@ -40,7 +14,7 @@
 					<Description>Reggio piccola grande Italia  </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="2">
 				<IdName>FLASHPARTE6SETTIMANADOPOLE22,30</IdName>
 				<StartDate>2016-09-04</StartDate>
 				<StartTime>19:48:52</StartTime>
@@ -53,12 +27,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="3">
 				<IdName>AttackForce</IdName>
 				<StartDate>2016-09-04</StartDate>
 				<StartTime>19:53:56</StartTime>
 				<EndDate>2016-09-04</EndDate>
-				<EndTime>21:24:31</EndTime>
+				<EndTime>21:24:32</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -66,10 +40,10 @@
 					<Description>ATTACK FORCE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="4">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2016-09-04</StartDate>
-				<StartTime>21:24:31</StartTime>
+				<StartTime>21:24:32</StartTime>
 				<EndDate>2016-09-04</EndDate>
 				<EndTime>21:24:38</EndTime>
 				<ShortEventDescription>
@@ -79,7 +53,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="5">
 				<IdName>LibrocasinoMacrì_mpeg2video</IdName>
 				<StartDate>2016-09-04</StartDate>
 				<StartTime>21:24:38</StartTime>
@@ -92,7 +66,7 @@
 					<Description>LIBRO CASINO MACRI'</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="6">
 				<IdName>FLASHPARTE2SETTIMANANONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2016-09-04</StartDate>
 				<StartTime>22:29:41</StartTime>
@@ -105,7 +79,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="7">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2016-09-04</StartDate>
 				<StartTime>22:34:48</StartTime>
@@ -118,7 +92,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="8">
 				<IdName>AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI</IdName>
 				<StartDate>2016-09-04</StartDate>
 				<StartTime>22:34:54</StartTime>
@@ -131,7 +105,7 @@
 					<Description>ABRAMO ISACCO GIACOBBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="9">
 				<IdName>Filmato</IdName>
 				<StartDate>2016-09-05</StartDate>
 				<StartTime>00:01:02</StartTime>
@@ -144,7 +118,7 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="10">
 				<IdName>TRAILERPARTE6SETTIMANADOPOLE22,30</IdName>
 				<StartDate>2016-09-05</StartDate>
 				<StartTime>00:03:31</StartTime>
@@ -157,7 +131,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="11">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2016-09-05</StartDate>
 				<StartTime>00:13:33</StartTime>
@@ -170,7 +144,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="12">
 				<IdName>minispotapplicazione</IdName>
 				<StartDate>2016-09-05</StartDate>
 				<StartTime>00:13:40</StartTime>
@@ -183,7 +157,7 @@
 					<Description>SPOTAPP</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="13">
 				<IdName>Malibùmostwanted_mpeg2video</IdName>
 				<StartDate>2016-09-05</StartDate>
 				<StartTime>00:13:51</StartTime>
@@ -196,7 +170,7 @@
 					<Description>MALIBU MONS WANTED</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="14">
 				<IdName>TRAILERPARTE8SETTIMANADOPOLE22,30</IdName>
 				<StartDate>2016-09-05</StartDate>
 				<StartTime>01:36:26</StartTime>
@@ -209,7 +183,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="15">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2016-09-05</StartDate>
 				<StartTime>01:46:28</StartTime>
@@ -222,7 +196,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="16">
 				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
 				<StartDate>2016-09-05</StartDate>
 				<StartTime>01:46:35</StartTime>
@@ -235,7 +209,7 @@
 					<Description>BELLEZZE SULLA SPIAGGIA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="17">
 				<IdName>benessere_20150512_50742</IdName>
 				<StartDate>2016-09-05</StartDate>
 				<StartTime>03:09:44</StartTime>
@@ -248,7 +222,7 @@
 					<Description>benessere</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="18">
 				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
 				<StartDate>2016-09-05</StartDate>
 				<StartTime>03:10:47</StartTime>
@@ -261,7 +235,7 @@
 					<Description>ANIMALI SERPENTI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="21">
+			<Event id="19">
 				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
 				<StartDate>2016-09-05</StartDate>
 				<StartTime>04:02:52</StartTime>
@@ -274,7 +248,7 @@
 					<Description>CRASH CONTATTO  FINALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="22">
+			<Event id="20">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2016-09-05</StartDate>
 				<StartTime>05:51:23</StartTime>
@@ -287,7 +261,7 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="23">
+			<Event id="21">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2016-09-05</StartDate>
 				<StartTime>05:51:39</StartTime>
@@ -300,7 +274,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="24">
+			<Event id="22">
 				<IdName>_1779_Recanatese_Lunaametà</IdName>
 				<StartDate>2016-09-05</StartDate>
 				<StartTime>05:51:45</StartTime>
@@ -313,7 +287,7 @@
 					<Description>RECANATESE  LUNA A METa'</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="25">
+			<Event id="23">
 				<IdName>Gerace</IdName>
 				<StartDate>2016-09-05</StartDate>
 				<StartTime>06:00:03</StartTime>
