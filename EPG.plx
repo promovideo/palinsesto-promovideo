@@ -1,5 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-05/09/2016	18:21:20	LibrocasinoMacrì_mpeg2video	LIBRO CASINO' MACRI	LIBRO CASINO MACRI'	01:05:03	41	programmi culturali
 05/09/2016	19:26:23	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
 05/09/2016	21:16:59	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 05/09/2016	21:17:06	TRAILERPARTE6SETTIMANADOPOLE22,30	Sconosciuto	Nuovo File	00:10:01	0	
