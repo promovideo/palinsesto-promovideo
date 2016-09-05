@@ -2,63 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
-				<StartDate>2016-09-05</StartDate>
-				<StartTime>17:53:55</StartTime>
-				<EndDate>2016-09-05</EndDate>
-				<EndTime>18:16:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Reggio piccola grande Italia  </Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>FLASHPARTE1SETTIMANANONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2016-09-05</StartDate>
-				<StartTime>18:16:08</StartTime>
-				<EndDate>2016-09-05</EndDate>
-				<EndTime>18:21:14</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2016-09-05</StartDate>
-				<StartTime>18:21:14</StartTime>
-				<EndDate>2016-09-05</EndDate>
-				<EndTime>18:21:21</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>LibrocasinoMacrì_mpeg2video</IdName>
-				<StartDate>2016-09-05</StartDate>
-				<StartTime>18:21:21</StartTime>
-				<EndDate>2016-09-05</EndDate>
-				<EndTime>19:26:24</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LIBRO CASINO' MACRI</Name>
-					<Description>LIBRO CASINO MACRI'</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
 				<IdName>Fantozzi-GrandiMagazzini</IdName>
 				<StartDate>2016-09-05</StartDate>
-				<StartTime>19:26:24</StartTime>
+				<StartTime>19:26:23</StartTime>
 				<EndDate>2016-09-05</EndDate>
-				<EndTime>21:17:00</EndTime>
+				<EndTime>21:16:59</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -66,10 +14,10 @@
 					<Description>GRANDI MAGAZZINI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="2">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2016-09-05</StartDate>
-				<StartTime>21:17:00</StartTime>
+				<StartTime>21:16:59</StartTime>
 				<EndDate>2016-09-05</EndDate>
 				<EndTime>21:17:06</EndTime>
 				<ShortEventDescription>
@@ -79,7 +27,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="3">
 				<IdName>TRAILERPARTE6SETTIMANADOPOLE22,30</IdName>
 				<StartDate>2016-09-05</StartDate>
 				<StartTime>21:17:06</StartTime>
@@ -92,12 +40,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="4">
 				<IdName>Filmato</IdName>
 				<StartDate>2016-09-05</StartDate>
 				<StartTime>21:27:08</StartTime>
 				<EndDate>2016-09-05</EndDate>
-				<EndTime>21:29:38</EndTime>
+				<EndTime>21:29:37</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -105,10 +53,10 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="5">
 				<IdName>Puntatan.10_2014_PRONTA</IdName>
 				<StartDate>2016-09-05</StartDate>
-				<StartTime>21:29:38</StartTime>
+				<StartTime>21:29:37</StartTime>
 				<EndDate>2016-09-05</EndDate>
 				<EndTime>23:28:25</EndTime>
 				<ShortEventDescription>
@@ -118,12 +66,12 @@
 					<Description>10 PUNTATA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="6">
 				<IdName>AttackForce</IdName>
 				<StartDate>2016-09-05</StartDate>
 				<StartTime>23:28:25</StartTime>
 				<EndDate>2016-09-06</EndDate>
-				<EndTime>00:59:01</EndTime>
+				<EndTime>00:59:00</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -131,10 +79,10 @@
 					<Description>ATTACK FORCE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="7">
 				<IdName>TRAILERPARTE7SETTIMANADOPOLE22,30</IdName>
 				<StartDate>2016-09-06</StartDate>
-				<StartTime>00:59:01</StartTime>
+				<StartTime>00:59:00</StartTime>
 				<EndDate>2016-09-06</EndDate>
 				<EndTime>01:09:02</EndTime>
 				<ShortEventDescription>
@@ -144,7 +92,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="8">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2016-09-06</StartDate>
 				<StartTime>01:09:02</StartTime>
@@ -157,7 +105,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="9">
 				<IdName>minispotapplicazione</IdName>
 				<StartDate>2016-09-06</StartDate>
 				<StartTime>01:09:09</StartTime>
@@ -170,12 +118,12 @@
 					<Description>SPOTAPP</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="10">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2016-09-06</StartDate>
 				<StartTime>01:09:20</StartTime>
 				<EndDate>2016-09-06</EndDate>
-				<EndTime>01:09:27</EndTime>
+				<EndTime>01:09:26</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -183,12 +131,12 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="11">
 				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
 				<StartDate>2016-09-06</StartDate>
-				<StartTime>01:09:27</StartTime>
+				<StartTime>01:09:26</StartTime>
 				<EndDate>2016-09-06</EndDate>
-				<EndTime>02:32:36</EndTime>
+				<EndTime>02:32:35</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -196,12 +144,12 @@
 					<Description>BELLEZZE SULLA SPIAGGIA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="12">
 				<IdName>benessere_20150512_50742</IdName>
 				<StartDate>2016-09-06</StartDate>
-				<StartTime>02:32:36</StartTime>
+				<StartTime>02:32:35</StartTime>
 				<EndDate>2016-09-06</EndDate>
-				<EndTime>02:33:39</EndTime>
+				<EndTime>02:33:38</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -209,12 +157,12 @@
 					<Description>benessere</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="13">
 				<IdName>TRAILERPARTE7SETTIMANADOPOLE22,30</IdName>
 				<StartDate>2016-09-06</StartDate>
-				<StartTime>02:33:39</StartTime>
+				<StartTime>02:33:38</StartTime>
 				<EndDate>2016-09-06</EndDate>
-				<EndTime>02:43:41</EndTime>
+				<EndTime>02:43:40</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -222,12 +170,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="14">
 				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
 				<StartDate>2016-09-06</StartDate>
-				<StartTime>02:43:41</StartTime>
+				<StartTime>02:43:40</StartTime>
 				<EndDate>2016-09-06</EndDate>
-				<EndTime>04:32:12</EndTime>
+				<EndTime>04:32:11</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -235,10 +183,10 @@
 					<Description>CRASH CONTATTO  FINALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="15">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2016-09-06</StartDate>
-				<StartTime>04:32:12</StartTime>
+				<StartTime>04:32:11</StartTime>
 				<EndDate>2016-09-06</EndDate>
 				<EndTime>04:32:27</EndTime>
 				<ShortEventDescription>
@@ -248,7 +196,7 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="16">
 				<IdName>IlVizietto1°t.</IdName>
 				<StartDate>2016-09-06</StartDate>
 				<StartTime>04:32:27</StartTime>
@@ -261,12 +209,12 @@
 					<Description>IL VIZIETTO 1° T</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="21">
+			<Event id="17">
 				<IdName>IlVizietto2°t.</IdName>
 				<StartDate>2016-09-06</StartDate>
 				<StartTime>05:21:09</StartTime>
 				<EndDate>2016-09-06</EndDate>
-				<EndTime>06:05:35</EndTime>
+				<EndTime>06:05:34</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -274,12 +222,12 @@
 					<Description>IL VIZIETTO 2° T</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="22">
+			<Event id="18">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2016-09-06</StartDate>
-				<StartTime>06:05:35</StartTime>
+				<StartTime>06:05:34</StartTime>
 				<EndDate>2016-09-06</EndDate>
-				<EndTime>06:05:42</EndTime>
+				<EndTime>06:05:41</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -287,10 +235,10 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="23">
+			<Event id="19">
 				<IdName>_1779_Recanatese_Lunaametà</IdName>
 				<StartDate>2016-09-06</StartDate>
-				<StartTime>06:05:42</StartTime>
+				<StartTime>06:05:41</StartTime>
 				<EndDate>2016-09-06</EndDate>
 				<EndTime>06:13:59</EndTime>
 				<ShortEventDescription>
@@ -300,7 +248,7 @@
 					<Description>RECANATESE  LUNA A METa'</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="24">
+			<Event id="20">
 				<IdName>Gerace</IdName>
 				<StartDate>2016-09-06</StartDate>
 				<StartTime>06:13:59</StartTime>
