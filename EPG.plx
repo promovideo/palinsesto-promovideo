@@ -1,5 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-18/09/2016	17:50:09	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
 18/09/2016	18:42:15	NicolaGratteriNarrarelalegalit‡LeConversazioniSerali	Narrare  la  legalit‡	Nicoal Gratteri Narrare  la legalit‡	01:23:23	82	
 18/09/2016	20:05:38	musaTv_20160914_61074	Sconosciuto	Nuovo File	00:07:30	0	
 18/09/2016	20:13:09	TRAILERPARTE1SETTIMANANONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:01	0	
