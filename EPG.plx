@@ -1,7 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-19/09/2016	18:42:09	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
-19/09/2016	20:44:19	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-19/09/2016	20:44:26	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
 19/09/2016	21:06:39	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
 19/09/2016	22:37:14	TG	TG 	TELEGIORNALE	00:03:03	31	programmi informativi
 19/09/2016	22:40:18	TRAILERPARTE1SETTIMANANONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:01	0	
