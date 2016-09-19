@@ -1,9 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-19/09/2016	16:22:39	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
-19/09/2016	18:14:21	rotocalco_20160915_61094	Sconosciuto	Nuovo File	00:12:37	0	
-19/09/2016	18:26:58	TRAILERPARTE6SETTIMANADOPOLE22,30	Sconosciuto	Nuovo File	00:10:01	0	
-19/09/2016	18:37:00	salusTg_20160915_61107	Sconosciuto	Nuovo File	00:02:05	0	
-19/09/2016	18:39:05	TG	TG 	TELEGIORNALE	00:03:03	31	programmi informativi
 19/09/2016	18:42:09	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
 19/09/2016	20:44:19	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 19/09/2016	20:44:26	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
@@ -16,7 +11,7 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 20/09/2016	00:09:37	TG	TG 	TELEGIORNALE	00:03:03	31	programmi informativi
 20/09/2016	00:12:41	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
 20/09/2016	00:12:48	musaTv_20160914_61074	Sconosciuto	Nuovo File	00:07:30	0	
-20/09/2016	00:20:19	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
+20/09/2016	00:20:18	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
 20/09/2016	00:22:48	TG	TG 	TELEGIORNALE	00:03:03	31	programmi informativi
 20/09/2016	00:25:52	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 20/09/2016	00:25:59	rotocalco_20160915_61094	Sconosciuto	Nuovo File	00:12:37	0	
