@@ -1,21 +1,20 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-29/09/2016	17:28:38	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
-29/09/2016	19:20:20	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
+29/09/2016	19:20:21	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
 29/09/2016	21:22:30	tg_20160308_57576	Sconosciuto	Nuovo File	00:02:52	0	
 29/09/2016	21:25:22	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
 29/09/2016	21:25:29	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
 29/09/2016	21:47:42	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
 29/09/2016	23:18:17	LibrocasinoMacrì_mpeg2video	LIBRO CASINO' MACRI	LIBRO CASINO MACRI'	01:05:03	41	programmi culturali
 30/09/2016	00:23:20	tg_20160308_57576	Sconosciuto	Nuovo File	00:02:52	0	
-30/09/2016	00:26:12	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
+30/09/2016	00:26:13	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
 30/09/2016	02:16:48	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 30/09/2016	02:16:55	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
 30/09/2016	02:19:25	tg_20160308_57576	Sconosciuto	Nuovo File	00:02:52	0	
 30/09/2016	02:22:17	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 30/09/2016	02:22:24	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-30/09/2016	02:22:34	tg_20160308_57576	Sconosciuto	Nuovo File	00:02:52	0	
+30/09/2016	02:22:35	tg_20160308_57576	Sconosciuto	Nuovo File	00:02:52	0	
 30/09/2016	02:25:27	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-30/09/2016	02:25:33	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
+30/09/2016	02:25:34	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
 30/09/2016	03:48:42	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
 30/09/2016	03:49:45	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
 30/09/2016	04:41:51	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
