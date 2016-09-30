@@ -1,3 +1,21 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-30/09/2016	08:17:04	Gerace	GERACE	GERACE	00:06:01	71	documentari
-30/09/2016	08:23:05	tg_20160308_57576	Sconosciuto	Nuovo File	00:02:52	0	
+30/09/2016	17:53:03	Bowfinger_2_mpeg2video	Sconosciuto	BOWFINGER 2 P	00:48:07	1	Film
+30/09/2016	18:41:11	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
+30/09/2016	18:46:24	consigliocomunalegeracedel25092016primaparte	CONSIGLIO GERACE DEL 25.09 016	consigl gerace 1^ parte	01:13:36	31	programmi informativi
+30/09/2016	20:00:01	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
+30/09/2016	20:00:16	CONSIGLIOCOMGERA25SETT2^Parte	gerace consiglio  comunale	Consiglio  com 2à parte del 25 09 016	02:29:42	31	programmi informativi
+30/09/2016	22:29:58	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
+30/09/2016	22:30:39	TG	TG 	TELEGIORNALE	00:03:03	31	programmi informativi
+30/09/2016	22:33:42	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
+01/10/2016	00:25:25	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
+01/10/2016	00:27:55	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+01/10/2016	00:28:01	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+01/10/2016	00:28:12	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+01/10/2016	00:28:19	Speed	SPEED	SPEED	01:50:00	1	Film
+01/10/2016	02:18:20	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
+01/10/2016	03:41:29	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
+01/10/2016	03:42:32	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
+01/10/2016	04:34:37	Speed2-SenzaLimiti	SPOEED 2 SENZA LIMITI	SPEED 2 SENZA LIMITI	01:54:12	1	Film
+01/10/2016	06:28:50	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+01/10/2016	06:29:05	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+01/10/2016	06:29:12	Gerace	GERACE	GERACE	00:06:01	71	documentari
