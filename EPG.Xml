@@ -2,37 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
-				<StartDate>2016-10-05</StartDate>
-				<StartTime>17:37:59</StartTime>
-				<EndDate>2016-10-05</EndDate>
-				<EndTime>18:00:12</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Reggio piccola grande Italia  </Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2016-10-05</StartDate>
-				<StartTime>18:00:12</StartTime>
-				<EndDate>2016-10-05</EndDate>
-				<EndTime>18:00:19</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
 				<IdName>StarshipTroopers-FanteriaDelloSpazio</IdName>
 				<StartDate>2016-10-05</StartDate>
 				<StartTime>18:00:19</StartTime>
 				<EndDate>2016-10-05</EndDate>
-				<EndTime>20:04:38</EndTime>
+				<EndTime>20:04:37</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -40,10 +14,10 @@
 					<Description>STARSHIP TROOPERS</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="2">
 				<IdName>AustinPowers2-Laspiacheciprovava</IdName>
 				<StartDate>2016-10-05</StartDate>
-				<StartTime>20:04:38</StartTime>
+				<StartTime>20:04:37</StartTime>
 				<EndDate>2016-10-05</EndDate>
 				<EndTime>21:35:45</EndTime>
 				<ShortEventDescription>
@@ -53,7 +27,7 @@
 					<Description>LA SPIA CHE CI  PROVAVA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="3">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2016-10-05</StartDate>
 				<StartTime>21:35:45</StartTime>
@@ -66,7 +40,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="4">
 				<IdName>Filmato</IdName>
 				<StartDate>2016-10-05</StartDate>
 				<StartTime>21:35:52</StartTime>
@@ -79,7 +53,7 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="5">
 				<IdName>SanRocco2006</IdName>
 				<StartDate>2016-10-05</StartDate>
 				<StartTime>21:38:21</StartTime>
@@ -92,12 +66,12 @@
 					<Description>S.ROCCO 2006 GIOIOSA J</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="6">
 				<IdName>IpostipibellidellacalabriaDestinationCalabriaGiuseppeScorzaPepoMac@gmailcom_mpeg2video</IdName>
 				<StartDate>2016-10-05</StartDate>
 				<StartTime>21:55:11</StartTime>
 				<EndDate>2016-10-05</EndDate>
-				<EndTime>21:59:11</EndTime>
+				<EndTime>21:59:10</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -105,10 +79,10 @@
 					<Description>I POSTI PIU  BELLI DELLA CALABRIA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="7">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2016-10-05</StartDate>
-				<StartTime>21:59:11</StartTime>
+				<StartTime>21:59:10</StartTime>
 				<EndDate>2016-10-05</EndDate>
 				<EndTime>21:59:17</EndTime>
 				<ShortEventDescription>
@@ -118,7 +92,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="8">
 				<IdName>ThePrison</IdName>
 				<StartDate>2016-10-05</StartDate>
 				<StartTime>21:59:17</StartTime>
@@ -131,7 +105,7 @@
 					<Description>The  prison</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="9">
 				<IdName>minispotapplicazione</IdName>
 				<StartDate>2016-10-05</StartDate>
 				<StartTime>23:45:05</StartTime>
@@ -144,7 +118,7 @@
 					<Description>SPOTAPP</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="10">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2016-10-05</StartDate>
 				<StartTime>23:45:16</StartTime>
@@ -157,7 +131,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="11">
 				<IdName>benessere_20150512_50742</IdName>
 				<StartDate>2016-10-05</StartDate>
 				<StartTime>23:45:23</StartTime>
@@ -170,7 +144,7 @@
 					<Description>benessere</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="12">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2016-10-05</StartDate>
 				<StartTime>23:46:26</StartTime>
@@ -183,7 +157,7 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="13">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2016-10-05</StartDate>
 				<StartTime>23:46:41</StartTime>
@@ -196,7 +170,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="14">
 				<IdName>Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)</IdName>
 				<StartDate>2016-10-05</StartDate>
 				<StartTime>23:46:48</StartTime>
@@ -209,7 +183,7 @@
 					<Description>BERTOLDO BERTOLDINO E CACASENNO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="15">
 				<IdName>FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2016-10-06</StartDate>
 				<StartTime>01:46:28</StartTime>
@@ -222,7 +196,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="16">
 				<IdName>Gerace</IdName>
 				<StartDate>2016-10-06</StartDate>
 				<StartTime>01:51:46</StartTime>
@@ -235,7 +209,7 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="17">
 				<IdName>L'ultimorediScozia</IdName>
 				<StartDate>2016-10-06</StartDate>
 				<StartTime>01:57:47</StartTime>
@@ -248,7 +222,7 @@
 					<Description>L' ultimo re di Scozia</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="18">
 				<IdName>PianadegliAlbanesi'DomenicadellePalme'PiccolaGrandeItalia</IdName>
 				<StartDate>2016-10-06</StartDate>
 				<StartTime>02:57:06</StartTime>
@@ -261,7 +235,7 @@
 					<Description>PIANA DEGLI ALBANESI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="21">
+			<Event id="19">
 				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
 				<StartDate>2016-10-06</StartDate>
 				<StartTime>03:11:18</StartTime>
@@ -274,12 +248,12 @@
 					<Description>BELLEZZE SULLA SPIAGGIA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="22">
+			<Event id="20">
 				<IdName>Amy'sO-FinalmenteL'Amore</IdName>
 				<StartDate>2016-10-06</StartDate>
 				<StartTime>04:34:27</StartTime>
 				<EndDate>2016-10-06</EndDate>
-				<EndTime>05:57:54</EndTime>
+				<EndTime>05:57:53</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
