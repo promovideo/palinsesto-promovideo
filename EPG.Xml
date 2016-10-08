@@ -2,154 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>ThePrison</IdName>
-				<StartDate>2016-10-08</StartDate>
-				<StartTime>04:42:24</StartTime>
-				<EndDate>2016-10-08</EndDate>
-				<EndTime>06:28:12</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>The  prison</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>minispotapplicazione</IdName>
-				<StartDate>2016-10-08</StartDate>
-				<StartTime>06:28:12</StartTime>
-				<EndDate>2016-10-08</EndDate>
-				<EndTime>06:28:23</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTAPP</Name>
-					<Description>SPOTAPP</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2016-10-08</StartDate>
-				<StartTime>06:28:23</StartTime>
-				<EndDate>2016-10-08</EndDate>
-				<EndTime>06:28:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>benessere_20150512_50742</IdName>
-				<StartDate>2016-10-08</StartDate>
-				<StartTime>06:28:30</StartTime>
-				<EndDate>2016-10-08</EndDate>
-				<EndTime>06:29:33</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>benessere</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
-				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
-				<StartDate>2016-10-08</StartDate>
-				<StartTime>06:29:33</StartTime>
-				<EndDate>2016-10-08</EndDate>
-				<EndTime>06:29:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ISCRIVITI CANALE YOU TUBE</Name>
-					<Description>ISCRIVITI CANALE YOU TUBE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2016-10-08</StartDate>
-				<StartTime>06:29:48</StartTime>
-				<EndDate>2016-10-08</EndDate>
-				<EndTime>06:29:55</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
-				<IdName>Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)</IdName>
-				<StartDate>2016-10-08</StartDate>
-				<StartTime>06:29:55</StartTime>
-				<EndDate>2016-10-08</EndDate>
-				<EndTime>08:29:35</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>BERTOLDO BERTOLDINO E CACASENNO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="8">
-				<IdName>FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2016-10-08</StartDate>
-				<StartTime>08:29:35</StartTime>
-				<EndDate>2016-10-08</EndDate>
-				<EndTime>08:34:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="9">
-				<IdName>Gerace</IdName>
-				<StartDate>2016-10-08</StartDate>
-				<StartTime>08:34:53</StartTime>
-				<EndDate>2016-10-08</EndDate>
-				<EndTime>08:40:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GERACE</Name>
-					<Description>GERACE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
-				<IdName>L'ultimorediScozia</IdName>
-				<StartDate>2016-10-08</StartDate>
-				<StartTime>08:40:54</StartTime>
-				<EndDate>2016-10-08</EndDate>
-				<EndTime>09:40:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>L' ultimo re di Scozia</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="11">
-				<IdName>PianadegliAlbanesi'DomenicadellePalme'PiccolaGrandeItalia</IdName>
-				<StartDate>2016-10-08</StartDate>
-				<StartTime>09:40:13</StartTime>
-				<EndDate>2016-10-08</EndDate>
-				<EndTime>09:54:25</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PIANA DEGLI ALBANESI</Name>
-					<Description>PIANA DEGLI ALBANESI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="12">
 				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
 				<StartDate>2016-10-08</StartDate>
-				<StartTime>09:54:25</StartTime>
+				<StartTime>09:46:29</StartTime>
 				<EndDate>2016-10-08</EndDate>
-				<EndTime>11:17:34</EndTime>
+				<EndTime>11:09:38</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -157,12 +14,12 @@
 					<Description>BELLEZZE SULLA SPIAGGIA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="2">
 				<IdName>Amy'sO-FinalmenteL'Amore</IdName>
 				<StartDate>2016-10-08</StartDate>
-				<StartTime>11:17:34</StartTime>
+				<StartTime>11:09:38</StartTime>
 				<EndDate>2016-10-08</EndDate>
-				<EndTime>12:41:01</EndTime>
+				<EndTime>12:33:04</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
