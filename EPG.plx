@@ -1,5 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-08/10/2016	17:19:44	7Monacidoro_mpeg2video	Sconosciuto	7  MONACI D' ORO	01:33:49	1	Film
 08/10/2016	18:53:34	19-Guerraaimicrobi	ESPLORANDO IL  CORPO UMANO	GUERRA AI MICROBI	00:24:16	51	cartoni animati
 08/10/2016	19:17:50	25LamalattiadiDiana	La malattia di  Diana	Nuovo File	00:24:39	51	cartoni animati
 08/10/2016	19:42:29	36-LaFineDelClubDelRacconto	La fine del Club del racconto	La fine del club del racconto	00:24:40	51	cartoni animati
@@ -32,4 +31,4 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 09/10/2016	08:25:42	L'ultimorediScozia	Sconosciuto	L' ultimo re di Scozia	00:59:18	22	
 09/10/2016	09:25:01	PianadegliAlbanesi'DomenicadellePalme'PiccolaGrandeItalia	PIANA DEGLI ALBANESI	PIANA DEGLI ALBANESI	00:14:12	71	documentari
 09/10/2016	09:39:14	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
-09/10/2016	11:02:22	Amy'sO-FinalmenteL'Amore		Finalmente l' amore	01:23:26	22	
+09/10/2016	11:02:23	Amy'sO-FinalmenteL'Amore		Finalmente l' amore	01:23:26	22	
