@@ -1,23 +1,11 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-18/10/2016	17:58:54	Scusi,MaLeiLePagaLeTasse	Sconosciuto	Scusi  ma Lei le  paga  le tasse	01:33:13	22	
-18/10/2016	19:32:08	SPOTCACCIATORIDITESTE	Sconosciuto	Nuovo File	00:00:45	0	
-18/10/2016	19:32:53	MondialeSynchroDance_Spot30sec	PROMO MONDIALE SYINCRO	PROMO MONDIALE SYNCRO	00:00:31	11	spot
-18/10/2016	19:33:24	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-18/10/2016	19:33:35	'ComeEravamo'	COME ERAVAMO	COME ERAVAMO 	00:02:11	11	spot
-18/10/2016	19:35:47	SPOTCACCIATORIDITESTE	Sconosciuto	Nuovo File	00:00:45	0	
-18/10/2016	19:36:32	spotcalabriaingustopromovideotv	SPOT CALABRIA IN GUSTO	CALABRIA IN GUSTO SPOT	00:00:57	11	spot
-18/10/2016	19:37:29	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-18/10/2016	19:37:40	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-18/10/2016	19:37:46	SPOTtraPROMOVIDEOTV6	Sconosciuto	SPOTtraPROMOVIDEOTV6	00:00:03	11	spot
-18/10/2016	19:37:50	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-18/10/2016	19:38:06	SPOTtraPROMOVIDEOTV2	Sconosciuto	SPOTPRIMAPUBBLICITA' PROMOV2	00:00:02	0	
-18/10/2016	19:38:08	Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)	Sconosciuto	BERTOLDO BERTOLDINO E CACASENNO	01:59:40	1	Film
-18/10/2016	21:37:48	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	documentari
-18/10/2016	21:59:17	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-18/10/2016	21:59:28	Speed2-SenzaLimiti	SPOEED 2 SENZA LIMITI	SPEED 2 SENZA LIMITI	01:54:12	1	Film
-18/10/2016	23:53:41	SPOTINTERPUBBLICITARI#3	Sconosciuto	Nuovo File	00:00:07	0	
-18/10/2016	23:53:48	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-19/10/2016	00:01:03	Promo_01_MilleVoci_2015	PROMO 1000 VOCI	Nuovo File	00:00:37	0	
-19/10/2016	00:01:41	_1720_Consulentefinanziario	CONSU,ENTE  FINANNZIARIO	CONSULENTE FINANZIARIO	00:19:55	61	Telefilm
-19/10/2016	00:21:36	Carnevale2013Flashsulprimocorsomascherato	Sconosciuto	CARNEVALE VENEZIA 2	00:23:04	71	documentari
-19/10/2016	00:44:40	EpiscopioConsorziodelBergamotto_mpeg2video	CONSORZIO BERGAMOTTO EPISCOPATO LOCRI	CONSORZIO BERGAMOTTO	00:18:59	41	programmi culturali
+18/10/2016	19:38:04	Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)	Sconosciuto	BERTOLDO BERTOLDINO E CACASENNO	01:59:40	1	Film
+18/10/2016	21:37:44	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	documentari
+18/10/2016	21:59:14	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+18/10/2016	21:59:24	Speed2-SenzaLimiti	SPOEED 2 SENZA LIMITI	SPEED 2 SENZA LIMITI	01:54:12	1	Film
+18/10/2016	23:53:37	SPOTINTERPUBBLICITARI#3	Sconosciuto	Nuovo File	00:00:07	0	
+18/10/2016	23:53:45	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
+19/10/2016	00:00:59	Promo_01_MilleVoci_2015	PROMO 1000 VOCI	Nuovo File	00:00:37	0	
+19/10/2016	00:01:37	_1720_Consulentefinanziario	CONSU,ENTE  FINANNZIARIO	CONSULENTE FINANZIARIO	00:19:55	61	Telefilm
+19/10/2016	00:21:32	Carnevale2013Flashsulprimocorsomascherato	Sconosciuto	CARNEVALE VENEZIA 2	00:23:04	71	documentari
+19/10/2016	00:44:36	EpiscopioConsorziodelBergamotto_mpeg2video	CONSORZIO BERGAMOTTO EPISCOPATO LOCRI	CONSORZIO BERGAMOTTO	00:18:59	41	programmi culturali
