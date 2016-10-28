@@ -1,7 +1,6 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-28/10/2016	18:20:37	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
-28/10/2016	20:09:08	BonifatiPiccolaGrandeItalia	bonifati	bonifati	00:21:55	71	documentari
-28/10/2016	20:31:03	tg_20150603_51317	Sconosciuto	Nuovo File	00:02:33	0	
+28/10/2016	20:38:50	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	documentari
+28/10/2016	21:31:00	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
 28/10/2106	18:16:00	02-LaSorpresaDiMarillaCuthbert	Sconosciuto	Nuovo File	00:24:39	112	
 28/10/2106	18:40:39	03-Laprimamattinaaitettiverdi	Sconosciuto	Nuovo File	00:24:37	112	
 28/10/2106	19:05:16	03-Loscheletro	Sconosciuto	Nuovo File	00:24:32	112	
