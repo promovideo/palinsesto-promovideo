@@ -1,5 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-05/11/2016	17:29:00	AlbertoSordiIlVedovo	Sconosciuto	IL  VEDOVO	01:27:06	1	Film
 05/11/2016	18:56:06	rotocalco_20161027_61880	Sconosciuto	Nuovo File	00:19:17	0	
 05/11/2016	19:15:24	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
 05/11/2016	19:16:04	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
