@@ -2,297 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Colpogrosso_mpeg2video</IdName>
-				<StartDate>2016-11-07</StartDate>
-				<StartTime>21:23:05</StartTime>
-				<EndDate>2016-11-07</EndDate>
-				<EndTime>23:25:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Colpogrosso</Name>
-					<Description>COLPO  GROSSO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>3PROMOVIDEOSPOT3</IdName>
-				<StartDate>2016-11-07</StartDate>
-				<StartTime>23:25:15</StartTime>
-				<EndDate>2016-11-07</EndDate>
-				<EndTime>23:25:22</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>spot promovideotv</Name>
-					<Description>SPOT PROMOVIDEOTV 3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2016-11-07</StartDate>
-				<StartTime>23:25:22</StartTime>
-				<EndDate>2016-11-07</EndDate>
-				<EndTime>23:35:19</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2016-11-07</StartDate>
-				<StartTime>23:35:19</StartTime>
-				<EndDate>2016-11-07</EndDate>
-				<EndTime>23:35:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
-				<IdName>FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2016-11-07</StartDate>
-				<StartTime>23:35:26</StartTime>
-				<EndDate>2016-11-07</EndDate>
-				<EndTime>23:40:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
-				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
-				<StartDate>2016-11-07</StartDate>
-				<StartTime>23:40:43</StartTime>
-				<EndDate>2016-11-08</EndDate>
-				<EndTime>00:02:56</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Reggio piccola grande Italia  </Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
-				<IdName>Filmato</IdName>
-				<StartDate>2016-11-08</StartDate>
-				<StartTime>00:02:56</StartTime>
-				<EndDate>2016-11-08</EndDate>
-				<EndTime>00:05:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GERACE IN 2 MINUTI</Name>
-					<Description>GERACE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="8">
-				<IdName>TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2016-11-08</StartDate>
-				<StartTime>00:05:26</StartTime>
-				<EndDate>2016-11-08</EndDate>
-				<EndTime>00:15:31</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="9">
-				<IdName>80NOSTALGIA14</IdName>
-				<StartDate>2016-11-08</StartDate>
-				<StartTime>00:15:31</StartTime>
-				<EndDate>2016-11-08</EndDate>
-				<EndTime>00:47:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>80NOSTALGIA14</Name>
-					<Description>80NOSTALGIA43</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
-				<IdName>minispotapplicazione</IdName>
-				<StartDate>2016-11-08</StartDate>
-				<StartTime>00:47:26</StartTime>
-				<EndDate>2016-11-08</EndDate>
-				<EndTime>00:47:37</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTAPP</Name>
-					<Description>SPOTAPP</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="11">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2016-11-08</StartDate>
-				<StartTime>00:47:37</StartTime>
-				<EndDate>2016-11-08</EndDate>
-				<EndTime>00:47:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="12">
-				<IdName>FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2016-11-08</StartDate>
-				<StartTime>00:47:44</StartTime>
-				<EndDate>2016-11-08</EndDate>
-				<EndTime>00:53:01</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="13">
-				<IdName>Amy'sO-FinalmenteL'Amore</IdName>
-				<StartDate>2016-11-08</StartDate>
-				<StartTime>00:53:01</StartTime>
-				<EndDate>2016-11-08</EndDate>
-				<EndTime>02:16:28</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name></Name>
-					<Description>Finalmente l' amore</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="14">
-				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
-				<StartDate>2016-11-08</StartDate>
-				<StartTime>02:16:28</StartTime>
-				<EndDate>2016-11-08</EndDate>
-				<EndTime>03:39:37</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>BELLEZZE SULLA SPIAGGIA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="15">
-				<IdName>benessere_20150512_50742</IdName>
-				<StartDate>2016-11-08</StartDate>
-				<StartTime>03:39:37</StartTime>
-				<EndDate>2016-11-08</EndDate>
-				<EndTime>03:40:40</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>benessere</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="16">
-				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
-				<StartDate>2016-11-08</StartDate>
-				<StartTime>03:40:40</StartTime>
-				<EndDate>2016-11-08</EndDate>
-				<EndTime>05:29:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CRASH CONTATTO   FINALE FISICO</Name>
-					<Description>CRASH CONTATTO  FINALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="17">
-				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
-				<StartDate>2016-11-08</StartDate>
-				<StartTime>05:29:11</StartTime>
-				<EndDate>2016-11-08</EndDate>
-				<EndTime>05:29:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ISCRIVITI CANALE YOU TUBE</Name>
-					<Description>ISCRIVITI CANALE YOU TUBE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="18">
-				<IdName>TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2016-11-08</StartDate>
-				<StartTime>05:29:26</StartTime>
-				<EndDate>2016-11-08</EndDate>
-				<EndTime>05:39:23</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="19">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2016-11-08</StartDate>
-				<StartTime>05:39:23</StartTime>
-				<EndDate>2016-11-08</EndDate>
-				<EndTime>05:39:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="20">
-				<IdName>Consiglio29ott2016xregia</IdName>
-				<StartDate>2016-11-08</StartDate>
-				<StartTime>05:39:30</StartTime>
-				<EndDate>2016-11-08</EndDate>
-				<EndTime>05:39:32</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO COMUNALE GERACE </Name>
-					<Description>CONS DEL 29 OTT 2016</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="21">
-				<IdName>FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2016-11-08</StartDate>
-				<StartTime>05:39:32</StartTime>
-				<EndDate>2016-11-08</EndDate>
-				<EndTime>05:44:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="22">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2016-11-08</StartDate>
-				<StartTime>05:44:46</StartTime>
-				<EndDate>2016-11-08</EndDate>
-				<EndTime>05:44:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="23">
 				<IdName>BadBoys</IdName>
 				<StartDate>2016-11-08</StartDate>
-				<StartTime>05:44:53</StartTime>
+				<StartTime>05:39:12</StartTime>
 				<EndDate>2016-11-08</EndDate>
-				<EndTime>07:38:57</EndTime>
+				<EndTime>07:33:16</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -300,12 +14,12 @@
 					<Description>BAD BOYS</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="24">
+			<Event id="2">
 				<IdName>FLASHPARTE4SOLODALLE16,00ALLE18,00</IdName>
 				<StartDate>2016-11-08</StartDate>
-				<StartTime>07:38:57</StartTime>
+				<StartTime>07:33:16</StartTime>
 				<EndDate>2016-11-08</EndDate>
-				<EndTime>07:43:57</EndTime>
+				<EndTime>07:38:17</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -313,12 +27,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="25">
+			<Event id="3">
 				<IdName>CityofGhost_mpeg2video</IdName>
 				<StartDate>2016-11-08</StartDate>
-				<StartTime>07:43:57</StartTime>
+				<StartTime>07:38:17</StartTime>
 				<EndDate>2016-11-08</EndDate>
-				<EndTime>09:35:40</EndTime>
+				<EndTime>09:29:59</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -326,12 +40,12 @@
 					<Description>CYTY OF GHOST</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="26">
+			<Event id="4">
 				<IdName>bernardo.cane.ladro.e.bugiardo.19701°t.</IdName>
 				<StartDate>2016-11-08</StartDate>
-				<StartTime>09:35:40</StartTime>
+				<StartTime>09:29:59</StartTime>
 				<EndDate>2016-11-08</EndDate>
-				<EndTime>10:18:11</EndTime>
+				<EndTime>10:12:30</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
