@@ -2,61 +2,9 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Fantozzi-GrandiMagazzini</IdName>
-				<StartDate>2016-11-10</StartDate>
-				<StartTime>18:52:03</StartTime>
-				<EndDate>2016-11-10</EndDate>
-				<EndTime>20:42:39</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>FANTOZZI GRANDI MAGAZZINI</Name>
-					<Description>GRANDI MAGAZZINI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2016-11-10</StartDate>
-				<StartTime>20:42:39</StartTime>
-				<EndDate>2016-11-10</EndDate>
-				<EndTime>20:52:36</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2016-11-10</StartDate>
-				<StartTime>20:52:36</StartTime>
-				<EndDate>2016-11-10</EndDate>
-				<EndTime>20:52:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>CauloniaTrenitaliaripristinalafermata</IdName>
-				<StartDate>2016-11-10</StartDate>
-				<StartTime>20:52:43</StartTime>
-				<EndDate>2016-11-10</EndDate>
-				<EndTime>21:00:38</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
 				<IdName>filmcompletoPiratiRPolanski1986</IdName>
 				<StartDate>2016-11-10</StartDate>
-				<StartTime>21:00:38</StartTime>
+				<StartTime>21:00:39</StartTime>
 				<EndDate>2016-11-10</EndDate>
 				<EndTime>22:46:18</EndTime>
 				<ShortEventDescription>
@@ -66,7 +14,7 @@
 					<Description>Pirati</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="2">
 				<IdName>EttoreScolaC'eravamotantoamati(1974)_mpeg2video</IdName>
 				<StartDate>2016-11-10</StartDate>
 				<StartTime>22:46:18</StartTime>
@@ -79,7 +27,7 @@
 					<Description>CERAVAMO TANTO  AMATI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="3">
 				<IdName>FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2016-11-11</StartDate>
 				<StartTime>00:46:42</StartTime>
@@ -92,7 +40,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="4">
 				<IdName>Benny_21_mpeg2video</IdName>
 				<StartDate>2016-11-11</StartDate>
 				<StartTime>00:51:55</StartTime>
@@ -105,7 +53,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="5">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2016-11-11</StartDate>
 				<StartTime>01:15:21</StartTime>
@@ -118,7 +66,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="6">
 				<IdName>Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)</IdName>
 				<StartDate>2016-11-11</StartDate>
 				<StartTime>01:15:28</StartTime>
@@ -131,12 +79,12 @@
 					<Description>BERTOLDO BERTOLDINO E CACASENNO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="7">
 				<IdName>Bowfinger_1_mpeg2video</IdName>
 				<StartDate>2016-11-11</StartDate>
 				<StartTime>03:15:08</StartTime>
 				<EndDate>2016-11-11</EndDate>
-				<EndTime>03:59:26</EndTime>
+				<EndTime>03:59:27</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -144,12 +92,12 @@
 					<Description>BOWFINGER 1P</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="8">
 				<IdName>Bowfinger_2_mpeg2video</IdName>
 				<StartDate>2016-11-11</StartDate>
-				<StartTime>03:59:26</StartTime>
+				<StartTime>03:59:27</StartTime>
 				<EndDate>2016-11-11</EndDate>
-				<EndTime>04:47:33</EndTime>
+				<EndTime>04:47:34</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -157,10 +105,10 @@
 					<Description>BOWFINGER 2 P</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="9">
 				<IdName>NomadiToccamiilcuore</IdName>
 				<StartDate>2016-11-11</StartDate>
-				<StartTime>04:47:33</StartTime>
+				<StartTime>04:47:34</StartTime>
 				<EndDate>2016-11-11</EndDate>
 				<EndTime>04:51:56</EndTime>
 				<ShortEventDescription>
@@ -170,7 +118,7 @@
 					<Description>Nomadi</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="10">
 				<IdName>OceanaEndlessSummer_mpeg2video</IdName>
 				<StartDate>2016-11-11</StartDate>
 				<StartTime>04:51:56</StartTime>
