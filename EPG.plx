@@ -1,47 +1,18 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-10/11/2016	09:09:38	Atlantis	ATLANTIS	ATLANTIS	01:27:36	71	documentari
-10/11/2016	10:37:14	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-10/11/2016	10:37:54	bernardo.cane.ladro.e.bugiardo.19701°t.	BERNARDO CANE LADRO E  BUGIARDO 1°	BERNARDO CANE LADRO E  BUGIARDO 1°	00:42:30	1	Film
-10/11/2016	11:20:25	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
-10/11/2016	11:25:43	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-10/11/2016	11:25:50	TG	TG 	TELEGIORNALE	00:03:00	31	programmi informativi
-10/11/2016	11:28:50	inMoto_20150202_48142	Sconosciuto	inMoto_2015 02 02_	00:01:50	31	programmi informativi
-10/11/2016	11:30:41	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
-10/11/2016	11:40:38	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-10/11/2016	11:40:45	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	programmi informativi
-10/11/2016	11:53:31	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
-10/11/2016	11:58:48	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
-10/11/2016	12:21:01	POLSIARCHIVIOPROMOCULTURA	POLSI	POLSI	00:14:00	41	programmi culturali
-10/11/2016	12:35:02	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	programmi informativi
-10/11/2016	12:37:17	TG	TG 	TELEGIORNALE	00:03:00	31	programmi informativi
-10/11/2016	12:40:18	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
-10/11/2016	12:42:47	19-Guerraaimicrobi	ESPLORANDO IL  CORPO UMANO	GUERRA AI MICROBI	00:24:16	51	cartoni animati
-10/11/2016	13:07:04	20-GliOrmoni	ESPLORANDO IL  CORPO UMANO	GLI  ORMONI	00:26:12	51	cartoni animati
-10/11/2016	13:33:16	Summer2015Mukko07	cartone mukko 7	cartoni mukko 7	00:14:33	51	cartoni animati
-10/11/2016	13:47:50	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-10/11/2016	13:57:56	_1719_UnBelDiVedremo	UN BEL  DI  VEDRTEMO	UN BEL  DI  VEDREMO	00:23:47	61	Telefilm
-10/11/2016	14:21:43	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-10/11/2016	14:21:54	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-10/11/2016	14:22:01	80NOSTALGIA15	Sconosciuto	Nuovo File	00:31:48	0	
-10/11/2016	14:53:49	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
-10/11/2016	14:59:07	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-10/11/2016	14:59:22	42-NuovaVitaInCitta'	Sconosciuto	Nuovo File	00:24:40	112	
-10/11/2016	15:24:02	43-VacanzeDiFineSettimana	Sconosciuto	Nuovo File	00:24:39	51	cartoni animati
-10/11/2016	15:48:41	CompagnoDonCamillo_mpeg2video	Sconosciuto	COMPAGNO  DON CAMILLO	01:42:17	1	Film
-10/11/2016	17:30:58	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
-10/11/2016	18:54:07	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
-10/11/2016	18:55:10	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-10/11/2016	18:55:26	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
-10/11/2016	20:46:02	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
-10/11/2016	20:55:59	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-10/11/2016	20:56:06	CauloniaTrenitaliaripristinalafermata	Sconosciuto	Nuovo File	00:07:55	0	
-10/11/2016	21:04:02	filmcompletoPiratiRPolanski1986	PIRATI	Pirati	01:45:39	1	Film
-10/11/2016	22:49:41	EttoreScolaC'eravamotantoamati(1974)_mpeg2video	Sconosciuto	CERAVAMO TANTO  AMATI	02:00:23	1	Film
-11/11/2016	00:50:05	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
-11/11/2016	00:55:18	Benny_21_mpeg2video	Sconosciuto	Nuovo File	00:23:25	22	
-11/11/2016	01:18:44	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-11/11/2016	01:18:51	Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)	Sconosciuto	BERTOLDO BERTOLDINO E CACASENNO	01:59:40	1	Film
-11/11/2016	03:18:31	Bowfinger_1_mpeg2video	Sconosciuto	BOWFINGER 1P	00:44:18	1	Film
-11/11/2016	04:02:49	Bowfinger_2_mpeg2video	Sconosciuto	BOWFINGER 2 P	00:48:07	1	Film
-11/11/2016	04:50:57	NomadiToccamiilcuore	Toccami il  cuore	Nomadi	00:04:22	162	
-11/11/2016	04:55:19	OceanaEndlessSummer_mpeg2video	Endless Summer	Oceania	00:04:51	81	videoclip
+10/11/2016	17:27:36	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
+10/11/2016	18:50:44	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
+10/11/2016	18:51:47	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+10/11/2016	18:52:03	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
+10/11/2016	20:42:39	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
+10/11/2016	20:52:36	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+10/11/2016	20:52:43	CauloniaTrenitaliaripristinalafermata	Sconosciuto	Nuovo File	00:07:55	0	
+10/11/2016	21:00:39	filmcompletoPiratiRPolanski1986	PIRATI	Pirati	01:45:39	1	Film
+10/11/2016	22:46:18	EttoreScolaC'eravamotantoamati(1974)_mpeg2video	Sconosciuto	CERAVAMO TANTO  AMATI	02:00:23	1	Film
+11/11/2016	00:46:42	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
+11/11/2016	00:51:55	Benny_21_mpeg2video	Sconosciuto	Nuovo File	00:23:25	22	
+11/11/2016	01:15:21	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+11/11/2016	01:15:28	Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)	Sconosciuto	BERTOLDO BERTOLDINO E CACASENNO	01:59:40	1	Film
+11/11/2016	03:15:08	Bowfinger_1_mpeg2video	Sconosciuto	BOWFINGER 1P	00:44:18	1	Film
+11/11/2016	03:59:26	Bowfinger_2_mpeg2video	Sconosciuto	BOWFINGER 2 P	00:48:07	1	Film
+11/11/2016	04:47:34	NomadiToccamiilcuore	Toccami il  cuore	Nomadi	00:04:22	162	
+11/11/2016	04:51:56	OceanaEndlessSummer_mpeg2video	Endless Summer	Oceania	00:04:51	81	videoclip
