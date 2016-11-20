@@ -1,18 +1,5 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-19/11/2016	20:59:43	SogniproibitidiDonGaleazzo_mpeg2video	Film	Sogni  proibiti  di  Don Galeazzo	01:28:31	1	
-19/11/2016	22:28:14	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	
-19/11/2016	22:28:21	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
-19/11/2016	22:33:39	tg_20151105_54972	Sconosciuto	Nuovo File	00:01:53	0	
-19/11/2016	22:35:33	Amy'sO-FinalmenteL'Amore		Finalmente l' amore	01:23:26	22	
-19/11/2016	23:58:59	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	
-20/11/2016	01:22:08	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	
-20/11/2016	01:23:11	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	
-20/11/2016	03:11:42	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	
-20/11/2016	03:11:58	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
-20/11/2016	03:21:55	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	
-20/11/2016	03:22:02	FLASHPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:00	0	
-20/11/2016	03:27:02	NinoManfrediSpaghettiHouse(1982)_mpeg2video	MANFREDI	SPAGHETTI HOUSE 	01:39:07	1	
-20/11/2016	05:06:10	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	
-20/11/2016	06:57:53	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
-20/11/2016	07:03:06	Unbigliettoindue_1_mpeg2video	Un biglietto in due_1 P	Nuovo File	00:43:40	1	
-20/11/2016	07:46:46	Unbigliettoindue_2_mpeg2video	Un biglietto in due_2 P	Nuovo File	00:44:38	1	
+20/11/2016	05:01:29	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	
+20/11/2016	06:53:12	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
+20/11/2016	06:58:25	Unbigliettoindue_1_mpeg2video	Un biglietto in due_1 P	Nuovo File	00:43:40	1	
+20/11/2016	07:42:05	Unbigliettoindue_2_mpeg2video	Un biglietto in due_2 P	Nuovo File	00:44:38	1	
