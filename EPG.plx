@@ -1,31 +1,26 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-20/11/2016	16:49:00	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	
-20/11/2016	18:51:10	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	
-20/11/2016	18:51:16	TartarugheNinja-16Ilredeifumetti	Sconosciuto	Nuovo File	00:22:01	0	
-20/11/2016	19:13:18	TartarugheNinja-17IlritormodiShredder-parte1	Sconosciuto	Nuovo File	00:21:54	0	
-20/11/2016	19:35:12	TartarugheNinja-18IlritormodiShredder-parte2	Sconosciuto	Nuovo File	00:21:49	0	
+20/11/2016	19:35:11	TartarugheNinja-18IlritormodiShredder-parte2	Sconosciuto	Nuovo File	00:21:49	0	
 20/11/2016	19:57:01	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	
 20/11/2016	20:19:14	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	
 20/11/2016	20:19:21	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
 20/11/2016	20:29:18	serviziociaspole	ciaspole	dolce ciaspole	00:06:26	41	
 20/11/2016	20:35:45	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
 20/11/2016	20:41:03	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	
-20/11/2016	20:41:10	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	
+20/11/2016	20:41:09	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	
 20/11/2016	20:43:39	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
 20/11/2016	20:53:44	SogniproibitidiDonGaleazzo_mpeg2video	Film	Sogni  proibiti  di  Don Galeazzo	01:28:31	1	
-20/11/2016	22:22:16	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	
+20/11/2016	22:22:15	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	
 20/11/2016	22:22:26	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	
 20/11/2016	22:22:33	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
-20/11/2016	22:27:51	Amy'sO-FinalmenteL'Amore		Finalmente l' amore	01:23:26	22	
+20/11/2016	22:27:50	Amy'sO-FinalmenteL'Amore		Finalmente l' amore	01:23:26	22	
 20/11/2016	23:51:17	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	
 21/11/2016	01:14:26	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	
 21/11/2016	01:15:29	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	
 21/11/2016	03:04:00	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	
-21/11/2016	03:04:16	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
+21/11/2016	03:04:15	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
 21/11/2016	03:14:13	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	
 21/11/2016	03:14:20	FLASHPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:00	0	
-21/11/2016	03:19:21	NinoManfrediSpaghettiHouse(1982)_mpeg2video	MANFREDI	SPAGHETTI HOUSE 	01:39:07	1	
-21/11/2016	04:58:28	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	
-21/11/2016	06:50:11	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
-21/11/2016	06:55:24	Unbigliettoindue_1_mpeg2video	Un biglietto in due_1 P	Nuovo File	00:43:40	1	
-21/11/2016	07:39:04	Unbigliettoindue_2_mpeg2video	Un biglietto in due_2 P	Nuovo File	00:44:38	1	
+21/11/2016	03:19:20	NinoManfrediSpaghettiHouse(1982)_mpeg2video	MANFREDI	SPAGHETTI HOUSE 	01:39:07	1	
+21/11/2016	04:58:28	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
+21/11/2016	05:03:41	Unbigliettoindue_1_mpeg2video	Un biglietto in due_1 P	Nuovo File	00:43:40	1	
+21/11/2016	05:47:22	Unbigliettoindue_2_mpeg2video	Un biglietto in due_2 P	Nuovo File	00:44:38	1	
