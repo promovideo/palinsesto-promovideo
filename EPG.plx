@@ -1,7 +1,6 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-23/11/2016	18:49:55	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
 23/11/2016	20:52:05	LaCarbonarafilmcompleto_mpeg2video	LA  CARBONARA	LA CARBONARA	01:48:07	1	Film
-23/11/2016	22:40:12	TG	TG 	TELEGIORNALE	00:01:51	31	programmi informativi
+23/11/2016	22:40:13	TG	TG 	TELEGIORNALE	00:01:51	31	programmi informativi
 23/11/2016	22:42:04	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
 23/11/2016	22:42:11	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
 23/11/2016	23:04:24	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
@@ -10,15 +9,15 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 24/11/2016	01:40:09	TG	TG 	TELEGIORNALE	00:01:51	31	programmi informativi
 24/11/2016	01:42:01	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
 24/11/2016	03:32:37	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-24/11/2016	03:32:43	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
+24/11/2016	03:32:44	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
 24/11/2016	03:35:13	TG	TG 	TELEGIORNALE	00:01:51	31	programmi informativi
 24/11/2016	03:37:05	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 24/11/2016	03:37:12	MESSADONFRANCOLABADESSAXREGIA	messa don franco Cattedrale	Messa Don Franco Gerace 	00:00:01	41	programmi culturali
-24/11/2016	03:37:13	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+24/11/2016	03:37:14	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
 24/11/2016	03:37:24	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
 24/11/2016	05:00:33	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
 24/11/2016	05:00:40	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
 24/11/2016	05:01:43	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
-24/11/2016	05:53:48	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+24/11/2016	05:53:49	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
 24/11/2016	05:54:04	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 24/11/2016	05:54:11	Gerace	GERACE	GERACE	00:06:01	71	documentari
