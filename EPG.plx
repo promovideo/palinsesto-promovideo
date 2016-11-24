@@ -1,17 +1,16 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-24/11/2016	18:44:37	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
 24/11/2016	20:46:46	LaCarbonarafilmcompleto_mpeg2video	LA  CARBONARA	LA CARBONARA	01:48:07	1	Film
 24/11/2016	22:34:53	TG	TG 	TELEGIORNALE	00:01:51	31	programmi informativi
 24/11/2016	22:36:45	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
 24/11/2016	22:36:52	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
-24/11/2016	22:42:06	Qualcosadicuisparlare_mpeg2video	Sconosciuto	Qualcosa di  cui  sparlare	01:40:41	1	Film
+24/11/2016	22:42:05	Qualcosadicuisparlare_mpeg2video	Sconosciuto	Qualcosa di  cui  sparlare	01:40:41	1	Film
 25/11/2016	00:22:47	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
 25/11/2016	00:27:53	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
 25/11/2016	00:50:06	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
 25/11/2016	00:50:13	Rosolinopaternosoldato_mpeg2video	ROSOLINO PATERNO SOLDATO	Rosolino paterno  soldato	01:35:57	1	Film
 25/11/2016	02:26:10	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 25/11/2016	02:26:17	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
-25/11/2016	02:31:35	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
+25/11/2016	02:31:34	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
 25/11/2016	02:34:04	FLASHPARTE5SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:11	0	
 25/11/2016	02:39:16	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 25/11/2016	02:39:23	MESSADONFRANCOLABADESSAXREGIA	messa don franco Cattedrale	Messa Don Franco Gerace 	00:00:01	41	programmi culturali
