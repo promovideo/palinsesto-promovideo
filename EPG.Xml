@@ -2,61 +2,9 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Fantozzi-GrandiMagazzini</IdName>
-				<StartDate>2016-12-04</StartDate>
-				<StartTime>19:32:20</StartTime>
-				<EndDate>2016-12-04</EndDate>
-				<EndTime>21:22:56</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>FANTOZZI GRANDI MAGAZZINI</Name>
-					<Description>GRANDI MAGAZZINI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>Filmato</IdName>
-				<StartDate>2016-12-04</StartDate>
-				<StartTime>21:22:56</StartTime>
-				<EndDate>2016-12-04</EndDate>
-				<EndTime>21:25:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GERACE IN 2 MINUTI</Name>
-					<Description>GERACE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2016-12-04</StartDate>
-				<StartTime>21:25:26</StartTime>
-				<EndDate>2016-12-04</EndDate>
-				<EndTime>21:25:33</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>minispotapplicazione</IdName>
-				<StartDate>2016-12-04</StartDate>
-				<StartTime>21:25:33</StartTime>
-				<EndDate>2016-12-04</EndDate>
-				<EndTime>21:25:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTAPP</Name>
-					<Description>SPOTAPP</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
 				<IdName>LeDueTorri</IdName>
 				<StartDate>2016-12-04</StartDate>
-				<StartTime>21:25:44</StartTime>
+				<StartTime>21:25:43</StartTime>
 				<EndDate>2016-12-05</EndDate>
 				<EndTime>00:17:47</EndTime>
 				<ShortEventDescription>
@@ -66,12 +14,12 @@
 					<Description>Le due torri </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="2">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2016-12-05</StartDate>
 				<StartTime>00:17:47</StartTime>
 				<EndDate>2016-12-05</EndDate>
-				<EndTime>00:17:54</EndTime>
+				<EndTime>00:17:53</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -79,12 +27,12 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="3">
 				<IdName>benessere_20150512_50742</IdName>
 				<StartDate>2016-12-05</StartDate>
-				<StartTime>00:17:54</StartTime>
+				<StartTime>00:17:53</StartTime>
 				<EndDate>2016-12-05</EndDate>
-				<EndTime>00:18:57</EndTime>
+				<EndTime>00:18:56</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,12 +40,12 @@
 					<Description>benessere</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="4">
 				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
 				<StartDate>2016-12-05</StartDate>
-				<StartTime>00:18:57</StartTime>
+				<StartTime>00:18:56</StartTime>
 				<EndDate>2016-12-05</EndDate>
-				<EndTime>01:11:03</EndTime>
+				<EndTime>01:11:02</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -105,12 +53,64 @@
 					<Description>ANIMALI SERPENTI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="5">
 				<IdName>Agentisegretissimi</IdName>
 				<StartDate>2016-12-05</StartDate>
-				<StartTime>01:11:03</StartTime>
+				<StartTime>01:11:02</StartTime>
 				<EndDate>2016-12-05</EndDate>
-				<EndTime>02:39:13</EndTime>
+				<EndTime>02:39:12</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="6">
+				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
+				<StartDate>2016-12-05</StartDate>
+				<StartTime>02:39:12</StartTime>
+				<EndDate>2016-12-05</EndDate>
+				<EndTime>02:39:28</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>ISCRIVITI CANALE YOU TUBE</Name>
+					<Description>ISCRIVITI CANALE YOU TUBE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="7">
+				<IdName>LaMummia</IdName>
+				<StartDate>2016-12-05</StartDate>
+				<StartTime>02:39:28</StartTime>
+				<EndDate>2016-12-05</EndDate>
+				<EndTime>04:39:07</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>La mummia</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="8">
+				<IdName>7PROMOVIDEOspot7</IdName>
+				<StartDate>2016-12-05</StartDate>
+				<StartTime>04:39:07</StartTime>
+				<EndDate>2016-12-05</EndDate>
+				<EndTime>04:39:14</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOT  PROMOVIDEOTV</Name>
+					<Description>SPOT PROMOVIDEOTV</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="9">
+				<IdName>ZAPPINGTV_CARTONE_005_OK</IdName>
+				<StartDate>2016-12-05</StartDate>
+				<StartTime>04:39:14</StartTime>
+				<EndDate>2016-12-05</EndDate>
+				<EndTime>04:48:47</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -119,63 +119,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="10">
-				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
-				<StartDate>2016-12-05</StartDate>
-				<StartTime>02:39:13</StartTime>
-				<EndDate>2016-12-05</EndDate>
-				<EndTime>02:39:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ISCRIVITI CANALE YOU TUBE</Name>
-					<Description>ISCRIVITI CANALE YOU TUBE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="11">
-				<IdName>LaMummia</IdName>
-				<StartDate>2016-12-05</StartDate>
-				<StartTime>02:39:29</StartTime>
-				<EndDate>2016-12-05</EndDate>
-				<EndTime>04:39:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>La mummia</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="12">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2016-12-05</StartDate>
-				<StartTime>04:39:08</StartTime>
-				<EndDate>2016-12-05</EndDate>
-				<EndTime>04:39:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="13">
-				<IdName>ZAPPINGTV_CARTONE_005_OK</IdName>
-				<StartDate>2016-12-05</StartDate>
-				<StartTime>04:39:15</StartTime>
-				<EndDate>2016-12-05</EndDate>
-				<EndTime>04:48:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="14">
 				<IdName>Gerace</IdName>
 				<StartDate>2016-12-05</StartDate>
-				<StartTime>04:48:48</StartTime>
+				<StartTime>04:48:47</StartTime>
 				<EndDate>2016-12-05</EndDate>
-				<EndTime>04:54:49</EndTime>
+				<EndTime>04:54:48</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
