@@ -2,63 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Infiltratospeciale_mpeg2video</IdName>
-				<StartDate>2016-12-12</StartDate>
-				<StartTime>18:31:55</StartTime>
-				<EndDate>2016-12-12</EndDate>
-				<EndTime>20:06:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Infiltrato  speciale</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>FLASHPARTE5SOLODALLE16,00ALLE18,00</IdName>
-				<StartDate>2016-12-12</StartDate>
-				<StartTime>20:06:30</StartTime>
-				<EndDate>2016-12-12</EndDate>
-				<EndTime>20:11:42</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>tg_20150314_49255</IdName>
-				<StartDate>2016-12-12</StartDate>
-				<StartTime>20:11:42</StartTime>
-				<EndDate>2016-12-12</EndDate>
-				<EndTime>20:13:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
-				<StartDate>2016-12-12</StartDate>
-				<StartTime>20:13:49</StartTime>
-				<EndDate>2016-12-12</EndDate>
-				<EndTime>21:05:55</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ANIMALI SERPENTI</Name>
-					<Description>ANIMALI SERPENTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
 				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
 				<StartDate>2016-12-12</StartDate>
-				<StartTime>21:05:55</StartTime>
+				<StartTime>21:05:44</StartTime>
 				<EndDate>2016-12-12</EndDate>
-				<EndTime>22:54:26</EndTime>
+				<EndTime>22:54:15</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -66,12 +14,12 @@
 					<Description>CRASH CONTATTO  FINALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="2">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2016-12-12</StartDate>
-				<StartTime>22:54:26</StartTime>
+				<StartTime>22:54:15</StartTime>
 				<EndDate>2016-12-12</EndDate>
-				<EndTime>22:54:41</EndTime>
+				<EndTime>22:54:30</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -79,12 +27,12 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="3">
 				<IdName>IlVizietto1°t.</IdName>
 				<StartDate>2016-12-12</StartDate>
-				<StartTime>22:54:41</StartTime>
+				<StartTime>22:54:30</StartTime>
 				<EndDate>2016-12-12</EndDate>
-				<EndTime>23:43:23</EndTime>
+				<EndTime>23:43:12</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,12 +40,64 @@
 					<Description>IL VIZIETTO 1° T</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="4">
 				<IdName>FLASHPARTE6DOPOLE22,30</IdName>
 				<StartDate>2016-12-12</StartDate>
-				<StartTime>23:43:23</StartTime>
+				<StartTime>23:43:12</StartTime>
 				<EndDate>2016-12-12</EndDate>
-				<EndTime>23:48:29</EndTime>
+				<EndTime>23:48:18</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="5">
+				<IdName>tg_20150314_49255</IdName>
+				<StartDate>2016-12-12</StartDate>
+				<StartTime>23:48:18</StartTime>
+				<EndDate>2016-12-12</EndDate>
+				<EndTime>23:50:25</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="6">
+				<IdName>IlVizietto2°t.</IdName>
+				<StartDate>2016-12-12</StartDate>
+				<StartTime>23:50:25</StartTime>
+				<EndDate>2016-12-13</EndDate>
+				<EndTime>00:34:51</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>IL VIZIETTO 2° T</Name>
+					<Description>IL VIZIETTO 2° T</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="7">
+				<IdName>7PROMOVIDEOspot7</IdName>
+				<StartDate>2016-12-13</StartDate>
+				<StartTime>00:34:51</StartTime>
+				<EndDate>2016-12-13</EndDate>
+				<EndTime>00:34:58</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOT  PROMOVIDEOTV</Name>
+					<Description>SPOT PROMOVIDEOTV</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="8">
+				<IdName>rotocalco_20161201_62643</IdName>
+				<StartDate>2016-12-13</StartDate>
+				<StartTime>00:34:58</StartTime>
+				<EndDate>2016-12-13</EndDate>
+				<EndTime>01:00:54</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -106,11 +106,37 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="9">
+				<IdName>_1779_Recanatese_Lunaametà</IdName>
+				<StartDate>2016-12-13</StartDate>
+				<StartTime>01:00:54</StartTime>
+				<EndDate>2016-12-13</EndDate>
+				<EndTime>01:09:11</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>RECANATESE 'LUNA A META'</Name>
+					<Description>RECANATESE  LUNA A METa'</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="10">
+				<IdName>'IlsegretodiSantaVittoria'(1969)conAnnaMagnanieAnthonyQuinn_mpeg2video</IdName>
+				<StartDate>2016-12-13</StartDate>
+				<StartTime>01:09:11</StartTime>
+				<EndDate>2016-12-13</EndDate>
+				<EndTime>03:22:26</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>IL SEGRETO DI SANTA  VITTORIA</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="11">
 				<IdName>tg_20150314_49255</IdName>
-				<StartDate>2016-12-12</StartDate>
-				<StartTime>23:48:29</StartTime>
-				<EndDate>2016-12-12</EndDate>
-				<EndTime>23:50:36</EndTime>
+				<StartDate>2016-12-13</StartDate>
+				<StartTime>03:22:26</StartTime>
+				<EndDate>2016-12-13</EndDate>
+				<EndTime>03:24:33</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,38 +144,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
-				<IdName>IlVizietto2°t.</IdName>
-				<StartDate>2016-12-12</StartDate>
-				<StartTime>23:50:36</StartTime>
-				<EndDate>2016-12-13</EndDate>
-				<EndTime>00:35:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IL VIZIETTO 2° T</Name>
-					<Description>IL VIZIETTO 2° T</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="11">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2016-12-13</StartDate>
-				<StartTime>00:35:02</StartTime>
-				<EndDate>2016-12-13</EndDate>
-				<EndTime>00:35:09</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
 			<Event id="12">
-				<IdName>rotocalco_20161201_62643</IdName>
+				<IdName>ZAPPINGTV_CARTONE_005_OK</IdName>
 				<StartDate>2016-12-13</StartDate>
-				<StartTime>00:35:09</StartTime>
+				<StartTime>03:24:33</StartTime>
 				<EndDate>2016-12-13</EndDate>
-				<EndTime>01:01:04</EndTime>
+				<EndTime>03:34:07</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -158,37 +158,37 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="13">
-				<IdName>_1779_Recanatese_Lunaametà</IdName>
+				<IdName>Gerace</IdName>
 				<StartDate>2016-12-13</StartDate>
-				<StartTime>01:01:04</StartTime>
+				<StartTime>03:34:07</StartTime>
 				<EndDate>2016-12-13</EndDate>
-				<EndTime>01:09:22</EndTime>
+				<EndTime>03:40:08</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>RECANATESE 'LUNA A META'</Name>
-					<Description>RECANATESE  LUNA A METa'</Description>
+					<Name>GERACE</Name>
+					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="14">
-				<IdName>'IlsegretodiSantaVittoria'(1969)conAnnaMagnanieAnthonyQuinn_mpeg2video</IdName>
+				<IdName>FLASHPARTE7DOPOLE22,30</IdName>
 				<StartDate>2016-12-13</StartDate>
-				<StartTime>01:09:22</StartTime>
+				<StartTime>03:40:08</StartTime>
 				<EndDate>2016-12-13</EndDate>
-				<EndTime>03:22:37</EndTime>
+				<EndTime>03:45:19</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Sconosciuto</Name>
-					<Description>IL SEGRETO DI SANTA  VITTORIA</Description>
+					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="15">
 				<IdName>tg_20150314_49255</IdName>
 				<StartDate>2016-12-13</StartDate>
-				<StartTime>03:22:37</StartTime>
+				<StartTime>03:45:19</StartTime>
 				<EndDate>2016-12-13</EndDate>
-				<EndTime>03:24:44</EndTime>
+				<EndTime>03:47:27</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -197,11 +197,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="16">
-				<IdName>ZAPPINGTV_CARTONE_005_OK</IdName>
+				<IdName>salusTg_20161205_62699</IdName>
 				<StartDate>2016-12-13</StartDate>
-				<StartTime>03:24:44</StartTime>
+				<StartTime>03:47:27</StartTime>
 				<EndDate>2016-12-13</EndDate>
-				<EndTime>03:34:17</EndTime>
+				<EndTime>03:49:32</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -210,76 +210,24 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="17">
-				<IdName>Gerace</IdName>
+				<IdName>Synchro_Dance_puntata_16-1</IdName>
 				<StartDate>2016-12-13</StartDate>
-				<StartTime>03:34:17</StartTime>
+				<StartTime>03:49:32</StartTime>
 				<EndDate>2016-12-13</EndDate>
-				<EndTime>03:40:18</EndTime>
+				<EndTime>04:18:33</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>GERACE</Name>
-					<Description>GERACE</Description>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="18">
-				<IdName>FLASHPARTE7DOPOLE22,30</IdName>
-				<StartDate>2016-12-13</StartDate>
-				<StartTime>03:40:18</StartTime>
-				<EndDate>2016-12-13</EndDate>
-				<EndTime>03:45:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="19">
-				<IdName>tg_20150314_49255</IdName>
-				<StartDate>2016-12-13</StartDate>
-				<StartTime>03:45:30</StartTime>
-				<EndDate>2016-12-13</EndDate>
-				<EndTime>03:47:37</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="20">
-				<IdName>salusTg_20161205_62699</IdName>
-				<StartDate>2016-12-13</StartDate>
-				<StartTime>03:47:37</StartTime>
-				<EndDate>2016-12-13</EndDate>
-				<EndTime>03:49:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="21">
-				<IdName>Synchro_Dance_puntata_16-1</IdName>
-				<StartDate>2016-12-13</StartDate>
-				<StartTime>03:49:43</StartTime>
-				<EndDate>2016-12-13</EndDate>
-				<EndTime>04:18:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="22">
 				<IdName>CiccioeFrancoSatiricosissimo_mpeg2video</IdName>
 				<StartDate>2016-12-13</StartDate>
-				<StartTime>04:18:44</StartTime>
+				<StartTime>04:18:33</StartTime>
 				<EndDate>2016-12-13</EndDate>
-				<EndTime>05:43:45</EndTime>
+				<EndTime>05:43:34</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -287,12 +235,12 @@
 					<Description>SATIRICONISSIMO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="23">
+			<Event id="19">
 				<IdName>EttoreScolaC'eravamotantoamati(1974)_mpeg2video</IdName>
 				<StartDate>2016-12-13</StartDate>
-				<StartTime>05:43:45</StartTime>
+				<StartTime>05:43:34</StartTime>
 				<EndDate>2016-12-13</EndDate>
-				<EndTime>07:44:08</EndTime>
+				<EndTime>07:43:58</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -300,12 +248,12 @@
 					<Description>CERAVAMO TANTO  AMATI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="24">
+			<Event id="20">
 				<IdName>tg_20150314_49255</IdName>
 				<StartDate>2016-12-13</StartDate>
-				<StartTime>07:44:08</StartTime>
+				<StartTime>07:43:58</StartTime>
 				<EndDate>2016-12-13</EndDate>
-				<EndTime>07:46:15</EndTime>
+				<EndTime>07:46:05</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
