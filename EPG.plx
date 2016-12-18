@@ -1,7 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-18/12/2016	17:32:41	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
-18/12/2016	19:23:17	premiolocriepizefiri2016	PREMIO  LOCRI EPIZEFIRI 2016	PREMIO   LOCRI EPIZEFIRI 2016	01:06:35	41	programmi culturali
-18/12/2016	20:29:53	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 18/12/2016	20:29:59	IlmegliodiMilleVoci2016_p03-daMilleVoci2016©(480p_25fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:58:50	0	
 18/12/2016	21:28:50	CauloniaTrenitaliaripristinalafermata	Sconosciuto	Nuovo File	00:07:55	0	
 18/12/2016	21:36:46	filmcompletoPiratiRPolanski1986	PIRATI	Pirati	01:45:39	1	Film
