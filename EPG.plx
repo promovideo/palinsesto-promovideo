@@ -1,50 +1,20 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-18/12/2016	08:55:02	bernardo.cane.ladro.e.bugiardo.19701°t.	BERNARDO CANE LADRO E  BUGIARDO 1°	BERNARDO CANE LADRO E  BUGIARDO 1°	00:42:30	1	Film
-18/12/2016	09:37:33	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
-18/12/2016	09:42:50	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-18/12/2016	09:42:57	rotocalco_20161201_62643	Sconosciuto	Nuovo File	00:25:55	0	
-18/12/2016	10:08:53	inMoto_20150202_48142	Sconosciuto	inMoto_2015 02 02_	00:01:50	31	programmi informativi
-18/12/2016	10:10:44	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-18/12/2016	10:10:51	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	programmi informativi
-18/12/2016	10:23:36	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
-18/12/2016	10:28:54	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
-18/12/2016	10:51:06	POLSIARCHIVIOPROMOCULTURA	POLSI	POLSI	00:14:00	41	programmi culturali
-18/12/2016	11:05:07	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	programmi informativi
-18/12/2016	11:07:22	FRATELLIDISANGUE_mpeg2video	FRATELLI  DI SANGUE	FRATELLI  DI SANGUE	00:20:03	41	programmi culturali
-18/12/2016	11:27:26	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
-18/12/2016	11:29:56	19-Guerraaimicrobi	ESPLORANDO IL  CORPO UMANO	GUERRA AI MICROBI	00:24:16	51	cartoni animati
-18/12/2016	11:54:12	20-GliOrmoni	ESPLORANDO IL  CORPO UMANO	GLI  ORMONI	00:26:12	51	cartoni animati
-18/12/2016	12:20:25	Summer2015Mukko07	cartone mukko 7	cartoni mukko 7	00:14:33	51	cartoni animati
-18/12/2016	12:34:59	_1719_UnBelDiVedremo	UN BEL  DI  VEDRTEMO	UN BEL  DI  VEDREMO	00:23:47	61	Telefilm
-18/12/2016	12:58:46	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-18/12/2016	12:58:57	rotocalco_20161201_62643	Sconosciuto	Nuovo File	00:25:55	0	
-18/12/2016	13:24:53	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-18/12/2016	13:25:00	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
-18/12/2016	13:30:17	80NOSTALGIA15	Sconosciuto	Nuovo File	00:31:48	0	
-18/12/2016	14:02:06	prometeoTV_20161130_62618	Sconosciuto	Nuovo File	00:02:57	0	
-18/12/2016	14:05:04	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
-18/12/2016	14:10:17	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-18/12/2016	14:10:32	42-NuovaVitaInCitta'	Sconosciuto	Nuovo File	00:24:40	112	
-18/12/2016	14:35:12	43-VacanzeDiFineSettimana	Sconosciuto	Nuovo File	00:24:39	51	cartoni animati
-18/12/2016	14:59:52	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
-18/12/2016	15:04:57	salusTg_20161205_62699	Sconosciuto	Nuovo File	00:02:05	0	
-18/12/2016	15:07:03	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
-18/12/2016	16:30:12	IlmegliodiMilleVoci2016_p02-daMilleVoci2016©(480p_25fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	01:01:17	0	
-18/12/2016	17:31:29	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
-18/12/2016	17:32:32	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-18/12/2016	17:32:48	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
-18/12/2016	19:23:24	premiolocriepizefiri2016	PREMIO  LOCRI EPIZEFIRI 2016	PREMIO   LOCRI EPIZEFIRI 2016	01:06:35	41	programmi culturali
-18/12/2016	20:29:59	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-18/12/2016	20:30:06	CauloniaTrenitaliaripristinalafermata	Sconosciuto	Nuovo File	00:07:55	0	
-18/12/2016	20:38:01	filmcompletoPiratiRPolanski1986	PIRATI	Pirati	01:45:39	1	Film
-18/12/2016	22:23:41	EttoreScolaC'eravamotantoamati(1974)_mpeg2video	Sconosciuto	CERAVAMO TANTO  AMATI	02:00:23	1	Film
-19/12/2016	00:24:05	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
-19/12/2016	00:29:18	Benny_21_mpeg2video	Sconosciuto	Nuovo File	00:23:25	22	
-19/12/2016	00:52:44	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-19/12/2016	00:52:51	Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)	Sconosciuto	BERTOLDO BERTOLDINO E CACASENNO	01:59:40	1	Film
-19/12/2016	02:52:31	FLASHPARTE5SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:11	0	
-19/12/2016	02:57:42	italiaEconomia_20161130_62603	Sconosciuto	Nuovo File	00:15:39	0	
-19/12/2016	03:13:22	NomadiToccamiilcuore	Toccami il  cuore	Nomadi	00:04:22	162	
-19/12/2016	03:17:44	OceanaEndlessSummer_mpeg2video	Endless Summer	Oceania	00:04:51	81	videoclip
-19/12/2016	03:22:36	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
-19/12/2016	03:27:53	agrisapori673x14_8_16	Sconosciuto	Nuovo File	00:24:13	0	
+18/12/2016	16:30:06	IlmegliodiMilleVoci2016_p02-daMilleVoci2016©(480p_25fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	01:01:17	0	
+18/12/2016	17:31:23	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
+18/12/2016	17:32:26	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+18/12/2016	17:32:42	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
+18/12/2016	19:23:18	premiolocriepizefiri2016	PREMIO  LOCRI EPIZEFIRI 2016	PREMIO   LOCRI EPIZEFIRI 2016	01:06:35	41	programmi culturali
+18/12/2016	20:29:53	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+18/12/2016	20:30:00	CauloniaTrenitaliaripristinalafermata	Sconosciuto	Nuovo File	00:07:55	0	
+18/12/2016	20:37:55	filmcompletoPiratiRPolanski1986	PIRATI	Pirati	01:45:39	1	Film
+18/12/2016	22:23:35	EttoreScolaC'eravamotantoamati(1974)_mpeg2video	Sconosciuto	CERAVAMO TANTO  AMATI	02:00:23	1	Film
+19/12/2016	00:23:59	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
+19/12/2016	00:29:12	Benny_21_mpeg2video	Sconosciuto	Nuovo File	00:23:25	22	
+19/12/2016	00:52:38	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+19/12/2016	00:52:44	Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)	Sconosciuto	BERTOLDO BERTOLDINO E CACASENNO	01:59:40	1	Film
+19/12/2016	02:52:25	FLASHPARTE5SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:11	0	
+19/12/2016	02:57:36	italiaEconomia_20161130_62603	Sconosciuto	Nuovo File	00:15:39	0	
+19/12/2016	03:13:16	NomadiToccamiilcuore	Toccami il  cuore	Nomadi	00:04:22	162	
+19/12/2016	03:17:38	OceanaEndlessSummer_mpeg2video	Endless Summer	Oceania	00:04:51	81	videoclip
+19/12/2016	03:22:30	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
+19/12/2016	03:27:47	agrisapori673x14_8_16	Sconosciuto	Nuovo File	00:24:13	0	
