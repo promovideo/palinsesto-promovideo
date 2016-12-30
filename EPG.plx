@@ -1,20 +1,12 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-30/12/2016	16:09:01	Bridget	BRIDGET	BRIDGET	01:30:41	0	
-30/12/2016	17:39:42	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-30/12/2016	17:49:48	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-30/12/2016	17:49:54	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-30/12/2016	17:50:05	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-30/12/2016	17:50:12	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
-30/12/2016	17:51:15	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-30/12/2016	17:51:31	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-30/12/2016	17:51:37	MilleVocinapoletane-Puntata01di02_Edizione2016©(468p_25fps_H264-128kbit_AAC)	mille voci napoletane 1	mille    voci napoletane 1	01:29:30	81	videoclip
-30/12/2016	19:21:08	Gerace	GERACE	GERACE	00:06:01	71	documentari
-30/12/2016	19:27:09	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-30/12/2016	19:27:16	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
-30/12/2016	19:36:24	UFOLeProve	Sconosciuto	Ufo le  prove	01:22:13	1	Film
-30/12/2016	20:58:37	A027DaLasVegas_mpeg2video	Sconosciuto	A 27 LAS VEGAS	01:30:34	1	Film
-30/12/2016	22:29:11	0114-1968PreparatiLaBara-TerenceHill_mpeg2video	Sconosciuto	PREPARATI LA  BARA	01:28:01	1	Film
-30/12/2016	23:57:12	AdrianoCelentanoJoanLuiFilmCompleto	Sconosciuto	JOAN LUI	02:05:39	1	Film
-31/12/2016	02:02:52	Scuoladipolizia6_mpeg2video	Sconosciuto	Scuola d i polizia 6	01:19:55	1	Film
-31/12/2016	03:22:47	MilleVocinapoletane-Puntata02di02-Edizione2016©(468p_25fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	01:11:59	0	
-31/12/2016	04:34:47	PROMOVIDEOSPOT1	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:06	11	spot
+30/12/2016	19:31:06	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+30/12/2016	19:40:14	tg_20150314_49255	Sconosciuto	Nuovo File	00:01:56	0	
+30/12/2016	19:42:11	A027DaLasVegas_mpeg2video	Sconosciuto	A 27 LAS VEGAS	01:30:34	1	Film
+30/12/2016	21:12:45	0114-1968PreparatiLaBara-TerenceHill_mpeg2video	Sconosciuto	PREPARATI LA  BARA	01:28:01	1	Film
+30/12/2016	22:40:47	AdrianoCelentanoJoanLuiFilmCompleto	Sconosciuto	JOAN LUI	02:05:39	1	Film
+31/12/2016	00:46:26	Papadiventamamma_mpeg2video	PAPA  DIVENTA  MAMMA	PAPA  DIVENTA  MAMMA	01:20:22	1	Film
+31/12/2016	02:06:49	tg_20150314_49255	Sconosciuto	Nuovo File	00:01:56	0	
+31/12/2016	02:08:45	Scuoladipolizia6_mpeg2video	Sconosciuto	Scuola d i polizia 6	01:19:55	1	Film
+31/12/2016	03:28:41	MilleVocinapoletane-Puntata02di02-Edizione2016©(468p_25fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	01:11:59	0	
+31/12/2016	04:40:40	susannaelegiubberossebn1938	susanna e le giubbe  rosse	Nuovo File	01:15:52	1	Film
+31/12/2016	05:56:33	PROMOVIDEOSPOT1	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:06	11	spot

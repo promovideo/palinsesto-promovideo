@@ -2,84 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>MilleVocinapoletane-Puntata01di02_Edizione2016©(468p_25fps_H264-128kbit_AAC)</IdName>
-				<StartDate>2016-12-30</StartDate>
-				<StartTime>17:53:32</StartTime>
-				<EndDate>2016-12-30</EndDate>
-				<EndTime>19:23:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>mille voci napoletane 1</Name>
-					<Description>mille    voci napoletane 1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>tg_20150314_49255</IdName>
-				<StartDate>2016-12-30</StartDate>
-				<StartTime>19:23:02</StartTime>
-				<EndDate>2016-12-30</EndDate>
-				<EndTime>19:24:59</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>Gerace</IdName>
-				<StartDate>2016-12-30</StartDate>
-				<StartTime>19:24:59</StartTime>
-				<EndDate>2016-12-30</EndDate>
-				<EndTime>19:31:00</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GERACE</Name>
-					<Description>GERACE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2016-12-30</StartDate>
-				<StartTime>19:31:00</StartTime>
-				<EndDate>2016-12-30</EndDate>
-				<EndTime>19:31:07</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
-				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
-				<StartDate>2016-12-30</StartDate>
-				<StartTime>19:31:07</StartTime>
-				<EndDate>2016-12-30</EndDate>
-				<EndTime>19:40:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
-				<IdName>tg_20150314_49255</IdName>
-				<StartDate>2016-12-30</StartDate>
-				<StartTime>19:40:15</StartTime>
-				<EndDate>2016-12-30</EndDate>
-				<EndTime>19:42:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
 				<IdName>A027DaLasVegas_mpeg2video</IdName>
 				<StartDate>2016-12-30</StartDate>
 				<StartTime>19:42:11</StartTime>
@@ -92,12 +14,12 @@
 					<Description>A 27 LAS VEGAS</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="2">
 				<IdName>0114-1968PreparatiLaBara-TerenceHill_mpeg2video</IdName>
 				<StartDate>2016-12-30</StartDate>
 				<StartTime>21:12:45</StartTime>
 				<EndDate>2016-12-30</EndDate>
-				<EndTime>22:40:47</EndTime>
+				<EndTime>22:40:46</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -105,10 +27,10 @@
 					<Description>PREPARATI LA  BARA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="3">
 				<IdName>AdrianoCelentanoJoanLuiFilmCompleto</IdName>
 				<StartDate>2016-12-30</StartDate>
-				<StartTime>22:40:47</StartTime>
+				<StartTime>22:40:46</StartTime>
 				<EndDate>2016-12-31</EndDate>
 				<EndTime>00:46:26</EndTime>
 				<ShortEventDescription>
@@ -118,7 +40,7 @@
 					<Description>JOAN LUI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="4">
 				<IdName>Papadiventamamma_mpeg2video</IdName>
 				<StartDate>2016-12-31</StartDate>
 				<StartTime>00:46:26</StartTime>
@@ -131,12 +53,12 @@
 					<Description>PAPA  DIVENTA  MAMMA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="5">
 				<IdName>tg_20150314_49255</IdName>
 				<StartDate>2016-12-31</StartDate>
 				<StartTime>02:06:49</StartTime>
 				<EndDate>2016-12-31</EndDate>
-				<EndTime>02:08:46</EndTime>
+				<EndTime>02:08:45</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -144,10 +66,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="6">
 				<IdName>Scuoladipolizia6_mpeg2video</IdName>
 				<StartDate>2016-12-31</StartDate>
-				<StartTime>02:08:46</StartTime>
+				<StartTime>02:08:45</StartTime>
 				<EndDate>2016-12-31</EndDate>
 				<EndTime>03:28:41</EndTime>
 				<ShortEventDescription>
@@ -157,12 +79,12 @@
 					<Description>Scuola d i polizia 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="7">
 				<IdName>MilleVocinapoletane-Puntata02di02-Edizione2016©(468p_25fps_H264-128kbit_AAC)</IdName>
 				<StartDate>2016-12-31</StartDate>
 				<StartTime>03:28:41</StartTime>
 				<EndDate>2016-12-31</EndDate>
-				<EndTime>04:40:41</EndTime>
+				<EndTime>04:40:40</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -170,10 +92,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="8">
 				<IdName>susannaelegiubberossebn1938</IdName>
 				<StartDate>2016-12-31</StartDate>
-				<StartTime>04:40:41</StartTime>
+				<StartTime>04:40:40</StartTime>
 				<EndDate>2016-12-31</EndDate>
 				<EndTime>05:56:33</EndTime>
 				<ShortEventDescription>
@@ -183,7 +105,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="9">
 				<IdName>PROMOVIDEOSPOT1</IdName>
 				<StartDate>2016-12-31</StartDate>
 				<StartTime>05:56:33</StartTime>
