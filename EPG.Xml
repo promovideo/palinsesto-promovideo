@@ -2,63 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>TEATROEMUSICA_mpeg2video</IdName>
-				<StartDate>2016-12-31</StartDate>
-				<StartTime>17:46:40</StartTime>
-				<EndDate>2016-12-31</EndDate>
-				<EndTime>18:48:56</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2016-12-31</StartDate>
-				<StartTime>18:48:56</StartTime>
-				<EndDate>2016-12-31</EndDate>
-				<EndTime>18:49:03</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>italiaEconomia_20150311_49151</IdName>
-				<StartDate>2016-12-31</StartDate>
-				<StartTime>18:49:03</StartTime>
-				<EndDate>2016-12-31</EndDate>
-				<EndTime>18:57:33</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
-				<StartDate>2016-12-31</StartDate>
-				<StartTime>18:57:33</StartTime>
-				<EndDate>2016-12-31</EndDate>
-				<EndTime>19:06:41</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
 				<IdName>Nonèpiùtempodieroi19692°t.</IdName>
 				<StartDate>2016-12-31</StartDate>
-				<StartTime>19:06:41</StartTime>
+				<StartTime>18:58:11</StartTime>
 				<EndDate>2016-12-31</EndDate>
-				<EndTime>20:10:48</EndTime>
+				<EndTime>20:02:18</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -66,12 +14,12 @@
 					<Description>NON E'  PIU  TEMPO  DI EROI 2°</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="2">
 				<IdName>Gerace</IdName>
 				<StartDate>2016-12-31</StartDate>
-				<StartTime>20:10:48</StartTime>
+				<StartTime>20:02:18</StartTime>
 				<EndDate>2016-12-31</EndDate>
-				<EndTime>20:16:49</EndTime>
+				<EndTime>20:08:19</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -79,12 +27,12 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="3">
 				<IdName>BestofMr.Bean_mpeg2video</IdName>
 				<StartDate>2016-12-31</StartDate>
-				<StartTime>20:16:49</StartTime>
+				<StartTime>20:08:19</StartTime>
 				<EndDate>2016-12-31</EndDate>
-				<EndTime>21:28:46</EndTime>
+				<EndTime>21:20:16</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,12 +40,12 @@
 					<Description>MISTER BEAN</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="4">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2016-12-31</StartDate>
-				<StartTime>21:28:46</StartTime>
+				<StartTime>21:20:16</StartTime>
 				<EndDate>2016-12-31</EndDate>
-				<EndTime>21:28:53</EndTime>
+				<EndTime>21:20:23</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -105,12 +53,12 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="5">
 				<IdName>LabattagliadellaNeretva19691°t.</IdName>
 				<StartDate>2016-12-31</StartDate>
-				<StartTime>21:28:53</StartTime>
+				<StartTime>21:20:23</StartTime>
 				<EndDate>2016-12-31</EndDate>
-				<EndTime>22:42:58</EndTime>
+				<EndTime>22:34:28</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,12 +66,12 @@
 					<Description>LA BATTAGLIA DELLA NERETVA 1° T</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="6">
 				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
 				<StartDate>2016-12-31</StartDate>
-				<StartTime>22:42:58</StartTime>
+				<StartTime>22:34:28</StartTime>
 				<EndDate>2016-12-31</EndDate>
-				<EndTime>22:52:06</EndTime>
+				<EndTime>22:43:36</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -131,12 +79,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="7">
 				<IdName>AdrianoCelentanoJoanLuiFilmCompleto</IdName>
 				<StartDate>2016-12-31</StartDate>
-				<StartTime>22:52:06</StartTime>
+				<StartTime>22:43:36</StartTime>
 				<EndDate>2017-01-01</EndDate>
-				<EndTime>00:57:45</EndTime>
+				<EndTime>00:49:15</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -144,12 +92,12 @@
 					<Description>JOAN LUI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="8">
 				<IdName>prometeoTV_20161130_62618</IdName>
 				<StartDate>2017-01-01</StartDate>
-				<StartTime>00:57:45</StartTime>
+				<StartTime>00:49:15</StartTime>
 				<EndDate>2017-01-01</EndDate>
-				<EndTime>01:00:43</EndTime>
+				<EndTime>00:52:13</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -157,12 +105,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="9">
 				<IdName>Capodanno_Italiano_ITN</IdName>
 				<StartDate>2017-01-01</StartDate>
-				<StartTime>01:00:43</StartTime>
+				<StartTime>00:52:13</StartTime>
 				<EndDate>2017-01-01</EndDate>
-				<EndTime>04:00:10</EndTime>
+				<EndTime>03:51:40</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -170,12 +118,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="10">
 				<IdName>PROMOVIDEOSPOT2</IdName>
 				<StartDate>2017-01-01</StartDate>
-				<StartTime>04:00:10</StartTime>
+				<StartTime>03:51:40</StartTime>
 				<EndDate>2017-01-01</EndDate>
-				<EndTime>04:00:17</EndTime>
+				<EndTime>03:51:47</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -183,12 +131,12 @@
 					<Description>SPOT  PROMOVIDEOTV 2</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="11">
 				<IdName>TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-01-01</StartDate>
-				<StartTime>04:00:17</StartTime>
+				<StartTime>03:51:47</StartTime>
 				<EndDate>2017-01-01</EndDate>
-				<EndTime>04:10:22</EndTime>
+				<EndTime>04:01:52</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -196,12 +144,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="12">
 				<IdName>GERACE-Cittàmillenaria</IdName>
 				<StartDate>2017-01-01</StartDate>
-				<StartTime>04:10:22</StartTime>
+				<StartTime>04:01:52</StartTime>
 				<EndDate>2017-01-01</EndDate>
-				<EndTime>04:11:27</EndTime>
+				<EndTime>04:02:57</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -209,12 +157,12 @@
 					<Description>GERACECITTAMILLENARIA SPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="13">
 				<IdName>PROMOVIDEOSPOT</IdName>
 				<StartDate>2017-01-01</StartDate>
-				<StartTime>04:11:27</StartTime>
+				<StartTime>04:02:57</StartTime>
 				<EndDate>2017-01-01</EndDate>
-				<EndTime>04:11:49</EndTime>
+				<EndTime>04:03:19</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -222,12 +170,12 @@
 					<Description>PROMOVIDEOSOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="14">
 				<IdName>0114-1968PreparatiLaBara-TerenceHill_mpeg2video</IdName>
 				<StartDate>2017-01-01</StartDate>
-				<StartTime>04:11:49</StartTime>
+				<StartTime>04:03:19</StartTime>
 				<EndDate>2017-01-01</EndDate>
-				<EndTime>05:39:51</EndTime>
+				<EndTime>05:31:21</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -235,12 +183,12 @@
 					<Description>PREPARATI LA  BARA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="15">
 				<IdName>Mettilodiavolotuonelomioinferno_mpeg2video</IdName>
 				<StartDate>2017-01-01</StartDate>
-				<StartTime>05:39:51</StartTime>
+				<StartTime>05:31:21</StartTime>
 				<EndDate>2017-01-01</EndDate>
-				<EndTime>07:00:36</EndTime>
+				<EndTime>06:52:06</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -248,12 +196,12 @@
 					<Description>Metti  lo  diavolo  ne lo  tuo inferno</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="16">
 				<IdName>Scuoladipolizia6_mpeg2video</IdName>
 				<StartDate>2017-01-01</StartDate>
-				<StartTime>07:00:36</StartTime>
+				<StartTime>06:52:06</StartTime>
 				<EndDate>2017-01-01</EndDate>
-				<EndTime>08:20:31</EndTime>
+				<EndTime>08:12:01</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -261,12 +209,12 @@
 					<Description>Scuola d i polizia 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="21">
+			<Event id="17">
 				<IdName>PROMOVIDEOSPOT1</IdName>
 				<StartDate>2017-01-01</StartDate>
-				<StartTime>08:20:31</StartTime>
+				<StartTime>08:12:01</StartTime>
 				<EndDate>2017-01-01</EndDate>
-				<EndTime>08:20:38</EndTime>
+				<EndTime>08:12:08</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
