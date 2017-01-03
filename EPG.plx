@@ -1,42 +1,37 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-03/01/2017	09:42:36	GeracepresentatoilDiariofotograficodi25annidicammino(byEL)	LIBRO  FOTOGRAFICO 25  ANNI  DI  CAMMINO	GERACE 25  ANNI  DI CAMMINO	00:31:39	41	programmi culturali
-03/01/2017	10:14:16	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-03/01/2017	10:14:23	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-03/01/2017	10:14:38	SpegniLaTv...MettitiABallare	Sconosciuto	Nuovo File	00:01:44	0	
-03/01/2017	10:16:22	jerry.lewis.l.idolo.delle.donne.19611°t.	L' IDOLO DELLE DONNE 1°	L' IDOLO DELLE DONNE 1°	00:47:12	1	Film
-03/01/2017	11:03:34	Arma.Da.Taglio.19722°t	ARMA DA TAGLIO 2°	ARMA DA TAGLIO 2°	00:37:18	1	Film
-03/01/2017	11:40:53	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-03/01/2017	11:41:58	benessere_20150715_52345	Sconosciuto	Nuovo File	00:01:11	0	
-03/01/2017	11:43:10	Bowfinger_1_mpeg2video	Sconosciuto	BOWFINGER 1P	00:44:18	1	Film
-03/01/2017	12:27:28	Bowfinger_2_mpeg2video	Sconosciuto	BOWFINGER 2 P	00:48:07	1	Film
-03/01/2017	13:15:35	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-03/01/2017	13:15:51	TartarugheNinja-25AllaricercadiSplinter-parte1	Sconosciuto	Nuovo File	00:22:11	0	
-03/01/2017	13:38:02	TartarugheNinja-24Duetestecalde	Sconosciuto	Nuovo File	00:21:57	0	
-03/01/2017	14:00:00	TartarugheNinja-23Attaccoasorpresa-parte3	Tartarughe Ninja-	-23 Attacco a sorpresa-parte3	00:21:46	51	cartoni animati
-03/01/2017	14:21:47	ZAGORTVSatanik19671°t.	ZAGORTV SATANIK 1° T	ZAGORTV SATANIK 1° T	00:47:05	1	Film
-03/01/2017	15:08:52	ZAGORTVSatanik19672°t.	ZAGOR TV SATANIK 2° T	ZAGOR TV SATANIK 2° T	00:36:09	1	Film
-03/01/2017	15:45:01	MilleVocinapoletane-Puntata01di02_Edizione2016©(468p_25fps_H264-128kbit_AAC)	mille voci napoletane 1	mille    voci napoletane 1	01:29:30	81	videoclip
-03/01/2017	17:14:31	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-03/01/2017	17:15:12	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
-03/01/2017	19:06:54	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
-03/01/2017	21:09:04	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-03/01/2017	21:09:11	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
-03/01/2017	21:31:23	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
-03/01/2017	23:01:59	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-03/01/2017	23:02:06	LibrocasinoMacrì_mpeg2video	LIBRO CASINO' MACRI	LIBRO CASINO MACRI'	01:05:03	41	programmi culturali
-04/01/2017	00:07:09	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-04/01/2017	00:07:15	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
-04/01/2017	00:09:45	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-04/01/2017	00:09:52	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-04/01/2017	00:10:03	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-04/01/2017	00:10:09	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
-04/01/2017	01:33:18	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
-04/01/2017	01:34:21	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
-04/01/2017	02:26:27	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
-04/01/2017	04:14:58	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-04/01/2017	04:15:13	IlVizietto1°t.	IL VIZIETTO 1° T	IL VIZIETTO 1° T	00:48:41	1	Film
-04/01/2017	05:03:55	IlVizietto2°t.	IL VIZIETTO 2° T	IL VIZIETTO 2° T	00:44:25	1	Film
-04/01/2017	05:48:21	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-04/01/2017	05:48:28	_1779_Recanatese_Lunaametà	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
-04/01/2017	05:56:45	ZAPPINGTV_CARTONE_005_OK	Sconosciuto	Nuovo File	00:09:33	0	
-04/01/2017	06:06:19	Gerace	GERACE	GERACE	00:06:01	71	documentari
+03/01/2017	17:01:13	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
+03/01/2017	18:49:44	BonifatiPiccolaGrandeItalia	bonifati	bonifati	00:21:55	71	documentari
+03/01/2017	19:11:40	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+03/01/2017	19:11:50	rotocalco_20161201_62643	Sconosciuto	Nuovo File	00:25:55	0	
+03/01/2017	19:37:46	LaPolvered'Ingrandimento•IPuffi(1080p_25fps_H264-128kbit_AAC)	I PUFFI	la polvere d ingrandimento	00:12:47	51	cartoni animati
+03/01/2017	19:50:33	IlPuffoGuastafempo•IPuffi(1080p_25fps_H264-128kbit_AAC)	il puffo guasta tempo	il  puffo gussta tempo	00:12:47	51	cartoni animati
+03/01/2017	20:03:21	AdessoPuffieDopoNonPuffi•IPuffi(1080p_25fps_H264-128kbit_AAC)	I  PUFFI	ADESSO  PUFFI  DOPO NON PUFFI	00:12:49	51	cartoni animati
+03/01/2017	20:16:11	GeraceconsegnachiaviMuseoDiocesano	Sconosciuto	Nuovo File	00:21:55	0	
+03/01/2017	20:38:06	TRAILERPARTE8DOPOLE22,30	Sconosciuto	Nuovo File	00:10:02	0	
+03/01/2017	20:48:08	Ritorno.Al.Futuro.2-iTALiAN.DvDRip.DivX-AuDaX	Sconosciuto	Ritorno  al  futuro 2	01:43:36	1	Film
+03/01/2017	22:31:45	PROMOVIDEOSPOT	PROMOVIDEOSPOT	PROMOVIDEOSOT	00:00:21	11	spot
+03/01/2017	22:32:07	SPOTMULTILOGO	Sconosciuto	Nuovo File	00:04:35	0	
+03/01/2017	22:36:42	0114-1968PreparatiLaBara-TerenceHill_mpeg2video	Sconosciuto	PREPARATI LA  BARA	01:28:01	1	Film
+04/01/2017	00:04:44	CONSIGLIOGERACEDEL29122016	consiglio comunale gerace del 29 12 016	CONSIGLIO  COM GERACE 29 12 016	00:36:50	41	programmi culturali
+04/01/2017	00:41:34	inItalia_20150211_48398	Sconosciuto	IN  ITALIA	00:01:54	41	programmi culturali
+04/01/2017	00:43:28	rotocalco_20161201_62643	Sconosciuto	Nuovo File	00:25:55	0	
+04/01/2017	01:09:24	SPOTtraPROMOVIDEOTV10	Sconosciuto	SPOT PROMOVIDEOTV2	00:00:03	11	spot
+04/01/2017	01:09:27	Qualcosadicuisparlare_mpeg2video	Sconosciuto	Qualcosa di  cui  sparlare	01:40:41	1	Film
+04/01/2017	02:50:09	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+04/01/2017	03:00:14	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+04/01/2017	03:00:30	SPOTCACCIATORIDITESTE	Sconosciuto	Nuovo File	00:00:45	0	
+04/01/2017	03:01:15	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+04/01/2017	03:01:26	SPOTCACCIATORIDITESTE	Sconosciuto	Nuovo File	00:00:45	0	
+04/01/2017	03:02:11	spotcalabriaingustopromovideotv	SPOT CALABRIA IN GUSTO	CALABRIA IN GUSTO SPOT	00:00:57	11	spot
+04/01/2017	03:03:08	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+04/01/2017	03:03:19	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+04/01/2017	03:03:26	SPOTtraPROMOVIDEOTV6	Sconosciuto	SPOTtraPROMOVIDEOTV6	00:00:03	11	spot
+04/01/2017	03:03:29	SPOTINTERPUBBLICITARI#3	Sconosciuto	Nuovo File	00:00:07	0	
+04/01/2017	03:03:37	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
+04/01/2017	03:10:51	X-Men	X - MEN	X - MEN	01:40:02	1	Film
+04/01/2017	04:50:53	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+04/01/2017	04:51:09	bouquet142	Sconosciuto	Nuovo File	00:32:29	0	
+04/01/2017	05:23:38	SPOTtraPROMOVIDEOTV2	Sconosciuto	SPOTPRIMAPUBBLICITA' PROMOV2	00:00:02	0	
+04/01/2017	05:23:41	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	documentari
+04/01/2017	05:45:10	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+04/01/2017	05:45:21	Promo_01_MilleVoci_2015	PROMO 1000 VOCI	Nuovo File	00:00:37	0	
