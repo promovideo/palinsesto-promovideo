@@ -2,32 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>LaStoriaDelNatalecartone</IdName>
-				<StartDate>2017-01-08</StartDate>
-				<StartTime>19:35:28</StartTime>
-				<EndDate>2017-01-08</EndDate>
-				<EndTime>20:21:55</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LA STORIA DI NATALE cartone</Name>
-					<Description>cartone LA STOIA DI   NATALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
-				<StartDate>2017-01-08</StartDate>
-				<StartTime>20:21:55</StartTime>
-				<EndDate>2017-01-08</EndDate>
-				<EndTime>20:31:03</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
 				<IdName>Colpogrosso_mpeg2video</IdName>
 				<StartDate>2017-01-08</StartDate>
 				<StartTime>20:31:03</StartTime>
@@ -40,7 +14,7 @@
 					<Description>COLPO  GROSSO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="2">
 				<IdName>3PROMOVIDEOSPOT3</IdName>
 				<StartDate>2017-01-08</StartDate>
 				<StartTime>22:33:13</StartTime>
@@ -53,12 +27,12 @@
 					<Description>SPOT PROMOVIDEOTV 3</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="3">
 				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
 				<StartDate>2017-01-08</StartDate>
 				<StartTime>22:33:20</StartTime>
 				<EndDate>2017-01-08</EndDate>
-				<EndTime>22:55:33</EndTime>
+				<EndTime>22:55:32</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -66,12 +40,12 @@
 					<Description>Reggio piccola grande Italia  </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="4">
 				<IdName>salusTv_20161128_62550</IdName>
 				<StartDate>2017-01-08</StartDate>
-				<StartTime>22:55:33</StartTime>
+				<StartTime>22:55:32</StartTime>
 				<EndDate>2017-01-08</EndDate>
-				<EndTime>23:10:09</EndTime>
+				<EndTime>23:10:08</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -79,10 +53,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="5">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2017-01-08</StartDate>
-				<StartTime>23:10:09</StartTime>
+				<StartTime>23:10:08</StartTime>
 				<EndDate>2017-01-08</EndDate>
 				<EndTime>23:10:15</EndTime>
 				<ShortEventDescription>
@@ -92,7 +66,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="6">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-01-08</StartDate>
 				<StartTime>23:10:15</StartTime>
@@ -105,12 +79,12 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="7">
 				<IdName>Filmato</IdName>
 				<StartDate>2017-01-08</StartDate>
 				<StartTime>23:10:22</StartTime>
 				<EndDate>2017-01-08</EndDate>
-				<EndTime>23:12:52</EndTime>
+				<EndTime>23:12:51</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,12 +92,12 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="8">
 				<IdName>italiaEconomia_20161130_62603</IdName>
 				<StartDate>2017-01-08</StartDate>
-				<StartTime>23:12:52</StartTime>
+				<StartTime>23:12:51</StartTime>
 				<EndDate>2017-01-08</EndDate>
-				<EndTime>23:28:32</EndTime>
+				<EndTime>23:28:31</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -131,10 +105,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="9">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-01-08</StartDate>
-				<StartTime>23:28:32</StartTime>
+				<StartTime>23:28:31</StartTime>
 				<EndDate>2017-01-08</EndDate>
 				<EndTime>23:28:38</EndTime>
 				<ShortEventDescription>
@@ -144,7 +118,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="10">
 				<IdName>minispotapplicazione</IdName>
 				<StartDate>2017-01-08</StartDate>
 				<StartTime>23:28:38</StartTime>
@@ -157,7 +131,7 @@
 					<Description>SPOTAPP</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="11">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2017-01-08</StartDate>
 				<StartTime>23:28:49</StartTime>
@@ -170,7 +144,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="12">
 				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
 				<StartDate>2017-01-08</StartDate>
 				<StartTime>23:28:56</StartTime>
@@ -183,7 +157,7 @@
 					<Description>BELLEZZE SULLA SPIAGGIA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="13">
 				<IdName>7Monacidoro_mpeg2video</IdName>
 				<StartDate>2017-01-09</StartDate>
 				<StartTime>00:52:05</StartTime>
@@ -196,7 +170,7 @@
 					<Description>7  MONACI D' ORO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="14">
 				<IdName>MuseoEgiziodelCairo(parte3)</IdName>
 				<StartDate>2017-01-09</StartDate>
 				<StartTime>02:25:54</StartTime>
@@ -209,7 +183,7 @@
 					<Description>MUSEO EGIZIO DEL CAIRO 3^ P</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="15">
 				<IdName>benessere_20150512_50742</IdName>
 				<StartDate>2017-01-09</StartDate>
 				<StartTime>02:54:59</StartTime>
@@ -222,7 +196,7 @@
 					<Description>benessere</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="16">
 				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
 				<StartDate>2017-01-09</StartDate>
 				<StartTime>02:56:02</StartTime>
@@ -235,25 +209,12 @@
 					<Description>ANIMALI SERPENTI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
-				<IdName>A027DaLasVegas_mpeg2video</IdName>
+			<Event id="17">
+				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
 				<StartDate>2017-01-09</StartDate>
 				<StartTime>03:48:07</StartTime>
 				<EndDate>2017-01-09</EndDate>
-				<EndTime>05:18:42</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>A 27 LAS VEGAS</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="20">
-				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
-				<StartDate>2017-01-09</StartDate>
-				<StartTime>05:18:42</StartTime>
-				<EndDate>2017-01-09</EndDate>
-				<EndTime>07:07:13</EndTime>
+				<EndTime>05:36:38</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -261,12 +222,12 @@
 					<Description>CRASH CONTATTO  FINALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="21">
+			<Event id="18">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2017-01-09</StartDate>
-				<StartTime>07:07:13</StartTime>
+				<StartTime>05:36:38</StartTime>
 				<EndDate>2017-01-09</EndDate>
-				<EndTime>07:07:28</EndTime>
+				<EndTime>05:36:54</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -274,38 +235,12 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="22">
-				<IdName>IlVizietto1°t.</IdName>
-				<StartDate>2017-01-09</StartDate>
-				<StartTime>07:07:28</StartTime>
-				<EndDate>2017-01-09</EndDate>
-				<EndTime>07:56:10</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IL VIZIETTO 1° T</Name>
-					<Description>IL VIZIETTO 1° T</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="23">
-				<IdName>IlVizietto2°t.</IdName>
-				<StartDate>2017-01-09</StartDate>
-				<StartTime>07:56:10</StartTime>
-				<EndDate>2017-01-09</EndDate>
-				<EndTime>08:40:36</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IL VIZIETTO 2° T</Name>
-					<Description>IL VIZIETTO 2° T</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="24">
+			<Event id="19">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-01-09</StartDate>
-				<StartTime>08:40:36</StartTime>
+				<StartTime>05:36:54</StartTime>
 				<EndDate>2017-01-09</EndDate>
-				<EndTime>08:40:43</EndTime>
+				<EndTime>05:37:01</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -313,25 +248,12 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="25">
-				<IdName>_1779_Recanatese_Lunaametà</IdName>
-				<StartDate>2017-01-09</StartDate>
-				<StartTime>08:40:43</StartTime>
-				<EndDate>2017-01-09</EndDate>
-				<EndTime>08:49:00</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>RECANATESE 'LUNA A META'</Name>
-					<Description>RECANATESE  LUNA A METa'</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="26">
+			<Event id="20">
 				<IdName>ZAPPINGTV_CARTONE_005_OK</IdName>
 				<StartDate>2017-01-09</StartDate>
-				<StartTime>08:49:00</StartTime>
+				<StartTime>05:37:01</StartTime>
 				<EndDate>2017-01-09</EndDate>
-				<EndTime>08:58:34</EndTime>
+				<EndTime>05:46:34</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -339,12 +261,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="27">
+			<Event id="21">
 				<IdName>Gerace</IdName>
 				<StartDate>2017-01-09</StartDate>
-				<StartTime>08:58:34</StartTime>
+				<StartTime>05:46:34</StartTime>
 				<EndDate>2017-01-09</EndDate>
-				<EndTime>09:04:35</EndTime>
+				<EndTime>05:52:35</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
