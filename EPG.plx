@@ -1,23 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-10/01/2017	04:30:27	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	documentari
-10/01/2017	05:22:37	INNACaliente(OFFICIALVIDEO)	Caliente	Inna	00:03:21	162	
-10/01/2017	06:00:00	AllexinnoStarchildSenorita_mpeg2video(1)	Senorita	Alexino	00:03:37	81	videoclip
-10/01/2017	06:03:37	MAXPEZZALIECCOTI	Eccoti	Max Pezzali	00:04:05	81	videoclip
-10/01/2017	06:07:42	CalvinHarris-Summer	SUMMER	CALVIN HARRIS	00:03:53	81	videoclip
-10/01/2017	06:11:36	AlexMicaDalinda	Dalinda	Alex Mica	00:03:25	81	videoclip
-10/01/2017	06:15:02	AllexinnoStarchildNadaSemVoc(withlyrics)	Starchild Nada Sem Voc	ALEXINNO	00:03:46	81	videoclip
-10/01/2017	06:18:48	AllexinnoStarchildSenorita	Starchild Senorita	Allexinno	00:03:37	81	videoclip
-10/01/2017	06:22:25	AllexinnoStarchildSenorita_mpeg2video(1)	Senorita	Alexino	00:03:37	81	videoclip
-10/01/2017	06:26:03	TRAILERPARTE8DOPOLE22,30	Sconosciuto	Nuovo File	00:10:02	0	
-10/01/2017	06:36:05	CleanBandit-Extraordinary(feat.SharnaBass)(OfficialVideo)	EXTRAORINARY	CLEAN BLANDIT	00:04:16	81	videoclip
-10/01/2017	06:40:21	CleanBandit-RatherBe(feat.JessGlynne)(OfficialVideo)	RATHER BE	CLEAN BANDIT	00:04:28	81	videoclip
-10/01/2017	06:44:49	Promo_01_MilleVoci_2015	PROMO 1000 VOCI	Nuovo File	00:00:37	0	
-10/01/2017	06:45:27	TRAILERPARTE5SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:56	0	
-10/01/2017	06:55:23	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-10/01/2017	06:56:28	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-10/01/2017	06:56:39	OnceWereWarriors2(completo)	ONCE WERRIORS 2	Once were Warriors	01:38:23	1	Film
-10/01/2017	08:35:03	2012VUEMMESPOT	VUEMMEFAST	VUEMMEFAST	00:00:37	11	spot
-10/01/2017	08:35:40	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
 10/01/2017	09:00:03	LARIVOLTADEIPRETORIANIFilmpeplum1964diAlfonsoBresciacompletoinItaliano	Sconosciuto	LARIVOLTA DEI PRETORIANI	01:33:20	1	Film
 10/01/2017	10:33:24	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
 10/01/2017	10:43:29	SPOTtraPROMOVIDEOTV5	Sconosciuto	SPOTtraPROMOVIDEOTV5	00:00:03	11	spot
