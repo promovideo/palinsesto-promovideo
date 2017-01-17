@@ -1,53 +1,42 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-17/01/2017	08:42:44	TartarugheNinja-16Ilredeifumetti	Sconosciuto	Nuovo File	00:22:01	0	
-17/01/2017	09:04:46	TartarugheNinja-14Avventurenelsottosuolo-parte2	Sconosciuto	Nuovo File	00:22:04	0	
-17/01/2017	09:26:50	TartarugheNinja-13Avventurenelsottosuolo-parte1	Sconosciuto	Nuovo File	00:22:05	0	
-17/01/2017	09:48:55	inTavola_20150226_48823	Sconosciuto	Nuovo File	00:01:58	0	
-17/01/2017	09:50:54	TRAILERPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:10:04	0	
-17/01/2017	10:00:58	TG	TG 	TELEGIORNALE	00:01:49	31	programmi informativi
-17/01/2017	10:02:48	GeracepresentatoilDiariofotograficodi25annidicammino(byEL)	LIBRO  FOTOGRAFICO 25  ANNI  DI  CAMMINO	GERACE 25  ANNI  DI CAMMINO	00:31:39	41	programmi culturali
-17/01/2017	10:34:27	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-17/01/2017	10:34:34	TRAILERPARTE5SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:56	0	
-17/01/2017	10:44:31	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-17/01/2017	10:44:46	SpegniLaTv...MettitiABallare	Sconosciuto	Nuovo File	00:01:44	0	
-17/01/2017	10:46:30	calabriaantica	CALABRIA ANTICA	CALABRIA ANTICA	00:07:32	41	programmi culturali
-17/01/2017	10:54:03	2012VUEMMESPOT	VUEMMEFAST	VUEMMEFAST	00:00:37	11	spot
-17/01/2017	10:54:40	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-17/01/2017	10:55:45	benessere_20150715_52345	Sconosciuto	Nuovo File	00:01:11	0	
-17/01/2017	10:56:57	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-17/01/2017	10:57:12	TRAILERPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:10:04	0	
-17/01/2017	11:07:17	TartarugheNinja-25AllaricercadiSplinter-parte1	Sconosciuto	Nuovo File	00:22:11	0	
-17/01/2017	11:29:28	TartarugheNinja-24Duetestecalde	Sconosciuto	Nuovo File	00:21:57	0	
-17/01/2017	11:51:26	TartarugheNinja-23Attaccoasorpresa-parte3	Tartarughe Ninja-	-23 Attacco a sorpresa-parte3	00:21:46	51	cartoni animati
-17/01/2017	12:13:13	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-17/01/2017	12:13:53	TRAILERPARTE5SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:56	0	
-17/01/2017	12:23:50	MISSARTESTV6	Sconosciuto	Nuovo File	01:14:34	0	
-17/01/2017	13:38:24	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
-17/01/2017	15:30:07	Lareginadellenevi(1957cartone	LA REGINA DELLE NEVI cartone	cartone LA REGINA DELLE NEVI	01:00:37	51	cartoni animati
-17/01/2017	16:30:44	LaStoriaDelNatalecartone	LA STORIA DI NATALE cartone	cartone LA STOIA DI   NATALE	00:46:27	51	cartoni animati
-17/01/2017	17:17:11	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
-17/01/2017	17:26:19	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
-17/01/2017	19:28:29	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-17/01/2017	19:28:36	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
-17/01/2017	19:50:49	salusTv_20161128_62550	Sconosciuto	Nuovo File	00:14:35	0	
-17/01/2017	20:05:25	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-17/01/2017	20:05:31	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-17/01/2017	20:05:38	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
-17/01/2017	20:08:08	italiaEconomia_20161130_62603	Sconosciuto	Nuovo File	00:15:39	0	
-17/01/2017	20:23:48	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-17/01/2017	20:23:54	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-17/01/2017	20:24:05	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-17/01/2017	20:24:12	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
-17/01/2017	21:47:21	7Monacidoro_mpeg2video	7  monaci d  oro	7  MONACI D' ORO	01:33:49	1	Film
-17/01/2017	23:21:10	MuseoEgiziodelCairo(parte3)	MUSEO EGIZIO DEL CAIRO 3^ P	MUSEO EGIZIO DEL CAIRO 3^ P	00:29:05	41	programmi culturali
-17/01/2017	23:50:15	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
-17/01/2017	23:51:18	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
-18/01/2017	00:43:23	A027DaLasVegas_mpeg2video	Sconosciuto	A 27 LAS VEGAS	01:30:34	1	Film
-18/01/2017	02:13:58	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
-18/01/2017	04:02:29	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-18/01/2017	04:02:44	IlVizietto1°t.	IL VIZIETTO 1° T	IL VIZIETTO 1° T	00:48:41	1	Film
-18/01/2017	04:51:26	IlVizietto2°t.	IL VIZIETTO 2° T	IL VIZIETTO 2° T	00:44:25	1	Film
-18/01/2017	05:35:52	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-18/01/2017	05:35:59	_1779_Recanatese_Lunaametà	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
-18/01/2017	05:44:16	ZAPPINGTV_CARTONE_005_OK	Sconosciuto	Nuovo File	00:09:33	0	
-18/01/2017	05:53:50	Gerace	GERACE	GERACE	00:06:01	71	documentari
+17/01/2017	17:50:16	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+17/01/2017	17:59:24	Promo_01_MilleVoci_2015	PROMO 1000 VOCI	Nuovo File	00:00:37	0	
+17/01/2017	18:00:02	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
+17/01/2017	18:09:59	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+17/01/2017	18:11:04	1colazione2e	Sconosciuto	Nuovo File	00:15:18	0	
+17/01/2017	18:26:23	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+17/01/2017	18:26:33	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
+17/01/2017	18:50:57	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+17/01/2017	19:00:05	TartarugheNinja-16Ilredeifumetti	Sconosciuto	Nuovo File	00:22:01	0	
+17/01/2017	19:22:06	TartarugheNinja-14Avventurenelsottosuolo-parte2	Sconosciuto	Nuovo File	00:22:04	0	
+17/01/2017	19:44:10	TartarugheNinja-13Avventurenelsottosuolo-parte1	Sconosciuto	Nuovo File	00:22:05	0	
+17/01/2017	20:06:15	inTavola_20150226_48823	Sconosciuto	Nuovo File	00:01:58	0	
+17/01/2017	20:08:14	TRAILERPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:10:04	0	
+17/01/2017	20:18:19	TG	TG 	TELEGIORNALE	00:01:49	31	programmi informativi
+17/01/2017	20:20:09	GeracepresentatoilDiariofotograficodi25annidicammino(byEL)	LIBRO  FOTOGRAFICO 25  ANNI  DI  CAMMINO	GERACE 25  ANNI  DI CAMMINO	00:31:39	41	programmi culturali
+17/01/2017	20:51:48	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+17/01/2017	20:51:55	TRAILERPARTE5SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:56	0	
+17/01/2017	21:01:51	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+17/01/2017	21:02:06	SpegniLaTv...MettitiABallare	Sconosciuto	Nuovo File	00:01:44	0	
+17/01/2017	21:03:51	calabriaantica	CALABRIA ANTICA	CALABRIA ANTICA	00:07:32	41	programmi culturali
+17/01/2017	21:11:23	2012VUEMMESPOT	VUEMMEFAST	VUEMMEFAST	00:00:37	11	spot
+17/01/2017	21:12:01	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+17/01/2017	21:13:06	benessere_20150715_52345	Sconosciuto	Nuovo File	00:01:11	0	
+17/01/2017	21:14:17	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
+17/01/2017	21:14:33	TRAILERPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:10:04	0	
+17/01/2017	21:24:37	TartarugheNinja-25AllaricercadiSplinter-parte1	Sconosciuto	Nuovo File	00:22:11	0	
+17/01/2017	21:46:49	TartarugheNinja-24Duetestecalde	Sconosciuto	Nuovo File	00:21:57	0	
+17/01/2017	22:08:46	TartarugheNinja-23Attaccoasorpresa-parte3	Tartarughe Ninja-	-23 Attacco a sorpresa-parte3	00:21:46	51	cartoni animati
+17/01/2017	22:30:33	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
+17/01/2017	22:31:14	TRAILERPARTE5SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:56	0	
+17/01/2017	22:41:10	MISSARTESTV6	Sconosciuto	Nuovo File	01:14:34	0	
+17/01/2017	23:55:45	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
+18/01/2017	01:47:27	Lareginadellenevi(1957cartone	LA REGINA DELLE NEVI cartone	cartone LA REGINA DELLE NEVI	01:00:37	51	cartoni animati
+18/01/2017	02:48:05	LaStoriaDelNatalecartone	LA STORIA DI NATALE cartone	cartone LA STOIA DI   NATALE	00:46:27	51	cartoni animati
+18/01/2017	03:34:32	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+18/01/2017	03:43:40	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
+18/01/2017	05:45:49	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
+18/01/2017	05:45:56	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
+18/01/2017	06:08:09	salusTv_20161128_62550	Sconosciuto	Nuovo File	00:14:35	0	
+18/01/2017	06:22:45	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+18/01/2017	06:22:52	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
