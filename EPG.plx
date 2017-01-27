@@ -1,5 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-27/01/2017	18:40:50	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
 27/01/2017	20:32:33	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
 27/01/2017	22:34:43	IVisigoti-popolazionibarbare	Sconosciuto	Nuovo File	00:43:46	0	
 27/01/2017	23:18:29	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
@@ -17,6 +16,6 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 28/01/2017	04:27:15	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
 28/01/2017	04:27:30	Mettilodiavolotuonelomioinferno_mpeg2video	Sconosciuto	Metti  lo  diavolo  ne lo  tuo inferno	01:20:45	1	Film
 28/01/2017	05:48:16	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-28/01/2017	05:48:22	Papadiventamamma_mpeg2video	PAPA  DIVENTA  MAMMA	PAPA  DIVENTA  MAMMA	01:20:22	1	Film
-28/01/2017	07:08:45	ZAPPINGTV_CARTONE_005_OK	Sconosciuto	Nuovo File	00:09:33	0	
+28/01/2017	05:48:23	Papadiventamamma_mpeg2video	PAPA  DIVENTA  MAMMA	PAPA  DIVENTA  MAMMA	01:20:22	1	Film
+28/01/2017	07:08:46	ZAPPINGTV_CARTONE_005_OK	Sconosciuto	Nuovo File	00:09:33	0	
 28/01/2017	07:18:19	Gerace	GERACE	GERACE	00:06:01	71	documentari
