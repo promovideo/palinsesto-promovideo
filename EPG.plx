@@ -1,5 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-29/01/2017	17:42:22	80NOSTALGIA_LUCCACOMICSPRESENTAZIONE	Sconosciuto	Nuovo File	00:30:14	0	
 29/01/2017	18:12:36	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
 29/01/2017	20:14:46	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
 29/01/2017	20:14:53	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
