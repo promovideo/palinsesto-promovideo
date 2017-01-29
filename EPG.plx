@@ -1,12 +1,9 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-29/01/2017	18:12:36	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
-29/01/2017	20:14:46	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-29/01/2017	20:14:53	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
 29/01/2017	20:17:22	Ritorno.Al.Futuro.2-iTALiAN.DvDRip.DivX-AuDaX	Sconosciuto	Ritorno  al  futuro 2	01:43:36	1	Film
 29/01/2017	22:00:59	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
 29/01/2017	22:01:06	SPOTDIABETE	SPOT DIABETE	spot diabete	00:00:29	11	spot
 29/01/2017	22:01:36	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-29/01/2017	22:01:43	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
+29/01/2017	22:01:42	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
 29/01/2017	22:04:12	NomadiToccamiilcuore	Toccami il  cuore	Nomadi	00:04:22	162	
 29/01/2017	22:08:34	NekE'conte	 E' con te	Nek	00:03:21	81	videoclip
 29/01/2017	22:11:56	ImaginaryHeroes	IMMAGINARY HEROES	Immaginary Heores	01:51:03	1	Film
@@ -24,11 +21,11 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 30/01/2017	03:50:56	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
 30/01/2017	03:51:59	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
 30/01/2017	05:40:30	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-30/01/2017	05:40:46	SardegnaVistadalcielo	Sconosciuto	Sardegna vista dal cielo	00:50:23	71	documentari
+30/01/2017	05:40:45	SardegnaVistadalcielo	Sconosciuto	Sardegna vista dal cielo	00:50:23	71	documentari
 30/01/2017	06:31:09	Commissariatodinotturna_mpeg2video	Sconosciuto	COMMISSARIATO  DI   NOTTURNA	01:32:54	1	Film
 30/01/2017	08:04:03	TRAILERPARTE4SOLODALLE16,00ALLE18,00-Copia	Sconosciuto	Nuovo File	00:09:56	0	
 30/01/2017	08:14:00	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 30/01/2017	08:14:07	SPOTDIABETE	SPOT DIABETE	spot diabete	00:00:29	11	spot
-30/01/2017	08:14:37	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-30/01/2017	08:15:42	SPOTDIABETE	SPOT DIABETE	spot diabete	00:00:29	11	spot
+30/01/2017	08:14:36	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+30/01/2017	08:15:41	SPOTDIABETE	SPOT DIABETE	spot diabete	00:00:29	11	spot
 30/01/2017	08:16:11	Gerace	GERACE	GERACE	00:06:01	71	documentari
