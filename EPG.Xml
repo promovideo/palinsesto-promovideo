@@ -2,32 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>FantozziInParadiso</IdName>
-				<StartDate>2017-02-04</StartDate>
-				<StartTime>19:00:15</StartTime>
-				<EndDate>2017-02-04</EndDate>
-				<EndTime>20:32:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>FANTOZZI VA  IN PARADISO</Name>
-					<Description>FANTOZZI VA IN PARADISO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2017-02-04</StartDate>
-				<StartTime>20:32:46</StartTime>
-				<EndDate>2017-02-04</EndDate>
-				<EndTime>20:32:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
 				<IdName>ImaginaryHeroes</IdName>
 				<StartDate>2017-02-04</StartDate>
 				<StartTime>20:32:53</StartTime>
@@ -40,7 +14,7 @@
 					<Description>Immaginary Heores</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="2">
 				<IdName>PiedoneL'Africano</IdName>
 				<StartDate>2017-02-04</StartDate>
 				<StartTime>22:23:57</StartTime>
@@ -53,7 +27,7 @@
 					<Description>Piedone l' Africano</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="3">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-02-05</StartDate>
 				<StartTime>00:12:52</StartTime>
@@ -66,7 +40,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="4">
 				<IdName>Filmato</IdName>
 				<StartDate>2017-02-05</StartDate>
 				<StartTime>00:12:59</StartTime>
@@ -79,7 +53,7 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="5">
 				<IdName>CassanoFestadelSantissimoCrocifisso</IdName>
 				<StartDate>2017-02-05</StartDate>
 				<StartTime>00:15:28</StartTime>
@@ -92,7 +66,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="6">
 				<IdName>Unosparonelbuio_mpeg2video</IdName>
 				<StartDate>2017-02-05</StartDate>
 				<StartTime>00:45:12</StartTime>
@@ -105,7 +79,7 @@
 					<Description>Uno  sparo  nel  buoio</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="7">
 				<IdName>TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-02-05</StartDate>
 				<StartTime>02:23:11</StartTime>
@@ -118,7 +92,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="8">
 				<IdName>SPOTDIABETE</IdName>
 				<StartDate>2017-02-05</StartDate>
 				<StartTime>02:33:09</StartTime>
@@ -131,7 +105,7 @@
 					<Description>spot diabete</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="9">
 				<IdName>minispotapplicazione</IdName>
 				<StartDate>2017-02-05</StartDate>
 				<StartTime>02:33:38</StartTime>
@@ -144,7 +118,7 @@
 					<Description>SPOTAPP</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="10">
 				<IdName>TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-02-05</StartDate>
 				<StartTime>02:33:49</StartTime>
@@ -157,7 +131,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="11">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2017-02-05</StartDate>
 				<StartTime>02:43:55</StartTime>
@@ -170,7 +144,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="12">
 				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
 				<StartDate>2017-02-05</StartDate>
 				<StartTime>02:44:01</StartTime>
@@ -183,7 +157,7 @@
 					<Description>BELLEZZE SULLA SPIAGGIA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="13">
 				<IdName>TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-02-05</StartDate>
 				<StartTime>04:07:10</StartTime>
@@ -196,7 +170,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="14">
 				<IdName>SPOTDIABETE</IdName>
 				<StartDate>2017-02-05</StartDate>
 				<StartTime>04:17:16</StartTime>
@@ -209,7 +183,7 @@
 					<Description>spot diabete</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="15">
 				<IdName>GERACE-Cittàmillenaria</IdName>
 				<StartDate>2017-02-05</StartDate>
 				<StartTime>04:17:45</StartTime>
@@ -222,7 +196,7 @@
 					<Description>GERACECITTAMILLENARIA SPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="16">
 				<IdName>benessere_20150512_50742</IdName>
 				<StartDate>2017-02-05</StartDate>
 				<StartTime>04:18:50</StartTime>
@@ -235,12 +209,12 @@
 					<Description>benessere</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="17">
 				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
 				<StartDate>2017-02-05</StartDate>
 				<StartTime>04:19:53</StartTime>
 				<EndDate>2017-02-05</EndDate>
-				<EndTime>06:08:25</EndTime>
+				<EndTime>06:08:24</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -248,10 +222,10 @@
 					<Description>CRASH CONTATTO  FINALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="18">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2017-02-05</StartDate>
-				<StartTime>06:08:25</StartTime>
+				<StartTime>06:08:24</StartTime>
 				<EndDate>2017-02-05</EndDate>
 				<EndTime>06:08:40</EndTime>
 				<ShortEventDescription>
@@ -261,7 +235,7 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="21">
+			<Event id="19">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-02-05</StartDate>
 				<StartTime>06:08:40</StartTime>
@@ -274,12 +248,12 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="22">
+			<Event id="20">
 				<IdName>SPOTDIABETE</IdName>
 				<StartDate>2017-02-05</StartDate>
 				<StartTime>06:08:47</StartTime>
 				<EndDate>2017-02-05</EndDate>
-				<EndTime>06:09:17</EndTime>
+				<EndTime>06:09:16</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -287,10 +261,10 @@
 					<Description>spot diabete</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="23">
+			<Event id="21">
 				<IdName>Gerace</IdName>
 				<StartDate>2017-02-05</StartDate>
-				<StartTime>06:09:17</StartTime>
+				<StartTime>06:09:16</StartTime>
 				<EndDate>2017-02-05</EndDate>
 				<EndTime>06:15:18</EndTime>
 				<ShortEventDescription>
