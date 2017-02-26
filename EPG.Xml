@@ -2,206 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Unosparonelbuio_mpeg2video</IdName>
-				<StartDate>2017-02-25</StartDate>
-				<StartTime>21:38:11</StartTime>
-				<EndDate>2017-02-25</EndDate>
-				<EndTime>23:16:10</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Uno  sparo  nel  buoio</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2017-02-25</StartDate>
-				<StartTime>23:16:10</StartTime>
-				<EndDate>2017-02-25</EndDate>
-				<EndTime>23:26:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>SPOTDIABETE</IdName>
-				<StartDate>2017-02-25</StartDate>
-				<StartTime>23:26:08</StartTime>
-				<EndDate>2017-02-25</EndDate>
-				<EndTime>23:26:37</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT DIABETE</Name>
-					<Description>spot diabete</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>minispotapplicazione</IdName>
-				<StartDate>2017-02-25</StartDate>
-				<StartTime>23:26:37</StartTime>
-				<EndDate>2017-02-25</EndDate>
-				<EndTime>23:26:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTAPP</Name>
-					<Description>SPOTAPP</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
-				<IdName>TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2017-02-25</StartDate>
-				<StartTime>23:26:48</StartTime>
-				<EndDate>2017-02-25</EndDate>
-				<EndTime>23:36:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2017-02-25</StartDate>
-				<StartTime>23:36:53</StartTime>
-				<EndDate>2017-02-25</EndDate>
-				<EndTime>23:37:00</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
-				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
-				<StartDate>2017-02-25</StartDate>
-				<StartTime>23:37:00</StartTime>
-				<EndDate>2017-02-26</EndDate>
-				<EndTime>01:00:09</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>BELLEZZE SULLA SPIAGGIA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="8">
-				<IdName>TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2017-02-26</StartDate>
-				<StartTime>01:00:09</StartTime>
-				<EndDate>2017-02-26</EndDate>
-				<EndTime>01:10:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="9">
-				<IdName>SPOTDIABETE</IdName>
-				<StartDate>2017-02-26</StartDate>
-				<StartTime>01:10:15</StartTime>
-				<EndDate>2017-02-26</EndDate>
-				<EndTime>01:10:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT DIABETE</Name>
-					<Description>spot diabete</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
-				<IdName>GERACE-Cittàmillenaria</IdName>
-				<StartDate>2017-02-26</StartDate>
-				<StartTime>01:10:44</StartTime>
-				<EndDate>2017-02-26</EndDate>
-				<EndTime>01:11:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT GERACE CITTà1000ENARIA</Name>
-					<Description>GERACECITTAMILLENARIA SPOT</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="11">
-				<IdName>benessere_20150512_50742</IdName>
-				<StartDate>2017-02-26</StartDate>
-				<StartTime>01:11:49</StartTime>
-				<EndDate>2017-02-26</EndDate>
-				<EndTime>01:12:52</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>benessere</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="12">
-				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
-				<StartDate>2017-02-26</StartDate>
-				<StartTime>01:12:52</StartTime>
-				<EndDate>2017-02-26</EndDate>
-				<EndTime>03:01:23</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CRASH CONTATTO   FINALE FISICO</Name>
-					<Description>CRASH CONTATTO  FINALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="13">
-				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
-				<StartDate>2017-02-26</StartDate>
-				<StartTime>03:01:23</StartTime>
-				<EndDate>2017-02-26</EndDate>
-				<EndTime>03:01:39</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ISCRIVITI CANALE YOU TUBE</Name>
-					<Description>ISCRIVITI CANALE YOU TUBE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="14">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2017-02-26</StartDate>
-				<StartTime>03:01:39</StartTime>
-				<EndDate>2017-02-26</EndDate>
-				<EndTime>03:01:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="15">
-				<IdName>SPOTDIABETE</IdName>
-				<StartDate>2017-02-26</StartDate>
-				<StartTime>03:01:46</StartTime>
-				<EndDate>2017-02-26</EndDate>
-				<EndTime>03:02:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT DIABETE</Name>
-					<Description>spot diabete</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="16">
 				<IdName>Gerace</IdName>
 				<StartDate>2017-02-26</StartDate>
-				<StartTime>03:02:15</StartTime>
+				<StartTime>02:56:51</StartTime>
 				<EndDate>2017-02-26</EndDate>
-				<EndTime>03:08:17</EndTime>
+				<EndTime>03:02:52</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -209,12 +14,12 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="2">
 				<IdName>16_Attiimpuriall_italiana_mpeg2video</IdName>
 				<StartDate>2017-02-26</StartDate>
-				<StartTime>03:08:17</StartTime>
+				<StartTime>03:02:52</StartTime>
 				<EndDate>2017-02-26</EndDate>
-				<EndTime>04:40:42</EndTime>
+				<EndTime>04:35:18</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
