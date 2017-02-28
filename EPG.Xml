@@ -2,45 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Colpogrosso_mpeg2video</IdName>
-				<StartDate>2017-02-28</StartDate>
-				<StartTime>16:37:45</StartTime>
-				<EndDate>2017-02-28</EndDate>
-				<EndTime>18:39:55</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Colpogrosso</Name>
-					<Description>COLPO  GROSSO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>3PROMOVIDEOSPOT3</IdName>
-				<StartDate>2017-02-28</StartDate>
-				<StartTime>18:39:55</StartTime>
-				<EndDate>2017-02-28</EndDate>
-				<EndTime>18:40:01</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>spot promovideotv</Name>
-					<Description>SPOT PROMOVIDEOTV 3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>Filmato</IdName>
-				<StartDate>2017-02-28</StartDate>
-				<StartTime>18:40:01</StartTime>
-				<EndDate>2017-02-28</EndDate>
-				<EndTime>18:42:31</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GERACE IN 2 MINUTI</Name>
-					<Description>GERACE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
 				<IdName>Ritorno.Al.Futuro.2-iTALiAN.DvDRip.DivX-AuDaX</IdName>
 				<StartDate>2017-02-28</StartDate>
 				<StartTime>18:42:31</StartTime>
@@ -53,12 +14,12 @@
 					<Description>Ritorno  al  futuro 2</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="2">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2017-02-28</StartDate>
 				<StartTime>20:26:08</StartTime>
 				<EndDate>2017-02-28</EndDate>
-				<EndTime>20:26:15</EndTime>
+				<EndTime>20:26:14</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -66,10 +27,10 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="3">
 				<IdName>SPOTDIABETE</IdName>
 				<StartDate>2017-02-28</StartDate>
-				<StartTime>20:26:15</StartTime>
+				<StartTime>20:26:14</StartTime>
 				<EndDate>2017-02-28</EndDate>
 				<EndTime>20:26:44</EndTime>
 				<ShortEventDescription>
@@ -79,7 +40,7 @@
 					<Description>spot diabete</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="4">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-02-28</StartDate>
 				<StartTime>20:26:44</StartTime>
@@ -92,7 +53,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="5">
 				<IdName>Ritorno.Al.Futuro.1-iTALiAN.DvDRip</IdName>
 				<StartDate>2017-02-28</StartDate>
 				<StartTime>20:26:51</StartTime>
@@ -105,7 +66,7 @@
 					<Description>Ritorno  al  futuro  1</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="6">
 				<IdName>ImaginaryHeroes</IdName>
 				<StartDate>2017-02-28</StartDate>
 				<StartTime>22:18:05</StartTime>
@@ -118,12 +79,12 @@
 					<Description>Immaginary Heores</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="7">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-03-01</StartDate>
 				<StartTime>00:09:09</StartTime>
 				<EndDate>2017-03-01</EndDate>
-				<EndTime>00:09:16</EndTime>
+				<EndTime>00:09:15</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -131,10 +92,10 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="8">
 				<IdName>Filmato</IdName>
 				<StartDate>2017-03-01</StartDate>
-				<StartTime>00:09:16</StartTime>
+				<StartTime>00:09:15</StartTime>
 				<EndDate>2017-03-01</EndDate>
 				<EndTime>00:11:45</EndTime>
 				<ShortEventDescription>
@@ -144,7 +105,7 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="9">
 				<IdName>CassanoFestadelSantissimoCrocifisso</IdName>
 				<StartDate>2017-03-01</StartDate>
 				<StartTime>00:11:45</StartTime>
@@ -157,7 +118,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="10">
 				<IdName>Unosparonelbuio_mpeg2video</IdName>
 				<StartDate>2017-03-01</StartDate>
 				<StartTime>00:41:29</StartTime>
@@ -170,7 +131,7 @@
 					<Description>Uno  sparo  nel  buoio</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="11">
 				<IdName>TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-03-01</StartDate>
 				<StartTime>02:19:28</StartTime>
@@ -183,7 +144,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="12">
 				<IdName>SPOTDIABETE</IdName>
 				<StartDate>2017-03-01</StartDate>
 				<StartTime>02:29:25</StartTime>
@@ -196,7 +157,7 @@
 					<Description>spot diabete</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="13">
 				<IdName>minispotapplicazione</IdName>
 				<StartDate>2017-03-01</StartDate>
 				<StartTime>02:29:55</StartTime>
@@ -209,7 +170,7 @@
 					<Description>SPOTAPP</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="14">
 				<IdName>TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-03-01</StartDate>
 				<StartTime>02:30:06</StartTime>
@@ -222,7 +183,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="15">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2017-03-01</StartDate>
 				<StartTime>02:40:11</StartTime>
@@ -235,7 +196,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="16">
 				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
 				<StartDate>2017-03-01</StartDate>
 				<StartTime>02:40:18</StartTime>
@@ -248,7 +209,7 @@
 					<Description>BELLEZZE SULLA SPIAGGIA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="17">
 				<IdName>TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-03-01</StartDate>
 				<StartTime>04:03:27</StartTime>
@@ -261,7 +222,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="21">
+			<Event id="18">
 				<IdName>SPOTDIABETE</IdName>
 				<StartDate>2017-03-01</StartDate>
 				<StartTime>04:13:32</StartTime>
@@ -274,7 +235,7 @@
 					<Description>spot diabete</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="22">
+			<Event id="19">
 				<IdName>GERACE-Cittàmillenaria</IdName>
 				<StartDate>2017-03-01</StartDate>
 				<StartTime>04:14:02</StartTime>
@@ -287,7 +248,7 @@
 					<Description>GERACECITTAMILLENARIA SPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="23">
+			<Event id="20">
 				<IdName>benessere_20150512_50742</IdName>
 				<StartDate>2017-03-01</StartDate>
 				<StartTime>04:15:07</StartTime>
@@ -300,7 +261,7 @@
 					<Description>benessere</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="24">
+			<Event id="21">
 				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
 				<StartDate>2017-03-01</StartDate>
 				<StartTime>04:16:10</StartTime>
@@ -313,7 +274,7 @@
 					<Description>CRASH CONTATTO  FINALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="25">
+			<Event id="22">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2017-03-01</StartDate>
 				<StartTime>06:04:41</StartTime>
@@ -326,12 +287,12 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="26">
+			<Event id="23">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-03-01</StartDate>
 				<StartTime>06:04:57</StartTime>
 				<EndDate>2017-03-01</EndDate>
-				<EndTime>06:05:04</EndTime>
+				<EndTime>06:05:03</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -339,10 +300,10 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="27">
+			<Event id="24">
 				<IdName>SPOTDIABETE</IdName>
 				<StartDate>2017-03-01</StartDate>
-				<StartTime>06:05:04</StartTime>
+				<StartTime>06:05:03</StartTime>
 				<EndDate>2017-03-01</EndDate>
 				<EndTime>06:05:33</EndTime>
 				<ShortEventDescription>
@@ -352,7 +313,7 @@
 					<Description>spot diabete</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="28">
+			<Event id="25">
 				<IdName>Gerace</IdName>
 				<StartDate>2017-03-01</StartDate>
 				<StartTime>06:05:33</StartTime>
