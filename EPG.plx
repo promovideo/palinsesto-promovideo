@@ -1,6 +1,6 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-03/03/2017	08:49:15	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	documentari
-03/03/2017	09:41:25	INNACaliente(OFFICIALVIDEO)	Caliente	Inna	00:03:21	162	
+03/03/2017	17:04:28	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	documentari
+03/03/2017	17:56:37	INNACaliente(OFFICIALVIDEO)	Caliente	Inna	00:03:21	162	
 20/03/2017	06:00:00	AllexinnoStarchildSenorita_mpeg2video(1)	Senorita	Alexino	00:03:37	81	videoclip
 20/03/2017	06:03:37	MAXPEZZALIECCOTI	Eccoti	Max Pezzali	00:04:05	81	videoclip
 20/03/2017	06:07:42	MV_2015_p01	Sconosciuto	MV_2015_p01	00:15:27	81	videoclip
