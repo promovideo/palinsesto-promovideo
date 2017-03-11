@@ -2,45 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>agrisapori617x12-6-15</IdName>
-				<StartDate>2017-03-11</StartDate>
-				<StartTime>05:51:31</StartTime>
-				<EndDate>2017-03-11</EndDate>
-				<EndTime>06:16:23</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>AGRISAPORI</Name>
-					<Description>AGRISAPORI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>SPOTDIABETE</IdName>
-				<StartDate>2017-03-11</StartDate>
-				<StartTime>06:16:23</StartTime>
-				<EndDate>2017-03-11</EndDate>
-				<EndTime>06:16:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT DIABETE</Name>
-					<Description>spot diabete</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>Gerace</IdName>
-				<StartDate>2017-03-11</StartDate>
-				<StartTime>06:16:53</StartTime>
-				<EndDate>2017-03-11</EndDate>
-				<EndTime>06:22:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GERACE</Name>
-					<Description>GERACE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
 				<IdName>TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-03-11</StartDate>
 				<StartTime>06:22:54</StartTime>
@@ -53,7 +14,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="2">
 				<IdName>TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-03-11</StartDate>
 				<StartTime>06:32:59</StartTime>
