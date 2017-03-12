@@ -1,8 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-12/03/2017	17:16:14	ArrivaDurangopagaomuori19711°t.	Arriva Durango paga o muori1971 1°t.	Arriva Durango paga o muori1971  1°t.	00:39:33	1	Film
-12/03/2017	17:55:48	IVisigoti-popolazionibarbare	Sconosciuto	Nuovo File	00:43:46	0	
-12/03/2017	18:39:34	SPOTDIABETE	SPOT DIABETE	spot diabete	00:00:29	11	spot
-12/03/2017	18:40:04	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 12/03/2017	18:40:11	ChiedimiSeSonoFelice_mpeg2video	CHIEDIMI SE SONO  FELICE	CHIEDIMI SE SONO  FELICE	01:36:35	1	Film
 12/03/2017	20:16:46	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
 12/03/2017	20:26:51	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
