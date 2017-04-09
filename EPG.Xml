@@ -2,24 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2017-04-09</StartDate>
-				<StartTime>06:02:28</StartTime>
-				<EndDate>2017-04-09</EndDate>
-				<EndTime>06:12:34</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
 				<IdName>agrisapori617x12-6-15</IdName>
 				<StartDate>2017-04-09</StartDate>
-				<StartTime>06:12:34</StartTime>
+				<StartTime>06:12:01</StartTime>
 				<EndDate>2017-04-09</EndDate>
-				<EndTime>06:37:25</EndTime>
+				<EndTime>06:36:52</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -27,12 +14,12 @@
 					<Description>AGRISAPORI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="3">
+			<Event id="2">
 				<IdName>SPOTDIABETE</IdName>
 				<StartDate>2017-04-09</StartDate>
-				<StartTime>06:37:25</StartTime>
+				<StartTime>06:36:52</StartTime>
 				<EndDate>2017-04-09</EndDate>
-				<EndTime>06:37:55</EndTime>
+				<EndTime>06:37:22</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -40,12 +27,12 @@
 					<Description>spot diabete</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="3">
 				<IdName>TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-04-09</StartDate>
-				<StartTime>06:37:55</StartTime>
+				<StartTime>06:37:22</StartTime>
 				<EndDate>2017-04-09</EndDate>
-				<EndTime>06:47:52</EndTime>
+				<EndTime>06:47:20</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
