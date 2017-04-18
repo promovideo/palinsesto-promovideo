@@ -2,24 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>TOTO'CONTROIQUATTRO</IdName>
-				<StartDate>2017-04-18</StartDate>
-				<StartTime>17:47:23</StartTime>
-				<EndDate>2017-04-18</EndDate>
-				<EndTime>19:21:56</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
 				<IdName>Scuoladipolizia6_mpeg2video</IdName>
 				<StartDate>2017-04-18</StartDate>
-				<StartTime>19:21:56</StartTime>
+				<StartTime>19:21:15</StartTime>
 				<EndDate>2017-04-18</EndDate>
-				<EndTime>20:41:51</EndTime>
+				<EndTime>20:41:10</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -27,12 +14,25 @@
 					<Description>Scuola d i polizia 6</Description>
 				</ShortEventDescription>
 			</Event>
+			<Event id="2">
+				<IdName>MilleVocibrasiliane-TerzapuntataBrasile_con_logo</IdName>
+				<StartDate>2017-04-18</StartDate>
+				<StartTime>20:41:10</StartTime>
+				<EndDate>2017-04-18</EndDate>
+				<EndTime>21:37:42</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>MILLE VOCI 3‡P. BRASILANE 2017</Name>
+					<Description>MILLE VOCI BRASILIANE 2017</Description>
+				</ShortEventDescription>
+			</Event>
 			<Event id="3">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-04-18</StartDate>
-				<StartTime>20:41:51</StartTime>
+				<StartTime>21:37:42</StartTime>
 				<EndDate>2017-04-18</EndDate>
-				<EndTime>20:41:58</EndTime>
+				<EndTime>21:37:49</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -43,9 +43,9 @@
 			<Event id="4">
 				<IdName>UnpescedinomeWanda_mpeg2video</IdName>
 				<StartDate>2017-04-18</StartDate>
-				<StartTime>20:41:58</StartTime>
+				<StartTime>21:37:49</StartTime>
 				<EndDate>2017-04-18</EndDate>
-				<EndTime>22:25:33</EndTime>
+				<EndTime>23:21:24</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -56,9 +56,9 @@
 			<Event id="5">
 				<IdName>TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-04-18</StartDate>
-				<StartTime>22:25:33</StartTime>
+				<StartTime>23:21:24</StartTime>
 				<EndDate>2017-04-18</EndDate>
-				<EndTime>22:35:39</EndTime>
+				<EndTime>23:31:30</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -69,9 +69,9 @@
 			<Event id="6">
 				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
 				<StartDate>2017-04-18</StartDate>
-				<StartTime>22:35:39</StartTime>
-				<EndDate>2017-04-18</EndDate>
-				<EndTime>23:27:44</EndTime>
+				<StartTime>23:31:30</StartTime>
+				<EndDate>2017-04-19</EndDate>
+				<EndTime>00:23:35</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -81,10 +81,10 @@
 			</Event>
 			<Event id="7">
 				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2017-04-18</StartDate>
-				<StartTime>23:27:44</StartTime>
-				<EndDate>2017-04-18</EndDate>
-				<EndTime>23:27:51</EndTime>
+				<StartDate>2017-04-19</StartDate>
+				<StartTime>00:23:35</StartTime>
+				<EndDate>2017-04-19</EndDate>
+				<EndTime>00:23:42</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -94,10 +94,10 @@
 			</Event>
 			<Event id="8">
 				<IdName>MontaltoUffugoFestadelgranosull'Aia</IdName>
-				<StartDate>2017-04-18</StartDate>
-				<StartTime>23:27:51</StartTime>
-				<EndDate>2017-04-18</EndDate>
-				<EndTime>23:42:20</EndTime>
+				<StartDate>2017-04-19</StartDate>
+				<StartTime>00:23:42</StartTime>
+				<EndDate>2017-04-19</EndDate>
+				<EndTime>00:38:11</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -106,24 +106,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="9">
-				<IdName>PreparazionedelcuculodiPasqua</IdName>
-				<StartDate>2017-04-18</StartDate>
-				<StartTime>23:42:20</StartTime>
-				<EndDate>2017-04-18</EndDate>
-				<EndTime>23:51:19</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>FESTA MADONNA DELLE GALLINE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
 				<IdName>Filmato</IdName>
-				<StartDate>2017-04-18</StartDate>
-				<StartTime>23:51:19</StartTime>
-				<EndDate>2017-04-18</EndDate>
-				<EndTime>23:53:49</EndTime>
+				<StartDate>2017-04-19</StartDate>
+				<StartTime>00:38:11</StartTime>
+				<EndDate>2017-04-19</EndDate>
+				<EndTime>00:40:41</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -131,12 +118,25 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
+			<Event id="10">
+				<IdName>Confrontata2017</IdName>
+				<StartDate>2017-04-19</StartDate>
+				<StartTime>00:40:41</StartTime>
+				<EndDate>2017-04-19</EndDate>
+				<EndTime>00:43:26</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
 			<Event id="11">
 				<IdName>Gerace</IdName>
-				<StartDate>2017-04-18</StartDate>
-				<StartTime>23:53:49</StartTime>
-				<EndDate>2017-04-18</EndDate>
-				<EndTime>23:59:50</EndTime>
+				<StartDate>2017-04-19</StartDate>
+				<StartTime>00:43:26</StartTime>
+				<EndDate>2017-04-19</EndDate>
+				<EndTime>00:49:27</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -146,10 +146,10 @@
 			</Event>
 			<Event id="12">
 				<IdName>TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2017-04-18</StartDate>
-				<StartTime>23:59:50</StartTime>
+				<StartDate>2017-04-19</StartDate>
+				<StartTime>00:49:27</StartTime>
 				<EndDate>2017-04-19</EndDate>
-				<EndTime>00:09:47</EndTime>
+				<EndTime>00:59:24</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -160,9 +160,9 @@
 			<Event id="13">
 				<IdName>inItalia_20150909_53553</IdName>
 				<StartDate>2017-04-19</StartDate>
-				<StartTime>00:09:47</StartTime>
+				<StartTime>00:59:24</StartTime>
 				<EndDate>2017-04-19</EndDate>
-				<EndTime>00:11:46</EndTime>
+				<EndTime>01:01:23</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -173,9 +173,9 @@
 			<Event id="14">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2017-04-19</StartDate>
-				<StartTime>00:11:46</StartTime>
+				<StartTime>01:01:23</StartTime>
 				<EndDate>2017-04-19</EndDate>
-				<EndTime>00:11:52</EndTime>
+				<EndTime>01:01:30</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -186,9 +186,9 @@
 			<Event id="15">
 				<IdName>SPOTDIABETE</IdName>
 				<StartDate>2017-04-19</StartDate>
-				<StartTime>00:11:52</StartTime>
+				<StartTime>01:01:30</StartTime>
 				<EndDate>2017-04-19</EndDate>
-				<EndTime>00:12:22</EndTime>
+				<EndTime>01:01:59</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -199,9 +199,9 @@
 			<Event id="16">
 				<IdName>minispotapplicazione</IdName>
 				<StartDate>2017-04-19</StartDate>
-				<StartTime>00:12:22</StartTime>
+				<StartTime>01:01:59</StartTime>
 				<EndDate>2017-04-19</EndDate>
-				<EndTime>00:12:33</EndTime>
+				<EndTime>01:02:10</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -212,9 +212,9 @@
 			<Event id="17">
 				<IdName>TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-04-19</StartDate>
-				<StartTime>00:12:33</StartTime>
+				<StartTime>01:02:10</StartTime>
 				<EndDate>2017-04-19</EndDate>
-				<EndTime>00:22:38</EndTime>
+				<EndTime>01:12:16</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -225,9 +225,9 @@
 			<Event id="18">
 				<IdName>SPOTDIABETE</IdName>
 				<StartDate>2017-04-19</StartDate>
-				<StartTime>00:22:38</StartTime>
+				<StartTime>01:12:16</StartTime>
 				<EndDate>2017-04-19</EndDate>
-				<EndTime>00:23:08</EndTime>
+				<EndTime>01:12:45</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -238,9 +238,9 @@
 			<Event id="19">
 				<IdName>Papadiventamamma_mpeg2video</IdName>
 				<StartDate>2017-04-19</StartDate>
-				<StartTime>00:23:08</StartTime>
+				<StartTime>01:12:45</StartTime>
 				<EndDate>2017-04-19</EndDate>
-				<EndTime>01:43:31</EndTime>
+				<EndTime>02:33:08</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -251,9 +251,9 @@
 			<Event id="20">
 				<IdName>AvventuraaCapri_mpeg2video</IdName>
 				<StartDate>2017-04-19</StartDate>
-				<StartTime>01:43:31</StartTime>
+				<StartTime>02:33:08</StartTime>
 				<EndDate>2017-04-19</EndDate>
-				<EndTime>03:06:35</EndTime>
+				<EndTime>03:56:12</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -264,9 +264,9 @@
 			<Event id="21">
 				<IdName>TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-04-19</StartDate>
-				<StartTime>03:06:35</StartTime>
+				<StartTime>03:56:12</StartTime>
 				<EndDate>2017-04-19</EndDate>
-				<EndTime>03:16:40</EndTime>
+				<EndTime>04:06:17</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -277,9 +277,9 @@
 			<Event id="22">
 				<IdName>GERACE-Citt‡millenaria</IdName>
 				<StartDate>2017-04-19</StartDate>
-				<StartTime>03:16:40</StartTime>
+				<StartTime>04:06:17</StartTime>
 				<EndDate>2017-04-19</EndDate>
-				<EndTime>03:17:45</EndTime>
+				<EndTime>04:07:22</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -290,9 +290,9 @@
 			<Event id="23">
 				<IdName>TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-04-19</StartDate>
-				<StartTime>03:17:45</StartTime>
+				<StartTime>04:07:22</StartTime>
 				<EndDate>2017-04-19</EndDate>
-				<EndTime>03:27:50</EndTime>
+				<EndTime>04:17:28</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -303,9 +303,9 @@
 			<Event id="24">
 				<IdName>benessere_20150512_50742</IdName>
 				<StartDate>2017-04-19</StartDate>
-				<StartTime>03:27:50</StartTime>
+				<StartTime>04:17:28</StartTime>
 				<EndDate>2017-04-19</EndDate>
-				<EndTime>03:28:53</EndTime>
+				<EndTime>04:18:30</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -316,9 +316,9 @@
 			<Event id="25">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2017-04-19</StartDate>
-				<StartTime>03:28:53</StartTime>
+				<StartTime>04:18:30</StartTime>
 				<EndDate>2017-04-19</EndDate>
-				<EndTime>03:29:09</EndTime>
+				<EndTime>04:18:46</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -329,9 +329,9 @@
 			<Event id="26">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-04-19</StartDate>
-				<StartTime>03:29:09</StartTime>
+				<StartTime>04:18:46</StartTime>
 				<EndDate>2017-04-19</EndDate>
-				<EndTime>03:29:15</EndTime>
+				<EndTime>04:18:53</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -342,9 +342,9 @@
 			<Event id="27">
 				<IdName>TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-04-19</StartDate>
-				<StartTime>03:29:15</StartTime>
+				<StartTime>04:18:53</StartTime>
 				<EndDate>2017-04-19</EndDate>
-				<EndTime>03:39:21</EndTime>
+				<EndTime>04:28:58</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -355,9 +355,9 @@
 			<Event id="28">
 				<IdName>agrisapori617x12-6-15</IdName>
 				<StartDate>2017-04-19</StartDate>
-				<StartTime>03:39:21</StartTime>
+				<StartTime>04:28:58</StartTime>
 				<EndDate>2017-04-19</EndDate>
-				<EndTime>04:04:12</EndTime>
+				<EndTime>04:53:50</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -368,9 +368,9 @@
 			<Event id="29">
 				<IdName>SPOTDIABETE</IdName>
 				<StartDate>2017-04-19</StartDate>
-				<StartTime>04:04:12</StartTime>
+				<StartTime>04:53:50</StartTime>
 				<EndDate>2017-04-19</EndDate>
-				<EndTime>04:04:42</EndTime>
+				<EndTime>04:54:19</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -381,9 +381,9 @@
 			<Event id="30">
 				<IdName>AvventuraaCapri_mpeg2video</IdName>
 				<StartDate>2017-04-19</StartDate>
-				<StartTime>04:04:42</StartTime>
+				<StartTime>04:54:19</StartTime>
 				<EndDate>2017-04-19</EndDate>
-				<EndTime>05:27:46</EndTime>
+				<EndTime>06:17:23</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -394,9 +394,9 @@
 			<Event id="31">
 				<IdName>TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-04-19</StartDate>
-				<StartTime>05:27:46</StartTime>
+				<StartTime>06:17:23</StartTime>
 				<EndDate>2017-04-19</EndDate>
-				<EndTime>05:37:43</EndTime>
+				<EndTime>06:27:20</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -407,9 +407,9 @@
 			<Event id="32">
 				<IdName>MV_2015_p02</IdName>
 				<StartDate>2017-04-19</StartDate>
-				<StartTime>05:37:43</StartTime>
+				<StartTime>06:27:20</StartTime>
 				<EndDate>2017-04-19</EndDate>
-				<EndTime>05:48:17</EndTime>
+				<EndTime>06:37:55</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -420,9 +420,9 @@
 			<Event id="33">
 				<IdName>OSPEDALEGERACEcopiaottima_mpeg2video</IdName>
 				<StartDate>2017-04-19</StartDate>
-				<StartTime>05:48:17</StartTime>
+				<StartTime>06:37:55</StartTime>
 				<EndDate>2017-04-19</EndDate>
-				<EndTime>06:01:03</EndTime>
+				<EndTime>06:50:40</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
