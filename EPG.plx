@@ -1,9 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-24/04/2017	16:58:56	Bowfinger_2_mpeg2video	Sconosciuto	BOWFINGER 2 P	00:48:07	1	Film
-24/04/2017	17:47:03	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-24/04/2017	17:47:19	ZAGORTVSatanik19671°t.	ZAGORTV SATANIK 1° T	ZAGORTV SATANIK 1° T	00:47:05	1	Film
-24/04/2017	18:34:24	ZAGORTVSatanik19672°t.	ZAGOR TV SATANIK 2° T	ZAGOR TV SATANIK 2° T	00:36:09	1	Film
-24/04/2017	19:10:33	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
 24/04/2017	19:11:13	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
 24/04/2017	21:02:55	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
 24/04/2017	23:05:05	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
@@ -17,9 +12,9 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 25/04/2017	03:56:22	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 25/04/2017	03:56:29	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
 25/04/2017	03:56:40	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-25/04/2017	03:56:47	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
-25/04/2017	05:19:56	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
-25/04/2017	05:20:59	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
+25/04/2017	03:56:46	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
+25/04/2017	05:19:55	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
+25/04/2017	05:20:58	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
 25/04/2017	06:13:04	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
 25/04/2017	08:01:35	ZAPPINGTV_CARTONE_005_OK	Sconosciuto	Nuovo File	00:09:33	0	
 25/04/2017	08:11:09	Gerace	GERACE	GERACE	00:06:01	71	documentari
