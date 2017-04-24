@@ -2,180 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
-				<StartDate>2017-04-23</StartDate>
-				<StartTime>21:03:14</StartTime>
-				<EndDate>2017-04-23</EndDate>
-				<EndTime>21:55:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ANIMALI SERPENTI</Name>
-					<Description>ANIMALI SERPENTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2017-04-23</StartDate>
-				<StartTime>21:55:20</StartTime>
-				<EndDate>2017-04-23</EndDate>
-				<EndTime>21:55:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>Filmato</IdName>
-				<StartDate>2017-04-23</StartDate>
-				<StartTime>21:55:26</StartTime>
-				<EndDate>2017-04-23</EndDate>
-				<EndTime>21:57:56</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GERACE IN 2 MINUTI</Name>
-					<Description>GERACE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
-				<StartDate>2017-04-23</StartDate>
-				<StartTime>21:57:56</StartTime>
-				<EndDate>2017-04-23</EndDate>
-				<EndTime>23:21:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>BELLEZZE SULLA SPIAGGIA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
-				<IdName>TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2017-04-23</StartDate>
-				<StartTime>23:21:05</StartTime>
-				<EndDate>2017-04-23</EndDate>
-				<EndTime>23:31:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
-				<IdName>inItalia_20150909_53553</IdName>
-				<StartDate>2017-04-23</StartDate>
-				<StartTime>23:31:02</StartTime>
-				<EndDate>2017-04-23</EndDate>
-				<EndTime>23:33:01</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2017-04-23</StartDate>
-				<StartTime>23:33:01</StartTime>
-				<EndDate>2017-04-23</EndDate>
-				<EndTime>23:33:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="8">
-				<IdName>SPOTDIABETE</IdName>
-				<StartDate>2017-04-23</StartDate>
-				<StartTime>23:33:08</StartTime>
-				<EndDate>2017-04-23</EndDate>
-				<EndTime>23:33:37</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT DIABETE</Name>
-					<Description>spot diabete</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="9">
-				<IdName>minispotapplicazione</IdName>
-				<StartDate>2017-04-23</StartDate>
-				<StartTime>23:33:37</StartTime>
-				<EndDate>2017-04-23</EndDate>
-				<EndTime>23:33:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTAPP</Name>
-					<Description>SPOTAPP</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
-				<IdName>TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2017-04-23</StartDate>
-				<StartTime>23:33:48</StartTime>
-				<EndDate>2017-04-23</EndDate>
-				<EndTime>23:43:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="11">
-				<IdName>SPOTDIABETE</IdName>
-				<StartDate>2017-04-23</StartDate>
-				<StartTime>23:43:53</StartTime>
-				<EndDate>2017-04-23</EndDate>
-				<EndTime>23:44:23</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT DIABETE</Name>
-					<Description>spot diabete</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="12">
-				<IdName>Papadiventamamma_mpeg2video</IdName>
-				<StartDate>2017-04-23</StartDate>
-				<StartTime>23:44:23</StartTime>
-				<EndDate>2017-04-24</EndDate>
-				<EndTime>01:04:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PAPA  DIVENTA  MAMMA</Name>
-					<Description>PAPA  DIVENTA  MAMMA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="13">
-				<IdName>AttackForce</IdName>
-				<StartDate>2017-04-24</StartDate>
-				<StartTime>01:04:46</StartTime>
-				<EndDate>2017-04-24</EndDate>
-				<EndTime>02:35:21</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ATTACK FORCR </Name>
-					<Description>ATTACK FORCE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="14">
 				<IdName>AvventuraaCapri_mpeg2video</IdName>
 				<StartDate>2017-04-24</StartDate>
-				<StartTime>02:35:21</StartTime>
+				<StartTime>02:34:17</StartTime>
 				<EndDate>2017-04-24</EndDate>
-				<EndTime>03:58:25</EndTime>
+				<EndTime>03:57:21</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -183,12 +14,12 @@
 					<Description>AVVENTURA A CAPRI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="2">
 				<IdName>Papadiventamamma_mpeg2video</IdName>
 				<StartDate>2017-04-24</StartDate>
-				<StartTime>03:58:25</StartTime>
+				<StartTime>03:57:21</StartTime>
 				<EndDate>2017-04-24</EndDate>
-				<EndTime>05:18:48</EndTime>
+				<EndTime>05:17:44</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
