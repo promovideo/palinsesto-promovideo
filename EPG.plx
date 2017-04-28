@@ -1,7 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-28/04/2017	19:00:29	ZAGORTVSatanik19672°t.	ZAGOR TV SATANIK 2° T	ZAGOR TV SATANIK 2° T	00:36:09	1	Film
-28/04/2017	19:36:38	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-28/04/2017	19:37:19	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
 28/04/2017	21:29:01	TRAILERPARTE7DOPOLE22,30	Sconosciuto	Nuovo File	00:09:50	0	
 28/04/2017	21:38:52	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
 28/04/2017	23:41:01	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
