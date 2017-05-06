@@ -2,37 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>AttackForce</IdName>
-				<StartDate>2017-05-06</StartDate>
-				<StartTime>17:31:49</StartTime>
-				<EndDate>2017-05-06</EndDate>
-				<EndTime>19:02:24</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ATTACK FORCR </Name>
-					<Description>ATTACK FORCE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2017-05-06</StartDate>
-				<StartTime>19:02:24</StartTime>
-				<EndDate>2017-05-06</EndDate>
-				<EndTime>19:02:31</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
 				<IdName>LibrocasinoMacrì_mpeg2video</IdName>
 				<StartDate>2017-05-06</StartDate>
-				<StartTime>19:02:31</StartTime>
+				<StartTime>19:02:26</StartTime>
 				<EndDate>2017-05-06</EndDate>
-				<EndTime>20:07:34</EndTime>
+				<EndTime>20:07:29</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -40,12 +14,12 @@
 					<Description>LIBRO CASINO MACRI'</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="2">
 				<IdName>Fantozzi-GrandiMagazzini</IdName>
 				<StartDate>2017-05-06</StartDate>
-				<StartTime>20:07:34</StartTime>
+				<StartTime>20:07:29</StartTime>
 				<EndDate>2017-05-06</EndDate>
-				<EndTime>21:58:10</EndTime>
+				<EndTime>21:58:05</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -53,77 +27,12 @@
 					<Description>GRANDI MAGAZZINI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2017-05-06</StartDate>
-				<StartTime>21:58:10</StartTime>
-				<EndDate>2017-05-06</EndDate>
-				<EndTime>21:58:17</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
-				<IdName>Filmato</IdName>
-				<StartDate>2017-05-06</StartDate>
-				<StartTime>21:58:17</StartTime>
-				<EndDate>2017-05-06</EndDate>
-				<EndTime>22:00:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GERACE IN 2 MINUTI</Name>
-					<Description>GERACE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2017-05-06</StartDate>
-				<StartTime>22:00:46</StartTime>
-				<EndDate>2017-05-06</EndDate>
-				<EndTime>22:00:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="8">
-				<IdName>minispotapplicazione</IdName>
-				<StartDate>2017-05-06</StartDate>
-				<StartTime>22:00:53</StartTime>
-				<EndDate>2017-05-06</EndDate>
-				<EndTime>22:01:04</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTAPP</Name>
-					<Description>SPOTAPP</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="9">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2017-05-06</StartDate>
-				<StartTime>22:01:04</StartTime>
-				<EndDate>2017-05-06</EndDate>
-				<EndTime>22:01:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
+			<Event id="3">
 				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
 				<StartDate>2017-05-06</StartDate>
-				<StartTime>22:01:11</StartTime>
+				<StartTime>21:58:05</StartTime>
 				<EndDate>2017-05-06</EndDate>
-				<EndTime>23:24:20</EndTime>
+				<EndTime>23:21:14</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -131,12 +40,116 @@
 					<Description>BELLEZZE SULLA SPIAGGIA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
-				<IdName>benessere_20150512_50742</IdName>
+			<Event id="4">
+				<IdName>MISSARTESTV9PT</IdName>
 				<StartDate>2017-05-06</StartDate>
-				<StartTime>23:24:20</StartTime>
-				<EndDate>2017-05-06</EndDate>
-				<EndTime>23:25:23</EndTime>
+				<StartTime>23:21:14</StartTime>
+				<EndDate>2017-05-07</EndDate>
+				<EndTime>00:50:13</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="5">
+				<IdName>SPOTtraPROMOVIDEOTV7</IdName>
+				<StartDate>2017-05-07</StartDate>
+				<StartTime>00:50:13</StartTime>
+				<EndDate>2017-05-07</EndDate>
+				<EndTime>00:50:17</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>SPOTtraPROMOVIDEOTV7</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="6">
+				<IdName>capitani17-01</IdName>
+				<StartDate>2017-05-07</StartDate>
+				<StartTime>00:50:17</StartTime>
+				<EndDate>2017-05-07</EndDate>
+				<EndTime>01:23:30</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="7">
+				<IdName>SPOTtraPROMOVIDEOTV10</IdName>
+				<StartDate>2017-05-07</StartDate>
+				<StartTime>01:23:30</StartTime>
+				<EndDate>2017-05-07</EndDate>
+				<EndTime>01:23:34</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>SPOT PROMOVIDEOTV2</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="8">
+				<IdName>videomotori</IdName>
+				<StartDate>2017-05-07</StartDate>
+				<StartTime>01:23:34</StartTime>
+				<EndDate>2017-05-07</EndDate>
+				<EndTime>01:40:07</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="9">
+				<IdName>7PROMOVIDEOspot7</IdName>
+				<StartDate>2017-05-07</StartDate>
+				<StartTime>01:40:07</StartTime>
+				<EndDate>2017-05-07</EndDate>
+				<EndTime>01:40:14</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOT  PROMOVIDEOTV</Name>
+					<Description>SPOT PROMOVIDEOTV</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="10">
+				<IdName>minispotapplicazione</IdName>
+				<StartDate>2017-05-07</StartDate>
+				<StartTime>01:40:14</StartTime>
+				<EndDate>2017-05-07</EndDate>
+				<EndTime>01:40:25</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOTAPP</Name>
+					<Description>SPOTAPP</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="11">
+				<IdName>MISSARTESTV9PT</IdName>
+				<StartDate>2017-05-07</StartDate>
+				<StartTime>01:40:25</StartTime>
+				<EndDate>2017-05-07</EndDate>
+				<EndTime>03:09:24</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="12">
+				<IdName>benessere_20150512_50742</IdName>
+				<StartDate>2017-05-07</StartDate>
+				<StartTime>03:09:24</StartTime>
+				<EndDate>2017-05-07</EndDate>
+				<EndTime>03:10:27</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -144,51 +157,38 @@
 					<Description>benessere</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
-				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
-				<StartDate>2017-05-06</StartDate>
-				<StartTime>23:25:23</StartTime>
-				<EndDate>2017-05-07</EndDate>
-				<EndTime>00:17:28</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ANIMALI SERPENTI</Name>
-					<Description>ANIMALI SERPENTI</Description>
-				</ShortEventDescription>
-			</Event>
 			<Event id="13">
-				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
+				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2017-05-07</StartDate>
-				<StartTime>00:17:28</StartTime>
+				<StartTime>03:10:27</StartTime>
 				<EndDate>2017-05-07</EndDate>
-				<EndTime>02:05:59</EndTime>
+				<EndTime>03:10:42</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>CRASH CONTATTO   FINALE FISICO</Name>
-					<Description>CRASH CONTATTO  FINALE</Description>
+					<Name>ISCRIVITI CANALE YOU TUBE</Name>
+					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="14">
-				<IdName>DOCUMENTARIOAuschwitz</IdName>
+				<IdName>SPOTtraPROMOVIDEOTV4</IdName>
 				<StartDate>2017-05-07</StartDate>
-				<StartTime>02:05:59</StartTime>
+				<StartTime>03:10:42</StartTime>
 				<EndDate>2017-05-07</EndDate>
-				<EndTime>02:32:55</EndTime>
+				<EndTime>03:10:46</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Auschwitz</Name>
-					<Description>Auschwitz</Description>
+					<Name>Sconosciuto</Name>
+					<Description>SPOTtraPROMOVIDEOTV4</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="15">
-				<IdName>IlmegliodiMilleVoci2016_p02-daMilleVoci2016©(480p_25fps_H264-128kbit_AAC)</IdName>
+				<IdName>paesemio</IdName>
 				<StartDate>2017-05-07</StartDate>
-				<StartTime>02:32:55</StartTime>
+				<StartTime>03:10:46</StartTime>
 				<EndDate>2017-05-07</EndDate>
-				<EndTime>03:34:13</EndTime>
+				<EndTime>03:42:23</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -197,24 +197,63 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="16">
-				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
+				<IdName>spotDIGIII</IdName>
 				<StartDate>2017-05-07</StartDate>
-				<StartTime>03:34:13</StartTime>
+				<StartTime>03:42:23</StartTime>
 				<EndDate>2017-05-07</EndDate>
-				<EndTime>03:34:29</EndTime>
+				<EndTime>03:42:38</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>ISCRIVITI CANALE YOU TUBE</Name>
-					<Description>ISCRIVITI CANALE YOU TUBE</Description>
+					<Name>SPOT DIGII</Name>
+					<Description>SPOT PROMOVIDEO</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="17">
+				<IdName>bouquet21-14</IdName>
+				<StartDate>2017-05-07</StartDate>
+				<StartTime>03:42:38</StartTime>
+				<EndDate>2017-05-07</EndDate>
+				<EndTime>03:58:32</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="18">
+				<IdName>6PROMOVIDEOSPOT6</IdName>
+				<StartDate>2017-05-07</StartDate>
+				<StartTime>03:58:32</StartTime>
+				<EndDate>2017-05-07</EndDate>
+				<EndTime>03:58:39</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>6 SPOT PTOMOVIDEO</Name>
+					<Description>PROMOVIDEOSPOT 6</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="19">
+				<IdName>life3</IdName>
+				<StartDate>2017-05-07</StartDate>
+				<StartTime>03:58:39</StartTime>
+				<EndDate>2017-05-07</EndDate>
+				<EndTime>04:41:58</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="20">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-05-07</StartDate>
-				<StartTime>03:34:29</StartTime>
+				<StartTime>04:41:58</StartTime>
 				<EndDate>2017-05-07</EndDate>
-				<EndTime>03:34:35</EndTime>
+				<EndTime>04:42:05</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -222,64 +261,25 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
-				<IdName>_1779_Recanatese_Lunaametà</IdName>
-				<StartDate>2017-05-07</StartDate>
-				<StartTime>03:34:35</StartTime>
-				<EndDate>2017-05-07</EndDate>
-				<EndTime>03:42:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>RECANATESE 'LUNA A META'</Name>
-					<Description>RECANATESE  LUNA A METa'</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="19">
-				<IdName>calabriaricordi</IdName>
-				<StartDate>2017-05-07</StartDate>
-				<StartTime>03:42:53</StartTime>
-				<EndDate>2017-05-07</EndDate>
-				<EndTime>03:44:47</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CALABRIA RICORDI</Name>
-					<Description>CALABRIA RICORDI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="20">
-				<IdName>MilleVocinapoletane-Puntata01di02_Edizione2016©(468p_25fps_H264-128kbit_AAC)</IdName>
-				<StartDate>2017-05-07</StartDate>
-				<StartTime>03:44:47</StartTime>
-				<EndDate>2017-05-07</EndDate>
-				<EndTime>05:14:17</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>mille voci napoletane 1</Name>
-					<Description>mille    voci napoletane 1</Description>
-				</ShortEventDescription>
-			</Event>
 			<Event id="21">
-				<IdName>MESSADONFRANCOLABADESSAXREGIA</IdName>
+				<IdName>minispotapplicazione</IdName>
 				<StartDate>2017-05-07</StartDate>
-				<StartTime>05:14:17</StartTime>
+				<StartTime>04:42:05</StartTime>
 				<EndDate>2017-05-07</EndDate>
-				<EndTime>05:14:19</EndTime>
+				<EndTime>04:42:16</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>messa don franco Cattedrale</Name>
-					<Description>Messa Don Franco Gerace </Description>
+					<Name>SPOTAPP</Name>
+					<Description>SPOTAPP</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="22">
-				<IdName>ZAPPINGTV_CARTONE_005_OK</IdName>
+				<IdName>viaggione2-01</IdName>
 				<StartDate>2017-05-07</StartDate>
-				<StartTime>05:14:19</StartTime>
+				<StartTime>04:42:16</StartTime>
 				<EndDate>2017-05-07</EndDate>
-				<EndTime>05:23:53</EndTime>
+				<EndTime>04:58:24</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -288,24 +288,24 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="23">
-				<IdName>Gerace</IdName>
+				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-05-07</StartDate>
-				<StartTime>05:23:53</StartTime>
+				<StartTime>04:58:24</StartTime>
 				<EndDate>2017-05-07</EndDate>
-				<EndTime>05:29:54</EndTime>
+				<EndTime>04:58:31</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>GERACE</Name>
-					<Description>GERACE</Description>
+					<Name>SPOT  PROMOVIDEOTV</Name>
+					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="24">
-				<IdName>agrisapori673x14_8_16</IdName>
+				<IdName>capitani17-01</IdName>
 				<StartDate>2017-05-07</StartDate>
-				<StartTime>05:29:54</StartTime>
+				<StartTime>04:58:31</StartTime>
 				<EndDate>2017-05-07</EndDate>
-				<EndTime>05:54:08</EndTime>
+				<EndTime>05:31:44</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -314,37 +314,37 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="25">
-				<IdName>Simmo'eNapulepaisà,GraziaGuerra-daMilleVocinapoletane2016©(1080p_25fps_H264-128kbit_AAC)</IdName>
+				<IdName>Filmato</IdName>
 				<StartDate>2017-05-07</StartDate>
-				<StartTime>05:54:08</StartTime>
+				<StartTime>05:31:44</StartTime>
 				<EndDate>2017-05-07</EndDate>
-				<EndTime>05:57:32</EndTime>
+				<EndTime>05:34:13</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>simmo e Napule Paesà</Name>
-					<Description>Nuovo File</Description>
+					<Name>GERACE IN 2 MINUTI</Name>
+					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="26">
-				<IdName>MilleVoci_2016_p03</IdName>
+				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2017-05-07</StartDate>
-				<StartTime>05:57:32</StartTime>
+				<StartTime>05:34:13</StartTime>
 				<EndDate>2017-05-07</EndDate>
-				<EndTime>05:59:45</EndTime>
+				<EndTime>05:34:29</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>ISCRIVITI CANALE YOU TUBE</Name>
+					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="27">
-				<IdName>MediciinAfricaLocrideseratadisolidarietà(byEL)</IdName>
+				<IdName>truccone3-01</IdName>
 				<StartDate>2017-05-07</StartDate>
-				<StartTime>05:59:45</StartTime>
+				<StartTime>05:34:29</StartTime>
 				<EndDate>2017-05-07</EndDate>
-				<EndTime>06:10:17</EndTime>
+				<EndTime>05:54:40</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -353,11 +353,167 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="28">
+				<IdName>minispotapplicazione</IdName>
+				<StartDate>2017-05-07</StartDate>
+				<StartTime>05:54:40</StartTime>
+				<EndDate>2017-05-07</EndDate>
+				<EndTime>05:54:50</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOTAPP</Name>
+					<Description>SPOTAPP</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="29">
+				<IdName>7PROMOVIDEOspot7</IdName>
+				<StartDate>2017-05-07</StartDate>
+				<StartTime>05:54:50</StartTime>
+				<EndDate>2017-05-07</EndDate>
+				<EndTime>05:54:57</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOT  PROMOVIDEOTV</Name>
+					<Description>SPOT PROMOVIDEOTV</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="30">
+				<IdName>_1779_Recanatese_Lunaametà</IdName>
+				<StartDate>2017-05-07</StartDate>
+				<StartTime>05:54:57</StartTime>
+				<EndDate>2017-05-07</EndDate>
+				<EndTime>06:03:15</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>RECANATESE 'LUNA A META'</Name>
+					<Description>RECANATESE  LUNA A METa'</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="31">
+				<IdName>calabriaricordi</IdName>
+				<StartDate>2017-05-07</StartDate>
+				<StartTime>06:03:15</StartTime>
+				<EndDate>2017-05-07</EndDate>
+				<EndTime>06:05:09</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>CALABRIA RICORDI</Name>
+					<Description>CALABRIA RICORDI</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="32">
+				<IdName>MilleVocinapoletane-Puntata01di02_Edizione2016©(468p_25fps_H264-128kbit_AAC)</IdName>
+				<StartDate>2017-05-07</StartDate>
+				<StartTime>06:05:09</StartTime>
+				<EndDate>2017-05-07</EndDate>
+				<EndTime>07:34:39</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>mille voci napoletane 1</Name>
+					<Description>mille    voci napoletane 1</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="33">
+				<IdName>MESSADONFRANCOLABADESSAXREGIA</IdName>
+				<StartDate>2017-05-07</StartDate>
+				<StartTime>07:34:39</StartTime>
+				<EndDate>2017-05-07</EndDate>
+				<EndTime>07:34:41</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>messa don franco Cattedrale</Name>
+					<Description>Messa Don Franco Gerace </Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="34">
+				<IdName>ZAPPINGTV_CARTONE_005_OK</IdName>
+				<StartDate>2017-05-07</StartDate>
+				<StartTime>07:34:41</StartTime>
+				<EndDate>2017-05-07</EndDate>
+				<EndTime>07:44:15</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="35">
+				<IdName>Gerace</IdName>
+				<StartDate>2017-05-07</StartDate>
+				<StartTime>07:44:15</StartTime>
+				<EndDate>2017-05-07</EndDate>
+				<EndTime>07:50:16</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>GERACE</Name>
+					<Description>GERACE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="36">
+				<IdName>agrisapori673x14_8_16</IdName>
+				<StartDate>2017-05-07</StartDate>
+				<StartTime>07:50:16</StartTime>
+				<EndDate>2017-05-07</EndDate>
+				<EndTime>08:14:30</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="37">
+				<IdName>Simmo'eNapulepaisà,GraziaGuerra-daMilleVocinapoletane2016©(1080p_25fps_H264-128kbit_AAC)</IdName>
+				<StartDate>2017-05-07</StartDate>
+				<StartTime>08:14:30</StartTime>
+				<EndDate>2017-05-07</EndDate>
+				<EndTime>08:17:54</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>simmo e Napule Paesà</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="38">
+				<IdName>MilleVoci_2016_p03</IdName>
+				<StartDate>2017-05-07</StartDate>
+				<StartTime>08:17:54</StartTime>
+				<EndDate>2017-05-07</EndDate>
+				<EndTime>08:20:07</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="39">
+				<IdName>MediciinAfricaLocrideseratadisolidarietà(byEL)</IdName>
+				<StartDate>2017-05-07</StartDate>
+				<StartTime>08:20:07</StartTime>
+				<EndDate>2017-05-07</EndDate>
+				<EndTime>08:30:39</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="40">
 				<IdName>CONFERENZASINDACIX970K</IdName>
 				<StartDate>2017-05-07</StartDate>
-				<StartTime>06:10:17</StartTime>
+				<StartTime>08:30:39</StartTime>
 				<EndDate>2017-05-07</EndDate>
-				<EndTime>06:22:57</EndTime>
+				<EndTime>08:43:19</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
