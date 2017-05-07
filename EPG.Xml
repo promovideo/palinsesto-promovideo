@@ -2,58 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>MISSARTESTV9PT</IdName>
-				<StartDate>2017-05-07</StartDate>
-				<StartTime>18:52:40</StartTime>
-				<EndDate>2017-05-07</EndDate>
-				<EndTime>20:21:40</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>SPOTINTERPUBBLICITARI#3</IdName>
-				<StartDate>2017-05-07</StartDate>
-				<StartTime>20:21:40</StartTime>
-				<EndDate>2017-05-07</EndDate>
-				<EndTime>20:21:47</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>MilleVocibrasiliane-SecondapuntataBrasile_con_logo</IdName>
-				<StartDate>2017-05-07</StartDate>
-				<StartTime>20:21:47</StartTime>
-				<EndDate>2017-05-07</EndDate>
-				<EndTime>21:09:22</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
-				<StartDate>2017-05-07</StartDate>
-				<StartTime>21:09:22</StartTime>
-				<EndDate>2017-05-07</EndDate>
-				<EndTime>21:18:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
 				<IdName>FORMULAMOTORI2</IdName>
 				<StartDate>2017-05-07</StartDate>
 				<StartTime>21:18:30</StartTime>
@@ -66,25 +14,77 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
-				<IdName>MESSADONFRANCOLABADESSAXREGIA</IdName>
+			<Event id="2">
+				<IdName>INSEDGRATTERICZXTVSENZALOGO</IdName>
 				<StartDate>2017-05-07</StartDate>
 				<StartTime>21:42:29</StartTime>
 				<EndDate>2017-05-07</EndDate>
-				<EndTime>21:42:31</EndTime>
+				<EndTime>22:08:00</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>messa don franco Cattedrale</Name>
-					<Description>Messa Don Franco Gerace </Description>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="3">
+				<IdName>SanRocco2006</IdName>
+				<StartDate>2017-05-07</StartDate>
+				<StartTime>22:08:00</StartTime>
+				<EndDate>2017-05-07</EndDate>
+				<EndTime>22:24:49</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>S. ROCCO 2006</Name>
+					<Description>S.ROCCO 2006 GIOIOSA J</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="4">
+				<IdName>LaCompagniaDell'Anello</IdName>
+				<StartDate>2017-05-07</StartDate>
+				<StartTime>22:24:49</StartTime>
+				<EndDate>2017-05-08</EndDate>
+				<EndTime>01:44:45</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>La compagnia dell'anello </Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="5">
+				<IdName>MuseoEgiziodelCairo(parte1)(2)</IdName>
+				<StartDate>2017-05-08</StartDate>
+				<StartTime>01:44:45</StartTime>
+				<EndDate>2017-05-08</EndDate>
+				<EndTime>02:09:30</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>MUSEO EGIZIO DEL CAIRO 1^</Name>
+					<Description>MUSEO EGIZIODEL CAIRO 1^</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="6">
+				<IdName>X-Men</IdName>
+				<StartDate>2017-05-08</StartDate>
+				<StartTime>02:09:30</StartTime>
+				<EndDate>2017-05-08</EndDate>
+				<EndTime>03:49:32</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>X - MEN</Name>
+					<Description>X - MEN</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="7">
-				<IdName>INSEDGRATTERICZXTVSENZALOGO</IdName>
-				<StartDate>2017-05-07</StartDate>
-				<StartTime>21:42:31</StartTime>
-				<EndDate>2017-05-07</EndDate>
-				<EndTime>22:08:02</EndTime>
+				<IdName>bouquet21-14</IdName>
+				<StartDate>2017-05-08</StartDate>
+				<StartTime>03:49:32</StartTime>
+				<EndDate>2017-05-08</EndDate>
+				<EndTime>04:05:26</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -93,89 +93,24 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="8">
-				<IdName>SanRocco2006</IdName>
-				<StartDate>2017-05-07</StartDate>
-				<StartTime>22:08:02</StartTime>
-				<EndDate>2017-05-07</EndDate>
-				<EndTime>22:24:52</EndTime>
+				<IdName>MISSARTESTV9PT</IdName>
+				<StartDate>2017-05-08</StartDate>
+				<StartTime>04:05:26</StartTime>
+				<EndDate>2017-05-08</EndDate>
+				<EndTime>05:34:25</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>S. ROCCO 2006</Name>
-					<Description>S.ROCCO 2006 GIOIOSA J</Description>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="9">
-				<IdName>LaCompagniaDell'Anello</IdName>
-				<StartDate>2017-05-07</StartDate>
-				<StartTime>22:24:52</StartTime>
-				<EndDate>2017-05-08</EndDate>
-				<EndTime>01:44:47</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>La compagnia dell'anello </Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
-				<IdName>MuseoEgiziodelCairo(parte1)(2)</IdName>
-				<StartDate>2017-05-08</StartDate>
-				<StartTime>01:44:47</StartTime>
-				<EndDate>2017-05-08</EndDate>
-				<EndTime>02:09:32</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>MUSEO EGIZIO DEL CAIRO 1^</Name>
-					<Description>MUSEO EGIZIODEL CAIRO 1^</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="11">
-				<IdName>X-Men</IdName>
-				<StartDate>2017-05-08</StartDate>
-				<StartTime>02:09:32</StartTime>
-				<EndDate>2017-05-08</EndDate>
-				<EndTime>03:49:35</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>X - MEN</Name>
-					<Description>X - MEN</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="12">
-				<IdName>bouquet21-14</IdName>
-				<StartDate>2017-05-08</StartDate>
-				<StartTime>03:49:35</StartTime>
-				<EndDate>2017-05-08</EndDate>
-				<EndTime>04:05:28</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="13">
-				<IdName>MISSARTESTV9PT</IdName>
-				<StartDate>2017-05-08</StartDate>
-				<StartTime>04:05:28</StartTime>
-				<EndDate>2017-05-08</EndDate>
-				<EndTime>05:34:28</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="14">
 				<IdName>STILOELACATTOLICA</IdName>
 				<StartDate>2017-05-08</StartDate>
-				<StartTime>05:34:28</StartTime>
+				<StartTime>05:34:25</StartTime>
 				<EndDate>2017-05-08</EndDate>
-				<EndTime>05:41:42</EndTime>
+				<EndTime>05:41:40</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -183,12 +118,12 @@
 					<Description>Stilo e la  cattolica</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="10">
 				<IdName>Promo_01_MilleVoci_2015</IdName>
 				<StartDate>2017-05-08</StartDate>
-				<StartTime>05:41:42</StartTime>
+				<StartTime>05:41:40</StartTime>
 				<EndDate>2017-05-08</EndDate>
-				<EndTime>05:42:20</EndTime>
+				<EndTime>05:42:17</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -196,12 +131,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="11">
 				<IdName>_1720_Consulentefinanziario</IdName>
 				<StartDate>2017-05-08</StartDate>
-				<StartTime>05:42:20</StartTime>
+				<StartTime>05:42:17</StartTime>
 				<EndDate>2017-05-08</EndDate>
-				<EndTime>06:02:15</EndTime>
+				<EndTime>06:02:13</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -209,12 +144,12 @@
 					<Description>CONSULENTE FINANZIARIO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="12">
 				<IdName>truccone3-01</IdName>
 				<StartDate>2017-05-08</StartDate>
-				<StartTime>06:02:15</StartTime>
+				<StartTime>06:02:13</StartTime>
 				<EndDate>2017-05-08</EndDate>
-				<EndTime>06:22:26</EndTime>
+				<EndTime>06:22:23</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
