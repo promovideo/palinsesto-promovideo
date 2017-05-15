@@ -1,4 +1,60 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-15/05/2017	02:06:25	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
-15/05/2017	03:29:34	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
-15/05/2017	03:30:37	EttoreScolaC'eravamotantoamati(1974)_mpeg2video	Sconosciuto	CERAVAMO TANTO  AMATI	02:00:23	1	Film
+15/05/2017	09:22:16	MuseoEgiziodelCairo(parte3)	MUSEO EGIZIO DEL CAIRO 3^ P	MUSEO EGIZIO DEL CAIRO 3^ P	00:29:05	41	programmi culturali
+15/05/2017	09:51:21	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+15/05/2017	10:00:30	Promo_01_MilleVoci_2015	PROMO 1000 VOCI	Nuovo File	00:00:37	0	
+15/05/2017	10:01:07	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
+15/05/2017	10:11:04	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+15/05/2017	10:12:09	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+15/05/2017	10:12:20	PianadegliAlbanesi'DomenicadellePalme'PiccolaGrandeItalia	PIANA DEGLI ALBANESI	PIANA DEGLI ALBANESI	00:14:12	71	documentari
+15/05/2017	10:26:32	2012VUEMMESPOT	VUEMMEFAST	VUEMMEFAST	00:00:37	11	spot
+15/05/2017	10:27:10	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+15/05/2017	10:36:18	80NOSTALGIA11	80NOSTALGIA11	80NOSTALGIA11	00:32:02	81	videoclip
+15/05/2017	11:08:20	TartarugheNinja-16Ilredeifumetti	Sconosciuto	Nuovo File	00:22:01	0	
+15/05/2017	11:30:21	TartarugheNinja-14Avventurenelsottosuolo-parte2	Sconosciuto	Nuovo File	00:22:04	0	
+15/05/2017	11:52:26	TartarugheNinja-13Avventurenelsottosuolo-parte1	Sconosciuto	Nuovo File	00:22:05	0	
+15/05/2017	12:14:31	inTavola_20150226_48823	Sconosciuto	Nuovo File	00:01:58	0	
+15/05/2017	12:16:30	TRAILERPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:10:04	0	
+15/05/2017	12:26:34	GeracepresentatoilDiariofotograficodi25annidicammino(byEL)	LIBRO  FOTOGRAFICO 25  ANNI  DI  CAMMINO	GERACE 25  ANNI  DI CAMMINO	00:31:39	41	programmi culturali
+15/05/2017	12:58:13	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+15/05/2017	12:58:20	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+15/05/2017	12:58:35	SpegniLaTv...MettitiABallare	Sconosciuto	Nuovo File	00:01:44	0	
+15/05/2017	13:00:20	capitani17-01	Sconosciuto	Nuovo File	00:33:13	0	
+15/05/2017	13:33:33	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+15/05/2017	13:34:38	benessere_20150715_52345	Sconosciuto	Nuovo File	00:01:11	0	
+15/05/2017	13:35:49	Bowfinger_1_mpeg2video	Sconosciuto	BOWFINGER 1P	00:44:18	1	Film
+15/05/2017	14:20:08	Bowfinger_2_mpeg2video	Sconosciuto	BOWFINGER 2 P	00:48:07	1	Film
+15/05/2017	15:08:15	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
+15/05/2017	15:08:30	048-Tokio,EmblemadiunMiracolo(14')eD	TOKIO EMBLEMA DEL MIRACOLO	TOKIO EMBLEMA DEL  MIRACOLO	00:13:57	71	documentari
+15/05/2017	15:22:27	MilleVoci_2016_p05	Sconosciuto	Nuovo File	00:08:59	0	
+15/05/2017	15:31:27	videomotori	Sconosciuto	Nuovo File	00:16:33	0	
+15/05/2017	15:48:00	TartarugheNinja-35Riflessidelpassato	Sconosciuto	Nuovo File	00:20:18	0	
+15/05/2017	16:08:19	TartarugheNinja-34Leorigini-parte3	Sconosciuto	Nuovo File	00:21:24	0	
+15/05/2017	16:29:43	TartarugheNinja-33Leorigini-parte2	Sconosciuto	Nuovo File	00:21:26	0	
+15/05/2017	16:51:10	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
+15/05/2017	16:51:50	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
+15/05/2017	18:43:32	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
+15/05/2017	18:43:39	MuseoEgiziodelCairo(parte1)(2)	MUSEO EGIZIO DEL CAIRO 1^	MUSEO EGIZIODEL CAIRO 1^	00:24:45	41	programmi culturali
+15/05/2017	19:08:24	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
+15/05/2017	19:30:37	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
+15/05/2017	21:01:13	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+15/05/2017	21:01:19	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
+15/05/2017	22:51:55	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+15/05/2017	22:52:02	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
+15/05/2017	22:54:32	POLSIARCHIVIOPROMOCULTURA	POLSI	POLSI	00:14:00	41	programmi culturali
+15/05/2017	23:08:32	Ritorno.Al.Futuro.3-iTALiAN.DvDRip.DivX-AuDaX	Sconosciuto	Ritorno  al  futuro 3	01:53:23	1	Film
+16/05/2017	01:01:56	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+16/05/2017	01:02:03	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+16/05/2017	01:02:14	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+16/05/2017	01:02:20	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
+16/05/2017	02:25:29	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
+16/05/2017	02:26:32	EttoreScolaC'eravamotantoamati(1974)_mpeg2video	Sconosciuto	CERAVAMO TANTO  AMATI	02:00:23	1	Film
+16/05/2017	04:26:56	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
+16/05/2017	05:19:01	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
+16/05/2017	07:07:33	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+16/05/2017	07:07:48	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+16/05/2017	07:07:55	_1779_Recanatese_Lunaametà	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
+16/05/2017	07:16:12	ZAPPINGTV_CARTONE_005_OK	Sconosciuto	Nuovo File	00:09:33	0	
+16/05/2017	07:25:46	Gerace	GERACE	GERACE	00:06:01	71	documentari
+16/05/2017	07:31:47	_1780_Recanatese_AlgirodeldeltadelPo	al giro delta del  po	al giro delta del  po	00:27:42	61	Telefilm
+16/05/2017	07:59:29	agrisapori604x12-4-15	AGRISAPORI	AGRISAPORI	00:29:07	71	documentari
+16/05/2017	08:28:36	capitani18-01	Sconosciuto	Nuovo File	00:33:14	0	
