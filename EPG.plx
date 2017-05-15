@@ -1,20 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-14/05/2017	19:31:24	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
-14/05/2017	21:23:06	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-14/05/2017	21:23:13	TRAILERPARTE7DOPOLE22,30	Sconosciuto	Nuovo File	00:09:50	0	
-14/05/2017	21:33:03	Musa_TV_20170411_65062	Sconosciuto	Nuovo File	00:08:27	0	
-14/05/2017	21:41:31	MuseoEgiziodelCairo(parte1)(2)	MUSEO EGIZIO DEL CAIRO 1^	MUSEO EGIZIODEL CAIRO 1^	00:24:45	41	programmi culturali
-14/05/2017	22:06:16	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
-14/05/2017	22:28:29	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
-14/05/2017	23:59:04	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-14/05/2017	23:59:11	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
-15/05/2017	01:49:47	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-15/05/2017	01:49:54	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
-15/05/2017	01:52:23	POLSIARCHIVIOPROMOCULTURA	POLSI	POLSI	00:14:00	41	programmi culturali
-15/05/2017	02:06:24	Ritorno.Al.Futuro.3-iTALiAN.DvDRip.DivX-AuDaX	Sconosciuto	Ritorno  al  futuro 3	01:53:23	1	Film
-15/05/2017	03:59:48	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-15/05/2017	03:59:55	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-15/05/2017	04:00:05	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-15/05/2017	04:00:12	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
-15/05/2017	05:23:21	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
-15/05/2017	05:24:24	EttoreScolaC'eravamotantoamati(1974)_mpeg2video	Sconosciuto	CERAVAMO TANTO  AMATI	02:00:23	1	Film
+15/05/2017	02:06:25	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
+15/05/2017	03:29:34	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
+15/05/2017	03:30:37	EttoreScolaC'eravamotantoamati(1974)_mpeg2video	Sconosciuto	CERAVAMO TANTO  AMATI	02:00:23	1	Film
