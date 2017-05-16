@@ -1,22 +1,6 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-15/05/2017	21:00:20	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
-15/05/2017	22:50:56	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-15/05/2017	22:51:03	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
-15/05/2017	22:53:32	POLSIARCHIVIOPROMOCULTURA	POLSI	POLSI	00:14:00	41	programmi culturali
-15/05/2017	23:07:33	Ritorno.Al.Futuro.3-iTALiAN.DvDRip.DivX-AuDaX	Sconosciuto	Ritorno  al  futuro 3	01:53:23	1	Film
-16/05/2017	01:00:57	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-16/05/2017	01:01:04	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-16/05/2017	01:01:14	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-16/05/2017	01:01:21	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
-16/05/2017	02:24:30	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
-16/05/2017	02:25:33	EttoreScolaC'eravamotantoamati(1974)_mpeg2video	Sconosciuto	CERAVAMO TANTO  AMATI	02:00:23	1	Film
-16/05/2017	04:25:57	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
-16/05/2017	05:18:02	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
-16/05/2017	07:06:33	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-16/05/2017	07:06:49	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-16/05/2017	07:06:56	_1779_Recanatese_Lunaametà	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
-16/05/2017	07:15:13	ZAPPINGTV_CARTONE_005_OK	Sconosciuto	Nuovo File	00:09:33	0	
-16/05/2017	07:24:47	Gerace	GERACE	GERACE	00:06:01	71	documentari
-16/05/2017	07:30:48	_1780_Recanatese_AlgirodeldeltadelPo	al giro delta del  po	al giro delta del  po	00:27:42	61	Telefilm
-16/05/2017	07:58:30	agrisapori604x12-4-15	AGRISAPORI	AGRISAPORI	00:29:07	71	documentari
-16/05/2017	08:27:37	capitani18-01	Sconosciuto	Nuovo File	00:33:14	0	
+16/05/2017	05:17:16	ZAPPINGTV_CARTONE_005_OK	Sconosciuto	Nuovo File	00:09:33	0	
+16/05/2017	05:26:49	Gerace	GERACE	GERACE	00:06:01	71	documentari
+16/05/2017	05:32:50	_1780_Recanatese_AlgirodeldeltadelPo	al giro delta del  po	al giro delta del  po	00:27:42	61	Telefilm
+16/05/2017	06:00:33	agrisapori604x12-4-15	AGRISAPORI	AGRISAPORI	00:29:07	71	documentari
+16/05/2017	06:29:40	capitani18-01	Sconosciuto	Nuovo File	00:33:14	0	
