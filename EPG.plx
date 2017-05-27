@@ -1,15 +1,13 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-27/05/2017	17:46:54	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
-27/05/2017	19:49:04	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
 27/05/2017	19:49:11	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
 27/05/2017	20:11:24	INLINEA.acutrue	Sconosciuto	IN LINEA DAL 16.5.017	00:08:34	21	televendite
 27/05/2017	20:19:58	salus	Sconosciuto	Nuovo File	00:16:05	0	
 27/05/2017	20:36:03	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
 27/05/2017	20:46:09	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-27/05/2017	20:46:15	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+27/05/2017	20:46:16	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 27/05/2017	20:46:22	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
 27/05/2017	20:48:52	14‡GiornatadellosportGerace	gerace giornata dello sport	Gerace 20 5  017	00:21:49	0	
-27/05/2017	21:10:41	043-NgoroNgoro,l'UltimaArca(14')eD	NGORO NGORO	Nuovo File	00:13:29	71	documentari
+27/05/2017	21:10:42	043-NgoroNgoro,l'UltimaArca(14')eD	NGORO NGORO	Nuovo File	00:13:29	71	documentari
 27/05/2017	21:24:11	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 27/05/2017	21:24:18	capitani18-01	Sconosciuto	Nuovo File	00:33:14	0	
 27/05/2017	21:57:32	IlritornodelRe	Sconosciuto	Il  ritorno del re	03:12:46	22	
@@ -19,6 +17,6 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 28/05/2017	02:33:45	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
 28/05/2017	02:34:48	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
 28/05/2017	03:26:53	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
-28/05/2017	05:15:24	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+28/05/2017	05:15:25	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
 28/05/2017	05:15:40	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 28/05/2017	05:15:47	Gerace	GERACE	GERACE	00:06:01	71	documentari
