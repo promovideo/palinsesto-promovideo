@@ -2,32 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Colpogrosso_mpeg2video</IdName>
-				<StartDate>2017-05-30</StartDate>
-				<StartTime>17:36:08</StartTime>
-				<EndDate>2017-05-30</EndDate>
-				<EndTime>19:38:18</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Colpogrosso</Name>
-					<Description>COLPO  GROSSO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>3PROMOVIDEOSPOT3</IdName>
-				<StartDate>2017-05-30</StartDate>
-				<StartTime>19:38:18</StartTime>
-				<EndDate>2017-05-30</EndDate>
-				<EndTime>19:38:24</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>spot promovideotv</Name>
-					<Description>SPOT PROMOVIDEOTV 3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
 				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
 				<StartDate>2017-05-30</StartDate>
 				<StartTime>19:38:24</StartTime>
@@ -40,7 +14,7 @@
 					<Description>Reggio piccola grande Italia  </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="2">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2017-05-30</StartDate>
 				<StartTime>20:00:37</StartTime>
@@ -53,7 +27,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="3">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-05-30</StartDate>
 				<StartTime>20:00:44</StartTime>
@@ -66,7 +40,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="4">
 				<IdName>150°annivfucilazione5MartiridiGerace</IdName>
 				<StartDate>2017-05-30</StartDate>
 				<StartTime>20:00:51</StartTime>
@@ -79,7 +53,7 @@
 					<Description>150°ANN 5 MARTIRI GERACE SCUOLA ELM GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="5">
 				<IdName>Filmato</IdName>
 				<StartDate>2017-05-30</StartDate>
 				<StartTime>21:14:44</StartTime>
@@ -92,7 +66,7 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="6">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-05-30</StartDate>
 				<StartTime>21:17:13</StartTime>
@@ -105,12 +79,12 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="7">
 				<IdName>TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-05-30</StartDate>
 				<StartTime>21:17:20</StartTime>
 				<EndDate>2017-05-30</EndDate>
-				<EndTime>21:27:17</EndTime>
+				<EndTime>21:27:18</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,10 +92,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="8">
 				<IdName>capitani18-01</IdName>
 				<StartDate>2017-05-30</StartDate>
-				<StartTime>21:27:17</StartTime>
+				<StartTime>21:27:18</StartTime>
 				<EndDate>2017-05-30</EndDate>
 				<EndTime>22:00:32</EndTime>
 				<ShortEventDescription>
@@ -131,7 +105,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="9">
 				<IdName>IlritornodelRe</IdName>
 				<StartDate>2017-05-30</StartDate>
 				<StartTime>22:00:32</StartTime>
@@ -144,7 +118,7 @@
 					<Description>Il  ritorno del re</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="10">
 				<IdName>minispotapplicazione</IdName>
 				<StartDate>2017-05-31</StartDate>
 				<StartTime>01:13:18</StartTime>
@@ -157,7 +131,7 @@
 					<Description>SPOTAPP</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="11">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2017-05-31</StartDate>
 				<StartTime>01:13:29</StartTime>
@@ -170,7 +144,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="12">
 				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
 				<StartDate>2017-05-31</StartDate>
 				<StartTime>01:13:36</StartTime>
@@ -183,7 +157,7 @@
 					<Description>BELLEZZE SULLA SPIAGGIA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="13">
 				<IdName>benessere_20150512_50742</IdName>
 				<StartDate>2017-05-31</StartDate>
 				<StartTime>02:36:45</StartTime>
@@ -196,7 +170,7 @@
 					<Description>benessere</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="14">
 				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
 				<StartDate>2017-05-31</StartDate>
 				<StartTime>02:37:48</StartTime>
@@ -209,7 +183,7 @@
 					<Description>ANIMALI SERPENTI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="15">
 				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
 				<StartDate>2017-05-31</StartDate>
 				<StartTime>03:29:53</StartTime>
@@ -222,12 +196,12 @@
 					<Description>CRASH CONTATTO  FINALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="16">
 				<IdName>TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-05-31</StartDate>
 				<StartTime>05:18:24</StartTime>
 				<EndDate>2017-05-31</EndDate>
-				<EndTime>05:28:29</EndTime>
+				<EndTime>05:28:30</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -235,10 +209,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="17">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2017-05-31</StartDate>
-				<StartTime>05:28:29</StartTime>
+				<StartTime>05:28:30</StartTime>
 				<EndDate>2017-05-31</EndDate>
 				<EndTime>05:28:45</EndTime>
 				<ShortEventDescription>
@@ -248,7 +222,7 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="18">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-05-31</StartDate>
 				<StartTime>05:28:45</StartTime>
@@ -261,7 +235,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="21">
+			<Event id="19">
 				<IdName>Gerace</IdName>
 				<StartDate>2017-05-31</StartDate>
 				<StartTime>05:28:52</StartTime>
@@ -274,7 +248,7 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="22">
+			<Event id="20">
 				<IdName>TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-05-31</StartDate>
 				<StartTime>05:34:53</StartTime>
