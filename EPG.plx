@@ -1,7 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-01/06/2017	18:12:18	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
-01/06/2017	20:14:28	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-01/06/2017	20:14:35	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
 01/06/2017	20:36:48	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
 01/06/2017	22:07:23	MYTECH9	Sconosciuto	Nuovo File	00:24:00	0	
 01/06/2017	22:31:23	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot

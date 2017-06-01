@@ -2,45 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Colpogrosso_mpeg2video</IdName>
-				<StartDate>2017-06-01</StartDate>
-				<StartTime>18:12:18</StartTime>
-				<EndDate>2017-06-01</EndDate>
-				<EndTime>20:14:28</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Colpogrosso</Name>
-					<Description>COLPO  GROSSO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>3PROMOVIDEOSPOT3</IdName>
-				<StartDate>2017-06-01</StartDate>
-				<StartTime>20:14:28</StartTime>
-				<EndDate>2017-06-01</EndDate>
-				<EndTime>20:14:35</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>spot promovideotv</Name>
-					<Description>SPOT PROMOVIDEOTV 3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
-				<StartDate>2017-06-01</StartDate>
-				<StartTime>20:14:35</StartTime>
-				<EndDate>2017-06-01</EndDate>
-				<EndTime>20:36:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Reggio piccola grande Italia  </Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
 				<IdName>AttackForce</IdName>
 				<StartDate>2017-06-01</StartDate>
 				<StartTime>20:36:48</StartTime>
@@ -53,7 +14,7 @@
 					<Description>ATTACK FORCE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="2">
 				<IdName>MYTECH9</IdName>
 				<StartDate>2017-06-01</StartDate>
 				<StartTime>22:07:23</StartTime>
@@ -66,7 +27,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="3">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2017-06-01</StartDate>
 				<StartTime>22:31:23</StartTime>
@@ -79,7 +40,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="4">
 				<IdName>MilleVocibrasiliane-TerzapuntataBrasile_con_logo</IdName>
 				<StartDate>2017-06-01</StartDate>
 				<StartTime>22:31:30</StartTime>
@@ -92,7 +53,7 @@
 					<Description>MILLE VOCI BRASILIANE 2017</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="5">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-06-01</StartDate>
 				<StartTime>23:28:02</StartTime>
@@ -105,7 +66,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="6">
 				<IdName>Filmato</IdName>
 				<StartDate>2017-06-01</StartDate>
 				<StartTime>23:28:08</StartTime>
@@ -118,7 +79,7 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="7">
 				<IdName>14‡GiornatadellosportGerace</IdName>
 				<StartDate>2017-06-01</StartDate>
 				<StartTime>23:30:38</StartTime>
@@ -131,7 +92,7 @@
 					<Description>Gerace 20 5  017</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="8">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-06-01</StartDate>
 				<StartTime>23:52:28</StartTime>
@@ -144,7 +105,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="9">
 				<IdName>capitani18-01</IdName>
 				<StartDate>2017-06-01</StartDate>
 				<StartTime>23:52:34</StartTime>
@@ -157,7 +118,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="10">
 				<IdName>IlritornodelRe</IdName>
 				<StartDate>2017-06-02</StartDate>
 				<StartTime>00:25:49</StartTime>
@@ -170,7 +131,7 @@
 					<Description>Il  ritorno del re</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="11">
 				<IdName>minispotapplicazione</IdName>
 				<StartDate>2017-06-02</StartDate>
 				<StartTime>03:38:35</StartTime>
@@ -183,7 +144,7 @@
 					<Description>SPOTAPP</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="12">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2017-06-02</StartDate>
 				<StartTime>03:38:46</StartTime>
@@ -196,7 +157,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="13">
 				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
 				<StartDate>2017-06-02</StartDate>
 				<StartTime>03:38:53</StartTime>
@@ -209,7 +170,7 @@
 					<Description>BELLEZZE SULLA SPIAGGIA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="14">
 				<IdName>benessere_20150512_50742</IdName>
 				<StartDate>2017-06-02</StartDate>
 				<StartTime>05:02:02</StartTime>
@@ -222,7 +183,7 @@
 					<Description>benessere</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="15">
 				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
 				<StartDate>2017-06-02</StartDate>
 				<StartTime>05:03:05</StartTime>
@@ -235,7 +196,7 @@
 					<Description>ANIMALI SERPENTI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="16">
 				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
 				<StartDate>2017-06-02</StartDate>
 				<StartTime>05:55:10</StartTime>
@@ -248,7 +209,7 @@
 					<Description>CRASH CONTATTO  FINALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="17">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2017-06-02</StartDate>
 				<StartTime>07:43:41</StartTime>
@@ -261,7 +222,7 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="21">
+			<Event id="18">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-06-02</StartDate>
 				<StartTime>07:43:57</StartTime>
@@ -274,7 +235,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="22">
+			<Event id="19">
 				<IdName>Gerace</IdName>
 				<StartDate>2017-06-02</StartDate>
 				<StartTime>07:44:03</StartTime>
