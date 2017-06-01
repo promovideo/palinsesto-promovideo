@@ -1,6 +1,5 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-01/06/2017	16:20:36	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
-01/06/2017	18:12:19	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
+01/06/2017	18:12:18	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
 01/06/2017	20:14:28	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
 01/06/2017	20:14:35	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
 01/06/2017	20:36:48	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
@@ -8,10 +7,10 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 01/06/2017	22:31:23	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
 01/06/2017	22:31:30	MilleVocibrasiliane-TerzapuntataBrasile_con_logo	MILLE VOCI 3‡P. BRASILANE 2017	MILLE VOCI BRASILIANE 2017	00:56:31	81	videoclip
 01/06/2017	23:28:02	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-01/06/2017	23:28:09	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
+01/06/2017	23:28:08	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
 01/06/2017	23:30:38	14‡GiornatadellosportGerace	gerace giornata dello sport	Gerace 20 5  017	00:21:49	0	
 01/06/2017	23:52:28	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-01/06/2017	23:52:35	capitani18-01	Sconosciuto	Nuovo File	00:33:14	0	
+01/06/2017	23:52:34	capitani18-01	Sconosciuto	Nuovo File	00:33:14	0	
 02/06/2017	00:25:49	IlritornodelRe	Sconosciuto	Il  ritorno del re	03:12:46	22	
 02/06/2017	03:38:35	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
 02/06/2017	03:38:46	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
@@ -21,4 +20,4 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 02/06/2017	05:55:10	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
 02/06/2017	07:43:41	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
 02/06/2017	07:43:57	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-02/06/2017	07:44:04	Gerace	GERACE	GERACE	00:06:01	71	documentari
+02/06/2017	07:44:03	Gerace	GERACE	GERACE	00:06:01	71	documentari
