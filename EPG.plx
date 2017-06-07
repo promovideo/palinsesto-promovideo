@@ -1,5 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-07/06/2017	17:34:23	TotoaParigi_mpeg2video	Sconosciuto	Tot a Prigi	01:33:42	1	Film
 07/06/2017	19:08:05	IlritornodelRe	Sconosciuto	Il  ritorno del re	03:12:46	22	
 07/06/2017	22:20:52	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
 07/06/2017	22:21:03	MYTECH13	Sconosciuto	Nuovo File	00:24:00	0	
@@ -18,5 +17,5 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 08/06/2017	03:33:50	SPOTCIBRIO-PROMOVIDEOTVOK	Sconosciuto	Nuovo File	00:00:44	0	
 08/06/2017	03:34:35	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
 08/06/2017	03:43:43	Terapiadurto_mpeg2video	Sconosciuto	Terapia d' urto	01:40:39	1	Film
-08/06/2017	05:24:23	Gerace	GERACE	GERACE	00:06:01	71	documentari
+08/06/2017	05:24:22	Gerace	GERACE	GERACE	00:06:01	71	documentari
 08/06/2017	05:30:24	Melicucc‡PiccolaGrandeItalia	Piccola grande Italia	Melicucc‡	00:18:21	42	
