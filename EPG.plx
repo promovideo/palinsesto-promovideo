@@ -1,5 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-09/06/2017	17:34:22	TotoaParigi_mpeg2video	Sconosciuto	Tot a Prigi	01:33:42	1	Film
 09/06/2017	19:08:04	IlritornodelRe	Sconosciuto	Il  ritorno del re	03:12:46	22	
 09/06/2017	22:20:50	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
 09/06/2017	22:21:01	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
