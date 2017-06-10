@@ -1,15 +1,14 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-10/06/2017	17:48:49	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
 10/06/2017	19:11:58	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
-10/06/2017	20:04:03	CIBOR-ISPOTPERREGIA	Sconosciuto	Nuovo File	00:00:37	0	
+10/06/2017	20:04:04	CIBOR-ISPOTPERREGIA	Sconosciuto	Nuovo File	00:00:37	0	
 10/06/2017	20:04:41	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
 10/06/2017	21:53:12	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
 10/06/2017	22:03:17	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
 10/06/2017	22:03:33	CIBOR-ISPOTPERREGIA	Sconosciuto	Nuovo File	00:00:37	0	
 10/06/2017	22:04:10	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
 10/06/2017	22:11:25	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-10/06/2017	22:11:31	Terapiadurto_mpeg2video	Sconosciuto	Terapia d' urto	01:40:39	1	Film
+10/06/2017	22:11:32	Terapiadurto_mpeg2video	Sconosciuto	Terapia d' urto	01:40:39	1	Film
 10/06/2017	23:52:11	CIBOR-ISPOTPERREGIA	Sconosciuto	Nuovo File	00:00:37	0	
-10/06/2017	23:52:48	Gerace	GERACE	GERACE	00:06:01	71	documentari
+10/06/2017	23:52:49	Gerace	GERACE	GERACE	00:06:01	71	documentari
 10/06/2017	23:58:50	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
 11/06/2017	00:08:55	Melicucc‡PiccolaGrandeItalia	Piccola grande Italia	Melicucc‡	00:18:21	42	
