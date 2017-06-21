@@ -1,12 +1,7 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-21/06/2017	18:04:23	StoriadelVaticanoIsegretidiAngelieDemoni	Sconosciuto	STOTIA DEL  VATICANO	01:30:51	1	Film
-21/06/2017	19:35:14	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-21/06/2017	19:35:20	CIBOR-ISPOTPERREGIA	Sconosciuto	Nuovo File	00:00:37	0	
-21/06/2017	19:35:58	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
-21/06/2017	19:38:27	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 21/06/2017	19:38:34	Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)	Sconosciuto	BERTOLDO BERTOLDINO E CACASENNO	01:59:40	1	Film
 21/06/2017	21:38:14	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
-21/06/2017	21:48:12	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+21/06/2017	21:48:11	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
 21/06/2017	21:48:22	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
 21/06/2017	21:48:29	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
 21/06/2017	21:53:47	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
@@ -17,7 +12,7 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 22/06/2017	02:50:24	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
 22/06/2017	02:57:38	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 22/06/2017	02:57:45	AdrianoCelentanoJoanLuiFilmCompleto	Sconosciuto	JOAN LUI	02:05:39	1	Film
-22/06/2017	05:03:25	Gerace	GERACE	GERACE	00:06:01	71	documentari
+22/06/2017	05:03:24	Gerace	GERACE	GERACE	00:06:01	71	documentari
 22/06/2017	05:09:26	1SLUCAMessabrigTRIPODI_mpeg2video	S. Luca	commemorazione 28Ï ann.v morte Mar. Tripodi	01:02:30	41	programmi culturali
 22/06/2017	06:11:56	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
 22/06/2017	06:22:01	Melicucc‡PiccolaGrandeItalia	Piccola grande Italia	Melicucc‡	00:18:21	42	
