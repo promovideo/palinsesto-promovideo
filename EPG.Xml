@@ -2,37 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>LefiabeDisneyVolume6</IdName>
+				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
 				<StartDate>2017-06-21</StartDate>
-				<StartTime>09:44:23</StartTime>
+				<StartTime>17:55:15</StartTime>
 				<EndDate>2017-06-21</EndDate>
-				<EndTime>10:32:24</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LE FIABE DI DISNEY</Name>
-					<Description>LE FIABE DI  DISNEY</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>Souvenird'Italie_mpeg2video</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>10:32:24</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>12:17:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Souvenir d'Italy</Name>
-					<Description>Souvenir d'Italy</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>CIBOR-ISPOTPERREGIA</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>12:17:08</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>12:17:45</EndTime>
+				<EndTime>18:04:23</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -40,12 +14,38 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
-				<IdName>benessere_20150715_52345</IdName>
+			<Event id="2">
+				<IdName>StoriadelVaticanoIsegretidiAngelieDemoni</IdName>
 				<StartDate>2017-06-21</StartDate>
-				<StartTime>12:17:45</StartTime>
+				<StartTime>18:04:23</StartTime>
 				<EndDate>2017-06-21</EndDate>
-				<EndTime>12:18:57</EndTime>
+				<EndTime>19:35:14</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>STOTIA DEL  VATICANO</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="3">
+				<IdName>7PROMOVIDEOspot7</IdName>
+				<StartDate>2017-06-21</StartDate>
+				<StartTime>19:35:14</StartTime>
+				<EndDate>2017-06-21</EndDate>
+				<EndTime>19:35:21</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOT  PROMOVIDEOTV</Name>
+					<Description>SPOT PROMOVIDEOTV</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="4">
+				<IdName>CIBOR-ISPOTPERREGIA</IdName>
+				<StartDate>2017-06-21</StartDate>
+				<StartTime>19:35:21</StartTime>
+				<EndDate>2017-06-21</EndDate>
+				<EndTime>19:35:58</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -54,50 +54,50 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="5">
-				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
+				<IdName>Filmato</IdName>
 				<StartDate>2017-06-21</StartDate>
-				<StartTime>12:18:57</StartTime>
+				<StartTime>19:35:58</StartTime>
 				<EndDate>2017-06-21</EndDate>
-				<EndTime>12:28:05</EndTime>
+				<EndTime>19:38:28</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>GERACE IN 2 MINUTI</Name>
+					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="6">
-				<IdName>spotDIGIII</IdName>
+				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-06-21</StartDate>
-				<StartTime>12:28:05</StartTime>
+				<StartTime>19:38:28</StartTime>
 				<EndDate>2017-06-21</EndDate>
-				<EndTime>12:28:20</EndTime>
+				<EndTime>19:38:35</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>SPOT DIGII</Name>
-					<Description>SPOT PROMOVIDEO</Description>
+					<Name>SPOT  PROMOVIDEOTV</Name>
+					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="7">
-				<IdName>inTavola_20150205_48237</IdName>
+				<IdName>Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)</IdName>
 				<StartDate>2017-06-21</StartDate>
-				<StartTime>12:28:20</StartTime>
+				<StartTime>19:38:35</StartTime>
 				<EndDate>2017-06-21</EndDate>
-				<EndTime>12:30:19</EndTime>
+				<EndTime>21:38:15</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Sconosciuto</Name>
-					<Description>inTavola_2015 02 05</Description>
+					<Description>BERTOLDO BERTOLDINO E CACASENNO</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="8">
-				<IdName>MilleVoci_2016_p04</IdName>
+				<IdName>TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-06-21</StartDate>
-				<StartTime>12:30:19</StartTime>
+				<StartTime>21:38:15</StartTime>
 				<EndDate>2017-06-21</EndDate>
-				<EndTime>12:32:24</EndTime>
+				<EndTime>21:48:12</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -106,37 +106,37 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="9">
-				<IdName>MilleVocibrasliane-PrimapuntataBrasile_con_logo</IdName>
+				<IdName>minispotapplicazione</IdName>
 				<StartDate>2017-06-21</StartDate>
-				<StartTime>12:32:24</StartTime>
+				<StartTime>21:48:12</StartTime>
 				<EndDate>2017-06-21</EndDate>
-				<EndTime>13:51:24</EndTime>
+				<EndTime>21:48:23</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>SPOTAPP</Name>
+					<Description>SPOTAPP</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="10">
-				<IdName>ItaliaEconomia_20170412_65079</IdName>
+				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2017-06-21</StartDate>
-				<StartTime>13:51:24</StartTime>
+				<StartTime>21:48:23</StartTime>
 				<EndDate>2017-06-21</EndDate>
-				<EndTime>14:07:56</EndTime>
+				<EndTime>21:48:30</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>6 SPOT PTOMOVIDEO</Name>
+					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="11">
-				<IdName>CIBOR-ISPOTPERREGIA</IdName>
+				<IdName>FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-06-21</StartDate>
-				<StartTime>14:07:56</StartTime>
+				<StartTime>21:48:30</StartTime>
 				<EndDate>2017-06-21</EndDate>
-				<EndTime>14:08:33</EndTime>
+				<EndTime>21:53:47</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -145,37 +145,37 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="12">
-				<IdName>80vogliadicantareFaustoCigliano</IdName>
+				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
 				<StartDate>2017-06-21</StartDate>
-				<StartTime>14:08:33</StartTime>
+				<StartTime>21:53:47</StartTime>
 				<EndDate>2017-06-21</EndDate>
-				<EndTime>14:24:16</EndTime>
+				<EndTime>22:45:53</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>ANIMALI SERPENTI</Name>
+					<Description>ANIMALI SERPENTI</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="13">
-				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
+				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
 				<StartDate>2017-06-21</StartDate>
-				<StartTime>14:24:16</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>14:33:24</EndTime>
+				<StartTime>22:45:53</StartTime>
+				<EndDate>2017-06-22</EndDate>
+				<EndTime>00:34:24</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>CRASH CONTATTO   FINALE FISICO</Name>
+					<Description>CRASH CONTATTO  FINALE</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="14">
-				<IdName>CIBOR-ISPOTPERREGIA</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>14:33:24</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>14:34:02</EndTime>
+				<IdName>TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
+				<StartDate>2017-06-22</StartDate>
+				<StartTime>00:34:24</StartTime>
+				<EndDate>2017-06-22</EndDate>
+				<EndTime>00:44:29</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -184,102 +184,102 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="15">
-				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>14:34:02</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>14:43:10</EndTime>
+				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
+				<StartDate>2017-06-22</StartDate>
+				<StartTime>00:44:29</StartTime>
+				<EndDate>2017-06-22</EndDate>
+				<EndTime>00:44:45</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>ISCRIVITI CANALE YOU TUBE</Name>
+					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="16">
-				<IdName>TartarugheNinja-27Unrobotinfuga</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>14:43:10</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>15:04:52</EndTime>
+				<IdName>AdrianoCelentanoJoanLuiFilmCompleto</IdName>
+				<StartDate>2017-06-22</StartDate>
+				<StartTime>00:44:45</StartTime>
+				<EndDate>2017-06-22</EndDate>
+				<EndTime>02:50:24</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Description>JOAN LUI</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="17">
-				<IdName>TartarugheNinja-26AllaricercadiSplinter-parte2</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>15:04:52</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>15:26:12</EndTime>
+				<IdName>STILOELACATTOLICA</IdName>
+				<StartDate>2017-06-22</StartDate>
+				<StartTime>02:50:24</StartTime>
+				<EndDate>2017-06-22</EndDate>
+				<EndTime>02:57:39</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>STILO E LA CATTOLICA</Name>
+					<Description>Stilo e la  cattolica</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="18">
-				<IdName>TartarugheNinja-25AllaricercadiSplinter-parte1</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>15:26:12</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>15:48:24</EndTime>
+				<IdName>7PROMOVIDEOspot7</IdName>
+				<StartDate>2017-06-22</StartDate>
+				<StartTime>02:57:39</StartTime>
+				<EndDate>2017-06-22</EndDate>
+				<EndTime>02:57:46</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>SPOT  PROMOVIDEOTV</Name>
+					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="19">
-				<IdName>051-LeAndedellaCoca(20')eD</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>15:48:24</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>16:07:52</EndTime>
+				<IdName>AdrianoCelentanoJoanLuiFilmCompleto</IdName>
+				<StartDate>2017-06-22</StartDate>
+				<StartTime>02:57:46</StartTime>
+				<EndDate>2017-06-22</EndDate>
+				<EndTime>05:03:25</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>LE ANDE DELLA COCA</Name>
-					<Description>LE AMNDE DELLA COCA</Description>
+					<Name>Sconosciuto</Name>
+					<Description>JOAN LUI</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="20">
-				<IdName>PillolaSalute_20150302_48922</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>16:07:52</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>16:08:32</EndTime>
+				<IdName>Gerace</IdName>
+				<StartDate>2017-06-22</StartDate>
+				<StartTime>05:03:25</StartTime>
+				<EndDate>2017-06-22</EndDate>
+				<EndTime>05:09:26</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>GERACE</Name>
+					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="21">
-				<IdName>TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>16:08:32</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>16:18:29</EndTime>
+				<IdName>1SLUCAMessabrigTRIPODI_mpeg2video</IdName>
+				<StartDate>2017-06-22</StartDate>
+				<StartTime>05:09:26</StartTime>
+				<EndDate>2017-06-22</EndDate>
+				<EndTime>06:11:56</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>S. Luca</Name>
+					<Description>commemorazione 28Ï ann.v morte Mar. Tripodi</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="22">
-				<IdName>agrisapori659x8-5-16</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>16:18:29</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>16:51:36</EndTime>
+				<IdName>TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
+				<StartDate>2017-06-22</StartDate>
+				<StartTime>06:11:56</StartTime>
+				<EndDate>2017-06-22</EndDate>
+				<EndTime>06:22:01</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -288,362 +288,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="23">
-				<IdName>3PROMOVIDEOSPOT3</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>16:51:36</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>16:51:42</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>spot promovideotv</Name>
-					<Description>SPOT PROMOVIDEOTV 3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="24">
-				<IdName>ItaliaEconomia_20170412_65079</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>16:51:42</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>17:08:14</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="25">
-				<IdName>MuseoEgiziodelCairo(parte1)(2)</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>17:08:14</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>17:32:59</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>MUSEO EGIZIO DEL CAIRO 1^</Name>
-					<Description>MUSEO EGIZIODEL CAIRO 1^</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="26">
-				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>17:32:59</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>17:55:12</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Reggio piccola grande Italia  </Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="27">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>17:55:12</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>17:55:19</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="28">
-				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>17:55:19</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>18:04:27</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="29">
-				<IdName>StoriadelVaticanoIsegretidiAngelieDemoni</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>18:04:27</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>19:35:18</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>STOTIA DEL  VATICANO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="30">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>19:35:18</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>19:35:25</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="31">
-				<IdName>CIBOR-ISPOTPERREGIA</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>19:35:25</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>19:36:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="32">
-				<IdName>Filmato</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>19:36:02</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>19:38:31</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GERACE IN 2 MINUTI</Name>
-					<Description>GERACE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="33">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>19:38:31</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>19:38:38</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="34">
-				<IdName>Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>19:38:38</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>21:38:18</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>BERTOLDO BERTOLDINO E CACASENNO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="35">
-				<IdName>TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>21:38:18</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>21:48:16</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="36">
-				<IdName>minispotapplicazione</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>21:48:16</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>21:48:27</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTAPP</Name>
-					<Description>SPOTAPP</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="37">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>21:48:27</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>21:48:33</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="38">
-				<IdName>FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>21:48:33</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>21:53:51</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="39">
-				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>21:53:51</StartTime>
-				<EndDate>2017-06-21</EndDate>
-				<EndTime>22:45:56</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ANIMALI SERPENTI</Name>
-					<Description>ANIMALI SERPENTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="40">
-				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
-				<StartDate>2017-06-21</StartDate>
-				<StartTime>22:45:56</StartTime>
-				<EndDate>2017-06-22</EndDate>
-				<EndTime>00:34:28</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CRASH CONTATTO   FINALE FISICO</Name>
-					<Description>CRASH CONTATTO  FINALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="41">
-				<IdName>TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2017-06-22</StartDate>
-				<StartTime>00:34:28</StartTime>
-				<EndDate>2017-06-22</EndDate>
-				<EndTime>00:44:33</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="42">
-				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
-				<StartDate>2017-06-22</StartDate>
-				<StartTime>00:44:33</StartTime>
-				<EndDate>2017-06-22</EndDate>
-				<EndTime>00:44:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ISCRIVITI CANALE YOU TUBE</Name>
-					<Description>ISCRIVITI CANALE YOU TUBE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="43">
-				<IdName>AdrianoCelentanoJoanLuiFilmCompleto</IdName>
-				<StartDate>2017-06-22</StartDate>
-				<StartTime>00:44:48</StartTime>
-				<EndDate>2017-06-22</EndDate>
-				<EndTime>02:50:28</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>JOAN LUI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="44">
-				<IdName>STILOELACATTOLICA</IdName>
-				<StartDate>2017-06-22</StartDate>
-				<StartTime>02:50:28</StartTime>
-				<EndDate>2017-06-22</EndDate>
-				<EndTime>02:57:42</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>STILO E LA CATTOLICA</Name>
-					<Description>Stilo e la  cattolica</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="45">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2017-06-22</StartDate>
-				<StartTime>02:57:42</StartTime>
-				<EndDate>2017-06-22</EndDate>
-				<EndTime>02:57:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="46">
-				<IdName>AdrianoCelentanoJoanLuiFilmCompleto</IdName>
-				<StartDate>2017-06-22</StartDate>
-				<StartTime>02:57:49</StartTime>
-				<EndDate>2017-06-22</EndDate>
-				<EndTime>05:03:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>JOAN LUI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="47">
-				<IdName>Gerace</IdName>
-				<StartDate>2017-06-22</StartDate>
-				<StartTime>05:03:29</StartTime>
-				<EndDate>2017-06-22</EndDate>
-				<EndTime>05:09:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GERACE</Name>
-					<Description>GERACE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="48">
-				<IdName>1SLUCAMessabrigTRIPODI_mpeg2video</IdName>
-				<StartDate>2017-06-22</StartDate>
-				<StartTime>05:09:30</StartTime>
-				<EndDate>2017-06-22</EndDate>
-				<EndTime>06:12:00</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>S. Luca</Name>
-					<Description>commemorazione 28Ï ann.v morte Mar. Tripodi</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="49">
-				<IdName>TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2017-06-22</StartDate>
-				<StartTime>06:12:00</StartTime>
-				<EndDate>2017-06-22</EndDate>
-				<EndTime>06:22:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="50">
 				<IdName>Melicucc‡PiccolaGrandeItalia</IdName>
 				<StartDate>2017-06-22</StartDate>
-				<StartTime>06:22:05</StartTime>
+				<StartTime>06:22:01</StartTime>
 				<EndDate>2017-06-22</EndDate>
-				<EndTime>06:40:27</EndTime>
+				<EndTime>06:40:23</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -651,12 +300,12 @@
 					<Description>Melicucc‡</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="51">
+			<Event id="24">
 				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
 				<StartDate>2017-06-22</StartDate>
-				<StartTime>06:40:27</StartTime>
+				<StartTime>06:40:23</StartTime>
 				<EndDate>2017-06-22</EndDate>
-				<EndTime>06:49:35</EndTime>
+				<EndTime>06:49:31</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
