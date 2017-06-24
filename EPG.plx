@@ -1,35 +1,3 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-23/06/2017	20:57:03	CONSIGLIOCOMUNALEBOVALINO22062017	CONS COM BOVALINO 	consiglio comun bovalino	01:12:39	91	messaggi politici autogestiti gratuiti
-23/06/2017	22:09:43	051-LeAndedellaCoca(20')eD	LE ANDE DELLA COCA	LE AMNDE DELLA COCA	00:19:27	71	documentari
-23/06/2017	22:29:11	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-23/06/2017	22:29:51	agrisapori659x8-5-16	Sconosciuto	Nuovo File	00:33:06	0	
-23/06/2017	23:02:57	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
-24/06/2017	01:05:07	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-24/06/2017	01:05:14	ItaliaEconomia_20170412_65079	Sconosciuto	Nuovo File	00:16:31	0	
-24/06/2017	01:21:45	agrisapori-623x23-8-15	AGRISAPORI	AGRISAPORI	00:00:01	71	documentari
-24/06/2017	01:21:47	MuseoEgiziodelCairo(parte1)(2)	MUSEO EGIZIO DEL CAIRO 1^	MUSEO EGIZIODEL CAIRO 1^	00:24:45	41	programmi culturali
-24/06/2017	01:46:32	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
-24/06/2017	02:08:45	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-24/06/2017	02:08:52	Wargames_mpeg2video	WARGAMES	Wrgames	01:48:02	1	Film
-24/06/2017	03:56:54	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-24/06/2017	03:57:01	CIBOR-ISPOTPERREGIA	Sconosciuto	Nuovo File	00:00:37	0	
-24/06/2017	03:57:38	150∞annivfucilazione5MartiridiGerace	150∞ANNIVERSARIO 5 MARTIR	150∞ANN 5 MARTIRI GERACE SCUOLA ELM GERACE	01:13:53	41	programmi culturali
-24/06/2017	05:11:31	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
-24/06/2017	05:14:01	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-24/06/2017	05:14:08	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
-24/06/2017	05:24:05	TotoaParigi_mpeg2video	Sconosciuto	Tot a Prigi	01:33:42	1	Film
-24/06/2017	06:57:47	IlritornodelRe	Sconosciuto	Il  ritorno del re	03:12:46	22	
-24/06/2017	10:10:34	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-24/06/2017	10:10:44	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-24/06/2017	10:10:51	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
-24/06/2017	11:34:00	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
-24/06/2017	11:35:03	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
-24/06/2017	12:27:09	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
-24/06/2017	14:15:40	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-24/06/2017	14:25:45	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-24/06/2017	14:26:00	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-24/06/2017	14:33:15	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-24/06/2017	14:33:22	Terapiadurto_mpeg2video	Sconosciuto	Terapia d' urto	01:40:39	1	Film
-24/06/2017	16:14:02	Gerace	GERACE	GERACE	00:06:01	71	documentari
-24/06/2017	16:20:03	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-24/06/2017	16:30:08	Melicucc‡PiccolaGrandeItalia	Piccola grande Italia	Melicucc‡	00:18:21	42	
+24/06/2017	05:02:13	TotoaParigi_mpeg2video	Sconosciuto	Tot a Prigi	01:33:42	1	Film
+24/06/2017	06:35:55	IlritornodelRe	Sconosciuto	Il  ritorno del re	03:12:46	22	
