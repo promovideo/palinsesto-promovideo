@@ -2,89 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
-				<StartDate>2017-06-25</StartDate>
-				<StartTime>19:36:44</StartTime>
-				<EndDate>2017-06-25</EndDate>
-				<EndTime>19:45:52</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>StoriadelVaticanoIsegretidiAngelieDemoni</IdName>
-				<StartDate>2017-06-25</StartDate>
-				<StartTime>19:45:52</StartTime>
-				<EndDate>2017-06-25</EndDate>
-				<EndTime>21:16:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>STOTIA DEL  VATICANO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2017-06-25</StartDate>
-				<StartTime>21:16:43</StartTime>
-				<EndDate>2017-06-25</EndDate>
-				<EndTime>21:16:50</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>CIBOR-ISPOTPERREGIA</IdName>
-				<StartDate>2017-06-25</StartDate>
-				<StartTime>21:16:50</StartTime>
-				<EndDate>2017-06-25</EndDate>
-				<EndTime>21:17:27</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
-				<IdName>Filmato</IdName>
-				<StartDate>2017-06-25</StartDate>
-				<StartTime>21:17:27</StartTime>
-				<EndDate>2017-06-25</EndDate>
-				<EndTime>21:19:57</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GERACE IN 2 MINUTI</Name>
-					<Description>GERACE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2017-06-25</StartDate>
-				<StartTime>21:19:57</StartTime>
-				<EndDate>2017-06-25</EndDate>
-				<EndTime>21:20:03</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
 				<IdName>Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)</IdName>
 				<StartDate>2017-06-25</StartDate>
 				<StartTime>21:20:03</StartTime>
 				<EndDate>2017-06-25</EndDate>
-				<EndTime>23:19:44</EndTime>
+				<EndTime>23:19:43</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,12 +14,12 @@
 					<Description>BERTOLDO BERTOLDINO E CACASENNO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="2">
 				<IdName>TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-06-25</StartDate>
-				<StartTime>23:19:44</StartTime>
+				<StartTime>23:19:43</StartTime>
 				<EndDate>2017-06-25</EndDate>
-				<EndTime>23:29:41</EndTime>
+				<EndTime>23:29:40</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -105,12 +27,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="3">
 				<IdName>minispotapplicazione</IdName>
 				<StartDate>2017-06-25</StartDate>
-				<StartTime>23:29:41</StartTime>
+				<StartTime>23:29:40</StartTime>
 				<EndDate>2017-06-25</EndDate>
-				<EndTime>23:29:52</EndTime>
+				<EndTime>23:29:51</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,10 +40,10 @@
 					<Description>SPOTAPP</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="4">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2017-06-25</StartDate>
-				<StartTime>23:29:52</StartTime>
+				<StartTime>23:29:51</StartTime>
 				<EndDate>2017-06-25</EndDate>
 				<EndTime>23:29:58</EndTime>
 				<ShortEventDescription>
@@ -131,12 +53,12 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="5">
 				<IdName>FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-06-25</StartDate>
 				<StartTime>23:29:58</StartTime>
 				<EndDate>2017-06-25</EndDate>
-				<EndTime>23:35:16</EndTime>
+				<EndTime>23:35:15</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -144,12 +66,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="6">
 				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
 				<StartDate>2017-06-25</StartDate>
-				<StartTime>23:35:16</StartTime>
+				<StartTime>23:35:15</StartTime>
 				<EndDate>2017-06-26</EndDate>
-				<EndTime>00:27:22</EndTime>
+				<EndTime>00:27:21</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -157,12 +79,12 @@
 					<Description>ANIMALI SERPENTI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="7">
 				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
 				<StartDate>2017-06-26</StartDate>
-				<StartTime>00:27:22</StartTime>
+				<StartTime>00:27:21</StartTime>
 				<EndDate>2017-06-26</EndDate>
-				<EndTime>02:15:53</EndTime>
+				<EndTime>02:15:52</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -170,12 +92,12 @@
 					<Description>CRASH CONTATTO  FINALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="8">
 				<IdName>TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-06-26</StartDate>
-				<StartTime>02:15:53</StartTime>
+				<StartTime>02:15:52</StartTime>
 				<EndDate>2017-06-26</EndDate>
-				<EndTime>02:25:58</EndTime>
+				<EndTime>02:25:57</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -183,10 +105,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="9">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2017-06-26</StartDate>
-				<StartTime>02:25:58</StartTime>
+				<StartTime>02:25:57</StartTime>
 				<EndDate>2017-06-26</EndDate>
 				<EndTime>02:26:13</EndTime>
 				<ShortEventDescription>
@@ -196,12 +118,12 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="10">
 				<IdName>AdrianoCelentanoJoanLuiFilmCompleto</IdName>
 				<StartDate>2017-06-26</StartDate>
 				<StartTime>02:26:13</StartTime>
 				<EndDate>2017-06-26</EndDate>
-				<EndTime>04:31:53</EndTime>
+				<EndTime>04:31:52</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -209,12 +131,12 @@
 					<Description>JOAN LUI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="11">
 				<IdName>STILOELACATTOLICA</IdName>
 				<StartDate>2017-06-26</StartDate>
-				<StartTime>04:31:53</StartTime>
+				<StartTime>04:31:52</StartTime>
 				<EndDate>2017-06-26</EndDate>
-				<EndTime>04:39:08</EndTime>
+				<EndTime>04:39:07</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -222,10 +144,10 @@
 					<Description>Stilo e la  cattolica</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="12">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-06-26</StartDate>
-				<StartTime>04:39:08</StartTime>
+				<StartTime>04:39:07</StartTime>
 				<EndDate>2017-06-26</EndDate>
 				<EndTime>04:39:14</EndTime>
 				<ShortEventDescription>
@@ -235,12 +157,12 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="13">
 				<IdName>AdrianoCelentanoJoanLuiFilmCompleto</IdName>
 				<StartDate>2017-06-26</StartDate>
 				<StartTime>04:39:14</StartTime>
 				<EndDate>2017-06-26</EndDate>
-				<EndTime>06:44:54</EndTime>
+				<EndTime>06:44:53</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -248,12 +170,12 @@
 					<Description>JOAN LUI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="14">
 				<IdName>Gerace</IdName>
 				<StartDate>2017-06-26</StartDate>
-				<StartTime>06:44:54</StartTime>
+				<StartTime>06:44:53</StartTime>
 				<EndDate>2017-06-26</EndDate>
-				<EndTime>06:50:55</EndTime>
+				<EndTime>06:50:54</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
