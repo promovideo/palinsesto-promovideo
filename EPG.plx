@@ -1,26 +1,17 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-01/07/2017	16:27:43	IngannoGlobale11settembre2001(versionecompleta)	INGANNO  GLOBALE	TORRI  GEMELLE	01:31:56	41	programmi culturali
-01/07/2017	17:59:40	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-01/07/2017	17:59:47	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
-01/07/2017	18:02:16	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
-01/07/2017	18:07:29	34-IDubbiDiDiana	Sconosciuto	Nuovo File	00:24:40	112	
-01/07/2017	18:32:10	38-EsamiDiAmmissione	Sconosciuto	esami di ammissione	00:24:40	51	cartoni animati
-01/07/2017	18:56:50	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-01/07/2017	18:56:56	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-01/07/2017	18:57:07	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-01/07/2017	18:57:14	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
-01/07/2017	20:20:23	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
-01/07/2017	22:08:54	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-01/07/2017	22:09:10	Storiediamorieinfedelta_mpeg2video	Sconosciuto	Storie di  amori ed infedeltà	01:23:30	1	Film
-01/07/2017	23:32:40	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-01/07/2017	23:32:47	FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
-01/07/2017	23:38:05	CariatiPiccolaGrandeItalia	CARIATI	cariati	00:21:41	71	documentari
-01/07/2017	23:59:46	TRAILERPARTE5SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:56	0	
-02/07/2017	00:09:42	JuwannaMann_mpeg2video	Sconosciuto	Juawanna Mann	01:26:54	1	Film
-02/07/2017	01:36:37	PillolaAdn_20150302_48924	Sconosciuto	Nuovo File	00:07:03	0	
-02/07/2017	01:43:40	IlmegliodiMilleVoci2016_p02-daMilleVoci2016©(480p_25fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	01:01:17	0	
-02/07/2017	02:44:57	agrisapori596x15-2-15	Sconosciuto	AGRISAPORI	00:26:54	41	programmi culturali
-02/07/2017	03:11:52	COMMIATOVESCOVOGERACE13GEN2007	Sconosciuto	Nuovo File	03:03:18	0	
-02/07/2017	06:15:10	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
-02/07/2017	06:24:18	LaCompagniaDell'Anello	Sconosciuto	La compagnia dell'anello 	03:19:55	22	
-02/07/2017	09:44:13	Gerace	GERACE	GERACE	00:06:01	71	documentari
+01/07/2017	18:57:26	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
+01/07/2017	20:20:35	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
+01/07/2017	22:09:06	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+01/07/2017	22:09:22	Storiediamorieinfedelta_mpeg2video	Sconosciuto	Storie di  amori ed infedeltà	01:23:30	1	Film
+01/07/2017	23:32:52	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+01/07/2017	23:32:59	FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
+01/07/2017	23:38:17	CariatiPiccolaGrandeItalia	CARIATI	cariati	00:21:41	71	documentari
+01/07/2017	23:59:58	TRAILERPARTE5SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:56	0	
+02/07/2017	00:09:54	JuwannaMann_mpeg2video	Sconosciuto	Juawanna Mann	01:26:54	1	Film
+02/07/2017	01:36:49	PillolaAdn_20150302_48924	Sconosciuto	Nuovo File	00:07:03	0	
+02/07/2017	01:43:52	IlmegliodiMilleVoci2016_p02-daMilleVoci2016©(480p_25fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	01:01:17	0	
+02/07/2017	02:45:09	agrisapori596x15-2-15	Sconosciuto	AGRISAPORI	00:26:54	41	programmi culturali
+02/07/2017	03:12:04	COMMIATOVESCOVOGERACE13GEN2007	Sconosciuto	Nuovo File	03:03:18	0	
+02/07/2017	06:15:22	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+02/07/2017	06:24:30	LaCompagniaDell'Anello	Sconosciuto	La compagnia dell'anello 	03:19:55	22	
+02/07/2017	09:44:25	Gerace	GERACE	GERACE	00:06:01	71	documentari
