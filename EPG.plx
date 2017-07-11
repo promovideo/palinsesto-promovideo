@@ -1,7 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-11/07/2017	17:31:48	23-L'origineDellaVita	Sconosciuto	L' ORIGINE DELLA VITA	00:25:01	51	cartoni animati
-11/07/2017	17:56:49	21-LaVaccinazione	ESPLORANDO IL  CORPO UMANO	LA VACCINAZIONE	00:26:31	51	cartoni animati
-11/07/2017	18:23:20	SPOTtraPROMOVIDEOTV9	Sconosciuto	SPOT PROMOVIDEOTV	00:00:03	11	spot
 11/07/2017	18:23:24	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
 11/07/2017	20:25:34	ArrivaDurangopagaomuori19711配.	Arriva Durango paga o muori1971 1配.	Arriva Durango paga o muori1971  1配.	00:39:33	1	Film
 11/07/2017	21:05:07	ArrivaDurangopagaomuori19712配.	Arriva Durango paga o muori19712配.	Arriva Durango paga o muori19712配.	00:48:08	1	Film
