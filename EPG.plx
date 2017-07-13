@@ -1,15 +1,14 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-13/07/2017	17:11:13	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
-13/07/2017	19:13:23	ArrivaDurangopagaomuori19711∞t.	Arriva Durango paga o muori1971 1∞t.	Arriva Durango paga o muori1971  1∞t.	00:39:33	1	Film
+13/07/2017	19:13:22	ArrivaDurangopagaomuori19711∞t.	Arriva Durango paga o muori1971 1∞t.	Arriva Durango paga o muori1971  1∞t.	00:39:33	1	Film
 13/07/2017	19:52:56	ArrivaDurangopagaomuori19712∞t.	Arriva Durango paga o muori19712∞t.	Arriva Durango paga o muori19712∞t.	00:48:08	1	Film
 13/07/2017	20:41:04	agrisapori716x11-6-17	Sconosciuto	Nuovo File	00:25:24	0	
-13/07/2017	21:06:29	SPOTtraPROMOVIDEOTV9	Sconosciuto	SPOT PROMOVIDEOTV	00:00:03	11	spot
+13/07/2017	21:06:28	SPOTtraPROMOVIDEOTV9	Sconosciuto	SPOT PROMOVIDEOTV	00:00:03	11	spot
 13/07/2017	21:06:32	_1718_Ilsolenegliocchi	IL SOLE NEGLI  OCCHI	IL  SOLE NEGLI  OCCHI	00:17:42	61	Telefilm
 13/07/2017	21:24:14	SPOTtraPROMOVIDEOTV8	Sconosciuto	SPOTPROMOVIDEOTV1	00:00:03	11	spot
 13/07/2017	21:24:18	SPOTPUBBLICIT‡PROMOVIDEOTV6	promovideo	primapubblicit‡promovideo	00:00:07	11	spot
 13/07/2017	21:24:25	SPOTtraPROMOVIDEOTV9	Sconosciuto	SPOT PROMOVIDEOTV	00:00:03	11	spot
 13/07/2017	21:24:29	FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
-13/07/2017	21:29:47	FORMULAMOTORI43	Sconosciuto	Nuovo File	00:24:06	0	
+13/07/2017	21:29:46	FORMULAMOTORI43	Sconosciuto	Nuovo File	00:24:06	0	
 13/07/2017	21:53:53	SPOTCIBRIO-PROMOVIDEOTVOK	Sconosciuto	Nuovo File	00:00:44	0	
 13/07/2017	21:54:38	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
 13/07/2017	22:04:43	IlmegliodiMilleVoci2016_p02-daMilleVoci2016©(480p_25fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	01:01:17	0	
