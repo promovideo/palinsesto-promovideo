@@ -1,9 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-15/07/2017	17:48:33	AdrianoCelentanoJoanLuiFilmCompleto	Sconosciuto	JOAN LUI	02:05:39	1	Film
-15/07/2017	19:54:13	SPOTtraPROMOVIDEOTV9	Sconosciuto	SPOT PROMOVIDEOTV	00:00:03	11	spot
-15/07/2017	19:54:16	01-Ilcuore	Sconosciuto	Nuovo File	00:24:04	112	
-15/07/2017	20:18:21	49-UnaSvoltaDecisiva	Sconosciuto	Nuovo File	00:24:39	112	
-15/07/2017	20:43:00	48-Matthewlasciapersemprelasuacasa	Sconosciuto	Nuovo File	00:24:39	112	
 15/07/2017	21:07:40	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
 15/07/2017	23:09:50	ArrivaDurangopagaomuori19711配.	Arriva Durango paga o muori1971 1配.	Arriva Durango paga o muori1971  1配.	00:39:33	1	Film
 15/07/2017	23:49:23	ArrivaDurangopagaomuori19712配.	Arriva Durango paga o muori19712配.	Arriva Durango paga o muori19712配.	00:48:08	1	Film
