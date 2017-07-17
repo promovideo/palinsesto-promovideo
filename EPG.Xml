@@ -2,22 +2,9 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Colpogrosso_mpeg2video</IdName>
-				<StartDate>2017-07-17</StartDate>
-				<StartTime>19:21:18</StartTime>
-				<EndDate>2017-07-17</EndDate>
-				<EndTime>21:23:28</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Colpogrosso</Name>
-					<Description>COLPO  GROSSO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
 				<IdName>ArrivaDurangopagaomuori19711∞t.</IdName>
 				<StartDate>2017-07-17</StartDate>
-				<StartTime>21:23:28</StartTime>
+				<StartTime>21:23:27</StartTime>
 				<EndDate>2017-07-17</EndDate>
 				<EndTime>22:03:01</EndTime>
 				<ShortEventDescription>
@@ -27,12 +14,12 @@
 					<Description>Arriva Durango paga o muori1971  1∞t.</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="3">
+			<Event id="2">
 				<IdName>ArrivaDurangopagaomuori19712∞t.</IdName>
 				<StartDate>2017-07-17</StartDate>
 				<StartTime>22:03:01</StartTime>
 				<EndDate>2017-07-17</EndDate>
-				<EndTime>22:51:10</EndTime>
+				<EndTime>22:51:09</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -40,10 +27,10 @@
 					<Description>Arriva Durango paga o muori19712∞t.</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="3">
 				<IdName>SPOTPUBBLICIT‡PROMOVIDEOTV6</IdName>
 				<StartDate>2017-07-17</StartDate>
-				<StartTime>22:51:10</StartTime>
+				<StartTime>22:51:09</StartTime>
 				<EndDate>2017-07-17</EndDate>
 				<EndTime>22:51:17</EndTime>
 				<ShortEventDescription>
@@ -53,12 +40,25 @@
 					<Description>primapubblicit‡promovideo</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
-				<IdName>agrisapori716x11-6-17</IdName>
+			<Event id="4">
+				<IdName>TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-07-17</StartDate>
 				<StartTime>22:51:17</StartTime>
 				<EndDate>2017-07-17</EndDate>
-				<EndTime>23:16:41</EndTime>
+				<EndTime>23:01:22</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="5">
+				<IdName>PIXMIND17</IdName>
+				<StartDate>2017-07-17</StartDate>
+				<StartTime>23:01:22</StartTime>
+				<EndDate>2017-07-17</EndDate>
+				<EndTime>23:25:22</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -67,11 +67,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="6">
-				<IdName>SPOTCIBRIO-PROMOVIDEOTVOK</IdName>
+				<IdName>agrisapori716x11-6-17</IdName>
 				<StartDate>2017-07-17</StartDate>
-				<StartTime>23:16:41</StartTime>
+				<StartTime>23:25:22</StartTime>
 				<EndDate>2017-07-17</EndDate>
-				<EndTime>23:17:26</EndTime>
+				<EndTime>23:50:46</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -80,11 +80,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="7">
-				<IdName>TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
+				<IdName>SPOTCIBRIO-PROMOVIDEOTVOK</IdName>
 				<StartDate>2017-07-17</StartDate>
-				<StartTime>23:17:26</StartTime>
+				<StartTime>23:50:46</StartTime>
 				<EndDate>2017-07-17</EndDate>
-				<EndTime>23:27:31</EndTime>
+				<EndTime>23:51:31</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -95,9 +95,9 @@
 			<Event id="8">
 				<IdName>SPOTtraPROMOVIDEOTV9</IdName>
 				<StartDate>2017-07-17</StartDate>
-				<StartTime>23:27:31</StartTime>
+				<StartTime>23:51:31</StartTime>
 				<EndDate>2017-07-17</EndDate>
-				<EndTime>23:27:35</EndTime>
+				<EndTime>23:51:34</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -106,37 +106,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="9">
-				<IdName>_1718_Ilsolenegliocchi</IdName>
+				<IdName>FLASHPARTE8DOPOLE22,30</IdName>
 				<StartDate>2017-07-17</StartDate>
-				<StartTime>23:27:35</StartTime>
+				<StartTime>23:51:34</StartTime>
 				<EndDate>2017-07-17</EndDate>
-				<EndTime>23:45:17</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IL SOLE NEGLI  OCCHI</Name>
-					<Description>IL  SOLE NEGLI  OCCHI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
-				<IdName>SPOTtraPROMOVIDEOTV8</IdName>
-				<StartDate>2017-07-17</StartDate>
-				<StartTime>23:45:17</StartTime>
-				<EndDate>2017-07-17</EndDate>
-				<EndTime>23:45:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>SPOTPROMOVIDEOTV1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="11">
-				<IdName>ArmaLetale4_cd1_mpeg2video</IdName>
-				<StartDate>2017-07-17</StartDate>
-				<StartTime>23:45:20</StartTime>
-				<EndDate>2017-07-18</EndDate>
-				<EndTime>00:44:55</EndTime>
+				<EndTime>23:56:46</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -144,12 +118,38 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
-				<IdName>ArmaLetale4_cd2_mpeg2video</IdName>
-				<StartDate>2017-07-18</StartDate>
-				<StartTime>00:44:55</StartTime>
+			<Event id="10">
+				<IdName>_1718_Ilsolenegliocchi</IdName>
+				<StartDate>2017-07-17</StartDate>
+				<StartTime>23:56:46</StartTime>
 				<EndDate>2017-07-18</EndDate>
-				<EndTime>01:43:53</EndTime>
+				<EndTime>00:14:28</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>IL SOLE NEGLI  OCCHI</Name>
+					<Description>IL  SOLE NEGLI  OCCHI</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="11">
+				<IdName>SPOTtraPROMOVIDEOTV8</IdName>
+				<StartDate>2017-07-18</StartDate>
+				<StartTime>00:14:28</StartTime>
+				<EndDate>2017-07-18</EndDate>
+				<EndTime>00:14:32</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>SPOTPROMOVIDEOTV1</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="12">
+				<IdName>ArmaLetale4_cd1_mpeg2video</IdName>
+				<StartDate>2017-07-18</StartDate>
+				<StartTime>00:14:32</StartTime>
+				<EndDate>2017-07-18</EndDate>
+				<EndTime>01:14:06</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -158,24 +158,24 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="13">
-				<IdName>SPOTtraPROMOVIDEOTV9</IdName>
+				<IdName>Millevoci_2017_Puntata_10_di_13</IdName>
 				<StartDate>2017-07-18</StartDate>
-				<StartTime>01:43:53</StartTime>
+				<StartTime>01:14:06</StartTime>
 				<EndDate>2017-07-18</EndDate>
-				<EndTime>01:43:56</EndTime>
+				<EndTime>01:16:13</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Sconosciuto</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
+					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="14">
-				<IdName>FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
+				<IdName>ArmaLetale4_cd2_mpeg2video</IdName>
 				<StartDate>2017-07-18</StartDate>
-				<StartTime>01:43:56</StartTime>
+				<StartTime>01:16:13</StartTime>
 				<EndDate>2017-07-18</EndDate>
-				<EndTime>01:49:14</EndTime>
+				<EndTime>02:15:11</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -184,11 +184,24 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="15">
+				<IdName>SPOTtraPROMOVIDEOTV9</IdName>
+				<StartDate>2017-07-18</StartDate>
+				<StartTime>02:15:11</StartTime>
+				<EndDate>2017-07-18</EndDate>
+				<EndTime>02:15:15</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>SPOT PROMOVIDEOTV</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="16">
 				<IdName>gold.il.segno.del.potere.19741∞t.</IdName>
 				<StartDate>2017-07-18</StartDate>
-				<StartTime>01:49:14</StartTime>
+				<StartTime>02:15:15</StartTime>
 				<EndDate>2017-07-18</EndDate>
-				<EndTime>02:50:23</EndTime>
+				<EndTime>03:16:24</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -196,25 +209,12 @@
 					<Description>GOLD  IL SEGNO DEL  POTERE 1∞</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
-				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
-				<StartDate>2017-07-18</StartDate>
-				<StartTime>02:50:23</StartTime>
-				<EndDate>2017-07-18</EndDate>
-				<EndTime>02:59:31</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
 			<Event id="17">
 				<IdName>MagnificaItaliaCalabria_mpeg2video</IdName>
 				<StartDate>2017-07-18</StartDate>
-				<StartTime>02:59:31</StartTime>
+				<StartTime>03:16:24</StartTime>
 				<EndDate>2017-07-18</EndDate>
-				<EndTime>03:51:41</EndTime>
+				<EndTime>04:08:34</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -225,9 +225,9 @@
 			<Event id="18">
 				<IdName>SPOTtraPROMOVIDEOTV9</IdName>
 				<StartDate>2017-07-18</StartDate>
-				<StartTime>03:51:41</StartTime>
+				<StartTime>04:08:34</StartTime>
 				<EndDate>2017-07-18</EndDate>
-				<EndTime>03:51:45</EndTime>
+				<EndTime>04:08:37</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -236,11 +236,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="19">
-				<IdName>FLASHPARTE6DOPOLE22,30</IdName>
+				<IdName>MYTECH9</IdName>
 				<StartDate>2017-07-18</StartDate>
-				<StartTime>03:51:45</StartTime>
+				<StartTime>04:08:37</StartTime>
 				<EndDate>2017-07-18</EndDate>
-				<EndTime>03:56:51</EndTime>
+				<EndTime>04:32:38</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -249,29 +249,29 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="20">
-				<IdName>MYTECH9</IdName>
-				<StartDate>2017-07-18</StartDate>
-				<StartTime>03:56:51</StartTime>
-				<EndDate>2017-07-18</EndDate>
-				<EndTime>04:20:51</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="21">
 				<IdName>AdrianoCelentanoJoanLuiFilmCompleto</IdName>
 				<StartDate>2017-07-18</StartDate>
-				<StartTime>04:20:51</StartTime>
+				<StartTime>04:32:38</StartTime>
 				<EndDate>2017-07-18</EndDate>
-				<EndTime>06:26:30</EndTime>
+				<EndTime>06:38:17</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Sconosciuto</Name>
 					<Description>JOAN LUI</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="21">
+				<IdName>TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
+				<StartDate>2017-07-18</StartDate>
+				<StartTime>06:38:17</StartTime>
+				<EndDate>2017-07-18</EndDate>
+				<EndTime>06:48:22</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
 		</Service>
