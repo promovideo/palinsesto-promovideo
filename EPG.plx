@@ -1,8 +1,5 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-19/07/2017	16:52:57	AmiciMieiAttoII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO II	02:07:00	1	Film
-19/07/2017	18:59:58	SPOTtraPROMOVIDEOTV9	Sconosciuto	SPOT PROMOVIDEOTV	00:00:03	11	spot
-19/07/2017	19:00:01	01-Ilcuore	Sconosciuto	Nuovo File	00:24:04	112	
-19/07/2017	19:24:06	49-UnaSvoltaDecisiva	Sconosciuto	Nuovo File	00:24:39	112	
+19/07/2017	19:24:05	49-UnaSvoltaDecisiva	Sconosciuto	Nuovo File	00:24:39	112	
 19/07/2017	19:48:45	48-Matthewlasciapersemprelasuacasa	Sconosciuto	Nuovo File	00:24:39	112	
 19/07/2017	20:13:25	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
 19/07/2017	22:15:34	ArrivaDurangopagaomuori19711°t.	Arriva Durango paga o muori1971 1°t.	Arriva Durango paga o muori1971  1°t.	00:39:33	1	Film
