@@ -1,41 +1,53 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-23/07/2017	08:49:00	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
-23/07/2017	10:37:31	BonifatiPiccolaGrandeItalia	bonifati	bonifati	00:21:55	71	documentari
-23/07/2017	10:59:27	tg_20150603_51317	Sconosciuto	Nuovo File	00:02:22	0	
-23/07/2017	11:01:49	02-LaSorpresaDiMarillaCuthbert	Sconosciuto	Nuovo File	00:24:39	112	
-23/07/2017	11:26:28	03-Laprimamattinaaitettiverdi	Sconosciuto	Nuovo File	00:24:37	112	
-23/07/2017	11:51:06	03-Loscheletro	Sconosciuto	Nuovo File	00:24:32	112	
-23/07/2017	12:15:39	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-23/07/2017	12:15:49	GeraceconsegnachiaviMuseoDiocesano	Sconosciuto	Nuovo File	00:21:55	0	
-23/07/2017	12:37:45	1959UominiENobiluomini-VittorioDeSicaMarioCarotenuto	Vittorio De Sica Mario Carotenuto 	Uomini e nobiluomini	01:33:50	1	Film
-23/07/2017	14:11:35	PillolaSalute_20150601_51305	Sconosciuto	Nuovo File	00:00:41	0	
-23/07/2017	14:12:17	tg_20150603_51317	Sconosciuto	Nuovo File	00:02:22	0	
-23/07/2017	14:14:40	1961AngeliconlaPistola-GlennFordBetteDavisPeterFalk	Gleen Ford Bette Davis	Angeli con la pistola	02:11:10	1	Film
-23/07/2017	16:25:50	PROMOVIDEOSPOT	PROMOVIDEOSPOT	PROMOVIDEOSOT	00:00:21	11	spot
-23/07/2017	16:26:12	1971BlackKiller-KlausKinskiCarloCroccolo	Carlo Croccolo  Klaus Kinshi	Black Killer	01:31:01	1	Film
-23/07/2017	17:57:13	prometeoTV_20150528_51191	Sconosciuto	Nuovo File	00:03:14	0	
-23/07/2017	18:00:28	SPOTMULTILOGO	Sconosciuto	Nuovo File	00:04:35	0	
-23/07/2017	18:05:03	0114-1968PreparatiLaBara-TerenceHill_mpeg2video	Sconosciuto	PREPARATI LA  BARA	01:28:01	1	Film
-23/07/2017	19:33:05	inItalia_20150211_48398	Sconosciuto	IN  ITALIA	00:01:54	41	programmi culturali
-23/07/2017	19:34:59	1966Parigibrucia_2-Jean-PaulBelmondoAlainDelon	Sconosciuto	Nuovo File	01:18:02	0	
-23/07/2017	20:53:01	1963LeMonachine-CatherineSpaakSylvaKoscinaLandoBuzzanca	1963 Le Monachine	Catherine Spaak Sylva Koscina Lando Buzzanca	01:42:44	1	Film
-23/07/2017	22:35:45	SPOTtraPROMOVIDEOTV10	Sconosciuto	SPOT PROMOVIDEOTV2	00:00:03	11	spot
-23/07/2017	22:35:49	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-23/07/2017	22:36:04	Scusi,MaLeiLePagaLeTasse	Sconosciuto	Scusi  ma Lei le  paga  le tasse	01:33:13	22	
-24/07/2017	00:09:18	SPOTCACCIATORIDITESTE	Sconosciuto	Nuovo File	00:00:45	0	
-24/07/2017	00:10:03	MondialeSynchroDance_Spot30sec	PROMO MONDIALE SYINCRO	PROMO MONDIALE SYNCRO	00:00:31	11	spot
-24/07/2017	00:10:34	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-24/07/2017	00:10:45	SPOTCACCIATORIDITESTE	Sconosciuto	Nuovo File	00:00:45	0	
-24/07/2017	00:11:30	spotcalabriaingustopromovideotv	SPOT CALABRIA IN GUSTO	CALABRIA IN GUSTO SPOT	00:00:57	11	spot
-24/07/2017	00:12:27	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-24/07/2017	00:12:38	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-24/07/2017	00:12:45	SPOTtraPROMOVIDEOTV6	Sconosciuto	SPOTtraPROMOVIDEOTV6	00:00:03	11	spot
-24/07/2017	00:12:49	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-24/07/2017	00:13:04	SPOTtraPROMOVIDEOTV2	Sconosciuto	SPOTPRIMAPUBBLICITA' PROMOV2	00:00:02	0	
-24/07/2017	00:13:07	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	documentari
-24/07/2017	00:34:36	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-24/07/2017	00:34:47	SPOTINTERPUBBLICITARI#3	Sconosciuto	Nuovo File	00:00:07	0	
-24/07/2017	00:34:54	1959-Ciaociaobambina-DomenicoModugnoCifarielloLorellaDeLuca	CIAO CIAO BAMBINA - Modugno	CIAO CIAO  BAMBINA	01:31:55	1	Film
-24/07/2017	02:06:50	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-24/07/2017	02:14:04	Promo_01_MilleVoci_2015	PROMO 1000 VOCI	Nuovo File	00:00:37	0	
-24/07/2017	02:14:42	_1720_Consulentefinanziario	CONSU,ENTE  FINANNZIARIO	CONSULENTE FINANZIARIO	00:19:55	61	Telefilm
+23/07/2017	17:47:53	_1720_Consulentefinanziario	CONSU,ENTE  FINANNZIARIO	CONSULENTE FINANZIARIO	00:19:55	61	Telefilm
+23/07/2017	18:07:48	agrisapori714x28-5-17	Sconosciuto	Nuovo File	00:29:01	0	
+23/07/2017	18:36:50	GERACE-Citt‡millenaria	SPOT GERACE CITT‡1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+23/07/2017	18:37:55	MilleVocibrasiliane-TerzapuntataBrasile_con_logo	MILLE VOCI 3‡P. BRASILANE 2017	MILLE VOCI BRASILIANE 2017	00:56:31	81	videoclip
+23/07/2017	19:34:27	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
+23/07/2017	20:26:32	PROMOVIDEOSPOT1	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:06	11	spot
+23/07/2017	20:26:39	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+23/07/2017	20:26:54	CONVEGNOROTARYsulREGISTROTUMORI21marzo2015	Sconosciuto	CONVEGNO ROTARY	02:09:14	41	programmi culturali
+23/07/2017	22:36:09	FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
+23/07/2017	22:41:26	Gerace	GERACE	GERACE	00:06:01	71	documentari
+23/07/2017	22:47:27	PROMOVIDEOSPOT2	SPOT  PROMOVIDEOTV 2	SPOT  PROMOVIDEOTV 2	00:00:06	11	spot
+23/07/2017	22:47:34	TRAILERPARTE5SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:56	0	
+23/07/2017	22:57:30	CORRADOALVARO---	CORRADO ALVARO	CORRADO ALVARO	00:58:17	41	programmi culturali
+23/07/2017	23:55:48	TartarugheNinja-52Ilduellodeiduelli-parte4	Tartarughe Ninja	52 Il duellodei duelli-parte4	00:19:52	51	cartoni animati
+24/07/2017	00:15:41	TartarugheNinja-55Gliinvasorispaziali-parte2	Tartarughe Ninja	55 Gli invasori spaziali-parte2	00:19:54	51	cartoni animati
+24/07/2017	00:35:35	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
+24/07/2017	00:35:42	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
+24/07/2017	00:40:48	MusicaeTradizioni	MUSICA E TRADIZIONI	MUSICA E TRADIZIONI	00:10:57	71	documentari
+24/07/2017	00:51:46	inItalia_20150204_48221	Sconosciuto	inItalia_2015  02  04	00:01:55	41	programmi culturali
+24/07/2017	00:53:41	044-LaSavanadeiSerengheti(15')eD	LA SAVANA	Nuovo File	00:14:19	71	documentari
+24/07/2017	01:08:00	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
+24/07/2017	01:17:57	MYTECH13	Sconosciuto	Nuovo File	00:24:00	0	
+24/07/2017	01:41:58	IlmegliodiMilleVoci2016_p02-daMilleVoci2016©(480p_25fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	01:01:17	0	
+24/07/2017	02:43:15	inLiberta_20150303_48949	Sconosciuto	in libert‡	00:01:59	41	programmi culturali
+24/07/2017	02:45:15	VideoRicettaTiramis˘Galbani	TIRAMI SU	TIRAMI SU	00:01:40	71	documentari
+24/07/2017	02:46:55	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
+24/07/2017	02:52:01	AmiciMieiAttoII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO II	02:07:00	1	Film
+24/07/2017	04:59:01	SPOTtraPROMOVIDEOTV9	Sconosciuto	SPOT PROMOVIDEOTV	00:00:03	11	spot
+24/07/2017	04:59:05	01-Ilcuore	Sconosciuto	Nuovo File	00:24:04	112	
+24/07/2017	05:23:09	49-UnaSvoltaDecisiva	Sconosciuto	Nuovo File	00:24:39	112	
+24/07/2017	05:47:48	48-Matthewlasciapersemprelasuacasa	Sconosciuto	Nuovo File	00:24:39	112	
+24/07/2017	06:12:28	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
+24/07/2017	08:14:38	ArrivaDurangopagaomuori19711∞t.	Arriva Durango paga o muori1971 1∞t.	Arriva Durango paga o muori1971  1∞t.	00:39:33	1	Film
+24/07/2017	08:54:11	ArrivaDurangopagaomuori19712∞t.	Arriva Durango paga o muori19712∞t.	Arriva Durango paga o muori19712∞t.	00:48:08	1	Film
+24/07/2017	09:42:20	SPOTPUBBLICIT‡PROMOVIDEOTV6	promovideo	primapubblicit‡promovideo	00:00:07	11	spot
+24/07/2017	09:42:27	agrisapori716x11-6-17	Sconosciuto	Nuovo File	00:25:24	0	
+24/07/2017	10:07:51	SPOTCIBRIO-PROMOVIDEOTVOK	Sconosciuto	Nuovo File	00:00:44	0	
+24/07/2017	10:08:36	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+24/07/2017	10:18:41	SPOTtraPROMOVIDEOTV9	Sconosciuto	SPOT PROMOVIDEOTV	00:00:03	11	spot
+24/07/2017	10:18:45	_1718_Ilsolenegliocchi	IL SOLE NEGLI  OCCHI	IL  SOLE NEGLI  OCCHI	00:17:42	61	Telefilm
+24/07/2017	10:36:27	SPOTtraPROMOVIDEOTV8	Sconosciuto	SPOTPROMOVIDEOTV1	00:00:03	11	spot
+24/07/2017	10:36:30	ArmaLetale4_cd1_mpeg2video	Sconosciuto	Nuovo File	00:59:34	22	
+24/07/2017	11:36:05	ArmaLetale4_cd2_mpeg2video	Sconosciuto	Nuovo File	00:58:57	22	
+24/07/2017	12:35:03	SPOTtraPROMOVIDEOTV9	Sconosciuto	SPOT PROMOVIDEOTV	00:00:03	11	spot
+24/07/2017	12:35:06	FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
+24/07/2017	12:40:24	gold.il.segno.del.potere.19741∞t.	GOLD  IL SEGNO DEL  POTERE 1∞	GOLD  IL SEGNO DEL  POTERE 1∞	01:01:09	1	Film
+24/07/2017	13:41:33	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+24/07/2017	13:50:41	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	documentari
+24/07/2017	14:42:51	SPOTtraPROMOVIDEOTV9	Sconosciuto	SPOT PROMOVIDEOTV	00:00:03	11	spot
+24/07/2017	14:42:55	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
+24/07/2017	14:48:01	MYTECH9	Sconosciuto	Nuovo File	00:24:00	0	
+24/07/2017	15:12:01	AdrianoCelentanoJoanLuiFilmCompleto	Sconosciuto	JOAN LUI	02:05:39	1	Film
