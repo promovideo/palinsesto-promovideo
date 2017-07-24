@@ -1,3 +1,65 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-24/07/2017	05:39:10	48-Matthewlasciapersemprelasuacasa	Sconosciuto	Nuovo File	00:24:39	112	
-24/07/2017	06:03:50	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
+24/07/2017	09:28:36	80NOSTALGIA04	Sconosciuto	80NOSTALGIA04	00:32:36	81	videoclip
+24/07/2017	10:01:13	DavidGuetta-RockinRio2013-BrazilHD	Rock in Rio 	David Guetta 	01:08:23	81	videoclip
+24/07/2017	11:09:37	GURUJOSHInfinity2012_mpeg2video(1)	Infinity	GURUJOSH	00:03:34	81	videoclip
+24/07/2017	11:13:11	MAXPEZZALIECCOTI	Eccoti	Max Pezzali	00:04:05	81	videoclip
+24/07/2017	11:17:17	MV_2015_p01	Sconosciuto	MV_2015_p01	00:15:27	81	videoclip
+24/07/2017	11:32:44	MYTECH13	Sconosciuto	Nuovo File	00:24:00	0	
+24/07/2017	11:56:44	GigiDAlessio-Vivi	vivi	Gigi dAlessio	00:03:47	81	videoclip
+24/07/2017	12:00:32	FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
+24/07/2017	12:05:49	SPOTCIBRIO-PROMOVIDEOTVOK	Sconosciuto	Nuovo File	00:00:44	0	
+24/07/2017	12:06:34	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+24/07/2017	12:06:40	GERACE-Citt‡millenaria	SPOT GERACE CITT‡1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+24/07/2017	12:07:45	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+24/07/2017	12:07:52	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
+24/07/2017	12:10:22	agrisapori714x28-5-17	Sconosciuto	Nuovo File	00:29:01	0	
+24/07/2017	12:39:23	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
+24/07/2017	13:31:29	PROMOVIDEOSPOT1	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:06	11	spot
+24/07/2017	13:31:35	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+24/07/2017	13:31:51	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
+24/07/2017	13:39:06	GeracepresentatoilDiariofotograficodi25annidicammino(byEL)	LIBRO  FOTOGRAFICO 25  ANNI  DI  CAMMINO	GERACE 25  ANNI  DI CAMMINO	00:31:39	41	programmi culturali
+24/07/2017	14:10:45	MilleVocibrasiliane-TerzapuntataBrasile_con_logo	MILLE VOCI 3‡P. BRASILANE 2017	MILLE VOCI BRASILIANE 2017	00:56:31	81	videoclip
+24/07/2017	15:07:17	FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
+24/07/2017	15:12:34	Gerace	GERACE	GERACE	00:06:01	71	documentari
+24/07/2017	15:18:35	PROMOVIDEOSPOT2	SPOT  PROMOVIDEOTV 2	SPOT  PROMOVIDEOTV 2	00:00:06	11	spot
+24/07/2017	15:18:42	TRAILERPARTE5SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:56	0	
+24/07/2017	15:28:39	CORRADOALVARO---	CORRADO ALVARO	CORRADO ALVARO	00:58:17	41	programmi culturali
+24/07/2017	16:26:56	TartarugheNinja-52Ilduellodeiduelli-parte4	Tartarughe Ninja	52 Il duellodei duelli-parte4	00:19:52	51	cartoni animati
+24/07/2017	16:46:49	TartarugheNinja-55Gliinvasorispaziali-parte2	Tartarughe Ninja	55 Gli invasori spaziali-parte2	00:19:54	51	cartoni animati
+24/07/2017	17:06:43	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
+24/07/2017	17:06:50	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
+24/07/2017	17:11:56	GERACE-Citt‡millenaria	SPOT GERACE CITT‡1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+24/07/2017	17:13:01	inItalia_20150204_48221	Sconosciuto	inItalia_2015  02  04	00:01:55	41	programmi culturali
+24/07/2017	17:14:56	MV_2015_p11	mille voci 2015	Mille voci  2015 p. 11	01:45:16	81	videoclip
+24/07/2017	19:00:12	044-LaSavanadeiSerengheti(15')eD	LA SAVANA	Nuovo File	00:14:19	71	documentari
+24/07/2017	19:14:32	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
+24/07/2017	19:24:29	MYTECH13	Sconosciuto	Nuovo File	00:24:00	0	
+24/07/2017	19:48:29	IlmegliodiMilleVoci2016_p02-daMilleVoci2016©(480p_25fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	01:01:17	0	
+24/07/2017	20:49:47	TartarugheNinja-26AllaricercadiSplinter-parte2	Sconosciuto	Nuovo File	00:21:20	0	
+24/07/2017	21:11:07	TartarugheNinja-25AllaricercadiSplinter-parte1	Sconosciuto	Nuovo File	00:22:11	0	
+24/07/2017	21:33:18	inLiberta_20150303_48949	Sconosciuto	in libert‡	00:01:59	41	programmi culturali
+24/07/2017	21:35:18	VideoRicettaTiramis˘Galbani	TIRAMI SU	TIRAMI SU	00:01:40	71	documentari
+24/07/2017	21:36:58	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
+24/07/2017	21:42:04	AmiciMieiAttoII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO II	02:07:00	1	Film
+24/07/2017	23:49:04	SPOTtraPROMOVIDEOTV9	Sconosciuto	SPOT PROMOVIDEOTV	00:00:03	11	spot
+24/07/2017	23:49:08	SPOTCIBRIO-PROMOVIDEOTVOK	Sconosciuto	Nuovo File	00:00:44	0	
+24/07/2017	23:49:52	01-Ilcuore	Sconosciuto	Nuovo File	00:24:04	112	
+25/07/2017	00:13:57	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
+25/07/2017	02:16:06	ArrivaDurangopagaomuori19712∞t.	Arriva Durango paga o muori19712∞t.	Arriva Durango paga o muori19712∞t.	00:48:08	1	Film
+25/07/2017	03:04:15	SPOTPUBBLICIT‡PROMOVIDEOTV6	promovideo	primapubblicit‡promovideo	00:00:07	11	spot
+25/07/2017	03:04:22	agrisapori716x11-6-17	Sconosciuto	Nuovo File	00:25:24	0	
+25/07/2017	03:29:46	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+25/07/2017	03:39:52	SPOTtraPROMOVIDEOTV9	Sconosciuto	SPOT PROMOVIDEOTV	00:00:03	11	spot
+25/07/2017	03:39:55	_1718_Ilsolenegliocchi	IL SOLE NEGLI  OCCHI	IL  SOLE NEGLI  OCCHI	00:17:42	61	Telefilm
+25/07/2017	03:57:37	SPOTtraPROMOVIDEOTV8	Sconosciuto	SPOTPROMOVIDEOTV1	00:00:03	11	spot
+25/07/2017	03:57:41	ArmaLetale4_cd1_mpeg2video	Sconosciuto	Nuovo File	00:59:34	22	
+25/07/2017	04:57:15	ArmaLetale4_cd2_mpeg2video	Sconosciuto	Nuovo File	00:58:57	22	
+25/07/2017	05:56:13	SPOTtraPROMOVIDEOTV9	Sconosciuto	SPOT PROMOVIDEOTV	00:00:03	11	spot
+25/07/2017	05:56:17	FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
+25/07/2017	06:01:34	MYTECH9	Sconosciuto	Nuovo File	00:24:00	0	
+25/07/2017	06:25:34	gold.il.segno.del.potere.19741∞t.	GOLD  IL SEGNO DEL  POTERE 1∞	GOLD  IL SEGNO DEL  POTERE 1∞	01:01:09	1	Film
+25/07/2017	07:26:44	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+25/07/2017	07:35:52	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	documentari
+25/07/2017	08:28:02	SPOTtraPROMOVIDEOTV9	Sconosciuto	SPOT PROMOVIDEOTV	00:00:03	11	spot
+25/07/2017	08:28:05	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
+25/07/2017	08:33:11	AdrianoCelentanoJoanLuiFilmCompleto	Sconosciuto	JOAN LUI	02:05:39	1	Film
