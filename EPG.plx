@@ -1,40 +1,41 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-27/07/2017	08:39:52	jerry.lewis.l.idolo.delle.donne.19611°t.	L' IDOLO DELLE DONNE 1°	L' IDOLO DELLE DONNE 1°	00:47:12	1	Film
-27/07/2017	09:27:04	Arma.Da.Taglio.19722°t	ARMA DA TAGLIO 2°	ARMA DA TAGLIO 2°	00:37:18	1	Film
-27/07/2017	10:04:22	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-27/07/2017	10:05:28	benessere_20150715_52345	Sconosciuto	Nuovo File	00:01:11	0	
-27/07/2017	10:06:39	Bowfinger_1_mpeg2video	Sconosciuto	BOWFINGER 1P	00:44:18	1	Film
-27/07/2017	10:50:58	Bowfinger_2_mpeg2video	Sconosciuto	BOWFINGER 2 P	00:48:07	1	Film
-27/07/2017	11:39:05	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-27/07/2017	11:39:20	ZAGORTVSatanik19671°t.	ZAGORTV SATANIK 1° T	ZAGORTV SATANIK 1° T	00:47:05	1	Film
-27/07/2017	12:26:25	ZAGORTVSatanik19672°t.	ZAGOR TV SATANIK 2° T	ZAGOR TV SATANIK 2° T	00:36:09	1	Film
-27/07/2017	13:02:34	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-27/07/2017	13:03:15	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
-27/07/2017	14:54:57	VeneGearce-dibattitoscuola2107017	Sconosciuto	Nuovo File	00:10:32	0	
-27/07/2017	15:05:29	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
-27/07/2017	17:07:39	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-27/07/2017	17:07:46	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
-27/07/2017	17:29:59	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
-27/07/2017	17:35:05	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
-27/07/2017	19:05:40	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-27/07/2017	19:05:47	LibrocasinoMacrì_mpeg2video	LIBRO CASINO' MACRI	LIBRO CASINO MACRI'	01:05:03	41	programmi culturali
-27/07/2017	20:10:50	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
-27/07/2017	22:01:26	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-27/07/2017	22:01:32	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
-27/07/2017	22:04:02	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-27/07/2017	22:04:09	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-27/07/2017	22:04:20	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-27/07/2017	22:04:26	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
-27/07/2017	23:27:35	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
-28/07/2017	00:19:41	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
-28/07/2017	02:08:12	ReggioCalabriaAerialdroneByAntonioLobello(1080p_30fps_H264128kbit_AAC)	Sconosciuto	Nuovo File	00:04:04	0	
-28/07/2017	02:12:17	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-28/07/2017	02:12:32	PIXMIND17	Sconosciuto	Nuovo File	00:24:00	0	
-28/07/2017	02:36:32	agrisapori716x11-6-17	Sconosciuto	Nuovo File	00:25:24	0	
-28/07/2017	03:01:56	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-28/07/2017	03:12:02	FormulaMotoriestate(1)(1)	Sconosciuto	FORMULA MOTORI ESTATE	00:24:02	0	
-28/07/2017	03:36:04	IlVizietto1°t.	IL VIZIETTO 1° T	IL VIZIETTO 1° T	00:48:41	1	Film
-28/07/2017	04:24:46	IlVizietto2°t.	IL VIZIETTO 2° T	IL VIZIETTO 2° T	00:44:25	1	Film
-28/07/2017	05:09:11	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-28/07/2017	05:09:18	_1779_Recanatese_Lunaametà	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
-28/07/2017	05:17:36	Gerace	GERACE	GERACE	00:06:01	71	documentari
+27/07/2017	18:28:05	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
+27/07/2017	20:16:36	BonifatiPiccolaGrandeItalia	bonifati	bonifati	00:21:55	71	documentari
+27/07/2017	20:38:31	tg_20150603_51317	Sconosciuto	Nuovo File	00:02:22	0	
+27/07/2017	20:40:54	02-LaSorpresaDiMarillaCuthbert	Sconosciuto	Nuovo File	00:24:39	112	
+27/07/2017	21:05:33	03-Laprimamattinaaitettiverdi	Sconosciuto	Nuovo File	00:24:37	112	
+27/07/2017	21:30:11	03-Loscheletro	Sconosciuto	Nuovo File	00:24:32	112	
+27/07/2017	21:54:43	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+27/07/2017	21:54:54	GeraceconsegnachiaviMuseoDiocesano	Sconosciuto	Nuovo File	00:21:55	0	
+27/07/2017	22:16:49	1959UominiENobiluomini-VittorioDeSicaMarioCarotenuto	Vittorio De Sica Mario Carotenuto 	Uomini e nobiluomini	01:33:50	1	Film
+27/07/2017	23:50:40	PillolaSalute_20150601_51305	Sconosciuto	Nuovo File	00:00:41	0	
+27/07/2017	23:51:21	tg_20150603_51317	Sconosciuto	Nuovo File	00:02:22	0	
+27/07/2017	23:53:44	1961AngeliconlaPistola-GlennFordBetteDavisPeterFalk	Gleen Ford Bette Davis	Angeli con la pistola	02:11:10	1	Film
+28/07/2017	02:04:55	PROMOVIDEOSPOT	PROMOVIDEOSPOT	PROMOVIDEOSOT	00:00:21	11	spot
+28/07/2017	02:05:17	1971BlackKiller-KlausKinskiCarloCroccolo	Carlo Croccolo  Klaus Kinshi	Black Killer	01:31:01	1	Film
+28/07/2017	03:36:18	prometeoTV_20150528_51191	Sconosciuto	Nuovo File	00:03:14	0	
+28/07/2017	03:39:33	SPOTMULTILOGO	Sconosciuto	Nuovo File	00:04:35	0	
+28/07/2017	03:44:08	0114-1968PreparatiLaBara-TerenceHill_mpeg2video	Sconosciuto	PREPARATI LA  BARA	01:28:01	1	Film
+28/07/2017	05:12:09	inItalia_20150211_48398	Sconosciuto	IN  ITALIA	00:01:54	41	programmi culturali
+28/07/2017	05:14:03	1966Parigibrucia_2-Jean-PaulBelmondoAlainDelon	Sconosciuto	Nuovo File	01:18:02	0	
+28/07/2017	06:32:06	1963LeMonachine-CatherineSpaakSylvaKoscinaLandoBuzzanca	1963 Le Monachine	Catherine Spaak Sylva Koscina Lando Buzzanca	01:42:44	1	Film
+28/07/2017	08:14:50	SPOTtraPROMOVIDEOTV10	Sconosciuto	SPOT PROMOVIDEOTV2	00:00:03	11	spot
+28/07/2017	08:14:53	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+28/07/2017	08:15:09	Scusi,MaLeiLePagaLeTasse	Sconosciuto	Scusi  ma Lei le  paga  le tasse	01:33:13	22	
+28/07/2017	09:48:22	SPOTCACCIATORIDITESTE	Sconosciuto	Nuovo File	00:00:45	0	
+28/07/2017	09:49:07	MondialeSynchroDance_Spot30sec	PROMO MONDIALE SYINCRO	PROMO MONDIALE SYNCRO	00:00:31	11	spot
+28/07/2017	09:49:39	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+28/07/2017	09:49:50	SPOTCACCIATORIDITESTE	Sconosciuto	Nuovo File	00:00:45	0	
+28/07/2017	09:50:35	spotcalabriaingustopromovideotv	SPOT CALABRIA IN GUSTO	CALABRIA IN GUSTO SPOT	00:00:57	11	spot
+28/07/2017	09:51:32	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+28/07/2017	09:51:43	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+28/07/2017	09:51:50	SPOTtraPROMOVIDEOTV6	Sconosciuto	SPOTtraPROMOVIDEOTV6	00:00:03	11	spot
+28/07/2017	09:51:53	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+28/07/2017	09:52:09	SPOTtraPROMOVIDEOTV2	Sconosciuto	SPOTPRIMAPUBBLICITA' PROMOV2	00:00:02	0	
+28/07/2017	09:52:11	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	documentari
+28/07/2017	10:13:40	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+28/07/2017	10:13:51	SPOTINTERPUBBLICITARI#3	Sconosciuto	Nuovo File	00:00:07	0	
+28/07/2017	10:13:59	1959-Ciaociaobambina-DomenicoModugnoCifarielloLorellaDeLuca	CIAO CIAO BAMBINA - Modugno	CIAO CIAO  BAMBINA	01:31:55	1	Film
+28/07/2017	11:45:54	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
+28/07/2017	11:53:09	Promo_01_MilleVoci_2015	PROMO 1000 VOCI	Nuovo File	00:00:37	0	
+28/07/2017	11:53:46	_1720_Consulentefinanziario	CONSU,ENTE  FINANNZIARIO	CONSULENTE FINANZIARIO	00:19:55	61	Telefilm
