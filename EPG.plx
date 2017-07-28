@@ -1,30 +1,17 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-28/07/2017	05:26:38	CORRADOALVARO---	CORRADO ALVARO	CORRADO ALVARO	00:58:17	41	programmi culturali
-28/07/2017	06:24:56	TartarugheNinja-52Ilduellodeiduelli-parte4	Tartarughe Ninja	52 Il duellodei duelli-parte4	00:19:52	51	cartoni animati
-28/07/2017	06:44:49	TartarugheNinja-55Gliinvasorispaziali-parte2	Tartarughe Ninja	55 Gli invasori spaziali-parte2	00:19:54	51	cartoni animati
-28/07/2017	07:04:43	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-28/07/2017	07:04:50	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
-28/07/2017	07:09:56	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-28/07/2017	07:11:01	inItalia_20150204_48221	Sconosciuto	inItalia_2015  02  04	00:01:55	41	programmi culturali
-28/07/2017	07:12:56	MV_2015_p11	mille voci 2015	Mille voci  2015 p. 11	01:45:16	81	videoclip
-28/07/2017	08:58:12	044-LaSavanadeiSerengheti(15')eD	LA SAVANA	Nuovo File	00:14:19	71	documentari
-28/07/2017	09:12:31	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
-28/07/2017	09:22:29	MYTECH13	Sconosciuto	Nuovo File	00:24:00	0	
-28/07/2017	09:46:29	IlmegliodiMilleVoci2016_p02-daMilleVoci2016©(480p_25fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	01:01:17	0	
-28/07/2017	10:47:46	TartarugheNinja-26AllaricercadiSplinter-parte2	Sconosciuto	Nuovo File	00:21:20	0	
-28/07/2017	11:09:07	TartarugheNinja-25AllaricercadiSplinter-parte1	Sconosciuto	Nuovo File	00:22:11	0	
-28/07/2017	11:31:18	inLiberta_20150303_48949	Sconosciuto	in libertà	00:01:59	41	programmi culturali
-28/07/2017	11:33:18	VideoRicettaTiramisùGalbani	TIRAMI SU	TIRAMI SU	00:01:40	71	documentari
-28/07/2017	11:34:58	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
-28/07/2017	11:40:04	AmiciMieiAttoII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO II	02:07:00	1	Film
-28/07/2017	13:47:04	SPOTtraPROMOVIDEOTV9	Sconosciuto	SPOT PROMOVIDEOTV	00:00:03	11	spot
-28/07/2017	13:47:08	SPOTCIBRIO-PROMOVIDEOTVOK	Sconosciuto	Nuovo File	00:00:44	0	
-28/07/2017	13:47:52	01-Ilcuore	Sconosciuto	Nuovo File	00:24:04	112	
-28/07/2017	14:11:57	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
-28/07/2017	16:14:06	ArrivaDurangopagaomuori19712°t.	Arriva Durango paga o muori19712°t.	Arriva Durango paga o muori19712°t.	00:48:08	1	Film
-28/07/2017	17:02:14	SPOTPUBBLICITàPROMOVIDEOTV6	promovideo	primapubblicitàpromovideo	00:00:07	11	spot
-28/07/2017	17:02:22	agrisapori716x11-6-17	Sconosciuto	Nuovo File	00:25:24	0	
-28/07/2017	17:27:46	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+28/07/2017	09:26:21	IlmegliodiMilleVoci2016_p02-daMilleVoci2016©(480p_25fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	01:01:17	0	
+28/07/2017	10:27:39	inLiberta_20150303_48949	Sconosciuto	in libertà	00:01:59	41	programmi culturali
+28/07/2017	10:29:39	VideoRicettaTiramisùGalbani	TIRAMI SU	TIRAMI SU	00:01:40	71	documentari
+28/07/2017	10:31:19	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
+28/07/2017	10:36:25	AmiciMieiAttoII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO II	02:07:00	1	Film
+28/07/2017	12:43:25	SPOTtraPROMOVIDEOTV9	Sconosciuto	SPOT PROMOVIDEOTV	00:00:03	11	spot
+28/07/2017	12:43:28	SPOTCIBRIO-PROMOVIDEOTVOK	Sconosciuto	Nuovo File	00:00:44	0	
+28/07/2017	12:44:13	01-Ilcuore	Sconosciuto	Nuovo File	00:24:04	112	
+28/07/2017	13:08:17	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
+28/07/2017	15:10:27	ArrivaDurangopagaomuori19712°t.	Arriva Durango paga o muori19712°t.	Arriva Durango paga o muori19712°t.	00:48:08	1	Film
+28/07/2017	15:58:35	SPOTPUBBLICITàPROMOVIDEOTV6	promovideo	primapubblicitàpromovideo	00:00:07	11	spot
+28/07/2017	15:58:43	agrisapori716x11-6-17	Sconosciuto	Nuovo File	00:25:24	0	
+28/07/2017	16:24:07	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
 28/07/2017	01:44:00	SPOTtraPROMOVIDEOTV9	Sconosciuto	SPOT PROMOVIDEOTV	00:00:03	11	spot
 28/07/2017	01:44:03	_1718_Ilsolenegliocchi	IL SOLE NEGLI  OCCHI	IL  SOLE NEGLI  OCCHI	00:17:42	61	Telefilm
 28/07/2017	02:01:45	SPOTtraPROMOVIDEOTV8	Sconosciuto	SPOTPROMOVIDEOTV1	00:00:03	11	spot
@@ -39,3 +26,67 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 28/07/2017	06:32:10	SPOTtraPROMOVIDEOTV9	Sconosciuto	SPOT PROMOVIDEOTV	00:00:03	11	spot
 28/07/2017	06:32:13	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
 28/07/2017	06:37:19	AdrianoCelentanoJoanLuiFilmCompleto	Sconosciuto	JOAN LUI	02:05:39	1	Film
+28/07/2017	06:00:00	AllexinnoStarchildSenorita_mpeg2video(1)	Senorita	Alexino	00:03:37	81	videoclip
+28/07/2017	06:03:37	MAXPEZZALIECCOTI	Eccoti	Max Pezzali	00:04:05	81	videoclip
+28/07/2017	06:07:42	CalvinHarris-Summer	SUMMER	CALVIN HARRIS	00:03:53	81	videoclip
+28/07/2017	06:11:36	AlexMicaDalinda	Dalinda	Alex Mica	00:03:25	81	videoclip
+28/07/2017	06:15:02	AllexinnoStarchildNadaSemVoc(withlyrics)	Starchild Nada Sem Voc	ALEXINNO	00:03:46	81	videoclip
+28/07/2017	06:18:48	AllexinnoStarchildSenorita	Starchild Senorita	Allexinno	00:03:37	81	videoclip
+28/07/2017	06:22:25	AllexinnoStarchildSenorita_mpeg2video(1)	Senorita	Alexino	00:03:37	81	videoclip
+28/07/2017	06:26:03	CleanBandit-Extraordinary(feat.SharnaBass)(OfficialVideo)	EXTRAORINARY	CLEAN BLANDIT	00:04:16	81	videoclip
+28/07/2017	06:30:19	CleanBandit-RatherBe(feat.JessGlynne)(OfficialVideo)	RATHER BE	CLEAN BANDIT	00:04:28	81	videoclip
+28/07/2017	06:34:47	MV_2015_p01	Sconosciuto	MV_2015_p01	00:15:27	81	videoclip
+28/07/2017	06:50:15	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
+28/07/2017	07:00:12	MuseoEgiziodelCairo(parte3)	MUSEO EGIZIO DEL CAIRO 3^ P	MUSEO EGIZIO DEL CAIRO 3^ P	00:29:05	41	programmi culturali
+28/07/2017	07:29:17	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+28/07/2017	07:38:25	italiaEconomia_20150311_49151	Sconosciuto	Nuovo File	00:08:29	0	
+28/07/2017	07:46:55	Promo_01_MilleVoci_2015	PROMO 1000 VOCI	Nuovo File	00:00:37	0	
+28/07/2017	07:47:33	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
+28/07/2017	07:57:30	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+28/07/2017	07:58:35	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+28/07/2017	07:58:46	2012VUEMMESPOT	VUEMMEFAST	VUEMMEFAST	00:00:37	11	spot
+28/07/2017	07:59:23	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
+28/07/2017	08:23:47	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+28/07/2017	08:32:55	inTavola_20150226_48823	Sconosciuto	Nuovo File	00:01:58	0	
+28/07/2017	08:34:53	TRAILERPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:10:04	0	
+28/07/2017	08:44:58	GeracepresentatoilDiariofotograficodi25annidicammino(byEL)	LIBRO  FOTOGRAFICO 25  ANNI  DI  CAMMINO	GERACE 25  ANNI  DI CAMMINO	00:31:39	41	programmi culturali
+28/07/2017	09:16:37	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+28/07/2017	09:16:44	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+28/07/2017	09:16:59	jerry.lewis.l.idolo.delle.donne.19611°t.	L' IDOLO DELLE DONNE 1°	L' IDOLO DELLE DONNE 1°	00:47:12	1	Film
+28/07/2017	10:04:12	Arma.Da.Taglio.19722°t	ARMA DA TAGLIO 2°	ARMA DA TAGLIO 2°	00:37:18	1	Film
+28/07/2017	10:41:30	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+28/07/2017	10:42:35	benessere_20150715_52345	Sconosciuto	Nuovo File	00:01:11	0	
+28/07/2017	10:43:47	Bowfinger_1_mpeg2video	Sconosciuto	BOWFINGER 1P	00:44:18	1	Film
+28/07/2017	11:28:05	Bowfinger_2_mpeg2video	Sconosciuto	BOWFINGER 2 P	00:48:07	1	Film
+28/07/2017	12:16:13	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
+28/07/2017	12:16:28	ZAGORTVSatanik19671°t.	ZAGORTV SATANIK 1° T	ZAGORTV SATANIK 1° T	00:47:05	1	Film
+28/07/2017	13:03:33	ZAGORTVSatanik19672°t.	ZAGOR TV SATANIK 2° T	ZAGOR TV SATANIK 2° T	00:36:09	1	Film
+28/07/2017	13:39:42	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
+28/07/2017	13:40:22	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
+28/07/2017	15:32:05	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
+28/07/2017	17:34:15	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
+28/07/2017	17:34:21	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
+28/07/2017	17:56:34	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
+28/07/2017	18:01:40	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
+28/07/2017	19:32:15	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+28/07/2017	19:32:22	LibrocasinoMacrì_mpeg2video	LIBRO CASINO' MACRI	LIBRO CASINO MACRI'	01:05:03	41	programmi culturali
+28/07/2017	20:37:25	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
+28/07/2017	22:28:01	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+28/07/2017	22:28:08	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
+28/07/2017	22:30:37	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+28/07/2017	22:30:44	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+28/07/2017	22:30:55	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+28/07/2017	22:31:02	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
+28/07/2017	23:54:11	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
+29/07/2017	00:46:16	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
+29/07/2017	02:34:47	ReggioCalabriaAerialdroneByAntonioLobello(1080p_30fps_H264128kbit_AAC)	Sconosciuto	Nuovo File	00:04:04	0	
+29/07/2017	02:38:52	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+29/07/2017	02:39:07	PIXMIND17	Sconosciuto	Nuovo File	00:24:00	0	
+29/07/2017	03:03:07	agrisapori716x11-6-17	Sconosciuto	Nuovo File	00:25:24	0	
+29/07/2017	03:28:32	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+29/07/2017	03:38:37	FormulaMotoriestate(1)(1)	Sconosciuto	FORMULA MOTORI ESTATE	00:24:02	0	
+29/07/2017	04:02:39	IlVizietto1°t.	IL VIZIETTO 1° T	IL VIZIETTO 1° T	00:48:41	1	Film
+29/07/2017	04:51:21	IlVizietto2°t.	IL VIZIETTO 2° T	IL VIZIETTO 2° T	00:44:25	1	Film
+29/07/2017	05:35:47	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+29/07/2017	05:35:53	_1779_Recanatese_Lunaametà	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
+29/07/2017	05:44:11	Gerace	GERACE	GERACE	00:06:01	71	documentari
