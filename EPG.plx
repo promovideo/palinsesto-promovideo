@@ -1,19 +1,14 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-31/07/2017	17:05:15	100CosimoCammeo_mpeg2video	Sconosciuto	Nuovo File	00:29:58	0	
-31/07/2017	17:35:13	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-31/07/2017	17:35:20	IlmegliodiMilleVoci2016_p05-daMilleVoci2016©(720p_30fps_H264-192kbit_AAC)	Sconosciuto	Nuovo File	00:45:48	0	
-31/07/2017	18:21:08	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-31/07/2017	18:21:15	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
 31/07/2017	18:23:44	UFOLeProve	Sconosciuto	Ufo le  prove	01:22:13	1	Film
-31/07/2017	19:45:58	FLASHPARTE7DOPOLE22,30	Sconosciuto	Nuovo File	00:05:11	0	
+31/07/2017	19:45:57	FLASHPARTE7DOPOLE22,30	Sconosciuto	Nuovo File	00:05:11	0	
 31/07/2017	19:51:09	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 31/07/2017	19:51:16	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
 31/07/2017	19:51:27	Moschetta2012_mpeg2video	Moschetta 2012	Moschetta 2012	01:26:04	41	programmi culturali
 31/07/2017	21:17:31	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
 31/07/2017	21:17:38	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
 31/07/2017	22:40:47	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
-31/07/2017	23:32:53	LeComiche2	Sconosciuto	Le comiche 2	01:27:16	22	
-01/08/2017	01:00:09	JuwannaMann_mpeg2video	Sconosciuto	Juawanna Mann	01:26:54	1	Film
+31/07/2017	23:32:52	LeComiche2	Sconosciuto	Le comiche 2	01:27:16	22	
+01/08/2017	01:00:08	JuwannaMann_mpeg2video	Sconosciuto	Juawanna Mann	01:26:54	1	Film
 01/08/2017	02:27:03	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
 01/08/2017	02:27:19	FLASHPARTE8DOPOLE22,30	Sconosciuto	Nuovo File	00:05:11	0	
 01/08/2017	02:32:30	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
