@@ -2,50 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Moschetta2012_mpeg2video</IdName>
-				<StartDate>2017-08-01</StartDate>
-				<StartTime>18:55:00</StartTime>
-				<EndDate>2017-08-01</EndDate>
-				<EndTime>20:21:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Moschetta 2012</Name>
-					<Description>Moschetta 2012</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2017-08-01</StartDate>
-				<StartTime>20:21:05</StartTime>
-				<EndDate>2017-08-01</EndDate>
-				<EndTime>20:21:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
-				<StartDate>2017-08-01</StartDate>
-				<StartTime>20:21:11</StartTime>
-				<EndDate>2017-08-01</EndDate>
-				<EndTime>21:44:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>BELLEZZE SULLA SPIAGGIA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
 				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
 				<StartDate>2017-08-01</StartDate>
 				<StartTime>21:44:20</StartTime>
 				<EndDate>2017-08-01</EndDate>
-				<EndTime>22:36:26</EndTime>
+				<EndTime>22:36:25</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -53,10 +14,10 @@
 					<Description>ANIMALI SERPENTI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="2">
 				<IdName>LeComiche2</IdName>
 				<StartDate>2017-08-01</StartDate>
-				<StartTime>22:36:26</StartTime>
+				<StartTime>22:36:25</StartTime>
 				<EndDate>2017-08-02</EndDate>
 				<EndTime>00:03:42</EndTime>
 				<ShortEventDescription>
@@ -66,7 +27,7 @@
 					<Description>Le comiche 2</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="3">
 				<IdName>JuwannaMann_mpeg2video</IdName>
 				<StartDate>2017-08-02</StartDate>
 				<StartTime>00:03:42</StartTime>
@@ -79,7 +40,7 @@
 					<Description>Juawanna Mann</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="4">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2017-08-02</StartDate>
 				<StartTime>01:30:36</StartTime>
@@ -92,12 +53,12 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="5">
 				<IdName>FLASHPARTE8DOPOLE22,30</IdName>
 				<StartDate>2017-08-02</StartDate>
 				<StartTime>01:30:52</StartTime>
 				<EndDate>2017-08-02</EndDate>
-				<EndTime>01:36:04</EndTime>
+				<EndTime>01:36:03</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -105,10 +66,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="6">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-08-02</StartDate>
-				<StartTime>01:36:04</StartTime>
+				<StartTime>01:36:03</StartTime>
 				<EndDate>2017-08-02</EndDate>
 				<EndTime>01:36:10</EndTime>
 				<ShortEventDescription>
@@ -118,7 +79,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="7">
 				<IdName>_1779_Recanatese_Lunaametà</IdName>
 				<StartDate>2017-08-02</StartDate>
 				<StartTime>01:36:10</StartTime>
@@ -131,7 +92,7 @@
 					<Description>RECANATESE  LUNA A METa'</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="8">
 				<IdName>Gerace</IdName>
 				<StartDate>2017-08-02</StartDate>
 				<StartTime>01:44:28</StartTime>
@@ -144,7 +105,7 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="9">
 				<IdName>Ragazzepompom_mpeg2video</IdName>
 				<StartDate>2017-08-02</StartDate>
 				<StartTime>01:50:29</StartTime>
@@ -157,7 +118,7 @@
 					<Description>Ragazze pom pom</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="10">
 				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
 				<StartDate>2017-08-02</StartDate>
 				<StartTime>03:15:44</StartTime>
@@ -170,7 +131,7 @@
 					<Description>CRASH CONTATTO  FINALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="11">
 				<IdName>Adoppiamandata_mpeg2video</IdName>
 				<StartDate>2017-08-02</StartDate>
 				<StartTime>05:04:15</StartTime>
@@ -183,7 +144,7 @@
 					<Description>A DOPPIA MANDATA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="12">
 				<IdName>Relax&Tone_15</IdName>
 				<StartDate>2017-08-02</StartDate>
 				<StartTime>06:28:23</StartTime>
