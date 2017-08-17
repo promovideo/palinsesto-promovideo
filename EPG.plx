@@ -1,12 +1,11 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-17/08/2017	18:19:34	Scuoladipolizia6_mpeg2video	Sconosciuto	Scuola d i polizia 6	01:19:55	1	Film
 17/08/2017	19:39:30	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
 17/08/2017	21:31:12	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
 17/08/2017	21:31:19	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
 17/08/2017	21:53:32	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
 17/08/2017	21:58:38	PiedoneAHongKong	Sconosciuto	Piedone ad Hong Gong	01:50:01	22	
 17/08/2017	23:48:39	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-17/08/2017	23:48:45	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+17/08/2017	23:48:46	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 17/08/2017	23:48:52	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
 17/08/2017	23:51:22	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 17/08/2017	23:51:29	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
