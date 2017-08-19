@@ -1,11 +1,8 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-19/08/2017	17:15:45	ZAGORTVSatanik19672°t.	ZAGOR TV SATANIK 2° T	ZAGOR TV SATANIK 2° T	00:36:09	1	Film
-19/08/2017	17:51:54	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-19/08/2017	17:52:34	Scuoladipolizia6_mpeg2video	Sconosciuto	Scuola d i polizia 6	01:19:55	1	Film
 19/08/2017	19:12:29	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
 19/08/2017	21:04:12	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
 19/08/2017	21:04:19	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
-19/08/2017	21:26:32	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+19/08/2017	21:26:31	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
 19/08/2017	21:36:37	Millevoci_2017_Puntata_09_di_13	Sconosciuto	Nuovo File	01:53:38	0	
 19/08/2017	23:30:15	PiedoneAHongKong	Sconosciuto	Piedone ad Hong Gong	01:50:01	22	
 20/08/2017	01:20:16	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
@@ -20,9 +17,9 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 20/08/2017	03:47:46	UFOLeProve	Sconosciuto	Ufo le  prove	01:22:13	1	Film
 20/08/2017	05:09:59	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
 20/08/2017	05:10:15	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-20/08/2017	05:10:22	MV_2015_p13	MILLE VOCI	MV_2015_p13	00:10:13	81	videoclip
+20/08/2017	05:10:21	MV_2015_p13	MILLE VOCI	MV_2015_p13	00:10:13	81	videoclip
 20/08/2017	05:20:35	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-20/08/2017	05:30:41	_1779_Recanatese_Lunaametà	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
+20/08/2017	05:30:40	_1779_Recanatese_Lunaametà	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
 20/08/2017	05:38:58	Amy'sO-FinalmenteL'Amore		Finalmente l' amore	01:23:26	22	
-20/08/2017	07:02:25	Gerace	GERACE	GERACE	00:06:01	71	documentari
-20/08/2017	07:08:26	CONFERENZASTAMPAAAAAAAAAA	conferenza stampa gratteri cosenza	Nuovo File	00:11:40	41	programmi culturali
+20/08/2017	07:02:24	Gerace	GERACE	GERACE	00:06:01	71	documentari
+20/08/2017	07:08:25	CONFERENZASTAMPAAAAAAAAAA	conferenza stampa gratteri cosenza	Nuovo File	00:11:40	41	programmi culturali
