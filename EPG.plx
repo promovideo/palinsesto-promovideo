@@ -1,7 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-20/08/2017	16:47:52	ZAGORTVSatanik19671°t.	ZAGORTV SATANIK 1° T	ZAGORTV SATANIK 1° T	00:47:05	1	Film
-20/08/2017	17:34:57	ZAGORTVSatanik19672°t.	ZAGOR TV SATANIK 2° T	ZAGOR TV SATANIK 2° T	00:36:09	1	Film
-20/08/2017	18:11:06	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
 20/08/2017	18:11:46	Scuoladipolizia6_mpeg2video	Sconosciuto	Scuola d i polizia 6	01:19:55	1	Film
 20/08/2017	19:31:41	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
 20/08/2017	21:23:24	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
@@ -18,10 +15,10 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 20/08/2017	23:53:06	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
 21/08/2017	01:16:15	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
 21/08/2017	02:08:20	UFOLeProve	Sconosciuto	Ufo le  prove	01:22:13	1	Film
-21/08/2017	03:30:34	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+21/08/2017	03:30:33	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
 21/08/2017	03:30:49	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 21/08/2017	03:30:56	MV_2015_p13	MILLE VOCI	MV_2015_p13	00:10:13	81	videoclip
-21/08/2017	03:41:10	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+21/08/2017	03:41:09	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
 21/08/2017	03:51:15	_1779_Recanatese_Lunaametà	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
 21/08/2017	03:59:32	Amy'sO-FinalmenteL'Amore		Finalmente l' amore	01:23:26	22	
 21/08/2017	05:22:59	Gerace	GERACE	GERACE	00:06:01	71	documentari
