@@ -1,15 +1,12 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-21/08/2017	17:15:45	ZAGORTVSatanik19672°t.	ZAGOR TV SATANIK 2° T	ZAGOR TV SATANIK 2° T	00:36:09	1	Film
-21/08/2017	17:51:54	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-21/08/2017	17:52:35	Scuoladipolizia6_mpeg2video	Sconosciuto	Scuola d i polizia 6	01:19:55	1	Film
 21/08/2017	19:12:30	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
-21/08/2017	21:04:13	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
+21/08/2017	21:04:12	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
 21/08/2017	21:04:19	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
 21/08/2017	21:26:32	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
 21/08/2017	21:31:38	PiedoneAHongKong	Sconosciuto	Piedone ad Hong Gong	01:50:01	22	
 21/08/2017	23:21:39	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
 21/08/2017	23:21:46	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-21/08/2017	23:21:53	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
+21/08/2017	23:21:52	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
 21/08/2017	23:24:22	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 21/08/2017	23:24:29	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
 21/08/2017	23:24:40	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
@@ -19,9 +16,9 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 22/08/2017	01:49:09	UFOLeProve	Sconosciuto	Ufo le  prove	01:22:13	1	Film
 22/08/2017	03:11:22	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
 22/08/2017	03:11:38	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-22/08/2017	03:11:45	MV_2015_p13	MILLE VOCI	MV_2015_p13	00:10:13	81	videoclip
+22/08/2017	03:11:44	MV_2015_p13	MILLE VOCI	MV_2015_p13	00:10:13	81	videoclip
 22/08/2017	03:21:58	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-22/08/2017	03:32:04	_1779_Recanatese_Lunaametà	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
+22/08/2017	03:32:03	_1779_Recanatese_Lunaametà	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
 22/08/2017	03:40:21	Amy'sO-FinalmenteL'Amore		Finalmente l' amore	01:23:26	22	
-22/08/2017	05:03:48	Gerace	GERACE	GERACE	00:06:01	71	documentari
-22/08/2017	05:09:49	CONFERENZASTAMPAAAAAAAAAA	conferenza stampa gratteri cosenza	Nuovo File	00:11:40	41	programmi culturali
+22/08/2017	05:03:47	Gerace	GERACE	GERACE	00:06:01	71	documentari
+22/08/2017	05:09:48	CONFERENZASTAMPAAAAAAAAAA	conferenza stampa gratteri cosenza	Nuovo File	00:11:40	41	programmi culturali
