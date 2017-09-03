@@ -1,83 +1,41 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-03/09/2017	04:40:21	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
-03/09/2017	06:10:57	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-03/09/2017	06:00:00	AllexinnoStarchildSenorita_mpeg2video(1)	Senorita	Alexino	00:03:37	81	videoclip
-03/09/2017	06:03:37	MAXPEZZALIECCOTI	Eccoti	Max Pezzali	00:04:05	81	videoclip
-03/09/2017	06:07:42	CalvinHarris-Summer	SUMMER	CALVIN HARRIS	00:03:53	81	videoclip
-03/09/2017	06:11:36	AlexMicaDalinda	Dalinda	Alex Mica	00:03:25	81	videoclip
-03/09/2017	06:15:02	AllexinnoStarchildNadaSemVoc(withlyrics)	Starchild Nada Sem Voc	ALEXINNO	00:03:46	81	videoclip
-03/09/2017	06:18:48	AllexinnoStarchildSenorita	Starchild Senorita	Allexinno	00:03:37	81	videoclip
-03/09/2017	06:22:25	AllexinnoStarchildSenorita_mpeg2video(1)	Senorita	Alexino	00:03:37	81	videoclip
-03/09/2017	06:26:03	CleanBandit-Extraordinary(feat.SharnaBass)(OfficialVideo)	EXTRAORINARY	CLEAN BLANDIT	00:04:16	81	videoclip
-03/09/2017	06:30:19	CleanBandit-RatherBe(feat.JessGlynne)(OfficialVideo)	RATHER BE	CLEAN BANDIT	00:04:28	81	videoclip
-03/09/2017	06:34:47	MV_2015_p01	Sconosciuto	MV_2015_p01	00:15:27	81	videoclip
-03/09/2017	06:50:15	Promo_01_MilleVoci_2015	PROMO 1000 VOCI	Nuovo File	00:00:37	0	
-03/09/2017	06:50:53	MuseoEgiziodelCairo(parte3)	MUSEO EGIZIO DEL CAIRO 3^ P	MUSEO EGIZIO DEL CAIRO 3^ P	00:29:05	41	programmi culturali
-03/09/2017	07:19:58	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-03/09/2017	07:30:03	italiaEconomia_20150311_49151	Sconosciuto	Nuovo File	00:08:29	0	
-03/09/2017	07:38:33	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-03/09/2017	07:39:38	TartarugheNinja-52Ilduellodeiduelli-parte4	Tartarughe Ninja	52 Il duellodei duelli-parte4	00:19:52	51	cartoni animati
-03/09/2017	07:59:31	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-03/09/2017	07:59:41	2012VUEMMESPOT	VUEMMEFAST	VUEMMEFAST	00:00:37	11	spot
-03/09/2017	08:00:19	inTavola_20150226_48823	Sconosciuto	Nuovo File	00:01:58	0	
-03/09/2017	08:02:18	TRAILERPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:10:04	0	
-03/09/2017	08:12:22	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-03/09/2017	08:12:29	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-03/09/2017	08:22:34	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-03/09/2017	08:22:50	agrisapori721x23-7-17	Sconosciuto	Nuovo File	00:30:23	0	
-03/09/2017	08:53:14	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-03/09/2017	08:54:19	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-03/09/2017	09:04:24	PIXMIND17	Sconosciuto	Nuovo File	00:24:00	0	
-03/09/2017	09:28:24	Millevoci2017_Puntata04di13	Sconosciuto	Nuovo File	02:06:47	0	
-03/09/2017	11:35:11	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-03/09/2017	11:35:27	agrisapori720x16-7-17	Sconosciuto	Nuovo File	00:30:26	0	
-03/09/2017	12:05:53	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-03/09/2017	12:15:59	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-03/09/2017	12:16:39	CIBOR-ISPOTPERREGIA	Sconosciuto	Nuovo File	00:00:37	0	
-03/09/2017	12:17:16	videomotori	Sconosciuto	Nuovo File	00:16:33	0	
-03/09/2017	12:33:50	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-03/09/2017	12:33:56	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	programmi informativi
-03/09/2017	12:46:42	7Monacidoro_mpeg2video	7  monaci d  oro	7  MONACI D' ORO	01:33:49	1	Film
-03/09/2017	14:20:31	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
-03/09/2017	14:30:28	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	programmi informativi
-03/09/2017	14:33:28	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
-03/09/2017	14:35:57	049-LaTerradelSoleRosso(11')eD	LA TERRA DEL   SOLE ROSSO	LA TERRA DEL   SOLE  ROSSO	00:10:48	71	documentari
-03/09/2017	14:46:45	SPOTMULTILOGO(1)	Sconosciuto	spotmultilogodatiointv	00:00:29	41	programmi culturali
-03/09/2017	14:47:15	inItalia_20150909_53553	Sconosciuto	Nuovo File	00:01:58	0	
-03/09/2017	14:49:14	Millevoci_2017_Puntata_10_di_13	Sconosciuto	Nuovo File	00:02:06	0	
-03/09/2017	14:51:21	PROMORADIONETWORK_mpeg2video	PROMORADIONETWORK	PROMORADIONETWORK	00:00:57	11	spot
-03/09/2017	14:52:18	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-03/09/2017	14:52:29	TOTO'CONTROIQUATTRO	Sconosciuto	Nuovo File	01:34:32	0	
-03/09/2017	16:27:02	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-03/09/2017	16:27:08	calabriaricordi	CALABRIA RICORDI	CALABRIA RICORDI	00:01:54	41	programmi culturali
-03/09/2017	16:29:03	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-03/09/2017	16:29:13	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
-03/09/2017	16:39:11	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-03/09/2017	16:39:26	045-NiloVittoria,ilFiumedellaPreistoria(10')eD	NILO 	IL  LUME DELLA PREISTORIA	00:09:54	71	documentari
-03/09/2017	16:49:21	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-03/09/2017	16:49:32	agrisapori714x28-5-17	Sconosciuto	Nuovo File	00:29:01	0	
-03/09/2017	17:18:33	Unavitaquasiperfetta_mpeg2video	Sconosciuto	Una vita quasi perfetta	01:39:35	22	
-03/09/2017	18:58:09	CauloniaTrenitaliaripristinalafermata	Sconosciuto	Nuovo File	00:07:55	0	
-03/09/2017	19:06:05	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-03/09/2017	19:06:15	CIBOR-ISPOTPERREGIA	Sconosciuto	Nuovo File	00:00:37	0	
-03/09/2017	19:06:53	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
-03/09/2017	19:16:01	047-LaRiservaNaturalediAlmaAta(21')eD	LA RISERVA NATURALE DI ALMAT...	Nuovo File	00:20:34	71	documentari
-03/09/2017	19:36:35	CIBOR-ISPOTPERREGIA	Sconosciuto	Nuovo File	00:00:37	0	
-03/09/2017	19:37:12	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-03/09/2017	19:37:19	MuseoEgiziodelCairo(parte2)	MUSEO EGIZIO DEL CAIRO 2^	MUSEO EGIZIO DEL CAIRO 2^	00:26:08	41	programmi culturali
-03/09/2017	20:03:28	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-03/09/2017	20:13:33	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
-03/09/2017	21:36:42	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-03/09/2017	21:36:53	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-03/09/2017	21:37:08	premiolocriepizefiri2016	PREMIO  LOCRI EPIZEFIRI 2016	PREMIO   LOCRI EPIZEFIRI 2016	01:06:35	41	programmi culturali
-03/09/2017	22:43:44	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
-03/09/2017	22:52:52	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-03/09/2017	22:52:59	Ammesso	Sconosciuto	Nuovo File	01:29:06	22	
-04/09/2017	00:22:05	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-04/09/2017	00:32:10	Amy'sO-FinalmenteL'Amore		Finalmente l' amore	01:23:26	22	
-04/09/2017	01:55:37	Bridget	BRIDGET	BRIDGET	01:30:41	0	
-04/09/2017	03:26:18	FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
-04/09/2017	03:31:35	Gerace	GERACE	GERACE	00:06:01	71	documentari
-04/09/2017	03:37:37	Ragazzepompom_mpeg2video	Sconosciuto	Ragazze pom pom	01:25:15	1	Film
-04/09/2017	05:02:52	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
-04/09/2017	06:33:27	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+03/09/2017	08:32:39	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
+03/09/2017	10:21:10	BonifatiPiccolaGrandeItalia	bonifati	bonifati	00:21:55	71	documentari
+03/09/2017	10:43:06	tg_20150603_51317	Sconosciuto	Nuovo File	00:02:22	0	
+03/09/2017	10:45:28	02-LaSorpresaDiMarillaCuthbert	Sconosciuto	Nuovo File	00:24:39	112	
+03/09/2017	11:10:07	03-Laprimamattinaaitettiverdi	Sconosciuto	Nuovo File	00:24:37	112	
+03/09/2017	11:34:45	03-Loscheletro	Sconosciuto	Nuovo File	00:24:32	112	
+03/09/2017	11:59:17	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+03/09/2017	11:59:28	GeraceconsegnachiaviMuseoDiocesano	Sconosciuto	Nuovo File	00:21:55	0	
+03/09/2017	12:21:23	1959UominiENobiluomini-VittorioDeSicaMarioCarotenuto	Vittorio De Sica Mario Carotenuto 	Uomini e nobiluomini	01:33:50	1	Film
+03/09/2017	13:55:14	PillolaSalute_20150601_51305	Sconosciuto	Nuovo File	00:00:41	0	
+03/09/2017	13:55:56	tg_20150603_51317	Sconosciuto	Nuovo File	00:02:22	0	
+03/09/2017	13:58:18	1961AngeliconlaPistola-GlennFordBetteDavisPeterFalk	Gleen Ford Bette Davis	Angeli con la pistola	02:11:10	1	Film
+03/09/2017	16:09:29	PROMOVIDEOSPOT	PROMOVIDEOSPOT	PROMOVIDEOSOT	00:00:21	11	spot
+03/09/2017	16:09:51	1971BlackKiller-KlausKinskiCarloCroccolo	Carlo Croccolo  Klaus Kinshi	Black Killer	01:31:01	1	Film
+03/09/2017	17:40:52	prometeoTV_20150528_51191	Sconosciuto	Nuovo File	00:03:14	0	
+03/09/2017	17:44:07	SPOTMULTILOGO	Sconosciuto	Nuovo File	00:04:35	0	
+03/09/2017	17:48:42	0114-1968PreparatiLaBara-TerenceHill_mpeg2video	Sconosciuto	PREPARATI LA  BARA	01:28:01	1	Film
+03/09/2017	19:16:43	inItalia_20150211_48398	Sconosciuto	IN  ITALIA	00:01:54	41	programmi culturali
+03/09/2017	19:18:37	1966Parigibrucia_2-Jean-PaulBelmondoAlainDelon	Sconosciuto	Nuovo File	01:18:02	0	
+03/09/2017	20:36:40	1963LeMonachine-CatherineSpaakSylvaKoscinaLandoBuzzanca	1963 Le Monachine	Catherine Spaak Sylva Koscina Lando Buzzanca	01:42:44	1	Film
+03/09/2017	22:19:24	SPOTtraPROMOVIDEOTV10	Sconosciuto	SPOT PROMOVIDEOTV2	00:00:03	11	spot
+03/09/2017	22:19:27	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+03/09/2017	22:19:43	Scusi,MaLeiLePagaLeTasse	Sconosciuto	Scusi  ma Lei le  paga  le tasse	01:33:13	22	
+03/09/2017	23:52:56	SPOTCACCIATORIDITESTE	Sconosciuto	Nuovo File	00:00:45	0	
+03/09/2017	23:53:42	MondialeSynchroDance_Spot30sec	PROMO MONDIALE SYINCRO	PROMO MONDIALE SYNCRO	00:00:31	11	spot
+03/09/2017	23:54:13	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+03/09/2017	23:54:24	SPOTCACCIATORIDITESTE	Sconosciuto	Nuovo File	00:00:45	0	
+03/09/2017	23:55:09	spotcalabriaingustopromovideotv	SPOT CALABRIA IN GUSTO	CALABRIA IN GUSTO SPOT	00:00:57	11	spot
+03/09/2017	23:56:06	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+03/09/2017	23:56:17	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+03/09/2017	23:56:24	SPOTtraPROMOVIDEOTV6	Sconosciuto	SPOTtraPROMOVIDEOTV6	00:00:03	11	spot
+03/09/2017	23:56:27	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+03/09/2017	23:56:43	SPOTtraPROMOVIDEOTV2	Sconosciuto	SPOTPRIMAPUBBLICITA' PROMOV2	00:00:02	0	
+03/09/2017	23:56:45	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	documentari
+04/09/2017	00:18:14	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+04/09/2017	00:18:25	SPOTINTERPUBBLICITARI#3	Sconosciuto	Nuovo File	00:00:07	0	
+04/09/2017	00:18:33	1959-Ciaociaobambina-DomenicoModugnoCifarielloLorellaDeLuca	CIAO CIAO BAMBINA - Modugno	CIAO CIAO  BAMBINA	01:31:55	1	Film
+04/09/2017	01:50:28	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
+04/09/2017	01:57:43	Promo_01_MilleVoci_2015	PROMO 1000 VOCI	Nuovo File	00:00:37	0	
+04/09/2017	01:58:20	_1720_Consulentefinanziario	CONSU,ENTE  FINANNZIARIO	CONSULENTE FINANZIARIO	00:19:55	61	Telefilm
