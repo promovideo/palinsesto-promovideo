@@ -2,24 +2,24 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Ammesso</IdName>
+				<IdName>Bridget</IdName>
 				<StartDate>2017-09-04</StartDate>
-				<StartTime>05:57:03</StartTime>
+				<StartTime>08:59:20</StartTime>
 				<EndDate>2017-09-04</EndDate>
-				<EndTime>07:26:09</EndTime>
+				<EndTime>10:30:01</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>BRIDGET</Name>
+					<Description>BRIDGET</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="2">
-				<IdName>TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
+				<IdName>FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-09-04</StartDate>
-				<StartTime>07:26:09</StartTime>
+				<StartTime>10:30:01</StartTime>
 				<EndDate>2017-09-04</EndDate>
-				<EndTime>07:36:15</EndTime>
+				<EndTime>10:35:19</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -28,50 +28,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="3">
-				<IdName>Amy'sO-FinalmenteL'Amore</IdName>
-				<StartDate>2017-09-04</StartDate>
-				<StartTime>07:36:15</StartTime>
-				<EndDate>2017-09-04</EndDate>
-				<EndTime>08:59:41</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name></Name>
-					<Description>Finalmente l' amore</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>Bridget</IdName>
-				<StartDate>2017-09-04</StartDate>
-				<StartTime>08:59:41</StartTime>
-				<EndDate>2017-09-04</EndDate>
-				<EndTime>10:30:22</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>BRIDGET</Name>
-					<Description>BRIDGET</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
-				<IdName>FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2017-09-04</StartDate>
-				<StartTime>10:30:22</StartTime>
-				<EndDate>2017-09-04</EndDate>
-				<EndTime>10:35:40</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
 				<IdName>Gerace</IdName>
 				<StartDate>2017-09-04</StartDate>
-				<StartTime>10:35:40</StartTime>
+				<StartTime>10:35:19</StartTime>
 				<EndDate>2017-09-04</EndDate>
-				<EndTime>10:41:41</EndTime>
+				<EndTime>10:41:20</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -79,12 +40,12 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="4">
 				<IdName>Ragazzepompom_mpeg2video</IdName>
 				<StartDate>2017-09-04</StartDate>
-				<StartTime>10:41:41</StartTime>
+				<StartTime>10:41:20</StartTime>
 				<EndDate>2017-09-04</EndDate>
-				<EndTime>12:06:56</EndTime>
+				<EndTime>12:06:35</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,12 +53,12 @@
 					<Description>Ragazze pom pom</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="5">
 				<IdName>AttackForce</IdName>
 				<StartDate>2017-09-04</StartDate>
-				<StartTime>12:06:56</StartTime>
+				<StartTime>12:06:35</StartTime>
 				<EndDate>2017-09-04</EndDate>
-				<EndTime>13:37:31</EndTime>
+				<EndTime>13:37:10</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -105,12 +66,12 @@
 					<Description>ATTACK FORCE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="6">
 				<IdName>TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-09-04</StartDate>
-				<StartTime>13:37:31</StartTime>
+				<StartTime>13:37:10</StartTime>
 				<EndDate>2017-09-04</EndDate>
-				<EndTime>13:47:37</EndTime>
+				<EndTime>13:47:16</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
