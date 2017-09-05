@@ -2,45 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Fantozzi-GrandiMagazzini</IdName>
-				<StartDate>2017-09-05</StartDate>
-				<StartTime>16:39:14</StartTime>
-				<EndDate>2017-09-05</EndDate>
-				<EndTime>18:29:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>FANTOZZI GRANDI MAGAZZINI</Name>
-					<Description>GRANDI MAGAZZINI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2017-09-05</StartDate>
-				<StartTime>18:29:49</StartTime>
-				<EndDate>2017-09-05</EndDate>
-				<EndTime>18:29:56</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>Filmato</IdName>
-				<StartDate>2017-09-05</StartDate>
-				<StartTime>18:29:56</StartTime>
-				<EndDate>2017-09-05</EndDate>
-				<EndTime>18:32:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GERACE IN 2 MINUTI</Name>
-					<Description>GERACE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
 				<IdName>LaCompagniaDell'Anello</IdName>
 				<StartDate>2017-09-05</StartDate>
 				<StartTime>18:32:26</StartTime>
@@ -53,7 +14,7 @@
 					<Description>La compagnia dell'anello </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="2">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-09-05</StartDate>
 				<StartTime>21:52:21</StartTime>
@@ -66,7 +27,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="3">
 				<IdName>minispotapplicazione</IdName>
 				<StartDate>2017-09-05</StartDate>
 				<StartTime>21:52:28</StartTime>
@@ -79,12 +40,12 @@
 					<Description>SPOTAPP</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="4">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2017-09-05</StartDate>
 				<StartTime>21:52:39</StartTime>
 				<EndDate>2017-09-05</EndDate>
-				<EndTime>21:52:46</EndTime>
+				<EndTime>21:52:45</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,12 +53,12 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="5">
 				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
 				<StartDate>2017-09-05</StartDate>
-				<StartTime>21:52:46</StartTime>
+				<StartTime>21:52:45</StartTime>
 				<EndDate>2017-09-05</EndDate>
-				<EndTime>23:15:55</EndTime>
+				<EndTime>23:15:54</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -105,10 +66,10 @@
 					<Description>BELLEZZE SULLA SPIAGGIA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="6">
 				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
 				<StartDate>2017-09-05</StartDate>
-				<StartTime>23:15:55</StartTime>
+				<StartTime>23:15:54</StartTime>
 				<EndDate>2017-09-06</EndDate>
 				<EndTime>00:08:00</EndTime>
 				<ShortEventDescription>
@@ -118,7 +79,7 @@
 					<Description>ANIMALI SERPENTI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="7">
 				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
 				<StartDate>2017-09-06</StartDate>
 				<StartTime>00:08:00</StartTime>
@@ -131,7 +92,7 @@
 					<Description>CRASH CONTATTO  FINALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="8">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2017-09-06</StartDate>
 				<StartTime>01:56:31</StartTime>
@@ -144,12 +105,12 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="9">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-09-06</StartDate>
 				<StartTime>01:56:47</StartTime>
 				<EndDate>2017-09-06</EndDate>
-				<EndTime>01:56:54</EndTime>
+				<EndTime>01:56:53</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -157,10 +118,10 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="10">
 				<IdName>KarateKid</IdName>
 				<StartDate>2017-09-06</StartDate>
-				<StartTime>01:56:54</StartTime>
+				<StartTime>01:56:53</StartTime>
 				<EndDate>2017-09-06</EndDate>
 				<EndTime>03:58:30</EndTime>
 				<ShortEventDescription>
@@ -170,7 +131,7 @@
 					<Description>Karate Kid</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="11">
 				<IdName>Gerace</IdName>
 				<StartDate>2017-09-06</StartDate>
 				<StartTime>03:58:30</StartTime>
