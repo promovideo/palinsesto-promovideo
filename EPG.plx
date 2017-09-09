@@ -1,25 +1,13 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-09/09/2017	09:31:02	0114-1968PreparatiLaBara-TerenceHill_mpeg2video	Sconosciuto	PREPARATI LA  BARA	01:28:01	1	Film
-09/09/2017	10:59:03	inItalia_20150211_48398	Sconosciuto	IN  ITALIA	00:01:54	41	programmi culturali
-09/09/2017	11:00:57	1966Parigibrucia_2-Jean-PaulBelmondoAlainDelon	Sconosciuto	Nuovo File	01:18:02	0	
-09/09/2017	12:18:59	1963LeMonachine-CatherineSpaakSylvaKoscinaLandoBuzzanca	1963 Le Monachine	Catherine Spaak Sylva Koscina Lando Buzzanca	01:42:44	1	Film
-09/09/2017	14:01:43	SPOTtraPROMOVIDEOTV10	Sconosciuto	SPOT PROMOVIDEOTV2	00:00:03	11	spot
-09/09/2017	14:01:47	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-09/09/2017	14:02:02	Scusi,MaLeiLePagaLeTasse	Sconosciuto	Scusi  ma Lei le  paga  le tasse	01:33:13	22	
-09/09/2017	15:35:16	SPOTCACCIATORIDITESTE	Sconosciuto	Nuovo File	00:00:45	0	
-09/09/2017	15:36:01	MondialeSynchroDance_Spot30sec	PROMO MONDIALE SYINCRO	PROMO MONDIALE SYNCRO	00:00:31	11	spot
-09/09/2017	15:36:32	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-09/09/2017	15:36:43	SPOTCACCIATORIDITESTE	Sconosciuto	Nuovo File	00:00:45	0	
-09/09/2017	15:37:28	spotcalabriaingustopromovideotv	SPOT CALABRIA IN GUSTO	CALABRIA IN GUSTO SPOT	00:00:57	11	spot
-09/09/2017	15:38:26	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-09/09/2017	15:38:36	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-09/09/2017	15:38:43	SPOTtraPROMOVIDEOTV6	Sconosciuto	SPOTtraPROMOVIDEOTV6	00:00:03	11	spot
-09/09/2017	15:38:47	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-09/09/2017	15:39:02	SPOTtraPROMOVIDEOTV2	Sconosciuto	SPOTPRIMAPUBBLICITA' PROMOV2	00:00:02	0	
-09/09/2017	15:39:05	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	documentari
-09/09/2017	16:00:34	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-09/09/2017	16:00:45	SPOTINTERPUBBLICITARI#3	Sconosciuto	Nuovo File	00:00:07	0	
-09/09/2017	16:00:52	1959-Ciaociaobambina-DomenicoModugnoCifarielloLorellaDeLuca	CIAO CIAO BAMBINA - Modugno	CIAO CIAO  BAMBINA	01:31:55	1	Film
-09/09/2017	17:32:48	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-09/09/2017	17:40:02	Promo_01_MilleVoci_2015	PROMO 1000 VOCI	Nuovo File	00:00:37	0	
-09/09/2017	17:40:40	_1720_Consulentefinanziario	CONSU,ENTE  FINANNZIARIO	CONSULENTE FINANZIARIO	00:19:55	61	Telefilm
+09/09/2017	17:49:17	Millevoci_2017_Puntata_09_di_13	Sconosciuto	Nuovo File	01:53:38	0	
+09/09/2017	19:42:55	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
+09/09/2017	19:50:10	AmicimieiattoIII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO III	01:49:20	1	Film
+09/09/2017	21:39:31	ThePrison	Sconosciuto	The  prison	01:45:47	1	Film
+09/09/2017	23:25:19	FLASHPARTE5SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:11	0	
+09/09/2017	23:30:31	Promo_01_MilleVoci_2015	PROMO 1000 VOCI	Nuovo File	00:00:37	0	
+09/09/2017	23:31:08	_1720_Consulentefinanziario	CONSU,ENTE  FINANNZIARIO	CONSULENTE FINANZIARIO	00:19:55	61	Telefilm
+09/09/2017	23:51:03	Labandadeglionesti_mpeg2video	LA BANDA DEGLI ONESTI	LA BANDA DEGLI  ONESTI	01:40:55	1	Film
+10/09/2017	01:31:59	CATASTOONCIARIOS.GIOVANNIDIGERACE	catasto onciario s. giov di Gerace	catasto s. giovanni  di  Geracec	01:43:33	41	programmi culturali
+10/09/2017	03:15:32	Senzanomesanzaregole	SENZA NOME SENZA REGOLE	Senza nome senza regole	01:43:39	1	Film
+10/09/2017	04:59:12	Qualcosadicuisparlare_mpeg2video	Sconosciuto	Qualcosa di  cui  sparlare	01:40:41	1	Film
+10/09/2017	06:39:53	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
