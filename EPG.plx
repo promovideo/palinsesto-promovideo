@@ -1,8 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-15/09/2017	17:36:40	7Monacidoro_mpeg2video	7  monaci d  oro	7  MONACI D' ORO	01:33:49	1	Film
-15/09/2017	19:10:29	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-15/09/2017	19:10:35	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-15/09/2017	19:10:46	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
 15/09/2017	19:10:53	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
 15/09/2017	20:34:02	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
 15/09/2017	21:26:07	TRAILERPARTE7DOPOLE22,30	Sconosciuto	Nuovo File	00:09:50	0	
