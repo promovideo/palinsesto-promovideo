@@ -2,63 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Mettilodiavolotuonelomioinferno_mpeg2video</IdName>
-				<StartDate>2017-09-22</StartDate>
-				<StartTime>05:07:04</StartTime>
-				<EndDate>2017-09-22</EndDate>
-				<EndTime>06:27:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Metti  lo  diavolo  ne lo  tuo inferno</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>TRAILERPARTE8DOPOLE22,30</IdName>
-				<StartDate>2017-09-22</StartDate>
-				<StartTime>06:27:49</StartTime>
-				<EndDate>2017-09-22</EndDate>
-				<EndTime>06:37:52</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>filmcompletoPiratiRPolanski1986</IdName>
-				<StartDate>2017-09-22</StartDate>
-				<StartTime>06:37:52</StartTime>
-				<EndDate>2017-09-22</EndDate>
-				<EndTime>08:23:31</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PIRATI</Name>
-					<Description>Pirati</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2017-09-22</StartDate>
-				<StartTime>08:23:31</StartTime>
-				<EndDate>2017-09-22</EndDate>
-				<EndTime>08:23:38</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
 				<IdName>AmicimieiattoIII_mpeg2video</IdName>
 				<StartDate>2017-09-22</StartDate>
-				<StartTime>08:23:38</StartTime>
+				<StartTime>08:23:07</StartTime>
 				<EndDate>2017-09-22</EndDate>
-				<EndTime>10:12:59</EndTime>
+				<EndTime>10:12:28</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -66,12 +14,12 @@
 					<Description>AMICI MIEI  ATTO III</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="2">
 				<IdName>IoStoConGliIppopotami</IdName>
 				<StartDate>2017-09-22</StartDate>
-				<StartTime>10:12:59</StartTime>
+				<StartTime>10:12:28</StartTime>
 				<EndDate>2017-09-22</EndDate>
-				<EndTime>11:57:25</EndTime>
+				<EndTime>11:56:54</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -79,12 +27,38 @@
 					<Description>Io  sto  con gli Ippopotami</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="3">
+				<IdName>Speed</IdName>
+				<StartDate>2017-09-22</StartDate>
+				<StartTime>11:56:54</StartTime>
+				<EndDate>2017-09-22</EndDate>
+				<EndTime>13:46:54</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPEED</Name>
+					<Description>SPEED</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="4">
+				<IdName>_1779_Recanatese_Lunaametà</IdName>
+				<StartDate>2017-09-22</StartDate>
+				<StartTime>13:46:54</StartTime>
+				<EndDate>2017-09-22</EndDate>
+				<EndTime>13:55:12</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>RECANATESE 'LUNA A META'</Name>
+					<Description>RECANATESE  LUNA A METa'</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="5">
 				<IdName>FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-09-22</StartDate>
-				<StartTime>11:57:25</StartTime>
+				<StartTime>13:55:12</StartTime>
 				<EndDate>2017-09-22</EndDate>
-				<EndTime>12:02:42</EndTime>
+				<EndTime>14:00:30</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,12 +66,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="6">
 				<IdName>Gerace</IdName>
 				<StartDate>2017-09-22</StartDate>
-				<StartTime>12:02:42</StartTime>
+				<StartTime>14:00:30</StartTime>
 				<EndDate>2017-09-22</EndDate>
-				<EndTime>12:08:44</EndTime>
+				<EndTime>14:06:31</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -105,12 +79,25 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="7">
+				<IdName>Decretovaccini,campagnadicomunicazioneperlescuole</IdName>
+				<StartDate>2017-09-22</StartDate>
+				<StartTime>14:06:31</StartTime>
+				<EndDate>2017-09-22</EndDate>
+				<EndTime>14:07:07</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>decreto vaccini 2017</Name>
+					<Description>decreto vaccini 2017</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="8">
 				<IdName>GMdelDiabeteSiderno-Locri_mpeg2video</IdName>
 				<StartDate>2017-09-22</StartDate>
-				<StartTime>12:08:44</StartTime>
+				<StartTime>14:07:07</StartTime>
 				<EndDate>2017-09-22</EndDate>
-				<EndTime>12:52:18</EndTime>
+				<EndTime>14:50:41</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,12 +105,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="9">
 				<IdName>80NOSTALGIA10</IdName>
 				<StartDate>2017-09-22</StartDate>
-				<StartTime>12:52:18</StartTime>
+				<StartTime>14:50:41</StartTime>
 				<EndDate>2017-09-22</EndDate>
-				<EndTime>13:24:10</EndTime>
+				<EndTime>15:22:33</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -131,17 +118,290 @@
 					<Description>80NOSTALGIA10</Description>
 				</ShortEventDescription>
 			</Event>
+			<Event id="10">
+				<IdName>MYTECH20</IdName>
+				<StartDate>2017-09-22</StartDate>
+				<StartTime>15:22:33</StartTime>
+				<EndDate>2017-09-22</EndDate>
+				<EndTime>15:46:33</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
 			<Event id="11">
+				<IdName>TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
+				<StartDate>2017-09-22</StartDate>
+				<StartTime>15:46:33</StartTime>
+				<EndDate>2017-09-22</EndDate>
+				<EndTime>15:56:31</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="12">
+				<IdName>CATASTOONCIARIOS.GIOVANNIDIGERACE</IdName>
+				<StartDate>2017-09-22</StartDate>
+				<StartTime>15:56:31</StartTime>
+				<EndDate>2017-09-22</EndDate>
+				<EndTime>17:40:04</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>catasto onciario s. giov di Gerace</Name>
+					<Description>catasto s. giovanni  di  Geracec</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="13">
+				<IdName>TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
+				<StartDate>2017-09-22</StartDate>
+				<StartTime>17:40:04</StartTime>
+				<EndDate>2017-09-22</EndDate>
+				<EndTime>17:50:01</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="14">
+				<IdName>Decretovaccini,campagnadicomunicazioneperlescuole</IdName>
+				<StartDate>2017-09-22</StartDate>
+				<StartTime>17:50:01</StartTime>
+				<EndDate>2017-09-22</EndDate>
+				<EndTime>17:50:37</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>decreto vaccini 2017</Name>
+					<Description>decreto vaccini 2017</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="15">
 				<IdName>UmbertoD(1952)unfilmdiVittorioDeSica</IdName>
 				<StartDate>2017-09-22</StartDate>
-				<StartTime>13:24:10</StartTime>
+				<StartTime>17:50:37</StartTime>
 				<EndDate>2017-09-22</EndDate>
-				<EndTime>14:52:28</EndTime>
+				<EndTime>19:18:55</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Sconosciuto</Name>
 					<Description>Umberto D</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="16">
+				<IdName>CIBOR-ISPOTPERREGIA</IdName>
+				<StartDate>2017-09-22</StartDate>
+				<StartTime>19:18:55</StartTime>
+				<EndDate>2017-09-22</EndDate>
+				<EndTime>19:19:32</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="17">
+				<IdName>Millevoci_2017_Puntata_08_di_13</IdName>
+				<StartDate>2017-09-22</StartDate>
+				<StartTime>19:19:32</StartTime>
+				<EndDate>2017-09-22</EndDate>
+				<EndTime>20:46:47</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="18">
+				<IdName>agrisapori725x10-9-17</IdName>
+				<StartDate>2017-09-22</StartDate>
+				<StartTime>20:46:47</StartTime>
+				<EndDate>2017-09-22</EndDate>
+				<EndTime>21:16:58</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="19">
+				<IdName>Decretovaccini,campagnadicomunicazioneperlescuole</IdName>
+				<StartDate>2017-09-22</StartDate>
+				<StartTime>21:16:58</StartTime>
+				<EndDate>2017-09-22</EndDate>
+				<EndTime>21:17:34</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>decreto vaccini 2017</Name>
+					<Description>decreto vaccini 2017</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="20">
+				<IdName>FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
+				<StartDate>2017-09-22</StartDate>
+				<StartTime>21:17:34</StartTime>
+				<EndDate>2017-09-22</EndDate>
+				<EndTime>21:22:52</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="21">
+				<IdName>LaCarbonarafilmcompleto_mpeg2video</IdName>
+				<StartDate>2017-09-22</StartDate>
+				<StartTime>21:22:52</StartTime>
+				<EndDate>2017-09-22</EndDate>
+				<EndTime>23:10:59</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>LA  CARBONARA</Name>
+					<Description>LA CARBONARA</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="22">
+				<IdName>Atlantis</IdName>
+				<StartDate>2017-09-22</StartDate>
+				<StartTime>23:10:59</StartTime>
+				<EndDate>2017-09-23</EndDate>
+				<EndTime>00:38:35</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>ATLANTIS</Name>
+					<Description>ATLANTIS</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="23">
+				<IdName>Labandadeglionesti_mpeg2video</IdName>
+				<StartDate>2017-09-23</StartDate>
+				<StartTime>00:38:35</StartTime>
+				<EndDate>2017-09-23</EndDate>
+				<EndTime>02:19:30</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>LA BANDA DEGLI ONESTI</Name>
+					<Description>LA BANDA DEGLI  ONESTI</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="24">
+				<IdName>Decretovaccini,campagnadicomunicazioneperlescuole</IdName>
+				<StartDate>2017-09-23</StartDate>
+				<StartTime>02:19:30</StartTime>
+				<EndDate>2017-09-23</EndDate>
+				<EndTime>02:20:06</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>decreto vaccini 2017</Name>
+					<Description>decreto vaccini 2017</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="25">
+				<IdName>Roma.drogata.la.polizia.non_.puo.intervenire.19751°t.</IdName>
+				<StartDate>2017-09-23</StartDate>
+				<StartTime>02:20:06</StartTime>
+				<EndDate>2017-09-23</EndDate>
+				<EndTime>03:08:27</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>ROMA DROGATA 1^</Name>
+					<Description>ROMA DROGATA 1^</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="26">
+				<IdName>Roma.drogata.la.polizia.non_.puo.intervenire.19752°t.</IdName>
+				<StartDate>2017-09-23</StartDate>
+				<StartTime>03:08:27</StartTime>
+				<EndDate>2017-09-23</EndDate>
+				<EndTime>03:49:41</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>ROMA DROGATA 2^</Name>
+					<Description>ROMA DROGATA 2^</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="27">
+				<IdName>TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
+				<StartDate>2017-09-23</StartDate>
+				<StartTime>03:49:41</StartTime>
+				<EndDate>2017-09-23</EndDate>
+				<EndTime>03:59:38</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="28">
+				<IdName>consiglioGeracedel288017</IdName>
+				<StartDate>2017-09-23</StartDate>
+				<StartTime>03:59:38</StartTime>
+				<EndDate>2017-09-23</EndDate>
+				<EndTime>04:19:43</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>consiglio 28 8 17</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="29">
+				<IdName>TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
+				<StartDate>2017-09-23</StartDate>
+				<StartTime>04:19:43</StartTime>
+				<EndDate>2017-09-23</EndDate>
+				<EndTime>04:29:48</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="30">
+				<IdName>AlbertoSordiIlVedovo</IdName>
+				<StartDate>2017-09-23</StartDate>
+				<StartTime>04:29:48</StartTime>
+				<EndDate>2017-09-23</EndDate>
+				<EndTime>05:56:54</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>IL  VEDOVO</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="31">
+				<IdName>Nell'annoDelSignoreManfredi,Sordi,Tognazzi(Filmcompleto)</IdName>
+				<StartDate>2017-09-23</StartDate>
+				<StartTime>05:56:54</StartTime>
+				<EndDate>2017-09-23</EndDate>
+				<EndTime>07:54:49</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nell'anno del  Signore</Description>
 				</ShortEventDescription>
 			</Event>
 		</Service>
