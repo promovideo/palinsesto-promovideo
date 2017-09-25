@@ -2,32 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>CONCERTOQUARTAUMENTATA_mpeg2video</IdName>
-				<StartDate>2017-09-25</StartDate>
-				<StartTime>18:10:08</StartTime>
-				<EndDate>2017-09-25</EndDate>
-				<EndTime>19:54:47</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>QUARTAUMENTATA</Name>
-					<Description>CONCENTO  QUARTAUMENTATA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>agrisapori725x10-9-17</IdName>
-				<StartDate>2017-09-25</StartDate>
-				<StartTime>19:54:47</StartTime>
-				<EndDate>2017-09-25</EndDate>
-				<EndTime>20:24:57</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
 				<IdName>KarateKid</IdName>
 				<StartDate>2017-09-25</StartDate>
 				<StartTime>20:24:57</StartTime>
@@ -40,7 +14,7 @@
 					<Description>Karate Kid</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="2">
 				<IdName>IoStoConGliIppopotami</IdName>
 				<StartDate>2017-09-25</StartDate>
 				<StartTime>22:26:34</StartTime>
@@ -53,7 +27,7 @@
 					<Description>Io  sto  con gli Ippopotami</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="3">
 				<IdName>LeDueTorri</IdName>
 				<StartDate>2017-09-26</StartDate>
 				<StartTime>00:11:00</StartTime>
@@ -66,7 +40,7 @@
 					<Description>Le due torri </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="4">
 				<IdName>'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video</IdName>
 				<StartDate>2017-09-26</StartDate>
 				<StartTime>03:03:04</StartTime>
@@ -79,7 +53,7 @@
 					<Description>Natale in casa   Cupiello</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="5">
 				<IdName>Gerace</IdName>
 				<StartDate>2017-09-26</StartDate>
 				<StartTime>05:15:52</StartTime>
@@ -90,6 +64,19 @@
 					<LanguageName>Italian</LanguageName>
 					<Name>GERACE</Name>
 					<Description>GERACE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="6">
+				<IdName>TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
+				<StartDate>2017-09-26</StartDate>
+				<StartTime>05:21:53</StartTime>
+				<EndDate>2017-09-26</EndDate>
+				<EndTime>05:31:59</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
 		</Service>
