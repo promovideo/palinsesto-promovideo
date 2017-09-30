@@ -1,15 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-29/09/2017	21:22:34	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
-29/09/2017	22:14:39	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-29/09/2017	22:14:54	IoStoConGliIppopotami	Sconosciuto	Io  sto  con gli Ippopotami	01:44:25	22	
-29/09/2017	23:59:20	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
-30/09/2017	00:04:34	PiedoneL'Africano	Sconosciuto	Piedone l' Africano	01:48:55	22	
-30/09/2017	01:53:29	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
-30/09/2017	03:42:00	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
-30/09/2017	03:51:57	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-30/09/2017	03:52:13	80NOSTALGIA13	80NOSTALGIA13	80NOSTALGIA13	00:31:55	81	videoclip
-30/09/2017	04:24:09	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-30/09/2017	04:24:15	MuseoEgiziodelCairo(parte1)(2)	MUSEO EGIZIO DEL CAIRO 1^	MUSEO EGIZIODEL CAIRO 1^	00:24:45	41	programmi culturali
-30/09/2017	04:49:01	Geracepresentazionelibro'OROBIANCO'diNGratterieANicaso	libro oro bianco grtatteri	libro oro  bianco Gratteri	01:35:11	41	programmi culturali
-30/09/2017	06:24:12	Gerace	GERACE	GERACE	00:06:01	71	documentari
-30/09/2017	06:30:13	ANDRANGHETAXTV	LIBRO SFRAMELI	ANDRANCHETA	01:18:19	41	programmi culturali
+30/09/2017	04:44:19	Geracepresentazionelibro'OROBIANCO'diNGratterieANicaso	libro oro bianco grtatteri	libro oro  bianco Gratteri	01:35:11	41	programmi culturali
+30/09/2017	06:19:30	Gerace	GERACE	GERACE	00:06:01	71	documentari
+30/09/2017	06:25:31	ANDRANGHETAXTV	LIBRO SFRAMELI	ANDRANCHETA	01:18:19	41	programmi culturali
