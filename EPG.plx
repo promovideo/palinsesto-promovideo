@@ -1,5 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-03/10/2017	16:26:01	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
 03/10/2017	18:17:43	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
 03/10/2017	20:19:53	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
 03/10/2017	20:20:00	INSTANTFUTURE	intant future p7	INSTANT FUTURE p7	00:23:18	31	programmi informativi
@@ -9,7 +8,7 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 03/10/2017	22:36:13	KarateKid	Sconosciuto	Karate Kid	02:01:36	1	Film
 04/10/2017	00:37:49	TRAILERPARTE5SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:56	0	
 04/10/2017	00:47:46	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-04/10/2017	00:47:52	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
+04/10/2017	00:47:53	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
 04/10/2017	00:50:22	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 04/10/2017	00:50:29	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
 04/10/2017	01:00:34	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
