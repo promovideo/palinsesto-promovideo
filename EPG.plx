@@ -1,7 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-07/10/2017	17:21:16	ConsigliocomunaleGeracedel30settembre2017	cosiglio comunale gerace 30 sett 017	Nuovo File	01:52:24	31	programmi informativi
-07/10/2017	19:13:41	Decretovaccini,campagnadicomunicazioneperlescuole	decreto vaccini 2017	decreto vaccini 2017	00:00:35	11	spot
-07/10/2017	19:14:17	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
 07/10/2017	19:14:23	KarateKid	Sconosciuto	Karate Kid	02:01:36	1	Film
 07/10/2017	21:16:00	TRAILERPARTE5SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:56	0	
 07/10/2017	21:25:57	MilleVocinapoletane-Puntata01di02_Edizione2016©(468p_25fps_H264-128kbit_AAC)	mille voci napoletane 1	mille    voci napoletane 1	01:29:30	81	videoclip
