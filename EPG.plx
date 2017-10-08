@@ -1,8 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-08/10/2017	17:31:16	IlmegliodiMilleVoci2017_p02	Sconosciuto	Nuovo File	01:23:08	0	
-08/10/2017	18:54:25	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-08/10/2017	18:54:31	Decretovaccini,campagnadicomunicazioneperlescuole	decreto vaccini 2017	decreto vaccini 2017	00:00:35	11	spot
-08/10/2017	18:55:07	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
 08/10/2017	18:55:14	KarateKid	Sconosciuto	Karate Kid	02:01:36	1	Film
 08/10/2017	20:56:51	TRAILERPARTE5SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:56	0	
 08/10/2017	21:06:47	MilleVocinapoletane-Puntata01di02_Edizione2016©(468p_25fps_H264-128kbit_AAC)	mille voci napoletane 1	mille    voci napoletane 1	01:29:30	81	videoclip
@@ -24,6 +20,7 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 09/10/2017	04:42:07	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
 09/10/2017	04:42:22	Gerace	GERACE	GERACE	00:06:01	71	documentari
 09/10/2017	04:48:23	agrisapori613x14-6-15	AGRISAPORI	AGRISAPORI	00:26:49	71	documentari
-09/10/2017	05:15:13	MilleVoci_2016_p10	Sconosciuto	Nuovo File	00:15:51	0	
-09/10/2017	05:31:05	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-09/10/2017	05:41:10	IVisigoti-popolazionibarbare	Sconosciuto	Nuovo File	00:43:46	0	
+09/10/2017	05:15:13	CONFERENZASTAMPAAAAAAAAAA	conferenza stampa gratteri cosenza	Nuovo File	00:11:40	41	programmi culturali
+09/10/2017	05:26:54	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+09/10/2017	05:36:59	IVisigoti-popolazionibarbare	Sconosciuto	Nuovo File	00:43:46	0	
+09/10/2017	06:20:46	GliUnn	Sconosciuto	Nuovo File	00:43:36	0	
