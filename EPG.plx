@@ -1,9 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-10/10/2017	16:20:39	Potaturadell'OlivonellaLocride3Ed_mpeg2video	Sconosciuto	Potatura  dell' olivo  nella Locride 013	01:51:49	71	documentari
-10/10/2017	18:12:29	DOCUMENTARIOAuschwitz	Auschwitz	Auschwitz	00:26:56	71	documentari
-10/10/2017	18:39:25	premiolocriepizefiri2016	PREMIO  LOCRI EPIZEFIRI 2016	PREMIO   LOCRI EPIZEFIRI 2016	01:06:35	41	programmi culturali
-10/10/2017	19:46:01	Decretovaccini,campagnadicomunicazioneperlescuole	decreto vaccini 2017	decreto vaccini 2017	00:00:35	11	spot
-10/10/2017	19:46:37	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
 10/10/2017	19:46:43	KarateKid	Sconosciuto	Karate Kid	02:01:36	1	Film
 10/10/2017	21:48:20	TRAILERPARTE5SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:56	0	
 10/10/2017	21:58:16	MilleVocinapoletane-Puntata01di02_Edizione2016©(468p_25fps_H264-128kbit_AAC)	mille voci napoletane 1	mille    voci napoletane 1	01:29:30	81	videoclip
