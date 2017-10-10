@@ -1,28 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-10/10/2017	05:14:13	IVisigoti-popolazionibarbare	Sconosciuto	Nuovo File	00:43:46	0	
-10/10/2017	05:58:00	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	documentari
-10/10/2017	06:00:00	AllexinnoStarchildSenorita_mpeg2video(1)	Senorita	Alexino	00:03:37	81	videoclip
-10/10/2017	06:03:37	MAXPEZZALIECCOTI	Eccoti	Max Pezzali	00:04:05	81	videoclip
-10/10/2017	06:07:42	CalvinHarris-Summer	SUMMER	CALVIN HARRIS	00:03:53	81	videoclip
-10/10/2017	06:11:36	AlexMicaDalinda	Dalinda	Alex Mica	00:03:25	81	videoclip
-10/10/2017	06:15:02	AllexinnoStarchildNadaSemVoc(withlyrics)	Starchild Nada Sem Voc	ALEXINNO	00:03:46	81	videoclip
-10/10/2017	06:18:48	AllexinnoStarchildSenorita	Starchild Senorita	Allexinno	00:03:37	81	videoclip
-10/10/2017	06:22:25	AllexinnoStarchildSenorita_mpeg2video(1)	Senorita	Alexino	00:03:37	81	videoclip
-10/10/2017	06:26:03	CleanBandit-Extraordinary(feat.SharnaBass)(OfficialVideo)	EXTRAORINARY	CLEAN BLANDIT	00:04:16	81	videoclip
-10/10/2017	06:30:19	CleanBandit-RatherBe(feat.JessGlynne)(OfficialVideo)	RATHER BE	CLEAN BANDIT	00:04:28	81	videoclip
-10/10/2017	06:34:47	MuseoEgiziodelCairo(parte3)	MUSEO EGIZIO DEL CAIRO 3^ P	MUSEO EGIZIO DEL CAIRO 3^ P	00:29:05	41	programmi culturali
-10/10/2017	07:03:52	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-10/10/2017	07:04:57	GeracepresentatoilDiariofotograficodi25annidicammino(byEL)	LIBRO  FOTOGRAFICO 25  ANNI  DI  CAMMINO	GERACE 25  ANNI  DI CAMMINO	00:31:39	41	programmi culturali
-10/10/2017	07:36:36	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-10/10/2017	07:36:47	FLASHPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:00	0	
-10/10/2017	07:41:48	2012VUEMMESPOT	VUEMMEFAST	VUEMMEFAST	00:00:37	11	spot
-10/10/2017	07:42:25	agrisapori726x17-9-17	Sconosciuto	Nuovo File	00:25:29	0	
-10/10/2017	08:07:55	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
-10/10/2017	08:32:19	inTavola_20150226_48823	Sconosciuto	Nuovo File	00:01:58	0	
-10/10/2017	08:34:17	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
-10/10/2017	08:39:31	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-10/10/2017	08:39:38	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-10/10/2017	08:39:53	jerry.lewis.l.idolo.delle.donne.19611°t.	L' IDOLO DELLE DONNE 1°	L' IDOLO DELLE DONNE 1°	00:47:12	1	Film
 10/10/2017	09:27:05	Arma.Da.Taglio.19722°t	ARMA DA TAGLIO 2°	ARMA DA TAGLIO 2°	00:37:18	1	Film
 10/10/2017	10:04:24	FLASHPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:00	0	
 10/10/2017	10:09:25	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
