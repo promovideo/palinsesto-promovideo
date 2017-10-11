@@ -2,50 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>80NOSTALGIA17</IdName>
-				<StartDate>2017-10-11</StartDate>
-				<StartTime>19:25:17</StartTime>
-				<EndDate>2017-10-11</EndDate>
-				<EndTime>19:57:40</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>PENTEDATTILORIDE102017</IdName>
-				<StartDate>2017-10-11</StartDate>
-				<StartTime>19:57:40</StartTime>
-				<EndDate>2017-10-11</EndDate>
-				<EndTime>20:24:56</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>PENTEDATTILO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2017-10-11</StartDate>
-				<StartTime>20:24:56</StartTime>
-				<EndDate>2017-10-11</EndDate>
-				<EndTime>20:25:03</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
 				<IdName>StarshipTroopers-FanteriaDelloSpazio</IdName>
 				<StartDate>2017-10-11</StartDate>
 				<StartTime>20:25:03</StartTime>
 				<EndDate>2017-10-11</EndDate>
-				<EndTime>22:29:22</EndTime>
+				<EndTime>22:29:21</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -53,10 +14,10 @@
 					<Description>STARSHIP TROOPERS</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="2">
 				<IdName>minispotapplicazione</IdName>
 				<StartDate>2017-10-11</StartDate>
-				<StartTime>22:29:22</StartTime>
+				<StartTime>22:29:21</StartTime>
 				<EndDate>2017-10-11</EndDate>
 				<EndTime>22:29:32</EndTime>
 				<ShortEventDescription>
@@ -66,7 +27,7 @@
 					<Description>SPOTAPP</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="3">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2017-10-11</StartDate>
 				<StartTime>22:29:32</StartTime>
@@ -79,7 +40,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="4">
 				<IdName>Bridget</IdName>
 				<StartDate>2017-10-11</StartDate>
 				<StartTime>22:29:39</StartTime>
@@ -92,7 +53,7 @@
 					<Description>BRIDGET</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="5">
 				<IdName>AttackForce</IdName>
 				<StartDate>2017-10-12</StartDate>
 				<StartTime>00:00:20</StartTime>
@@ -105,7 +66,7 @@
 					<Description>ATTACK FORCE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="6">
 				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
 				<StartDate>2017-10-12</StartDate>
 				<StartTime>01:30:55</StartTime>
@@ -118,7 +79,7 @@
 					<Description>ANIMALI SERPENTI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="7">
 				<IdName>MagnificaItaliaCalabria_mpeg2video</IdName>
 				<StartDate>2017-10-12</StartDate>
 				<StartTime>02:23:01</StartTime>
@@ -131,7 +92,7 @@
 					<Description>Calabria</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="8">
 				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
 				<StartDate>2017-10-12</StartDate>
 				<StartTime>03:15:11</StartTime>
@@ -144,7 +105,7 @@
 					<Description>CRASH CONTATTO  FINALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="9">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2017-10-12</StartDate>
 				<StartTime>05:03:42</StartTime>
@@ -157,7 +118,7 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="10">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-10-12</StartDate>
 				<StartTime>05:03:57</StartTime>
@@ -170,7 +131,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="11">
 				<IdName>UFOLeProve</IdName>
 				<StartDate>2017-10-12</StartDate>
 				<StartTime>05:04:04</StartTime>
@@ -183,7 +144,7 @@
 					<Description>Ufo le  prove</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="12">
 				<IdName>_1779_Recanatese_Lunaametà</IdName>
 				<StartDate>2017-10-12</StartDate>
 				<StartTime>06:26:17</StartTime>
@@ -196,7 +157,7 @@
 					<Description>RECANATESE  LUNA A METa'</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="13">
 				<IdName>Gerace</IdName>
 				<StartDate>2017-10-12</StartDate>
 				<StartTime>06:34:35</StartTime>
