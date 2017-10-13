@@ -1,6 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-13/10/2017	16:37:59	DonCamilloMonsignoremanontroppo	DON CAMILLO   MONSIGNORE	DON CAMILLO MONSIGNORE	01:53:25	1	Film
-13/10/2017	18:31:25	TartarugheNinja-06LaspadadiTengu	Sconosciuto	Nuovo File	00:22:10	0	
 13/10/2017	18:53:35	TartarugheNinja-08Angel	Sconosciuto	Nuovo File	00:21:52	0	
 13/10/2017	19:15:28	TartarugheNinja-09L'uomodellaspazzatura	Sconosciuto	Nuovo File	00:22:08	0	
 13/10/2017	19:37:36	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
