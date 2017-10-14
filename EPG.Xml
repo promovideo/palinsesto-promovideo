@@ -2,45 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Tadpole_mpeg2video</IdName>
-				<StartDate>2017-10-14</StartDate>
-				<StartTime>19:02:15</StartTime>
-				<EndDate>2017-10-14</EndDate>
-				<EndTime>20:17:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>TODPOLE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2017-10-14</StartDate>
-				<StartTime>20:17:20</StartTime>
-				<EndDate>2017-10-14</EndDate>
-				<EndTime>20:17:27</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>Filmato</IdName>
-				<StartDate>2017-10-14</StartDate>
-				<StartTime>20:17:27</StartTime>
-				<EndDate>2017-10-14</EndDate>
-				<EndTime>20:19:56</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GERACE IN 2 MINUTI</Name>
-					<Description>GERACE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
 				<IdName>Souvenird'Italie_mpeg2video</IdName>
 				<StartDate>2017-10-14</StartDate>
 				<StartTime>20:19:56</StartTime>
@@ -53,7 +14,7 @@
 					<Description>Souvenir d'Italy</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="2">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-10-14</StartDate>
 				<StartTime>22:04:39</StartTime>
@@ -66,7 +27,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="3">
 				<IdName>minispotapplicazione</IdName>
 				<StartDate>2017-10-14</StartDate>
 				<StartTime>22:04:46</StartTime>
@@ -79,12 +40,12 @@
 					<Description>SPOTAPP</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="4">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2017-10-14</StartDate>
 				<StartTime>22:04:57</StartTime>
 				<EndDate>2017-10-14</EndDate>
-				<EndTime>22:05:04</EndTime>
+				<EndTime>22:05:03</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,10 +53,10 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="5">
 				<IdName>Commissariatodinotturna_mpeg2video</IdName>
 				<StartDate>2017-10-14</StartDate>
-				<StartTime>22:05:04</StartTime>
+				<StartTime>22:05:03</StartTime>
 				<EndDate>2017-10-14</EndDate>
 				<EndTime>23:37:58</EndTime>
 				<ShortEventDescription>
@@ -105,7 +66,7 @@
 					<Description>COMMISSARIATO  DI   NOTTURNA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="6">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2017-10-14</StartDate>
 				<StartTime>23:37:58</StartTime>
@@ -118,7 +79,7 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="7">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-10-14</StartDate>
 				<StartTime>23:38:13</StartTime>
@@ -131,7 +92,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="8">
 				<IdName>Gerace</IdName>
 				<StartDate>2017-10-14</StartDate>
 				<StartTime>23:38:20</StartTime>
@@ -144,7 +105,7 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="9">
 				<IdName>Identit‡Violate</IdName>
 				<StartDate>2017-10-14</StartDate>
 				<StartTime>23:44:21</StartTime>
@@ -157,7 +118,7 @@
 					<Description>IDENTITA' VIOLATE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="10">
 				<IdName>agrisapori725x10-9-17</IdName>
 				<StartDate>2017-10-15</StartDate>
 				<StartTime>01:23:07</StartTime>
@@ -170,7 +131,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="11">
 				<IdName>CATASTOONCIARIOS.GIOVANNIDIGERACE</IdName>
 				<StartDate>2017-10-15</StartDate>
 				<StartTime>01:53:18</StartTime>
@@ -183,12 +144,12 @@
 					<Description>catasto s. giovanni  di  Geracec</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="12">
 				<IdName>FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-10-15</StartDate>
 				<StartTime>03:36:51</StartTime>
 				<EndDate>2017-10-15</EndDate>
-				<EndTime>03:42:09</EndTime>
+				<EndTime>03:42:08</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -196,12 +157,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="13">
 				<IdName>MYTECH19</IdName>
 				<StartDate>2017-10-15</StartDate>
-				<StartTime>03:42:09</StartTime>
+				<StartTime>03:42:08</StartTime>
 				<EndDate>2017-10-15</EndDate>
-				<EndTime>04:06:09</EndTime>
+				<EndTime>04:06:08</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -209,10 +170,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="14">
 				<IdName>FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-10-15</StartDate>
-				<StartTime>04:06:09</StartTime>
+				<StartTime>04:06:08</StartTime>
 				<EndDate>2017-10-15</EndDate>
 				<EndTime>04:11:26</EndTime>
 				<ShortEventDescription>
@@ -222,12 +183,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="15">
 				<IdName>Wargames_mpeg2video</IdName>
 				<StartDate>2017-10-15</StartDate>
 				<StartTime>04:11:26</StartTime>
 				<EndDate>2017-10-15</EndDate>
-				<EndTime>05:59:29</EndTime>
+				<EndTime>05:59:28</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -235,12 +196,12 @@
 					<Description>Wrgames</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="16">
 				<IdName>IlmegliodiMilleVoci2017_p01</IdName>
 				<StartDate>2017-10-15</StartDate>
-				<StartTime>05:59:29</StartTime>
+				<StartTime>05:59:28</StartTime>
 				<EndDate>2017-10-15</EndDate>
-				<EndTime>07:21:11</EndTime>
+				<EndTime>07:21:10</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
