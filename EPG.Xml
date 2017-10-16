@@ -2,24 +2,50 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>MYTECH19</IdName>
+				<IdName>MuseoEgiziodelCairo(parte1)(2)</IdName>
 				<StartDate>2017-10-16</StartDate>
-				<StartTime>06:03:05</StartTime>
+				<StartTime>09:52:41</StartTime>
 				<EndDate>2017-10-16</EndDate>
-				<EndTime>06:27:05</EndTime>
+				<EndTime>10:17:26</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>MUSEO EGIZIO DEL CAIRO 1^</Name>
+					<Description>MUSEO EGIZIODEL CAIRO 1^</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="2">
-				<IdName>FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
+				<IdName>minispotapplicazione</IdName>
 				<StartDate>2017-10-16</StartDate>
-				<StartTime>06:27:05</StartTime>
+				<StartTime>10:17:26</StartTime>
 				<EndDate>2017-10-16</EndDate>
-				<EndTime>06:32:23</EndTime>
+				<EndTime>10:17:37</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOTAPP</Name>
+					<Description>SPOTAPP</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="3">
+				<IdName>TartarugheNinja-01Nonuscitedaqueltombino</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>10:17:37</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>10:39:36</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Non uscite dal  quel tombino</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="4">
+				<IdName>TartarugheNinja-02Trappolapertopi</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>10:39:36</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>11:01:21</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -27,17 +53,693 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="3">
-				<IdName>IlmegliodiMilleVoci2017_p01</IdName>
+			<Event id="5">
+				<IdName>TartarugheNinja-03L'attaccodegliacchiappatopi</IdName>
 				<StartDate>2017-10-16</StartDate>
-				<StartTime>06:32:23</StartTime>
+				<StartTime>11:01:21</StartTime>
 				<EndDate>2017-10-16</EndDate>
-				<EndTime>07:54:05</EndTime>
+				<EndTime>11:23:18</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Sconosciuto</Name>
 					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="6">
+				<IdName>2012VUEMMESPOT</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>11:23:18</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>11:23:55</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>VUEMMEFAST</Name>
+					<Description>VUEMMEFAST</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="7">
+				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>11:23:55</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>11:33:04</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="8">
+				<IdName>TRAILERPARTE6DOPOLE22,30</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>11:33:04</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>11:43:08</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="9">
+				<IdName>PreparazionedelcuculodiPasqua</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>11:43:08</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>11:52:07</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>FESTA MADONNA DELLE GALLINE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="10">
+				<IdName>7PROMOVIDEOspot7</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>11:52:07</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>11:52:14</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOT  PROMOVIDEOTV</Name>
+					<Description>SPOT PROMOVIDEOTV</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="11">
+				<IdName>PENTEDATTILORIDE102017</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>11:52:14</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>12:19:30</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>PENTEDATTILO</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="12">
+				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>12:19:30</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>12:19:45</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>ISCRIVITI CANALE YOU TUBE</Name>
+					<Description>ISCRIVITI CANALE YOU TUBE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="13">
+				<IdName>FLASHPARTE4SOLODALLE16,00ALLE18,00</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>12:19:45</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>12:24:46</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="14">
+				<IdName>150°annivfucilazione5MartiridiGerace</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>12:24:46</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>13:38:39</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>150°ANNIVERSARIO 5 MARTIR</Name>
+					<Description>150°ANN 5 MARTIRI GERACE SCUOLA ELM GERACE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="15">
+				<IdName>Toto'aColoriFilmCompleto(FullMovie)</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>13:38:39</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>15:11:08</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>TOTO  A COLORI</Name>
+					<Description>Tot a  colori</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="16">
+				<IdName>GERACE-Cittàmillenaria</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>15:11:08</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>15:12:13</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOT GERACE CITTà1000ENARIA</Name>
+					<Description>GERACECITTAMILLENARIA SPOT</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="17">
+				<IdName>TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>15:12:13</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>15:22:11</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="18">
+				<IdName>FORMULAMOTOI49</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>15:22:11</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>15:46:11</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>formula motori 49</Name>
+					<Description>formula  motori 49</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="19">
+				<IdName>FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>15:46:11</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>15:51:24</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="20">
+				<IdName>TartarugheNinja-06LaspadadiTengu</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>15:51:24</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>16:13:34</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="21">
+				<IdName>TartarugheNinja-08Angel</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>16:13:34</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>16:35:27</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="22">
+				<IdName>TartarugheNinja-09L'uomodellaspazzatura</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>16:35:27</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>16:57:35</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="23">
+				<IdName>spotDIGIII</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>16:57:35</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>16:57:50</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOT DIGII</Name>
+					<Description>SPOT PROMOVIDEO</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="24">
+				<IdName>80vogliadicantareFaustoCigliano</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>16:57:50</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>17:13:34</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="25">
+				<IdName>FLASHPARTE4SOLODALLE16,00ALLE18,00</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>17:13:34</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>17:18:35</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="26">
+				<IdName>Treuominieunagamba</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>17:18:35</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>18:56:18</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>TRE   UOMINI ED UNA GAMBA</Name>
+					<Description>Tre  uomini ed una  gamba</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="27">
+				<IdName>PillolaSalute_20150302_48922</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>18:56:18</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>18:56:59</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="28">
+				<IdName>FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>18:56:59</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>19:02:16</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="29">
+				<IdName>FORMULAMOTORI</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>19:02:16</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>19:26:23</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="30">
+				<IdName>Millevoci2017_Puntata02di13</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>19:26:23</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>21:09:42</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="31">
+				<IdName>3PROMOVIDEOSPOT3</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>21:09:42</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>21:09:49</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>spot promovideotv</Name>
+					<Description>SPOT PROMOVIDEOTV 3</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="32">
+				<IdName>FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>21:09:49</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>21:15:02</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="33">
+				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>21:15:02</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>21:37:15</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Reggio piccola grande Italia  </Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="34">
+				<IdName>6PROMOVIDEOSPOT6</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>21:37:15</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>21:37:22</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>6 SPOT PTOMOVIDEO</Name>
+					<Description>PROMOVIDEOSPOT 6</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="35">
+				<IdName>7PROMOVIDEOspot7</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>21:37:22</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>21:37:29</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOT  PROMOVIDEOTV</Name>
+					<Description>SPOT PROMOVIDEOTV</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="36">
+				<IdName>PIXMIND17</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>21:37:29</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>22:01:29</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="37">
+				<IdName>Filmato</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>22:01:29</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>22:03:58</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>GERACE IN 2 MINUTI</Name>
+					<Description>GERACE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="38">
+				<IdName>7PROMOVIDEOspot7</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>22:03:58</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>22:04:05</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOT  PROMOVIDEOTV</Name>
+					<Description>SPOT PROMOVIDEOTV</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="39">
+				<IdName>minispotapplicazione</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>22:04:05</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>22:04:16</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOTAPP</Name>
+					<Description>SPOTAPP</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="40">
+				<IdName>6PROMOVIDEOSPOT6</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>22:04:16</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>22:04:23</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>6 SPOT PTOMOVIDEO</Name>
+					<Description>PROMOVIDEOSPOT 6</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="41">
+				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>22:04:23</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>23:27:32</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>BELLEZZE SULLA SPIAGGIA</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="42">
+				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>23:27:32</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>23:27:47</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>ISCRIVITI CANALE YOU TUBE</Name>
+					<Description>ISCRIVITI CANALE YOU TUBE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="43">
+				<IdName>NoceraTerineseSabatoSanto1991(480p_25fps_H264128kbit_AAC)</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>23:27:47</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>23:39:23</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="44">
+				<IdName>7PROMOVIDEOspot7</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>23:39:23</StartTime>
+				<EndDate>2017-10-16</EndDate>
+				<EndTime>23:39:30</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOT  PROMOVIDEOTV</Name>
+					<Description>SPOT PROMOVIDEOTV</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="45">
+				<IdName>Unacoppiaperfetta_mpeg2video</IdName>
+				<StartDate>2017-10-16</StartDate>
+				<StartTime>23:39:30</StartTime>
+				<EndDate>2017-10-17</EndDate>
+				<EndTime>01:25:30</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Una coppia  perfetta</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="46">
+				<IdName>_1779_Recanatese_Lunaametà</IdName>
+				<StartDate>2017-10-17</StartDate>
+				<StartTime>01:25:30</StartTime>
+				<EndDate>2017-10-17</EndDate>
+				<EndTime>01:33:47</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>RECANATESE 'LUNA A META'</Name>
+					<Description>RECANATESE  LUNA A METa'</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="47">
+				<IdName>Gerace</IdName>
+				<StartDate>2017-10-17</StartDate>
+				<StartTime>01:33:47</StartTime>
+				<EndDate>2017-10-17</EndDate>
+				<EndTime>01:39:48</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>GERACE</Name>
+					<Description>GERACE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="48">
+				<IdName>Amy'sO-FinalmenteL'Amore</IdName>
+				<StartDate>2017-10-17</StartDate>
+				<StartTime>01:39:48</StartTime>
+				<EndDate>2017-10-17</EndDate>
+				<EndTime>03:03:15</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name></Name>
+					<Description>Finalmente l' amore</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="49">
+				<IdName>agrisapori725x10-9-17</IdName>
+				<StartDate>2017-10-17</StartDate>
+				<StartTime>03:03:15</StartTime>
+				<EndDate>2017-10-17</EndDate>
+				<EndTime>03:33:26</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="50">
+				<IdName>L'isoladeisopravvissuti</IdName>
+				<StartDate>2017-10-17</StartDate>
+				<StartTime>03:33:26</StartTime>
+				<EndDate>2017-10-17</EndDate>
+				<EndTime>05:05:10</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>L' isola dei sopravvissuti </Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="51">
+				<IdName>FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
+				<StartDate>2017-10-17</StartDate>
+				<StartTime>05:05:10</StartTime>
+				<EndDate>2017-10-17</EndDate>
+				<EndTime>05:10:27</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="52">
+				<IdName>MYTECH19</IdName>
+				<StartDate>2017-10-17</StartDate>
+				<StartTime>05:10:27</StartTime>
+				<EndDate>2017-10-17</EndDate>
+				<EndTime>05:34:27</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="53">
+				<IdName>FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
+				<StartDate>2017-10-17</StartDate>
+				<StartTime>05:34:27</StartTime>
+				<EndDate>2017-10-17</EndDate>
+				<EndTime>05:39:45</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="54">
+				<IdName>L'ultimorediScozia</IdName>
+				<StartDate>2017-10-17</StartDate>
+				<StartTime>05:39:45</StartTime>
+				<EndDate>2017-10-17</EndDate>
+				<EndTime>06:39:04</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>L' ultimo re di Scozia</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="55">
+				<IdName>MissinginAmerica</IdName>
+				<StartDate>2017-10-17</StartDate>
+				<StartTime>06:39:04</StartTime>
+				<EndDate>2017-10-17</EndDate>
+				<EndTime>08:17:27</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Missing  America</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="56">
+				<IdName>IlmegliodiMilleVoci2017_p01</IdName>
+				<StartDate>2017-10-17</StartDate>
+				<StartTime>08:17:27</StartTime>
+				<EndDate>2017-10-17</EndDate>
+				<EndTime>09:39:09</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="57">
+				<IdName>STILOELACATTOLICA</IdName>
+				<StartDate>2017-10-17</StartDate>
+				<StartTime>09:39:09</StartTime>
+				<EndDate>2017-10-17</EndDate>
+				<EndTime>09:46:24</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>STILO E LA CATTOLICA</Name>
+					<Description>Stilo e la  cattolica</Description>
 				</ShortEventDescription>
 			</Event>
 		</Service>
