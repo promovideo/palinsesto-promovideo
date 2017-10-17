@@ -1,5 +1,48 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-17/10/2017	05:20:20	L'ultimorediScozia	Sconosciuto	L' ultimo re di Scozia	00:59:18	22	
-17/10/2017	06:19:39	MissinginAmerica	Sconosciuto	Missing  America	01:38:23	1	Film
-17/10/2017	07:58:03	IlmegliodiMilleVoci2017_p01	Sconosciuto	Nuovo File	01:21:42	0	
-17/10/2017	09:19:45	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
+17/10/2017	09:55:38	TartarugheNinja-06LaspadadiTengu	Sconosciuto	Nuovo File	00:22:10	0	
+17/10/2017	10:17:48	TartarugheNinja-08Angel	Sconosciuto	Nuovo File	00:21:52	0	
+17/10/2017	10:39:41	FLASHPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:00	0	
+17/10/2017	10:44:42	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+17/10/2017	10:45:47	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
+17/10/2017	10:55:44	FORMULAMOTOI49	formula motori 49	formula  motori 49	00:23:59	41	programmi culturali
+17/10/2017	11:19:44	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
+17/10/2017	11:24:58	TartarugheNinja-06LaspadadiTengu	Sconosciuto	Nuovo File	00:22:10	0	
+17/10/2017	11:47:08	TartarugheNinja-08Angel	Sconosciuto	Nuovo File	00:21:52	0	
+17/10/2017	12:09:01	TartarugheNinja-09L'uomodellaspazzatura	Sconosciuto	Nuovo File	00:22:08	0	
+17/10/2017	12:31:09	FLASHPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:00	0	
+17/10/2017	12:36:09	A027DaLasVegas_mpeg2video	Sconosciuto	A 27 LAS VEGAS	01:30:34	1	Film
+17/10/2017	14:06:44	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
+17/10/2017	14:07:24	Americangraffiti_1_mpeg2video	AMERICAN GRAFFITI_1	AMERICAN GRAFFITI_1	00:57:34	1	Film
+17/10/2017	15:04:59	Americangraffiti_2_mpeg2video	AMERICAN GRAFFITI_2	AMERICAN GRAFFITI_2	00:50:04	1	Film
+17/10/2017	15:55:03	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
+17/10/2017	16:00:21	FORMULAMOTORI	Sconosciuto	Nuovo File	00:24:06	0	
+17/10/2017	16:24:27	Millevoci2017_Puntata02di13	Sconosciuto	Nuovo File	01:43:19	0	
+17/10/2017	18:07:47	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
+17/10/2017	18:07:54	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
+17/10/2017	18:13:07	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
+17/10/2017	18:35:20	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+17/10/2017	18:35:27	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+17/10/2017	18:35:34	PIXMIND17	Sconosciuto	Nuovo File	00:24:00	0	
+17/10/2017	18:59:34	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
+17/10/2017	19:02:03	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+17/10/2017	19:02:10	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+17/10/2017	19:02:21	Toto'aColoriFilmCompleto(FullMovie)	TOTO  A COLORI	Tot a  colori	01:32:29	1	Film
+17/10/2017	20:34:50	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+17/10/2017	20:34:57	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
+17/10/2017	21:58:06	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+17/10/2017	21:58:21	NoceraTerineseSabatoSanto1991(480p_25fps_H264128kbit_AAC)	Sconosciuto	Nuovo File	00:11:35	0	
+17/10/2017	22:09:57	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+17/10/2017	22:10:04	Unacoppiaperfetta_mpeg2video	Sconosciuto	Una coppia  perfetta	01:46:00	1	Film
+17/10/2017	23:56:04	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
+17/10/2017	23:56:19	_1779_Recanatese_Lunaametà	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
+18/10/2017	00:04:37	Gerace	GERACE	GERACE	00:06:01	71	documentari
+18/10/2017	00:10:38	Amy'sO-FinalmenteL'Amore		Finalmente l' amore	01:23:26	22	
+18/10/2017	01:34:04	agrisapori725x10-9-17	Sconosciuto	Nuovo File	00:30:10	0	
+18/10/2017	02:04:15	L'isoladeisopravvissuti	Sconosciuto	L' isola dei sopravvissuti 	01:31:43	1	Film
+18/10/2017	03:35:59	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
+18/10/2017	03:41:17	MYTECH19	Sconosciuto	Nuovo File	00:23:59	0	
+18/10/2017	04:05:16	FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
+18/10/2017	04:10:34	L'ultimorediScozia	Sconosciuto	L' ultimo re di Scozia	00:59:18	22	
+18/10/2017	05:09:53	MissinginAmerica	Sconosciuto	Missing  America	01:38:23	1	Film
+18/10/2017	06:48:17	IlmegliodiMilleVoci2017_p01	Sconosciuto	Nuovo File	01:21:42	0	
+18/10/2017	08:09:59	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
