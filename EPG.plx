@@ -5,15 +5,15 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 21/10/2017	19:45:42	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 21/10/2017	19:45:49	Unacoppiaperfetta_mpeg2video	Sconosciuto	Una coppia  perfetta	01:46:00	1	Film
 21/10/2017	21:31:49	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-21/10/2017	21:32:05	_1779_Recanatese_Lunaametà	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
-21/10/2017	21:40:22	Gerace	GERACE	GERACE	00:06:01	71	documentari
-21/10/2017	21:46:23	Amy'sO-FinalmenteL'Amore		Finalmente l' amore	01:23:26	22	
-21/10/2017	23:09:50	agrisapori725x10-9-17	Sconosciuto	Nuovo File	00:30:10	0	
-21/10/2017	23:40:00	L'isoladeisopravvissuti	Sconosciuto	L' isola dei sopravvissuti 	01:31:43	1	Film
-22/10/2017	01:11:44	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
-22/10/2017	01:17:02	MYTECH19	Sconosciuto	Nuovo File	00:23:59	0	
-22/10/2017	01:41:02	FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
-22/10/2017	01:46:19	L'ultimorediScozia	Sconosciuto	L' ultimo re di Scozia	00:59:18	22	
-22/10/2017	02:45:38	MissinginAmerica	Sconosciuto	Missing  America	01:38:23	1	Film
-22/10/2017	04:24:02	IlmegliodiMilleVoci2017_p01	Sconosciuto	Nuovo File	01:21:42	0	
-22/10/2017	05:45:44	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
+21/10/2017	21:32:05	Gerace	GERACE	GERACE	00:06:01	71	documentari
+21/10/2017	21:38:06	InsideI'mdancing	INSIDEL MDANCING	FILM	01:39:53	1	Film
+21/10/2017	23:17:59	Amy'sO-FinalmenteL'Amore		Finalmente l' amore	01:23:26	22	
+22/10/2017	00:41:25	agrisapori725x10-9-17	Sconosciuto	Nuovo File	00:30:10	0	
+22/10/2017	01:11:36	L'isoladeisopravvissuti	Sconosciuto	L' isola dei sopravvissuti 	01:31:43	1	Film
+22/10/2017	02:43:20	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
+22/10/2017	02:48:37	MYTECH19	Sconosciuto	Nuovo File	00:23:59	0	
+22/10/2017	03:12:37	FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
+22/10/2017	03:17:55	L'ultimorediScozia	Sconosciuto	L' ultimo re di Scozia	00:59:18	22	
+22/10/2017	04:17:14	MissinginAmerica	Sconosciuto	Missing  America	01:38:23	1	Film
+22/10/2017	05:55:38	IlmegliodiMilleVoci2017_p01	Sconosciuto	Nuovo File	01:21:42	0	
+22/10/2017	07:17:20	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
