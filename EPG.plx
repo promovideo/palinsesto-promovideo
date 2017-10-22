@@ -1,7 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-22/10/2017	18:58:02	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
-22/10/2017	20:49:44	FLASHPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:00	0	
-22/10/2017	20:54:45	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
 22/10/2017	20:54:52	LeComiche2	Sconosciuto	Le comiche 2	01:27:16	22	
 22/10/2017	22:22:08	agrisapori728x1-10-17	AGRISAPORO 10  2017	Nuovo File	00:28:20	0	
 22/10/2017	22:50:28	2Fastand2Furios	Sconosciuto	Nuovo File	01:43:10	1	Film
