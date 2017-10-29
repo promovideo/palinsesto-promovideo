@@ -1,15 +1,13 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-29/10/2017	19:38:16	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
-29/10/2017	21:40:26	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
 29/10/2017	21:40:33	consigliocomunaleSidernodel28102017	CONSIGLIO COMUN SIDERNODEL 28 10 170	Nuovo File	00:43:53	0	
 29/10/2017	22:24:26	TRAILERPARTE5SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:56	0	
 29/10/2017	22:34:22	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-29/10/2017	22:34:25	LeComiche2	Sconosciuto	Le comiche 2	01:27:16	22	
+29/10/2017	22:34:26	LeComiche2	Sconosciuto	Le comiche 2	01:27:16	22	
 30/10/2017	00:01:42	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
 30/10/2017	00:01:57	Cacciaallavolpe_1_mpeg2video	Sconosciuto	CACCIA ALLA VOLPE 1	00:51:12	1	Film
 30/10/2017	00:53:09	ChiedimiSeSonoFelice_mpeg2video	CHIEDIMI SE SONO  FELICE	CHIEDIMI SE SONO  FELICE	01:36:35	1	Film
-30/10/2017	02:29:44	commemorazione5mrtiriGerace	COMMEMORAZ 5 MARTIRI GERACE 2 0TT 	COMM 5 MARTIRI GERAC SIDERNO	01:30:58	41	programmi culturali
-30/10/2017	04:00:42	agrisapori728x1-10-17	AGRISAPORO 10  2017	Nuovo File	00:28:20	0	
+30/10/2017	02:29:45	commemorazione5mrtiriGerace	COMMEMORAZ 5 MARTIRI GERACE 2 0TT 	COMM 5 MARTIRI GERAC SIDERNO	01:30:58	41	programmi culturali
+30/10/2017	04:00:43	agrisapori728x1-10-17	AGRISAPORO 10  2017	Nuovo File	00:28:20	0	
 30/10/2017	04:29:03	TRAILERPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:10:04	0	
 30/10/2017	04:39:07	calabriaricordi	CALABRIA RICORDI	CALABRIA RICORDI	00:01:54	41	programmi culturali
 30/10/2017	04:41:02	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
