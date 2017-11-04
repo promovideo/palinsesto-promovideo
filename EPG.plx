@@ -1,10 +1,3 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-03/11/2017	20:21:37	LichiamaronoBrigantifilmcompleto	LI CHIAMARONO BRIGANTI	LI CHIAMARONO BRIGANTI	02:00:51	1	Film
-03/11/2017	22:22:29	Gerace	GERACE	GERACE	00:06:01	71	documentari
-03/11/2017	22:28:30	LARIVOLTADEIPRETORIANIFilmpeplum1964diAlfonsoBresciacompletoinItaliano	Sconosciuto	LARIVOLTA DEI PRETORIANI	01:33:20	1	Film
-04/11/2017	00:01:50	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
-04/11/2017	00:11:48	AmiciMieiAttoII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO II	02:07:00	1	Film
-04/11/2017	02:18:48	Il.Diavolo.bn19631°t	IL DIAVOLO B/N SORDI 1°	IL DIAVOLO B/N SORDI 1°	00:51:44	1	Film
-04/11/2017	03:10:32	Il.Diavolo.bn19632°t	IL DIAVOLO B/N SORDI 2°	IL DIAVOLO B/N SORDI 2°	00:53:09	1	Film
-04/11/2017	04:03:42	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
-04/11/2017	06:05:51	DonCamilloMonsignoremanontroppo	DON CAMILLO   MONSIGNORE	DON CAMILLO MONSIGNORE	01:53:25	1	Film
+04/11/2017	04:02:49	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
+04/11/2017	06:04:59	DonCamilloMonsignoremanontroppo	DON CAMILLO   MONSIGNORE	DON CAMILLO MONSIGNORE	01:53:25	1	Film
