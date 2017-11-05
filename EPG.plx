@@ -1,14 +1,3 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-04/11/2017	21:48:55	ChiedimiSeSonoFelice_mpeg2video	CHIEDIMI SE SONO  FELICE	CHIEDIMI SE SONO  FELICE	01:36:35	1	Film
-04/11/2017	23:25:30	PENTEDATTILORIDE102017	Sconosciuto	PENTEDATTILO	00:27:16	41	programmi culturali
-04/11/2017	23:52:46	TRAILERPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:10:04	0	
-05/11/2017	00:02:50	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-05/11/2017	00:02:54	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
-05/11/2017	00:05:23	CassanoFestadelSantissimoCrocifisso	Sconosciuto	Nuovo File	00:29:43	0	
-05/11/2017	00:35:07	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
-05/11/2017	00:44:15	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-05/11/2017	00:44:22	LichiamaronoBrigantifilmcompleto	LI CHIAMARONO BRIGANTI	LI CHIAMARONO BRIGANTI	02:00:51	1	Film
-05/11/2017	02:45:14	Gerace	GERACE	GERACE	00:06:01	71	documentari
-05/11/2017	02:51:15	LARIVOLTADEIPRETORIANIFilmpeplum1964diAlfonsoBresciacompletoinItaliano	Sconosciuto	LARIVOLTA DEI PRETORIANI	01:33:20	1	Film
-05/11/2017	04:24:35	AmiciMieiAttoII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO II	02:07:00	1	Film
-05/11/2017	06:31:35	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
+05/11/2017	04:23:38	AmiciMieiAttoII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO II	02:07:00	1	Film
+05/11/2017	06:30:38	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
