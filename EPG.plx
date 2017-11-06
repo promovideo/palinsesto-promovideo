@@ -1,10 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-06/11/2017	17:19:05	TRAILERPARTE5SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:56	0	
-06/11/2017	17:29:01	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-06/11/2017	17:29:04	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-06/11/2017	17:29:11	MYTECH-PIXMINDreplicaestate(8)ok	Sconosciuto	Nuovo File	00:24:00	0	
-06/11/2017	17:53:11	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-06/11/2017	17:53:27	Cacciaallavolpe_1_mpeg2video	Sconosciuto	CACCIA ALLA VOLPE 1	00:51:12	1	Film
 06/11/2017	18:44:39	ChiedimiSeSonoFelice_mpeg2video	CHIEDIMI SE SONO  FELICE	CHIEDIMI SE SONO  FELICE	01:36:35	1	Film
 06/11/2017	20:21:14	PENTEDATTILORIDE102017	Sconosciuto	PENTEDATTILO	00:27:16	41	programmi culturali
 06/11/2017	20:48:30	TRAILERPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:10:04	0	
