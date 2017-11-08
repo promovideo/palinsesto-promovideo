@@ -2,48 +2,9 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>AmiciMieiAttoII_mpeg2video</IdName>
-				<StartDate>2017-11-08</StartDate>
-				<StartTime>08:16:54</StartTime>
-				<EndDate>2017-11-08</EndDate>
-				<EndTime>10:23:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>AMICI MIEI  ATTO II</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>Il.Diavolo.bn19631°t</IdName>
-				<StartDate>2017-11-08</StartDate>
-				<StartTime>10:23:54</StartTime>
-				<EndDate>2017-11-08</EndDate>
-				<EndTime>11:15:38</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IL DIAVOLO B/N SORDI 1°</Name>
-					<Description>IL DIAVOLO B/N SORDI 1°</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>Il.Diavolo.bn19632°t</IdName>
-				<StartDate>2017-11-08</StartDate>
-				<StartTime>11:15:38</StartTime>
-				<EndDate>2017-11-08</EndDate>
-				<EndTime>12:08:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IL DIAVOLO B/N SORDI 2°</Name>
-					<Description>IL DIAVOLO B/N SORDI 2°</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
 				<IdName>Colpogrosso_mpeg2video</IdName>
 				<StartDate>2017-11-08</StartDate>
-				<StartTime>12:08:48</StartTime>
+				<StartTime>12:08:47</StartTime>
 				<EndDate>2017-11-08</EndDate>
 				<EndTime>14:10:57</EndTime>
 				<ShortEventDescription>
@@ -53,7 +14,7 @@
 					<Description>COLPO  GROSSO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="2">
 				<IdName>DonCamilloMonsignoremanontroppo</IdName>
 				<StartDate>2017-11-08</StartDate>
 				<StartTime>14:10:57</StartTime>
