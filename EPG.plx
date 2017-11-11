@@ -1,3 +1,39 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-11/11/2017	05:28:57	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	Film
-11/11/2017	07:14:39	Gerace	GERACE	GERACE	00:06:01	71	documentari
+11/11/2017	09:46:49	PALLANUOTANDOPUNTATA1171102	Sconosciuto	Nuovo File	00:42:35	0	
+11/11/2017	10:29:25	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
+11/11/2017	10:34:38	043-NgoroNgoro,l'UltimaArca(14')eD	NGORO NGORO	Nuovo File	00:13:29	71	documentari
+11/11/2017	10:48:07	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+11/11/2017	10:49:12	benessere_20150715_52345	Sconosciuto	Nuovo File	00:01:11	0	
+11/11/2017	10:50:24	FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
+11/11/2017	10:55:42	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
+11/11/2017	10:55:57	'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video	Commedia	Natale in casa   Cupiello	02:12:48	1	Film
+11/11/2017	13:08:45	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
+11/11/2017	13:30:58	SimsalaGrimm2-Ep.24-L'allodolachecantaHDItaliano(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:28	51	cartoni animati
+11/11/2017	13:55:26	SimsalaGrimm2-Ep.25-JorindaeJoringhelloHDItaliano(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:29	51	cartoni animati
+11/11/2017	14:19:56	SimsalaGrimm2-Ep.26-LaSirenetta-HDItaliano-ULTIMOEPISODIO(720p_30fps_H264-192kbit_AAC)	Sconosciuto	Nuovo File	00:24:29	0	
+11/11/2017	14:44:25	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
+11/11/2017	14:45:05	SimsalaGrimm2-Ep.20-PinocchioHDItaliano(480p_26fps_H264-128kbit_AAC)	PINOCCHIO	EP. 20	00:24:25	51	cartoni animati
+11/11/2017	15:09:31	SimsalaGrimm2-Ep.25-JorindaeJoringhelloHDItaliano(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:29	51	cartoni animati
+11/11/2017	15:34:01	SimsalaGrimm2-Ep.8-L'ostilita'delmagoHDItaliano(480p_28fps_H264-128kbit_AAC)	L 'STILITA DEL MAGO	EP. 8	00:24:30	51	cartoni animati
+11/11/2017	15:58:31	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
+11/11/2017	15:58:38	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+11/11/2017	16:07:46	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
+11/11/2017	17:38:21	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+11/11/2017	17:38:28	LibrocasinoMacrì_mpeg2video	LIBRO CASINO' MACRI	LIBRO CASINO MACRI'	01:05:03	41	programmi culturali
+11/11/2017	18:43:31	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+11/11/2017	18:43:38	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
+11/11/2017	18:46:07	FratelloDiegoPuntata332017	fratello Diego p.33	Nuovo File	00:31:03	0	
+11/11/2017	19:17:11	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
+11/11/2017	19:27:08	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+11/11/2017	19:27:15	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+11/11/2017	19:27:26	AltrimentiCiArrabbiamo	Sconosciuto	Nuovo File	01:37:35	1	Film
+11/11/2017	21:05:01	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+11/11/2017	21:05:08	AmicimieiattoIII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO III	01:49:20	1	Film
+11/11/2017	22:54:29	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
+11/11/2017	23:46:34	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
+12/11/2017	01:35:05	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
+12/11/2017	02:58:14	Colpitadaimprovvisobenessere_mpeg2video	Sconosciuto	COLPITA DA IMPROVVISO  BENESSERE	01:33:09	1	Film
+12/11/2017	04:31:24	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+12/11/2017	04:31:40	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+12/11/2017	04:31:46	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	Film
+12/11/2017	06:17:28	Gerace	GERACE	GERACE	00:06:01	71	documentari
