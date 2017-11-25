@@ -2,32 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2017-11-25</StartDate>
-				<StartTime>19:50:13</StartTime>
-				<EndDate>2017-11-25</EndDate>
-				<EndTime>19:55:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2017-11-25</StartDate>
-				<StartTime>19:55:26</StartTime>
-				<EndDate>2017-11-25</EndDate>
-				<EndTime>19:55:33</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
 				<IdName>LaCompagniaDell'Anello</IdName>
 				<StartDate>2017-11-25</StartDate>
 				<StartTime>19:55:33</StartTime>
@@ -40,7 +14,7 @@
 					<Description>La compagnia dell'anello </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="2">
 				<IdName>StarshipTroopers2-Glieroidellafederazione</IdName>
 				<StartDate>2017-11-25</StartDate>
 				<StartTime>23:15:29</StartTime>
@@ -53,7 +27,7 @@
 					<Description>Trooper 2</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="3">
 				<IdName>Filmato</IdName>
 				<StartDate>2017-11-26</StartDate>
 				<StartTime>00:43:21</StartTime>
@@ -66,7 +40,7 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="4">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-11-26</StartDate>
 				<StartTime>00:45:50</StartTime>
@@ -79,7 +53,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="5">
 				<IdName>minispotapplicazione</IdName>
 				<StartDate>2017-11-26</StartDate>
 				<StartTime>00:45:57</StartTime>
@@ -92,7 +66,7 @@
 					<Description>SPOTAPP</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="6">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2017-11-26</StartDate>
 				<StartTime>00:46:08</StartTime>
@@ -105,7 +79,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="7">
 				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
 				<StartDate>2017-11-26</StartDate>
 				<StartTime>00:46:15</StartTime>
@@ -118,7 +92,7 @@
 					<Description>BELLEZZE SULLA SPIAGGIA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="8">
 				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
 				<StartDate>2017-11-26</StartDate>
 				<StartTime>02:09:24</StartTime>
@@ -131,7 +105,7 @@
 					<Description>ANIMALI SERPENTI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="9">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2017-11-26</StartDate>
 				<StartTime>03:01:29</StartTime>
@@ -144,12 +118,12 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="10">
 				<IdName>Colpogrosso_mpeg2video</IdName>
 				<StartDate>2017-11-26</StartDate>
 				<StartTime>03:01:45</StartTime>
 				<EndDate>2017-11-26</EndDate>
-				<EndTime>05:03:55</EndTime>
+				<EndTime>05:03:54</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -157,10 +131,10 @@
 					<Description>COLPO  GROSSO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="11">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-11-26</StartDate>
-				<StartTime>05:03:55</StartTime>
+				<StartTime>05:03:54</StartTime>
 				<EndDate>2017-11-26</EndDate>
 				<EndTime>05:04:01</EndTime>
 				<ShortEventDescription>
@@ -170,7 +144,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="12">
 				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
 				<StartDate>2017-11-26</StartDate>
 				<StartTime>05:04:01</StartTime>
@@ -183,12 +157,12 @@
 					<Description>CRASH CONTATTO  FINALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="13">
 				<IdName>Gerace</IdName>
 				<StartDate>2017-11-26</StartDate>
 				<StartTime>06:52:32</StartTime>
 				<EndDate>2017-11-26</EndDate>
-				<EndTime>06:58:34</EndTime>
+				<EndTime>06:58:33</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -196,10 +170,10 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="14">
 				<IdName>CityofGhost_mpeg2video</IdName>
 				<StartDate>2017-11-26</StartDate>
-				<StartTime>06:58:34</StartTime>
+				<StartTime>06:58:33</StartTime>
 				<EndDate>2017-11-26</EndDate>
 				<EndTime>08:50:16</EndTime>
 				<ShortEventDescription>
