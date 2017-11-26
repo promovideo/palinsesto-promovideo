@@ -2,154 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>LaCompagniaDell'Anello</IdName>
-				<StartDate>2017-11-25</StartDate>
-				<StartTime>19:55:33</StartTime>
-				<EndDate>2017-11-25</EndDate>
-				<EndTime>23:15:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>La compagnia dell'anello </Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>StarshipTroopers2-Glieroidellafederazione</IdName>
-				<StartDate>2017-11-25</StartDate>
-				<StartTime>23:15:29</StartTime>
-				<EndDate>2017-11-26</EndDate>
-				<EndTime>00:43:21</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Trooper 2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>Filmato</IdName>
-				<StartDate>2017-11-26</StartDate>
-				<StartTime>00:43:21</StartTime>
-				<EndDate>2017-11-26</EndDate>
-				<EndTime>00:45:50</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GERACE IN 2 MINUTI</Name>
-					<Description>GERACE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2017-11-26</StartDate>
-				<StartTime>00:45:50</StartTime>
-				<EndDate>2017-11-26</EndDate>
-				<EndTime>00:45:57</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
-				<IdName>minispotapplicazione</IdName>
-				<StartDate>2017-11-26</StartDate>
-				<StartTime>00:45:57</StartTime>
-				<EndDate>2017-11-26</EndDate>
-				<EndTime>00:46:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTAPP</Name>
-					<Description>SPOTAPP</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2017-11-26</StartDate>
-				<StartTime>00:46:08</StartTime>
-				<EndDate>2017-11-26</EndDate>
-				<EndTime>00:46:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
-				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
-				<StartDate>2017-11-26</StartDate>
-				<StartTime>00:46:15</StartTime>
-				<EndDate>2017-11-26</EndDate>
-				<EndTime>02:09:24</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>BELLEZZE SULLA SPIAGGIA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="8">
-				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
-				<StartDate>2017-11-26</StartDate>
-				<StartTime>02:09:24</StartTime>
-				<EndDate>2017-11-26</EndDate>
-				<EndTime>03:01:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ANIMALI SERPENTI</Name>
-					<Description>ANIMALI SERPENTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="9">
-				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
-				<StartDate>2017-11-26</StartDate>
-				<StartTime>03:01:29</StartTime>
-				<EndDate>2017-11-26</EndDate>
-				<EndTime>03:01:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ISCRIVITI CANALE YOU TUBE</Name>
-					<Description>ISCRIVITI CANALE YOU TUBE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
-				<IdName>Colpogrosso_mpeg2video</IdName>
-				<StartDate>2017-11-26</StartDate>
-				<StartTime>03:01:45</StartTime>
-				<EndDate>2017-11-26</EndDate>
-				<EndTime>05:03:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Colpogrosso</Name>
-					<Description>COLPO  GROSSO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="11">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2017-11-26</StartDate>
-				<StartTime>05:03:54</StartTime>
-				<EndDate>2017-11-26</EndDate>
-				<EndTime>05:04:01</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="12">
 				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
 				<StartDate>2017-11-26</StartDate>
-				<StartTime>05:04:01</StartTime>
+				<StartTime>04:54:35</StartTime>
 				<EndDate>2017-11-26</EndDate>
-				<EndTime>06:52:32</EndTime>
+				<EndTime>06:43:06</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -157,12 +14,12 @@
 					<Description>CRASH CONTATTO  FINALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="2">
 				<IdName>Gerace</IdName>
 				<StartDate>2017-11-26</StartDate>
-				<StartTime>06:52:32</StartTime>
+				<StartTime>06:43:06</StartTime>
 				<EndDate>2017-11-26</EndDate>
-				<EndTime>06:58:33</EndTime>
+				<EndTime>06:49:07</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -170,12 +27,12 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="3">
 				<IdName>CityofGhost_mpeg2video</IdName>
 				<StartDate>2017-11-26</StartDate>
-				<StartTime>06:58:33</StartTime>
+				<StartTime>06:49:07</StartTime>
 				<EndDate>2017-11-26</EndDate>
-				<EndTime>08:50:16</EndTime>
+				<EndTime>08:40:49</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
