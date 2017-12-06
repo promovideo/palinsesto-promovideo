@@ -1,6 +1,5 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-06/12/2017	16:51:59	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
-06/12/2017	18:43:41	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
+06/12/2017	18:43:42	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
 06/12/2017	20:45:51	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
 06/12/2017	20:45:58	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
 06/12/2017	21:08:11	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
@@ -9,12 +8,12 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 06/12/2017	22:43:59	LibrocasinoMacrì_mpeg2video	LIBRO CASINO' MACRI	LIBRO CASINO MACRI'	01:05:03	41	programmi culturali
 06/12/2017	23:49:02	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
 07/12/2017	01:39:38	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-07/12/2017	01:39:44	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
+07/12/2017	01:39:45	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
 07/12/2017	01:42:14	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 07/12/2017	01:42:21	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
 07/12/2017	01:42:32	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-07/12/2017	01:42:38	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
-07/12/2017	03:05:47	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
+07/12/2017	01:42:39	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
+07/12/2017	03:05:48	benessere_20150512_50742	Sconosciuto	benessere	00:01:02	41	programmi culturali
 07/12/2017	03:06:50	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
 07/12/2017	03:58:56	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
 07/12/2017	05:47:27	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
