@@ -1,15 +1,3 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-13/12/2017	21:24:07	TRAILERPARTE7DOPOLE22,30	Sconosciuto	Nuovo File	00:09:50	0	
-13/12/2017	21:33:57	PROMOVIDEOSPOT2	SPOT  PROMOVIDEOTV 2	SPOT  PROMOVIDEOTV 2	00:00:06	11	spot
-13/12/2017	21:34:04	Fantozzisubisceancora	FANTOZZI  SUBISCE ANCORA	FANTOZZI  SUBISCE ANCORA	01:23:46	1	Film
-13/12/2017	22:57:51	TRAILERPARTE8DOPOLE22,30	Sconosciuto	Nuovo File	00:10:02	0	
-13/12/2017	23:07:53	Speed	SPEED	SPEED	01:50:00	1	Film
-14/12/2017	00:57:54	044-LaSavanadeiSerengheti(15')eD	LA SAVANA	Nuovo File	00:14:19	71	documentari
-14/12/2017	01:12:13	MYTECH-PIXMINDreplicaestate(5)ok	Sconosciuto	Nuovo File	00:24:00	0	
-14/12/2017	01:36:13	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-14/12/2017	01:46:19	AvventuraaCapri_mpeg2video	Sconosciuto	AVVENTURA A CAPRI	01:23:03	1	Film
-14/12/2017	03:09:22	IlmegliodiMilleVoci2017_p02	Sconosciuto	Nuovo File	01:23:08	0	
-14/12/2017	04:32:31	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-14/12/2017	04:42:36	SANROCCO2017GIOIOSAJ.L	s   rocco gioiosa 2017	S  ROCCO  GIOIOSA 2017	00:40:08	41	programmi culturali
-14/12/2017	05:22:44	IF_P11_PREV_14112017	Instant future p.11	Instant Future P. 11	00:24:04	31	programmi informativi
-14/12/2017	05:46:48	X-Men	X - MEN	X - MEN	01:40:02	1	Film
+14/12/2017	05:16:14	IF_P11_PREV_14112017	Instant future p.11	Instant Future P. 11	00:24:04	31	programmi informativi
+14/12/2017	05:40:18	X-Men	X - MEN	X - MEN	01:40:02	1	Film
