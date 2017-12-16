@@ -2,89 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Identit‡Violate</IdName>
-				<StartDate>2017-12-16</StartDate>
-				<StartTime>18:34:03</StartTime>
-				<EndDate>2017-12-16</EndDate>
-				<EndTime>20:12:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IDENTITA' VIOLATE</Name>
-					<Description>IDENTITA' VIOLATE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>_1779_Recanatese_Lunaamet‡</IdName>
-				<StartDate>2017-12-16</StartDate>
-				<StartTime>20:12:49</StartTime>
-				<EndDate>2017-12-16</EndDate>
-				<EndTime>20:21:07</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>RECANATESE 'LUNA A META'</Name>
-					<Description>RECANATESE  LUNA A METa'</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2017-12-16</StartDate>
-				<StartTime>20:21:07</StartTime>
-				<EndDate>2017-12-16</EndDate>
-				<EndTime>20:26:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>instantfuture13</IdName>
-				<StartDate>2017-12-16</StartDate>
-				<StartTime>20:26:20</StartTime>
-				<EndDate>2017-12-16</EndDate>
-				<EndTime>20:49:22</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
-				<IdName>MuseoEgiziodelCairo(parte1)(2)</IdName>
-				<StartDate>2017-12-16</StartDate>
-				<StartTime>20:49:22</StartTime>
-				<EndDate>2017-12-16</EndDate>
-				<EndTime>21:14:07</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>MUSEO EGIZIO DEL CAIRO 1^</Name>
-					<Description>MUSEO EGIZIODEL CAIRO 1^</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
-				<IdName>Gerace</IdName>
-				<StartDate>2017-12-16</StartDate>
-				<StartTime>21:14:07</StartTime>
-				<EndDate>2017-12-16</EndDate>
-				<EndTime>21:20:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GERACE</Name>
-					<Description>GERACE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
 				<IdName>LARIVOLTADEIPRETORIANIFilmpeplum1964diAlfonsoBresciacompletoinItaliano</IdName>
 				<StartDate>2017-12-16</StartDate>
-				<StartTime>21:20:08</StartTime>
+				<StartTime>21:19:41</StartTime>
 				<EndDate>2017-12-16</EndDate>
-				<EndTime>22:53:29</EndTime>
+				<EndTime>22:53:01</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,25 +14,12 @@
 					<Description>LARIVOLTA DEI PRETORIANI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
-				<IdName>Iquattrodell'apocalisseLucioFulci(FILMCOMPLETO)</IdName>
-				<StartDate>2017-12-16</StartDate>
-				<StartTime>22:53:29</StartTime>
-				<EndDate>2017-12-17</EndDate>
-				<EndTime>00:37:35</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>I 4 DELL'APOCALISSE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="9">
+			<Event id="2">
 				<IdName>Speed</IdName>
-				<StartDate>2017-12-17</StartDate>
-				<StartTime>00:37:35</StartTime>
+				<StartDate>2017-12-16</StartDate>
+				<StartTime>22:53:01</StartTime>
 				<EndDate>2017-12-17</EndDate>
-				<EndTime>02:27:36</EndTime>
+				<EndTime>00:43:02</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,12 +27,12 @@
 					<Description>SPEED</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="3">
 				<IdName>LARIVOLTADEIPRETORIANIFilmpeplum1964diAlfonsoBresciacompletoinItaliano</IdName>
 				<StartDate>2017-12-17</StartDate>
-				<StartTime>02:27:36</StartTime>
+				<StartTime>00:43:02</StartTime>
 				<EndDate>2017-12-17</EndDate>
-				<EndTime>04:00:56</EndTime>
+				<EndTime>02:16:22</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -131,12 +40,12 @@
 					<Description>LARIVOLTA DEI PRETORIANI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="4">
 				<IdName>BadBoys</IdName>
 				<StartDate>2017-12-17</StartDate>
-				<StartTime>04:00:56</StartTime>
+				<StartTime>02:16:22</StartTime>
 				<EndDate>2017-12-17</EndDate>
-				<EndTime>05:55:00</EndTime>
+				<EndTime>04:10:26</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -144,12 +53,12 @@
 					<Description>BAD BOYS</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="5">
 				<IdName>Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)</IdName>
 				<StartDate>2017-12-17</StartDate>
-				<StartTime>05:55:00</StartTime>
+				<StartTime>04:10:26</StartTime>
 				<EndDate>2017-12-17</EndDate>
-				<EndTime>07:54:40</EndTime>
+				<EndTime>06:10:06</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
