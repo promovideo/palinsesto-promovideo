@@ -1,3 +1,19 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-15/12/2017	05:39:12	Gerace	GERACE	GERACE	00:06:01	71	documentari
-15/12/2017	05:45:13	Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)	Sconosciuto	BERTOLDO BERTOLDINO E CACASENNO	01:59:40	1	Film
+16/12/2017	04:55:50	LichiamaronoBrigantifilmcompleto	LI CHIAMARONO BRIGANTI	LI CHIAMARONO BRIGANTI	02:00:51	1	Film
+16/12/2017	06:56:42	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
+16/12/2017	07:48:47	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
+16/12/2017	09:37:18	AVISLOCRI	Sconosciuto	Nuovo File	00:00:33	0	
+16/12/2017	09:37:52	MilleVocinapoletane,puntatan.01	Sconosciuto	Nuovo File	01:56:37	0	
+16/12/2017	11:34:30	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+16/12/2017	11:34:45	Speed2-SenzaLimiti	SPOEED 2 SENZA LIMITI	SPEED 2 SENZA LIMITI	01:54:12	1	Film
+16/12/2017	13:28:58	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+16/12/2017	13:29:05	TOTO'CONTROIQUATTRO	Sconosciuto	Nuovo File	01:34:32	0	
+16/12/2017	15:03:37	Nell'annoDelSignoreManfredi,Sordi,Tognazzi(Filmcompleto)	Sconosciuto	Nell'anno del  Signore	01:57:54	1	Film
+16/12/2017	17:01:32	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
+16/12/2017	17:06:49	GeraceCalabriaItalyHD(720p_30fps_H264-192kbit_AAC)	Sconosciuto	Nuovo File	00:02:50	0	
+16/12/2017	17:09:40	Identit‡Violate	IDENTITA' VIOLATE	IDENTITA' VIOLATE	01:38:46	1	Film
+16/12/2017	18:48:26	_1779_Recanatese_Lunaamet‡	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
+16/12/2017	18:56:44	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
+16/12/2017	19:01:57	Gerace	GERACE	GERACE	00:06:01	71	documentari
+16/12/2017	19:07:58	LARIVOLTADEIPRETORIANIFilmpeplum1964diAlfonsoBresciacompletoinItaliano	Sconosciuto	LARIVOLTA DEI PRETORIANI	01:33:20	1	Film
+16/12/2017	20:41:18	Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)	Sconosciuto	BERTOLDO BERTOLDINO E CACASENNO	01:59:40	1	Film
