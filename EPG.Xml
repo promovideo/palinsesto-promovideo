@@ -2,45 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>AmicimieiattoIII_mpeg2video</IdName>
-				<StartDate>2017-12-22</StartDate>
-				<StartTime>16:30:51</StartTime>
-				<EndDate>2017-12-22</EndDate>
-				<EndTime>18:20:12</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>AMICI MIEI  ATTO III</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2017-12-22</StartDate>
-				<StartTime>18:20:12</StartTime>
-				<EndDate>2017-12-22</EndDate>
-				<EndTime>18:20:19</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>Filmato</IdName>
-				<StartDate>2017-12-22</StartDate>
-				<StartTime>18:20:19</StartTime>
-				<EndDate>2017-12-22</EndDate>
-				<EndTime>18:22:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GERACE IN 2 MINUTI</Name>
-					<Description>GERACE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
 				<IdName>FantozziVaInPensione</IdName>
 				<StartDate>2017-12-22</StartDate>
 				<StartTime>18:22:49</StartTime>
@@ -53,7 +14,7 @@
 					<Description>FANTOZZI VA IN PENSIONE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="2">
 				<IdName>FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-12-22</StartDate>
 				<StartTime>19:57:25</StartTime>
@@ -66,7 +27,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="3">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-12-22</StartDate>
 				<StartTime>20:02:38</StartTime>
@@ -79,7 +40,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="4">
 				<IdName>minispotapplicazione</IdName>
 				<StartDate>2017-12-22</StartDate>
 				<StartTime>20:02:45</StartTime>
@@ -92,7 +53,7 @@
 					<Description>SPOTAPP</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="5">
 				<IdName>Souvenird'Italie_mpeg2video</IdName>
 				<StartDate>2017-12-22</StartDate>
 				<StartTime>20:02:56</StartTime>
@@ -105,7 +66,7 @@
 					<Description>Souvenir d'Italy</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="6">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2017-12-22</StartDate>
 				<StartTime>21:47:39</StartTime>
@@ -118,12 +79,12 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="7">
 				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
 				<StartDate>2017-12-22</StartDate>
 				<StartTime>21:47:46</StartTime>
 				<EndDate>2017-12-22</EndDate>
-				<EndTime>22:39:51</EndTime>
+				<EndTime>22:39:52</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -131,12 +92,12 @@
 					<Description>ANIMALI SERPENTI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="8">
 				<IdName>MammaHoRipersoL'aereoEMiSonoSmarritoANewYork</IdName>
 				<StartDate>2017-12-22</StartDate>
-				<StartTime>22:39:51</StartTime>
+				<StartTime>22:39:52</StartTime>
 				<EndDate>2017-12-23</EndDate>
-				<EndTime>00:27:55</EndTime>
+				<EndTime>00:27:56</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -144,10 +105,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="9">
 				<IdName>AVISLOCRI</IdName>
 				<StartDate>2017-12-23</StartDate>
-				<StartTime>00:27:55</StartTime>
+				<StartTime>00:27:56</StartTime>
 				<EndDate>2017-12-23</EndDate>
 				<EndTime>00:28:29</EndTime>
 				<ShortEventDescription>
@@ -157,7 +118,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="10">
 				<IdName>MilleVocinapoletane,puntatan.01</IdName>
 				<StartDate>2017-12-23</StartDate>
 				<StartTime>00:28:29</StartTime>
@@ -170,7 +131,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="11">
 				<IdName>TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-12-23</StartDate>
 				<StartTime>02:25:07</StartTime>
@@ -183,7 +144,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="12">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2017-12-23</StartDate>
 				<StartTime>02:35:12</StartTime>
@@ -196,12 +157,12 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="13">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2017-12-23</StartDate>
 				<StartTime>02:35:28</StartTime>
 				<EndDate>2017-12-23</EndDate>
-				<EndTime>02:35:34</EndTime>
+				<EndTime>02:35:35</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -209,10 +170,10 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="14">
 				<IdName>PiedoneL'Africano</IdName>
 				<StartDate>2017-12-23</StartDate>
-				<StartTime>02:35:34</StartTime>
+				<StartTime>02:35:35</StartTime>
 				<EndDate>2017-12-23</EndDate>
 				<EndTime>04:24:30</EndTime>
 				<ShortEventDescription>
@@ -222,7 +183,7 @@
 					<Description>Piedone l' Africano</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="15">
 				<IdName>GeraceCalabriaItalyHD(720p_30fps_H264-192kbit_AAC)</IdName>
 				<StartDate>2017-12-23</StartDate>
 				<StartTime>04:24:30</StartTime>
@@ -235,7 +196,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="16">
 				<IdName>FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-12-23</StartDate>
 				<StartTime>04:27:20</StartTime>
@@ -248,7 +209,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="17">
 				<IdName>Gerace</IdName>
 				<StartDate>2017-12-23</StartDate>
 				<StartTime>04:32:34</StartTime>
@@ -261,7 +222,7 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="21">
+			<Event id="18">
 				<IdName>LARIVOLTADEIPRETORIANIFilmpeplum1964diAlfonsoBresciacompletoinItaliano</IdName>
 				<StartDate>2017-12-23</StartDate>
 				<StartTime>04:38:35</StartTime>
@@ -274,7 +235,7 @@
 					<Description>LARIVOLTA DEI PRETORIANI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="22">
+			<Event id="19">
 				<IdName>Nell'annoDelSignoreManfredi,Sordi,Tognazzi(Filmcompleto)</IdName>
 				<StartDate>2017-12-23</StartDate>
 				<StartTime>06:11:55</StartTime>
