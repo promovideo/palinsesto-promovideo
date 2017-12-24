@@ -2,32 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Souvenird'Italie_mpeg2video</IdName>
-				<StartDate>2017-12-24</StartDate>
-				<StartTime>19:04:24</StartTime>
-				<EndDate>2017-12-24</EndDate>
-				<EndTime>20:49:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Souvenir d'Italy</Name>
-					<Description>Souvenir d'Italy</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2017-12-24</StartDate>
-				<StartTime>20:49:08</StartTime>
-				<EndDate>2017-12-24</EndDate>
-				<EndTime>20:49:14</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
 				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
 				<StartDate>2017-12-24</StartDate>
 				<StartTime>20:49:14</StartTime>
@@ -40,7 +14,7 @@
 					<Description>ANIMALI SERPENTI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="2">
 				<IdName>MammaHoRipersoL'aereoEMiSonoSmarritoANewYork</IdName>
 				<StartDate>2017-12-24</StartDate>
 				<StartTime>21:41:20</StartTime>
@@ -53,12 +27,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
-				<IdName>AVISLOCRI</IdName>
+			<Event id="3">
+				<IdName>TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-12-24</StartDate>
 				<StartTime>23:29:24</StartTime>
 				<EndDate>2017-12-24</EndDate>
-				<EndTime>23:29:58</EndTime>
+				<EndTime>23:39:29</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -66,23 +40,23 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="4">
+				<IdName>AVISLOCRI</IdName>
+				<StartDate>2017-12-24</StartDate>
+				<StartTime>23:39:29</StartTime>
+				<EndDate>2017-12-24</EndDate>
+				<EndTime>23:40:03</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="5">
 				<IdName>MilleVocinapoletane,puntatan.01</IdName>
 				<StartDate>2017-12-24</StartDate>
-				<StartTime>23:29:58</StartTime>
-				<EndDate>2017-12-25</EndDate>
-				<EndTime>01:26:35</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
-				<IdName>TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2017-12-25</StartDate>
-				<StartTime>01:26:35</StartTime>
+				<StartTime>23:40:03</StartTime>
 				<EndDate>2017-12-25</EndDate>
 				<EndTime>01:36:41</EndTime>
 				<ShortEventDescription>
@@ -92,51 +66,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
-				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
+			<Event id="6">
+				<IdName>FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-12-25</StartDate>
 				<StartTime>01:36:41</StartTime>
 				<EndDate>2017-12-25</EndDate>
-				<EndTime>01:36:56</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ISCRIVITI CANALE YOU TUBE</Name>
-					<Description>ISCRIVITI CANALE YOU TUBE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="9">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2017-12-25</StartDate>
-				<StartTime>01:36:56</StartTime>
-				<EndDate>2017-12-25</EndDate>
-				<EndTime>01:37:03</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
-				<IdName>PiedoneL'Africano</IdName>
-				<StartDate>2017-12-25</StartDate>
-				<StartTime>01:37:03</StartTime>
-				<EndDate>2017-12-25</EndDate>
-				<EndTime>03:25:58</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Piedone l' Africano</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="11">
-				<IdName>GeraceCalabriaItalyHD(720p_30fps_H264-192kbit_AAC)</IdName>
-				<StartDate>2017-12-25</StartDate>
-				<StartTime>03:25:58</StartTime>
-				<EndDate>2017-12-25</EndDate>
-				<EndTime>03:28:49</EndTime>
+				<EndTime>01:41:54</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -144,10 +79,49 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
-				<IdName>FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
+			<Event id="7">
+				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2017-12-25</StartDate>
-				<StartTime>03:28:49</StartTime>
+				<StartTime>01:41:54</StartTime>
+				<EndDate>2017-12-25</EndDate>
+				<EndTime>01:42:09</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>ISCRIVITI CANALE YOU TUBE</Name>
+					<Description>ISCRIVITI CANALE YOU TUBE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="8">
+				<IdName>7PROMOVIDEOspot7</IdName>
+				<StartDate>2017-12-25</StartDate>
+				<StartTime>01:42:09</StartTime>
+				<EndDate>2017-12-25</EndDate>
+				<EndTime>01:42:16</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOT  PROMOVIDEOTV</Name>
+					<Description>SPOT PROMOVIDEOTV</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="9">
+				<IdName>PiedoneL'Africano</IdName>
+				<StartDate>2017-12-25</StartDate>
+				<StartTime>01:42:16</StartTime>
+				<EndDate>2017-12-25</EndDate>
+				<EndTime>03:31:11</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Piedone l' Africano</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="10">
+				<IdName>GeraceCalabriaItalyHD(720p_30fps_H264-192kbit_AAC)</IdName>
+				<StartDate>2017-12-25</StartDate>
+				<StartTime>03:31:11</StartTime>
 				<EndDate>2017-12-25</EndDate>
 				<EndTime>03:34:02</EndTime>
 				<ShortEventDescription>
@@ -157,12 +131,25 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
-				<IdName>Gerace</IdName>
+			<Event id="11">
+				<IdName>TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2017-12-25</StartDate>
 				<StartTime>03:34:02</StartTime>
 				<EndDate>2017-12-25</EndDate>
-				<EndTime>03:40:03</EndTime>
+				<EndTime>03:43:59</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="12">
+				<IdName>Gerace</IdName>
+				<StartDate>2017-12-25</StartDate>
+				<StartTime>03:43:59</StartTime>
+				<EndDate>2017-12-25</EndDate>
+				<EndTime>03:50:00</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -170,12 +157,12 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="13">
 				<IdName>LARIVOLTADEIPRETORIANIFilmpeplum1964diAlfonsoBresciacompletoinItaliano</IdName>
 				<StartDate>2017-12-25</StartDate>
-				<StartTime>03:40:03</StartTime>
+				<StartTime>03:50:00</StartTime>
 				<EndDate>2017-12-25</EndDate>
-				<EndTime>05:13:23</EndTime>
+				<EndTime>05:23:21</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -183,12 +170,25 @@
 					<Description>LARIVOLTA DEI PRETORIANI</Description>
 				</ShortEventDescription>
 			</Event>
+			<Event id="14">
+				<IdName>TRAILERPARTE8DOPOLE22,30</IdName>
+				<StartDate>2017-12-25</StartDate>
+				<StartTime>05:23:21</StartTime>
+				<EndDate>2017-12-25</EndDate>
+				<EndTime>05:33:23</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
 			<Event id="15">
 				<IdName>Nell'annoDelSignoreManfredi,Sordi,Tognazzi(Filmcompleto)</IdName>
 				<StartDate>2017-12-25</StartDate>
-				<StartTime>05:13:23</StartTime>
+				<StartTime>05:33:23</StartTime>
 				<EndDate>2017-12-25</EndDate>
-				<EndTime>07:11:18</EndTime>
+				<EndTime>07:31:18</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
