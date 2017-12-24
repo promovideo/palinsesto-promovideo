@@ -1,15 +1,3 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-23/12/2017	20:56:25	AmicimieiattoIII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO III	01:49:20	1	Film
-23/12/2017	22:45:46	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-23/12/2017	22:45:53	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
-23/12/2017	22:48:22	FantozziVaInPensione	FANTOZZI VA IN PENSIONE	FANTOZZI VA IN PENSIONE	01:34:36	1	Film
-24/12/2017	00:22:59	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
-24/12/2017	00:28:12	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-24/12/2017	00:28:19	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-24/12/2017	00:28:30	Souvenird'Italie_mpeg2video	Souvenir d'Italy	Souvenir d'Italy	01:44:43	1	Film
-24/12/2017	02:13:13	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-24/12/2017	02:13:20	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
-24/12/2017	03:05:25	MammaHoRipersoL'aereoEMiSonoSmarritoANewYork	Mamma ho riperso l' aereo e mi  sono smarrito a New York	Nuovo File	01:48:03	1	Film
-24/12/2017	04:53:29	AVISLOCRI	Sconosciuto	Nuovo File	00:00:33	0	
-24/12/2017	04:54:03	MilleVocinapoletane,puntatan.01	Sconosciuto	Nuovo File	01:56:37	0	
-24/12/2017	06:50:41	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+24/12/2017	04:53:59	MilleVocinapoletane,puntatan.01	Sconosciuto	Nuovo File	01:56:37	0	
+24/12/2017	06:50:37	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
