@@ -1,42 +1,20 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-24/12/2017	09:50:05	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	documentari
-24/12/2017	10:11:34	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-24/12/2017	10:12:39	benessere_20150715_52345	Sconosciuto	Nuovo File	00:01:11	0	
-24/12/2017	10:13:51	agrisapori715x4-6-17	Sconosciuto	Nuovo File	00:25:19	0	
-24/12/2017	10:39:10	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
-24/12/2017	10:44:24	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-24/12/2017	10:44:39	CassanoFestadelSantissimoCrocifisso	Sconosciuto	Nuovo File	00:29:43	0	
-24/12/2017	11:14:23	paesemio	Sconosciuto	Nuovo File	00:31:37	0	
-24/12/2017	11:46:00	IlBrigantaggio	IL  BRIGANTAGGIO	IL  BRIGANTAGGIO	00:32:04	71	documentari
-24/12/2017	12:18:04	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-24/12/2017	12:18:44	IlmegliodiMilleVoci2017_p02	Sconosciuto	Nuovo File	01:23:08	0	
-24/12/2017	13:41:53	SimsalaGrimm2-Ep.19-IlpiccoloMookHDItaliano(480p_20fps_H264-128kbit_AAC)	IL PICCOLO MOOK	EP.19	00:24:35	51	cartoni animati
-24/12/2017	14:06:28	SimsalaGrimm2-Ep.13-LetrepiumeHdItaliano(720p_30fps_H264-192kbit_AAC)	le tre  piume	EP 13	00:24:33	51	cartoni animati
-24/12/2017	14:31:02	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-24/12/2017	14:31:09	MuseoEgiziodelCairo(parte1)(2)	MUSEO EGIZIO DEL CAIRO 1^	MUSEO EGIZIODEL CAIRO 1^	00:24:45	41	programmi culturali
-24/12/2017	14:55:54	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
-24/12/2017	15:01:00	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-24/12/2017	15:01:07	FLASHPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:00	0	
-24/12/2017	15:06:07	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
-24/12/2017	15:08:27	AmicimieiattoIII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO III	01:49:20	1	Film
-24/12/2017	16:57:48	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-24/12/2017	16:57:55	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
-24/12/2017	17:00:25	FantozziVaInPensione	FANTOZZI VA IN PENSIONE	FANTOZZI VA IN PENSIONE	01:34:36	1	Film
-24/12/2017	18:35:01	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
-24/12/2017	18:40:14	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-24/12/2017	18:40:21	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-24/12/2017	18:40:32	Souvenird'Italie_mpeg2video	Souvenir d'Italy	Souvenir d'Italy	01:44:43	1	Film
-24/12/2017	20:25:15	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-24/12/2017	20:25:22	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
-24/12/2017	21:17:27	MammaHoRipersoL'aereoEMiSonoSmarritoANewYork	Mamma ho riperso l' aereo e mi  sono smarrito a New York	Nuovo File	01:48:03	1	Film
-24/12/2017	23:05:31	AVISLOCRI	Sconosciuto	Nuovo File	00:00:33	0	
-24/12/2017	23:06:05	MilleVocinapoletane,puntatan.01	Sconosciuto	Nuovo File	01:56:37	0	
-25/12/2017	01:02:43	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-25/12/2017	01:12:48	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-25/12/2017	01:13:04	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-25/12/2017	01:13:10	PiedoneL'Africano	Sconosciuto	Piedone l' Africano	01:48:55	22	
-25/12/2017	03:02:06	GeraceCalabriaItalyHD(720p_30fps_H264-192kbit_AAC)	Sconosciuto	Nuovo File	00:02:50	0	
-25/12/2017	03:04:56	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
-25/12/2017	03:10:10	Gerace	GERACE	GERACE	00:06:01	71	documentari
-25/12/2017	03:16:11	LARIVOLTADEIPRETORIANIFilmpeplum1964diAlfonsoBresciacompletoinItaliano	Sconosciuto	LARIVOLTA DEI PRETORIANI	01:33:20	1	Film
-25/12/2017	04:49:31	Nell'annoDelSignoreManfredi,Sordi,Tognazzi(Filmcompleto)	Sconosciuto	Nell'anno del  Signore	01:57:54	1	Film
+24/12/2017	17:39:54	L'ApeMaia-Ep.10-LalucciolaJimmy(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:56	0	
+24/12/2017	18:01:50	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+24/12/2017	18:01:56	LastoriadiGesùperibambini-LinguaItalianaTheStoryofJesusforChildren-ItalianLanguage(480p_24fps_H264-128kbit_AAC)	la storia di Gesu' per bambini	Nuovo File	01:02:24	1	Film
+24/12/2017	19:04:21	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+24/12/2017	19:04:31	Souvenird'Italie_mpeg2video	Souvenir d'Italy	Souvenir d'Italy	01:44:43	1	Film
+24/12/2017	20:49:15	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+24/12/2017	20:49:21	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
+24/12/2017	21:41:27	MammaHoRipersoL'aereoEMiSonoSmarritoANewYork	Mamma ho riperso l' aereo e mi  sono smarrito a New York	Nuovo File	01:48:03	1	Film
+24/12/2017	23:29:31	AVISLOCRI	Sconosciuto	Nuovo File	00:00:33	0	
+24/12/2017	23:30:05	MilleVocinapoletane,puntatan.01	Sconosciuto	Nuovo File	01:56:37	0	
+25/12/2017	01:26:42	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+25/12/2017	01:36:48	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+25/12/2017	01:37:03	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+25/12/2017	01:37:10	PiedoneL'Africano	Sconosciuto	Piedone l' Africano	01:48:55	22	
+25/12/2017	03:26:05	GeraceCalabriaItalyHD(720p_30fps_H264-192kbit_AAC)	Sconosciuto	Nuovo File	00:02:50	0	
+25/12/2017	03:28:56	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
+25/12/2017	03:34:09	Gerace	GERACE	GERACE	00:06:01	71	documentari
+25/12/2017	03:40:10	LARIVOLTADEIPRETORIANIFilmpeplum1964diAlfonsoBresciacompletoinItaliano	Sconosciuto	LARIVOLTA DEI PRETORIANI	01:33:20	1	Film
+25/12/2017	05:13:30	Nell'annoDelSignoreManfredi,Sordi,Tognazzi(Filmcompleto)	Sconosciuto	Nell'anno del  Signore	01:57:54	1	Film
