@@ -1,18 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-05/01/2018	21:00:12	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
-05/01/2018	22:50:48	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-05/01/2018	22:50:54	Sedottiebidonati	Sconosciuto	Sedotti ed abbandonati	01:37:13	1	Film
-06/01/2018	00:28:08	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
-06/01/2018	00:30:37	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-06/01/2018	00:30:44	FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
-06/01/2018	00:36:01	AntoniminaOssAmbientale	Sconosciuto	Nuovo File	00:22:39	41	programmi culturali
-06/01/2018	00:58:41	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-06/01/2018	00:58:51	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-06/01/2018	00:58:58	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
-06/01/2018	02:22:07	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
-06/01/2018	04:10:38	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
-06/01/2018	05:02:44	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-06/01/2018	05:02:59	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-06/01/2018	05:03:06	IngannoGlobale11settembre2001(versionecompleta)	INGANNO  GLOBALE	TORRI  GEMELLE	01:31:56	41	programmi culturali
-06/01/2018	06:35:03	Gerace	GERACE	GERACE	00:06:01	71	documentari
-06/01/2018	06:41:04	Ritorno.Al.Futuro.2-iTALiAN.DvDRip.DivX-AuDaX	Sconosciuto	Ritorno  al  futuro 2	01:43:36	1	Film
+06/01/2018	04:53:16	IngannoGlobale11settembre2001(versionecompleta)	INGANNO  GLOBALE	TORRI  GEMELLE	01:31:56	41	programmi culturali
+06/01/2018	06:25:13	Gerace	GERACE	GERACE	00:06:01	71	documentari
+06/01/2018	06:31:14	Ritorno.Al.Futuro.2-iTALiAN.DvDRip.DivX-AuDaX	Sconosciuto	Ritorno  al  futuro 2	01:43:36	1	Film
