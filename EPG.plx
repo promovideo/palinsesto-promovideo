@@ -1,3 +1,38 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-08/01/2018	11:14:58	concertocavallarorhopromovideo	cavallaro concerto	Cavallaro concerto 2014	02:15:37	41	programmi culturali
-08/01/2018	13:30:36	Ritorno.Al.Futuro.2-iTALiAN.DvDRip.DivX-AuDaX	Sconosciuto	Ritorno  al  futuro 2	01:43:36	1	Film
+08/01/2018	21:18:53	Simsalagrimm1-Ep.8-RaperonzoloHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:10	0	
+08/01/2018	21:40:04	Simsalagrimm1-Ep.4-IlRedeiladriHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:35	0	
+08/01/2018	22:04:39	Simsalagrimm1-Ep.10-Ilgiovanecheparti'perimpararelapauraHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:22:14	0	
+08/01/2018	22:26:54	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
+08/01/2018	22:27:34	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
+09/01/2018	00:19:17	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
+09/01/2018	00:19:24	MuseoEgiziodelCairo(parte1)(2)	MUSEO EGIZIO DEL CAIRO 1^	MUSEO EGIZIODEL CAIRO 1^	00:24:45	41	programmi culturali
+09/01/2018	00:44:09	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
+09/01/2018	00:49:15	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+09/01/2018	00:49:22	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
+09/01/2018	00:51:42	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+09/01/2018	00:51:48	FORMULAMOTORIP4	Sconosciuto	Nuovo File	00:09:49	0	
+09/01/2018	01:01:38	049-LaTerradelSoleRosso(11')eD	LA TERRA DEL   SOLE ROSSO	LA TERRA DEL   SOLE  ROSSO	00:10:48	71	documentari
+09/01/2018	01:12:26	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
+09/01/2018	01:14:56	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+09/01/2018	01:15:03	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+09/01/2018	01:15:13	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+09/01/2018	01:15:20	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
+09/01/2018	02:07:26	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
+09/01/2018	03:55:57	AVISLOCRI	Sconosciuto	Nuovo File	00:00:33	0	
+09/01/2018	03:56:30	MilleVocinapoletane,puntatan.01	Sconosciuto	Nuovo File	01:56:37	0	
+09/01/2018	05:53:08	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+09/01/2018	05:53:24	PALLANUOTANDONà6DEL071217	Sconosciuto	Nuovo File	00:39:24	0	
+09/01/2018	06:32:48	Speed2-SenzaLimiti	SPOEED 2 SENZA LIMITI	SPEED 2 SENZA LIMITI	01:54:12	1	Film
+09/01/2018	08:27:01	LichiamaronoBrigantifilmcompleto	LI CHIAMARONO BRIGANTI	LI CHIAMARONO BRIGANTI	02:00:51	1	Film
+09/01/2018	10:27:52	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+09/01/2018	10:27:59	Nell'annoDelSignoreManfredi,Sordi,Tognazzi(Filmcompleto)	Sconosciuto	Nell'anno del  Signore	01:57:54	1	Film
+09/01/2018	12:25:54	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
+09/01/2018	12:31:11	80vogliadicantareFaustoCigliano	Sconosciuto	Nuovo File	00:15:43	0	
+09/01/2018	12:46:55	GeraceCalabriaItalyHD(720p_30fps_H264-192kbit_AAC)	Sconosciuto	Nuovo File	00:02:50	0	
+09/01/2018	12:49:46	AlbertoSordiIlVedovo	Sconosciuto	IL  VEDOVO	01:27:06	1	Film
+09/01/2018	14:16:52	_1779_Recanatese_Lunaametà	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
+09/01/2018	14:25:09	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
+09/01/2018	14:30:23	Gerace	GERACE	GERACE	00:06:01	71	documentari
+09/01/2018	14:36:24	LARIVOLTADEIPRETORIANIFilmpeplum1964diAlfonsoBresciacompletoinItaliano	Sconosciuto	LARIVOLTA DEI PRETORIANI	01:33:20	1	Film
+09/01/2018	16:09:44	Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)	Sconosciuto	BERTOLDO BERTOLDINO E CACASENNO	01:59:40	1	Film
+09/01/2018	18:09:24	FORMULAMOTORIP4	Sconosciuto	Nuovo File	00:09:49	0	
