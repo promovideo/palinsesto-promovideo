@@ -1,6 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-10/01/2018	19:19:35	MilleVocinapoletane,puntatan.01	Sconosciuto	Nuovo File	01:56:37	0	
-10/01/2018	21:16:13	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
 10/01/2018	21:16:28	PALLANUOTANDONà6DEL071217	Sconosciuto	Nuovo File	00:39:24	0	
 10/01/2018	21:55:53	Speed2-SenzaLimiti	SPOEED 2 SENZA LIMITI	SPEED 2 SENZA LIMITI	01:54:12	1	Film
 10/01/2018	23:50:05	LichiamaronoBrigantifilmcompleto	LI CHIAMARONO BRIGANTI	LI CHIAMARONO BRIGANTI	02:00:51	1	Film
