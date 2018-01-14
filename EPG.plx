@@ -1,19 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-13/01/2018	21:01:56	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
-13/01/2018	22:52:32	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-13/01/2018	22:52:39	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
-13/01/2018	22:55:08	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-13/01/2018	22:55:15	FLASHPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
-13/01/2018	23:00:33	AntoniminaOssAmbientale	Sconosciuto	Nuovo File	00:22:39	41	programmi culturali
-13/01/2018	23:23:12	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-13/01/2018	23:23:23	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-13/01/2018	23:23:30	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
-14/01/2018	00:46:39	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
-14/01/2018	01:38:44	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
-14/01/2018	03:27:15	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-14/01/2018	03:27:31	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-14/01/2018	03:27:37	_1779_Recanatese_Lunaametà	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
-14/01/2018	03:35:55	IngannoGlobale11settembre2001(versionecompleta)	INGANNO  GLOBALE	TORRI  GEMELLE	01:31:56	41	programmi culturali
-14/01/2018	05:07:52	Gerace	GERACE	GERACE	00:06:01	71	documentari
-14/01/2018	05:13:53	concertocavallarorhopromovideo	cavallaro concerto	Cavallaro concerto 2014	02:15:37	41	programmi culturali
-14/01/2018	07:29:31	Ritorno.Al.Futuro.2-iTALiAN.DvDRip.DivX-AuDaX	Sconosciuto	Ritorno  al  futuro 2	01:43:36	1	Film
+14/01/2018	03:26:19	IngannoGlobale11settembre2001(versionecompleta)	INGANNO  GLOBALE	TORRI  GEMELLE	01:31:56	41	programmi culturali
+14/01/2018	04:58:16	Gerace	GERACE	GERACE	00:06:01	71	documentari
+14/01/2018	05:04:18	concertocavallarorhopromovideo	cavallaro concerto	Cavallaro concerto 2014	02:15:37	41	programmi culturali
