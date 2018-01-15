@@ -1,7 +1,68 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-15/01/2018	03:55:49	Nell'annoDelSignoreManfredi,Sordi,Tognazzi(Filmcompleto)	Sconosciuto	Nell'anno del  Signore	01:57:54	1	Film
-15/01/2018	05:53:44	GeraceCalabriaItalyHD(720p_30fps_H264-192kbit_AAC)	Sconosciuto	Nuovo File	00:02:50	0	
-15/01/2018	05:56:34	Identit‡Violate	IDENTITA' VIOLATE	IDENTITA' VIOLATE	01:38:46	1	Film
-15/01/2018	07:35:20	_1779_Recanatese_Lunaamet‡	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
-15/01/2018	07:43:38	Gerace	GERACE	GERACE	00:06:01	71	documentari
-15/01/2018	07:49:39	LARIVOLTADEIPRETORIANIFilmpeplum1964diAlfonsoBresciacompletoinItaliano	Sconosciuto	LARIVOLTA DEI PRETORIANI	01:33:20	1	Film
+15/01/2018	09:24:45	LARIVOLTADEIPRETORIANIFilmpeplum1964diAlfonsoBresciacompletoinItaliano	Sconosciuto	LARIVOLTA DEI PRETORIANI	01:33:20	1	Film
+14/12/2017	06:00:00	AllexinnoStarchildSenorita_mpeg2video(1)	Senorita	Alexino	00:03:37	81	videoclip
+14/12/2017	06:03:37	MAXPEZZALIECCOTI	Eccoti	Max Pezzali	00:04:05	81	videoclip
+14/12/2017	06:07:42	CalvinHarris-Summer	SUMMER	CALVIN HARRIS	00:03:53	81	videoclip
+14/12/2017	06:11:36	AlexMicaDalinda	Dalinda	Alex Mica	00:03:25	81	videoclip
+14/12/2017	06:15:02	AllexinnoStarchildNadaSemVoc(withlyrics)	Starchild Nada Sem Voc	ALEXINNO	00:03:46	81	videoclip
+14/12/2017	06:18:48	AllexinnoStarchildSenorita	Starchild Senorita	Allexinno	00:03:37	81	videoclip
+14/12/2017	06:22:25	AllexinnoStarchildSenorita_mpeg2video(1)	Senorita	Alexino	00:03:37	81	videoclip
+14/12/2017	06:26:03	CleanBandit-Extraordinary(feat.SharnaBass)(OfficialVideo)	EXTRAORINARY	CLEAN BLANDIT	00:04:16	81	videoclip
+14/12/2017	06:30:19	CleanBandit-RatherBe(feat.JessGlynne)(OfficialVideo)	RATHER BE	CLEAN BANDIT	00:04:28	81	videoclip
+14/12/2017	06:34:47	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+14/12/2017	06:43:55	GERACE-Citt‡millenaria	SPOT GERACE CITT‡1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+14/12/2017	06:45:00	SimsalaGrimm2-Ep.24-L'allodolachecantaHDItaliano(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:28	51	cartoni animati
+14/12/2017	07:09:29	SimsalaGrimm2-Ep.25-JorindaeJoringhelloHDItaliano(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:29	51	cartoni animati
+14/12/2017	07:33:58	SimsalaGrimm2-Ep.26-LaSirenetta-HDItaliano-ULTIMOEPISODIO(720p_30fps_H264-192kbit_AAC)	Sconosciuto	Nuovo File	00:24:29	0	
+14/12/2017	07:58:27	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+14/12/2017	07:58:38	2012VUEMMESPOT	VUEMMEFAST	VUEMMEFAST	00:00:37	11	spot
+14/12/2017	07:59:16	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
+14/12/2017	08:23:39	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+14/12/2017	08:32:47	29PIXMIND	Sconosciuto	Nuovo File	00:24:00	0	
+14/12/2017	08:56:47	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+14/12/2017	08:56:54	FLASHPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:00	0	
+14/12/2017	09:01:55	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+14/12/2017	09:02:10	IF_P11_PREV_14112017	Instant future p.11	Instant Future P. 11	00:24:04	31	programmi informativi
+14/12/2017	09:26:14	FLASHPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:00	0	
+14/12/2017	09:31:15	GERACE-Citt‡millenaria	SPOT GERACE CITT‡1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+14/12/2017	09:32:20	benessere_20150715_52345	Sconosciuto	Nuovo File	00:01:11	0	
+14/12/2017	09:33:32	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
+14/12/2017	09:38:45	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
+14/12/2017	09:39:00	Simsalagrimm1-Ep.8-RaperonzoloHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:10	0	
+14/12/2017	10:00:10	Simsalagrimm1-Ep.4-IlRedeiladriHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:35	0	
+14/12/2017	10:24:46	Simsalagrimm1-Ep.10-Ilgiovanecheparti'perimpararelapauraHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:22:14	0	
+14/12/2017	10:47:01	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
+14/12/2017	10:47:41	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
+14/12/2017	10:47:48	FantozziFracchiaLaBelvaUmana	FANTOZZI FRACCHAI LA BELVAUMANA	LA BELVA  UMANA	01:36:05	1	Film
+14/12/2017	12:23:54	MuseoEgiziodelCairo(parte1)(2)	MUSEO EGIZIO DEL CAIRO 1^	MUSEO EGIZIODEL CAIRO 1^	00:24:45	41	programmi culturali
+14/12/2017	12:48:39	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
+14/12/2017	12:53:45	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+14/12/2017	12:53:52	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
+14/12/2017	12:56:12	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+14/12/2017	12:56:18	FORMULAMOTORIP4	Sconosciuto	Nuovo File	00:09:49	0	
+14/12/2017	13:06:08	049-LaTerradelSoleRosso(11')eD	LA TERRA DEL   SOLE ROSSO	LA TERRA DEL   SOLE  ROSSO	00:10:48	71	documentari
+14/12/2017	13:16:56	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
+14/12/2017	13:19:26	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+14/12/2017	13:19:33	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+14/12/2017	13:19:43	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+14/12/2017	13:19:50	L'ApeMaia-Ep.8-IllombricoMax(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:42	0	
+14/12/2017	13:41:33	L'ApeMaia-Ep.4-Maiaelamoscadomestica(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:45	0	
+14/12/2017	14:03:18	L'ApeMaia-Ep.6-L'incendionelbosco(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:48	0	
+14/12/2017	14:25:07	LichiamaronoBrigantifilmcompleto	LI CHIAMARONO BRIGANTI	LI CHIAMARONO BRIGANTI	02:00:51	1	Film
+14/12/2017	16:25:58	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
+14/12/2017	17:18:04	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
+14/12/2017	19:06:35	AVISLOCRI	Sconosciuto	Nuovo File	00:00:33	0	
+14/12/2017	19:07:08	MilleVocinapoletane,puntatan.01	Sconosciuto	Nuovo File	01:56:37	0	
+14/12/2017	21:03:46	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+14/12/2017	21:04:02	Speed2-SenzaLimiti	SPOEED 2 SENZA LIMITI	SPEED 2 SENZA LIMITI	01:54:12	1	Film
+14/12/2017	22:58:14	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+14/12/2017	22:58:21	TOTO'CONTROIQUATTRO	Sconosciuto	Nuovo File	01:34:32	0	
+15/12/2017	00:32:54	Nell'annoDelSignoreManfredi,Sordi,Tognazzi(Filmcompleto)	Sconosciuto	Nell'anno del  Signore	01:57:54	1	Film
+15/12/2017	02:30:48	FLASHPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:17	0	
+15/12/2017	02:36:06	GeraceCalabriaItalyHD(720p_30fps_H264-192kbit_AAC)	Sconosciuto	Nuovo File	00:02:50	0	
+15/12/2017	02:38:57	Identit‡Violate	IDENTITA' VIOLATE	IDENTITA' VIOLATE	01:38:46	1	Film
+15/12/2017	04:17:43	_1779_Recanatese_Lunaamet‡	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
+15/12/2017	04:26:00	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
+15/12/2017	04:31:14	Gerace	GERACE	GERACE	00:06:01	71	documentari
+15/12/2017	04:37:15	LARIVOLTADEIPRETORIANIFilmpeplum1964diAlfonsoBresciacompletoinItaliano	Sconosciuto	LARIVOLTA DEI PRETORIANI	01:33:20	1	Film
+15/12/2017	06:10:35	Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)	Sconosciuto	BERTOLDO BERTOLDINO E CACASENNO	01:59:40	1	Film
