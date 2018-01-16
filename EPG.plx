@@ -1,6 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-16/01/2018	18:14:13	LichiamaronoBrigantifilmcompleto	LI CHIAMARONO BRIGANTI	LI CHIAMARONO BRIGANTI	02:00:51	1	Film
-16/01/2018	20:15:05	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
 16/01/2018	21:07:10	InstantFuture_puntata14	Sconosciuto	Nuovo File	00:24:05	0	
 16/01/2018	21:31:15	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
 16/01/2018	21:41:13	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
@@ -19,7 +17,7 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 17/01/2018	08:34:14	Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)	Sconosciuto	BERTOLDO BERTOLDINO E CACASENNO	01:59:40	1	Film
 17/01/2018	10:33:54	AllexinnoStarchildSenorita_mpeg2video(1)	Senorita	Alexino	00:03:37	81	videoclip
 17/01/2018	10:37:31	MAXPEZZALIECCOTI	Eccoti	Max Pezzali	00:04:05	81	videoclip
-17/01/2018	10:41:37	CalvinHarris-Summer	SUMMER	CALVIN HARRIS	00:03:53	81	videoclip
+17/01/2018	10:41:36	CalvinHarris-Summer	SUMMER	CALVIN HARRIS	00:03:53	81	videoclip
 17/01/2018	10:45:30	AlexMicaDalinda	Dalinda	Alex Mica	00:03:25	81	videoclip
 17/01/2018	10:48:56	AllexinnoStarchildNadaSemVoc(withlyrics)	Starchild Nada Sem Voc	ALEXINNO	00:03:46	81	videoclip
 17/01/2018	10:52:42	AllexinnoStarchildSenorita	Starchild Senorita	Allexinno	00:03:37	81	videoclip
@@ -27,11 +25,11 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 17/01/2018	10:59:57	CleanBandit-Extraordinary(feat.SharnaBass)(OfficialVideo)	EXTRAORINARY	CLEAN BLANDIT	00:04:16	81	videoclip
 17/01/2018	11:04:13	CleanBandit-RatherBe(feat.JessGlynne)(OfficialVideo)	RATHER BE	CLEAN BANDIT	00:04:28	81	videoclip
 17/01/2018	11:08:41	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
-17/01/2018	11:17:50	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-17/01/2018	11:18:55	SimsalaGrimm2-Ep.24-L'allodolachecantaHDItaliano(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:28	51	cartoni animati
+17/01/2018	11:17:49	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+17/01/2018	11:18:54	SimsalaGrimm2-Ep.24-L'allodolachecantaHDItaliano(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:28	51	cartoni animati
 17/01/2018	11:43:23	SimsalaGrimm2-Ep.25-JorindaeJoringhelloHDItaliano(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:29	51	cartoni animati
-17/01/2018	12:07:53	SimsalaGrimm2-Ep.26-LaSirenetta-HDItaliano-ULTIMOEPISODIO(720p_30fps_H264-192kbit_AAC)	Sconosciuto	Nuovo File	00:24:29	0	
-17/01/2018	12:32:22	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+17/01/2018	12:07:52	SimsalaGrimm2-Ep.26-LaSirenetta-HDItaliano-ULTIMOEPISODIO(720p_30fps_H264-192kbit_AAC)	Sconosciuto	Nuovo File	00:24:29	0	
+17/01/2018	12:32:21	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
 17/01/2018	12:32:32	2012VUEMMESPOT	VUEMMEFAST	VUEMMEFAST	00:00:37	11	spot
 17/01/2018	12:33:10	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
 17/01/2018	12:57:33	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
@@ -58,15 +56,15 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 17/01/2018	17:30:06	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 17/01/2018	17:30:13	FORMULAMOTORIP4	Sconosciuto	Nuovo File	00:09:49	0	
 17/01/2018	17:40:02	049-LaTerradelSoleRosso(11')eD	LA TERRA DEL   SOLE ROSSO	LA TERRA DEL   SOLE  ROSSO	00:10:48	71	documentari
-17/01/2018	17:50:51	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
+17/01/2018	17:50:50	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
 17/01/2018	17:53:20	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 17/01/2018	17:53:27	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
 17/01/2018	17:53:38	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-17/01/2018	17:53:45	L'ApeMaia-Ep.8-IllombricoMax(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:42	0	
+17/01/2018	17:53:44	L'ApeMaia-Ep.8-IllombricoMax(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:42	0	
 17/01/2018	18:15:27	L'ApeMaia-Ep.4-Maiaelamoscadomestica(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:45	0	
 17/01/2018	18:37:12	L'ApeMaia-Ep.6-L'incendionelbosco(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:48	0	
 17/01/2018	18:59:01	LichiamaronoBrigantifilmcompleto	LI CHIAMARONO BRIGANTI	LI CHIAMARONO BRIGANTI	02:00:51	1	Film
-17/01/2018	20:59:53	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
+17/01/2018	20:59:52	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
 17/01/2018	21:51:58	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
 17/01/2018	23:40:29	AVISLOCRI	Sconosciuto	Nuovo File	00:00:33	0	
 17/01/2018	23:41:03	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
