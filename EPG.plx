@@ -1,62 +1,15 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-17/01/2018	08:23:17	Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)	Sconosciuto	BERTOLDO BERTOLDINO E CACASENNO	01:59:40	1	Film
-17/01/2018	10:22:57	AllexinnoStarchildSenorita_mpeg2video(1)	Senorita	Alexino	00:03:37	81	videoclip
-17/01/2018	10:26:34	MAXPEZZALIECCOTI	Eccoti	Max Pezzali	00:04:05	81	videoclip
-17/01/2018	10:30:40	CalvinHarris-Summer	SUMMER	CALVIN HARRIS	00:03:53	81	videoclip
-17/01/2018	10:34:34	AlexMicaDalinda	Dalinda	Alex Mica	00:03:25	81	videoclip
-17/01/2018	10:38:00	AllexinnoStarchildNadaSemVoc(withlyrics)	Starchild Nada Sem Voc	ALEXINNO	00:03:46	81	videoclip
-17/01/2018	10:41:46	AllexinnoStarchildSenorita	Starchild Senorita	Allexinno	00:03:37	81	videoclip
-17/01/2018	10:45:23	AllexinnoStarchildSenorita_mpeg2video(1)	Senorita	Alexino	00:03:37	81	videoclip
-17/01/2018	10:49:00	CleanBandit-Extraordinary(feat.SharnaBass)(OfficialVideo)	EXTRAORINARY	CLEAN BLANDIT	00:04:16	81	videoclip
-17/01/2018	10:53:16	CleanBandit-RatherBe(feat.JessGlynne)(OfficialVideo)	RATHER BE	CLEAN BANDIT	00:04:28	81	videoclip
-17/01/2018	10:57:45	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
-17/01/2018	11:06:53	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-17/01/2018	11:07:58	SimsalaGrimm2-Ep.24-L'allodolachecantaHDItaliano(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:28	51	cartoni animati
-17/01/2018	11:32:26	SimsalaGrimm2-Ep.25-JorindaeJoringhelloHDItaliano(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:29	51	cartoni animati
-17/01/2018	11:56:56	SimsalaGrimm2-Ep.26-LaSirenetta-HDItaliano-ULTIMOEPISODIO(720p_30fps_H264-192kbit_AAC)	Sconosciuto	Nuovo File	00:24:29	0	
-17/01/2018	12:21:25	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-17/01/2018	12:21:36	2012VUEMMESPOT	VUEMMEFAST	VUEMMEFAST	00:00:37	11	spot
-17/01/2018	12:22:13	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
-17/01/2018	12:46:36	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
-17/01/2018	12:55:45	29PIXMIND	Sconosciuto	Nuovo File	00:24:00	0	
-17/01/2018	13:19:45	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-17/01/2018	13:19:51	FLASHPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:00	0	
-17/01/2018	13:24:52	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-17/01/2018	13:25:08	IF_P11_PREV_14112017	Instant future p.11	Instant Future P. 11	00:24:04	31	programmi informativi
-17/01/2018	13:49:12	FLASHPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:00	0	
-17/01/2018	13:54:12	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-17/01/2018	13:55:17	benessere_20150715_52345	Sconosciuto	Nuovo File	00:01:11	0	
-17/01/2018	13:56:29	FLASHPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:05:13	0	
-17/01/2018	14:01:43	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-17/01/2018	14:01:58	Simsalagrimm1-Ep.8-RaperonzoloHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:10	0	
-17/01/2018	14:23:08	Simsalagrimm1-Ep.4-IlRedeiladriHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:35	0	
-17/01/2018	14:47:44	Simsalagrimm1-Ep.10-Ilgiovanecheparti'perimpararelapauraHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:22:14	0	
-17/01/2018	15:09:58	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-17/01/2018	15:10:39	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-17/01/2018	15:10:46	FantozziFracchiaLaBelvaUmana	FANTOZZI FRACCHAI LA BELVAUMANA	LA BELVA  UMANA	01:36:05	1	Film
-17/01/2018	16:46:51	MuseoEgiziodelCairo(parte1)(2)	MUSEO EGIZIO DEL CAIRO 1^	MUSEO EGIZIODEL CAIRO 1^	00:24:45	41	programmi culturali
-17/01/2018	17:11:37	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
-17/01/2018	17:16:42	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-17/01/2018	17:16:49	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
-17/01/2018	17:19:09	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-17/01/2018	17:19:16	FORMULAMOTORIP4	Sconosciuto	Nuovo File	00:09:49	0	
-17/01/2018	17:29:06	049-LaTerradelSoleRosso(11')eD	LA TERRA DEL   SOLE ROSSO	LA TERRA DEL   SOLE  ROSSO	00:10:48	71	documentari
-17/01/2018	17:39:54	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
-17/01/2018	17:42:23	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-17/01/2018	17:42:30	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-17/01/2018	17:42:41	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-17/01/2018	17:42:48	L'ApeMaia-Ep.8-IllombricoMax(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:42	0	
-17/01/2018	18:04:30	L'ApeMaia-Ep.4-Maiaelamoscadomestica(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:45	0	
-17/01/2018	18:26:15	L'ApeMaia-Ep.6-L'incendionelbosco(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:48	0	
-17/01/2018	18:48:04	LichiamaronoBrigantifilmcompleto	LI CHIAMARONO BRIGANTI	LI CHIAMARONO BRIGANTI	02:00:51	1	Film
-17/01/2018	20:48:56	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
-17/01/2018	21:41:01	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
-17/01/2018	23:29:32	AVISLOCRI	Sconosciuto	Nuovo File	00:00:33	0	
-17/01/2018	23:30:06	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
-17/01/2018	23:40:03	MilleVocinapoletane,puntatan.01	Sconosciuto	Nuovo File	01:56:37	0	
-18/01/2018	01:36:41	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-18/01/2018	01:36:57	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-18/01/2018	01:37:03	TOTO'CONTROIQUATTRO	Sconosciuto	Nuovo File	01:34:32	0	
-18/01/2018	03:11:36	Speed2-SenzaLimiti	SPOEED 2 SENZA LIMITI	SPEED 2 SENZA LIMITI	01:54:12	1	Film
-18/01/2018	05:05:48	LARIVOLTADEIPRETORIANIFilmpeplum1964diAlfonsoBresciacompletoinItaliano	Sconosciuto	LARIVOLTA DEI PRETORIANI	01:33:20	1	Film
-18/01/2018	06:39:09	PresepeVivente2017Geraceultimook	presepe vivente gerace 2017	PRESEPE VIVENTE 2017GERACE 	00:46:07	41	programmi culturali
+17/01/2018	17:19:18	L'ApeMaia-Ep.4-Maiaelamoscadomestica(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:45	0	
+17/01/2018	17:41:03	L'ApeMaia-Ep.6-L'incendionelbosco(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:48	0	
+17/01/2018	18:02:51	LichiamaronoBrigantifilmcompleto	LI CHIAMARONO BRIGANTI	LI CHIAMARONO BRIGANTI	02:00:51	1	Film
+17/01/2018	20:03:43	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
+17/01/2018	20:55:49	PRESEPEVIVENTECIMINA'	PRESEPE   VIVENTE  CIMINA'	PRESEPE  VIVENTE CIMINA' 2017	00:00:25	41	programmi culturali
+17/01/2018	20:56:14	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
+17/01/2018	22:44:45	AVISLOCRI	Sconosciuto	Nuovo File	00:00:33	0	
+17/01/2018	22:45:19	LARIVOLTADEIPRETORIANIFilmpeplum1964diAlfonsoBresciacompletoinItaliano	Sconosciuto	LARIVOLTA DEI PRETORIANI	01:33:20	1	Film
+18/01/2018	00:18:39	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
+18/01/2018	00:28:37	MilleVocinapoletane,puntatan.01	Sconosciuto	Nuovo File	01:56:37	0	
+18/01/2018	02:25:14	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+18/01/2018	02:25:30	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+18/01/2018	02:25:37	TOTO'CONTROIQUATTRO	Sconosciuto	Nuovo File	01:34:32	0	
+18/01/2018	04:00:09	PresepeVivente2017Geraceultimook	presepe vivente gerace 2017	PRESEPE VIVENTE 2017GERACE 	00:46:07	41	programmi culturali
