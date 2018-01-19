@@ -1,5 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-19/01/2018	19:00:29	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
 19/01/2018	19:52:35	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
 19/01/2018	21:41:06	AVISLOCRI	Sconosciuto	Nuovo File	00:00:33	0	
 19/01/2018	21:41:40	MilleVocinapoletane,puntatan.01	Sconosciuto	Nuovo File	01:56:37	0	
