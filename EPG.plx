@@ -1,6 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-21/01/2018	17:07:58	MilleVocinapoletane,puntatan.01	Sconosciuto	Nuovo File	01:56:37	0	
-21/01/2018	19:04:36	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
 21/01/2018	19:04:51	Speed2-SenzaLimiti	SPOEED 2 SENZA LIMITI	SPEED 2 SENZA LIMITI	01:54:12	1	Film
 21/01/2018	20:59:04	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 21/01/2018	20:59:11	TOTO'CONTROIQUATTRO	Sconosciuto	Nuovo File	01:34:32	0	
