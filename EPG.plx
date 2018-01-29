@@ -1,7 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-29/01/2018	18:40:01	Thefastandthefourioustokyodrift	Sconosciuto	The fast  and  furios	01:37:44	22	
-29/01/2018	20:17:46	TgeventsPuntata360	TG EVENTS 360	TG EVENTS 360	00:14:39	31	programmi informativi
-29/01/2018	20:32:25	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
 29/01/2018	20:34:45	DonCamilloMonsignoremanontroppo	DON CAMILLO   MONSIGNORE	DON CAMILLO MONSIGNORE	01:53:25	1	Film
 29/01/2018	22:28:11	L'ultimorediScozia	Sconosciuto	L' ultimo re di Scozia	00:59:18	22	
 29/01/2018	23:27:30	TRAILERPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:10:04	0	
@@ -14,9 +11,9 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 30/01/2018	02:55:57	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
 30/01/2018	03:06:03	FantozziFracchiaLaBelvaUmana	FANTOZZI FRACCHAI LA BELVAUMANA	LA BELVA  UMANA	01:36:05	1	Film
 30/01/2018	04:42:08	GERACE-Citt‡millenaria	SPOT GERACE CITT‡1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-30/01/2018	04:43:14	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+30/01/2018	04:43:13	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
 30/01/2018	04:52:22	Identit‡Violate	IDENTITA' VIOLATE	IDENTITA' VIOLATE	01:38:46	1	Film
 30/01/2018	06:31:08	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
 30/01/2018	06:31:23	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
 30/01/2018	06:32:03	TRAILERPARTE5SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:56	0	
-30/01/2018	06:42:00	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
+30/01/2018	06:41:59	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
