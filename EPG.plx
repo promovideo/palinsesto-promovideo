@@ -1,7 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-02/02/2018	17:12:05	Thefastandthefourioustokyodrift	Sconosciuto	The fast  and  furios	01:37:44	22	
-02/02/2018	18:49:49	TgeventsPuntata360	TG EVENTS 360	TG EVENTS 360	00:14:39	31	programmi informativi
-02/02/2018	19:04:29	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
 02/02/2018	19:06:49	DonCamilloMonsignoremanontroppo	DON CAMILLO   MONSIGNORE	DON CAMILLO MONSIGNORE	01:53:25	1	Film
 02/02/2018	21:00:15	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
 02/02/2018	21:10:20	Speed2-SenzaLimiti	SPOEED 2 SENZA LIMITI	SPEED 2 SENZA LIMITI	01:54:12	1	Film
@@ -14,6 +11,6 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 03/02/2018	01:10:12	Identit‡Violate	IDENTITA' VIOLATE	IDENTITA' VIOLATE	01:38:46	1	Film
 03/02/2018	02:48:58	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
 03/02/2018	02:49:13	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-03/02/2018	02:49:54	X-Men	X - MEN	X - MEN	01:40:02	1	Film
+03/02/2018	02:49:53	X-Men	X - MEN	X - MEN	01:40:02	1	Film
 03/02/2018	04:29:56	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
 03/02/2018	06:21:38	Speed2-SenzaLimiti	SPOEED 2 SENZA LIMITI	SPEED 2 SENZA LIMITI	01:54:12	1	Film
