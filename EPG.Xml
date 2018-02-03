@@ -2,24 +2,24 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Terapiadurto_mpeg2video</IdName>
+				<IdName>LeDueTorri</IdName>
 				<StartDate>2018-02-03</StartDate>
-				<StartTime>19:42:30</StartTime>
-				<EndDate>2018-02-03</EndDate>
-				<EndTime>21:23:10</EndTime>
+				<StartTime>21:52:08</StartTime>
+				<EndDate>2018-02-04</EndDate>
+				<EndTime>00:44:12</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Sconosciuto</Name>
-					<Description>Terapia d' urto</Description>
+					<Description>Le due torri </Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="2">
-				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
-				<StartDate>2018-02-03</StartDate>
-				<StartTime>21:23:10</StartTime>
-				<EndDate>2018-02-03</EndDate>
-				<EndTime>21:32:18</EndTime>
+				<IdName>COMMIATOVESCOVOGERACE13GEN2007</IdName>
+				<StartDate>2018-02-04</StartDate>
+				<StartTime>00:44:12</StartTime>
+				<EndDate>2018-02-04</EndDate>
+				<EndTime>03:47:30</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -28,37 +28,37 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="3">
-				<IdName>TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2018-02-03</StartDate>
-				<StartTime>21:32:18</StartTime>
-				<EndDate>2018-02-03</EndDate>
-				<EndTime>21:42:23</EndTime>
+				<IdName>Tempimoderni_mpeg2video</IdName>
+				<StartDate>2018-02-04</StartDate>
+				<StartTime>03:47:30</StartTime>
+				<EndDate>2018-02-04</EndDate>
+				<EndTime>05:15:04</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Description>Tempi  moderni</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="4">
-				<IdName>GERACE-Cittàmillenaria</IdName>
-				<StartDate>2018-02-03</StartDate>
-				<StartTime>21:42:23</StartTime>
-				<EndDate>2018-02-03</EndDate>
-				<EndTime>21:43:28</EndTime>
+				<IdName>spotDIGIII</IdName>
+				<StartDate>2018-02-04</StartDate>
+				<StartTime>05:15:04</StartTime>
+				<EndDate>2018-02-04</EndDate>
+				<EndTime>05:15:19</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>SPOT GERACE CITTà1000ENARIA</Name>
-					<Description>GERACECITTAMILLENARIA SPOT</Description>
+					<Name>SPOT DIGII</Name>
+					<Description>SPOT PROMOVIDEO</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="5">
-				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
-				<StartDate>2018-02-03</StartDate>
-				<StartTime>21:43:28</StartTime>
-				<EndDate>2018-02-03</EndDate>
-				<EndTime>21:52:36</EndTime>
+				<IdName>PillolaSalute_20150302_48922</IdName>
+				<StartDate>2018-02-04</StartDate>
+				<StartTime>05:15:19</StartTime>
+				<EndDate>2018-02-04</EndDate>
+				<EndTime>05:15:59</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -67,76 +67,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="6">
-				<IdName>LeDueTorri</IdName>
-				<StartDate>2018-02-03</StartDate>
-				<StartTime>21:52:36</StartTime>
-				<EndDate>2018-02-04</EndDate>
-				<EndTime>00:44:40</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Le due torri </Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
-				<IdName>COMMIATOVESCOVOGERACE13GEN2007</IdName>
-				<StartDate>2018-02-04</StartDate>
-				<StartTime>00:44:40</StartTime>
-				<EndDate>2018-02-04</EndDate>
-				<EndTime>03:47:58</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="8">
-				<IdName>Tempimoderni_mpeg2video</IdName>
-				<StartDate>2018-02-04</StartDate>
-				<StartTime>03:47:58</StartTime>
-				<EndDate>2018-02-04</EndDate>
-				<EndTime>05:15:32</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Tempi  moderni</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="9">
-				<IdName>spotDIGIII</IdName>
-				<StartDate>2018-02-04</StartDate>
-				<StartTime>05:15:32</StartTime>
-				<EndDate>2018-02-04</EndDate>
-				<EndTime>05:15:47</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT DIGII</Name>
-					<Description>SPOT PROMOVIDEO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
-				<IdName>PillolaSalute_20150302_48922</IdName>
-				<StartDate>2018-02-04</StartDate>
-				<StartTime>05:15:47</StartTime>
-				<EndDate>2018-02-04</EndDate>
-				<EndTime>05:16:27</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="11">
 				<IdName>CityofGhost_mpeg2video</IdName>
 				<StartDate>2018-02-04</StartDate>
-				<StartTime>05:16:27</StartTime>
+				<StartTime>05:15:59</StartTime>
 				<EndDate>2018-02-04</EndDate>
-				<EndTime>07:08:10</EndTime>
+				<EndTime>07:07:42</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
