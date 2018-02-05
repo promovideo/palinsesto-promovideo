@@ -1,42 +1,25 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-05/02/2018	08:28:11	BadBoys	BAD BOYS	BAD BOYS	01:54:04	1	Film
-05/02/2018	10:22:16	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-05/02/2018	10:32:21	Ritorno.Al.Futuro.3-iTALiAN.DvDRip.DivX-AuDaX	Sconosciuto	Ritorno  al  futuro 3	01:53:23	1	Film
-05/02/2018	12:25:45	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-05/02/2018	12:25:52	pallanuotandopuntatan11del250118	Sconosciuto	Nuovo File	00:37:49	0	
-05/02/2018	13:03:41	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
-05/02/2018	13:08:47	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-05/02/2018	13:09:02	TgeventsTelevisionpuntata362	Sconosciuto	Nuovo File	00:11:26	0	
-05/02/2018	13:20:29	FLASHPARTE5SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:11	0	
-05/02/2018	13:25:41	TgeventsPuntata360	TG EVENTS 360	TG EVENTS 360	00:14:39	31	programmi informativi
-05/02/2018	13:40:20	FLASHPARTE7DOPOLE22,30	Sconosciuto	Nuovo File	00:05:11	0	
-05/02/2018	13:45:32	SimsalaGrimm2-Ep.10-LabellaelabestiaHDItaliano(474p_27fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:25:00	0	
-05/02/2018	14:10:33	Simsalagrimm1-Ep.17-IlfedeleGiovanniHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:23:28	0	
-05/02/2018	14:34:01	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-05/02/2018	14:44:07	SimsalaGrimm2-Ep.18-LafortunadiHans(480p_25fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:32	0	
-05/02/2018	15:08:39	Simsalagrimm1-Ep.5-Itrecapellidel'orodeldiavoloHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:23:06	0	
-05/02/2018	15:31:45	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-05/02/2018	15:31:56	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-05/02/2018	15:42:01	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-05/02/2018	15:52:07	TartarugheNinja-14Avventurenelsottosuolo-parte2	Sconosciuto	Nuovo File	00:22:04	0	
-05/02/2018	16:14:11	TartarugheNinja-15Avventurenelsottosuolo-parte3	Sconosciuto	Nuovo File	00:21:41	0	
-05/02/2018	16:35:53	TartarugheNinja-16Ilredeifumetti	Sconosciuto	Nuovo File	00:22:01	0	
-05/02/2018	16:57:54	Thefastandthefourioustokyodrift	Sconosciuto	The fast  and  furios	01:37:44	22	
-05/02/2018	18:35:39	TgeventsPuntata360	TG EVENTS 360	TG EVENTS 360	00:14:39	31	programmi informativi
-05/02/2018	18:50:18	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
-05/02/2018	18:52:38	DonCamilloMonsignoremanontroppo	DON CAMILLO   MONSIGNORE	DON CAMILLO MONSIGNORE	01:53:25	1	Film
-05/02/2018	20:46:04	L'ultimorediScozia	Sconosciuto	L' ultimo re di Scozia	00:59:18	22	
-05/02/2018	21:45:23	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-05/02/2018	21:55:28	PUNT24PIXMINDDEFINITIVA	PIXMIND P.24	Nuovo File	00:23:59	41	programmi culturali
-05/02/2018	22:19:28	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-05/02/2018	22:19:35	Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)	Sconosciuto	BERTOLDO BERTOLDINO E CACASENNO	01:59:40	1	Film
-06/02/2018	00:19:15	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
-06/02/2018	00:28:23	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-06/02/2018	00:38:29	FantozziFracchiaLaBelvaUmana	FANTOZZI FRACCHAI LA BELVAUMANA	LA BELVA  UMANA	01:36:05	1	Film
-06/02/2018	02:14:35	GERACE-Citt‡millenaria	SPOT GERACE CITT‡1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-06/02/2018	02:15:40	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
-06/02/2018	02:24:48	Identit‡Violate	IDENTITA' VIOLATE	IDENTITA' VIOLATE	01:38:46	1	Film
-06/02/2018	04:03:34	Identit‡Violate	IDENTITA' VIOLATE	IDENTITA' VIOLATE	01:38:46	1	Film
-06/02/2018	05:42:20	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-06/02/2018	05:42:35	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-06/02/2018	05:43:15	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
+05/02/2018	17:18:41	TartarugheNinja-17IlritormodiShredder-parte1	Sconosciuto	Nuovo File	00:21:54	0	
+05/02/2018	17:40:35	L'ApeMaia-Ep.10-LalucciolaJimmy(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:56	0	
+05/02/2018	18:02:31	L'ApeMaia-Ep.9-Ilcoleotteroinnamorato(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:57	0	
+05/02/2018	18:24:28	TgeventsPuntata360	TG EVENTS 360	TG EVENTS 360	00:14:39	31	programmi informativi
+05/02/2018	18:39:08	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
+05/02/2018	18:41:28	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+05/02/2018	18:51:33	CarnevalediVenezia2013dal26GENNAIOal12FEBBRAIOYouTube	Sconosciuto	CARNEVALE VENEZIA	00:10:41	71	documentari
+05/02/2018	19:02:15	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+05/02/2018	19:02:22	Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)	Sconosciuto	BERTOLDO BERTOLDINO E CACASENNO	01:59:40	1	Film
+05/02/2018	21:02:02	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+05/02/2018	21:11:10	agrisapori746x4-2-18	Sconosciuto	Nuovo File	00:30:04	0	
+05/02/2018	21:41:14	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+05/02/2018	21:51:20	FantozziFracchiaLaBelvaUmana	FANTOZZI FRACCHAI LA BELVAUMANA	LA BELVA  UMANA	01:36:05	1	Film
+05/02/2018	23:27:25	GERACE-Citt‡millenaria	SPOT GERACE CITT‡1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+05/02/2018	23:28:30	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+05/02/2018	23:37:39	GratteriGeraceBeniconfiscati	Sconosciuto	Nuovo File	00:12:46	0	
+05/02/2018	23:50:25	Identit‡Violate	IDENTITA' VIOLATE	IDENTITA' VIOLATE	01:38:46	1	Film
+06/02/2018	01:29:11	Identit‡Violate	IDENTITA' VIOLATE	IDENTITA' VIOLATE	01:38:46	1	Film
+06/02/2018	03:07:57	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
+06/02/2018	03:08:13	048-Tokio,EmblemadiunMiracolo(14')eD	TOKIO EMBLEMA DEL MIRACOLO	TOKIO EMBLEMA DEL  MIRACOLO	00:13:57	71	documentari
+06/02/2018	03:22:10	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
+06/02/2018	04:45:19	NicolaGratteriNarrarelalegalit‡LeConversazioniSerali	Narrare  la  legalit‡	Nicoal Gratteri Narrare  la legalit‡	01:23:23	82	
+06/02/2018	06:08:42	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
+06/02/2018	06:09:23	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
