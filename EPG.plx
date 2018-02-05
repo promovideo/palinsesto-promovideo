@@ -1,6 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-05/02/2018	19:01:59	Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)	Sconosciuto	BERTOLDO BERTOLDINO E CACASENNO	01:59:40	1	Film
-05/02/2018	21:01:39	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
 05/02/2018	21:10:47	agrisapori746x4-2-18	Sconosciuto	Nuovo File	00:30:04	0	
 05/02/2018	21:40:52	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
 05/02/2018	21:50:57	FantozziFracchiaLaBelvaUmana	FANTOZZI FRACCHAI LA BELVAUMANA	LA BELVA  UMANA	01:36:05	1	Film
