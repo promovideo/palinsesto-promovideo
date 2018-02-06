@@ -1,8 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-06/02/2018	17:02:24	TartarugheNinja-16Ilredeifumetti	Sconosciuto	Nuovo File	00:22:01	0	
-06/02/2018	17:24:25	Thefastandthefourioustokyodrift	Sconosciuto	The fast  and  furios	01:37:44	22	
-06/02/2018	19:02:10	TgeventsPuntata360	TG EVENTS 360	TG EVENTS 360	00:14:39	31	programmi informativi
-06/02/2018	19:16:49	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
 06/02/2018	19:19:09	DonCamilloMonsignoremanontroppo	DON CAMILLO   MONSIGNORE	DON CAMILLO MONSIGNORE	01:53:25	1	Film
 06/02/2018	21:12:35	L'ultimorediScozia	Sconosciuto	L' ultimo re di Scozia	00:59:18	22	
 06/02/2018	22:11:54	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
