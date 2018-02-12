@@ -1,6 +1,5 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-12/02/2018	18:26:58	AustinPowers-IlControspione	Sconosciuto	Nuovo File	01:30:47	22	
-12/02/2018	19:57:45	AustinPowers2-Laspiacheciprovava	AUSTIN POWERS2	LA SPIA CHE CI  PROVAVA	01:31:07	1	Film
+12/02/2018	19:57:44	AustinPowers2-Laspiacheciprovava	AUSTIN POWERS2	LA SPIA CHE CI  PROVAVA	01:31:07	1	Film
 12/02/2018	21:28:52	PianadegliAlbanesi'DomenicadellePalme'PiccolaGrandeItalia	PIANA DEGLI ALBANESI	PIANA DEGLI ALBANESI	00:14:12	71	documentari
 12/02/2018	21:43:04	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
 12/02/2018	21:52:12	FantozziInParadiso	FANTOZZI VA  IN PARADISO	FANTOZZI VA IN PARADISO	01:32:30	1	Film
@@ -9,7 +8,7 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 13/02/2018	01:01:54	BadBoys	BAD BOYS	BAD BOYS	01:54:04	1	Film
 13/02/2018	02:55:58	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
 13/02/2018	03:05:06	gold.il.segno.del.potere.19741°t.	GOLD  IL SEGNO DEL  POTERE 1°	GOLD  IL SEGNO DEL  POTERE 1°	01:01:09	1	Film
-13/02/2018	04:06:16	gold.il.segno.del.potere.19742°t.	GOLD  IL SEGNO DEL  POTERE 2°	GOLD  IL SEGNO DEL  POTERE 2°	00:57:54	1	Film
-13/02/2018	05:04:11	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
+13/02/2018	04:06:15	gold.il.segno.del.potere.19742°t.	GOLD  IL SEGNO DEL  POTERE 2°	GOLD  IL SEGNO DEL  POTERE 2°	00:57:54	1	Film
+13/02/2018	05:04:10	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
 13/02/2018	06:55:53	agrisapori708X16-4-17	Sconosciuto	Nuovo File	00:21:23	0	
-13/02/2018	07:17:17	FMPuntata6	FORMULA  MOTORI6	FORMULA MOTORI6	00:23:58	0	
+13/02/2018	07:17:16	FMPuntata6	FORMULA  MOTORI6	FORMULA MOTORI6	00:23:58	0	
