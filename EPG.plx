@@ -1,6 +1,6 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-16/02/2018	04:42:39	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	documentari
-16/02/2018	05:34:49	INNACaliente(OFFICIALVIDEO)	Caliente	Inna	00:03:21	162	
+16/02/2018	08:50:15	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	documentari
+16/02/2018	09:42:25	INNACaliente(OFFICIALVIDEO)	Caliente	Inna	00:03:21	162	
 17/02/2018	06:00:00	SimsalaGrimm2-Ep.10-LabellaelabestiaHDItaliano(474p_27fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:25:00	0	
 17/02/2018	06:25:00	SimsalaGrimm2-Ep.18-LafortunadiHans(480p_25fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:32	0	
 17/02/2018	06:49:32	Simsalagrimm1-Ep.5-Itrecapellidel'orodeldiavoloHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:23:06	0	
