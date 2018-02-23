@@ -1,14 +1,11 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-23/02/2018	17:47:49	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-23/02/2018	17:48:54	Pasqua-NoceraTerinese	Pasqua Nocera Terinese	Pasqua Nocera Terinese	00:11:22	41	programmi culturali
-23/02/2018	18:00:17	Labandadeglionesti_mpeg2video	LA BANDA DEGLI ONESTI	LA BANDA DEGLI  ONESTI	01:40:55	1	Film
 23/02/2018	19:41:13	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
 23/02/2018	19:51:18	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 23/02/2018	19:51:25	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
 23/02/2018	19:51:40	Commissariatodinotturna_mpeg2video	Sconosciuto	COMMISSARIATO  DI   NOTTURNA	01:32:54	1	Film
 23/02/2018	21:24:34	MYTECH-PIXMINDreplicaestate(4)ok	Sconosciuto	Nuovo File	00:24:00	0	
 23/02/2018	21:48:35	ImaginaryHeroes	IMMAGINARY HEROES	Immaginary Heores	01:51:03	1	Film
-23/02/2018	23:39:39	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+23/02/2018	23:39:38	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
 23/02/2018	23:39:49	Nessunoèperfetto_mpeg2video	nessuno è perfetto	Nessuno è perfetto	01:37:33	1	Film
 24/02/2018	01:17:23	calabriaricordi	CALABRIA RICORDI	CALABRIA RICORDI	00:01:54	41	programmi culturali
 24/02/2018	01:19:17	L'ApeMaia-Ep.3-Lalibellula(SerieOriginale)(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:25	0	
