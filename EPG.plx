@@ -1,20 +1,3 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-22/02/2018	21:23:08	MYTECH16	Sconosciuto	Nuovo File	00:24:00	0	
-22/02/2018	21:47:08	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-22/02/2018	21:47:23	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
-22/02/2018	22:39:28	TRAILERPARTE8DOPOLE22,30	Sconosciuto	Nuovo File	00:10:02	0	
-22/02/2018	22:49:31	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
-22/02/2018	22:58:39	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-22/02/2018	23:05:53	Wargames_mpeg2video	WARGAMES	Wrgames	01:48:02	1	Film
-23/02/2018	00:53:56	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
-23/02/2018	00:56:25	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
-23/02/2018	01:05:33	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-23/02/2018	01:05:36	TRAILERPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:10:04	0	
-23/02/2018	01:15:41	'ComeEravamo'	COME ERAVAMO	COME ERAVAMO 	00:02:11	11	spot
-23/02/2018	01:17:52	MenInBlackII	Sconosciuto	Men In Black II	01:24:32	1	Film
-23/02/2018	02:42:24	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-23/02/2018	02:52:30	BovaChoratuVuaIlGioielloD'Aspromonte	BOVA GIOIELLO D' ASPROMONTE	BOVA	00:16:11	41	programmi culturali
-23/02/2018	03:08:41	MYTECH20	Sconosciuto	Nuovo File	00:24:00	0	
-23/02/2018	03:32:41	Speed	SPEED	SPEED	01:50:00	1	Film
-23/02/2018	05:22:42	MilleVocibrasliane-PrimapuntataBrasile_con_logo	Sconosciuto	Nuovo File	01:19:00	0	
-23/02/2018	06:41:42	AmiciMieiAttoII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO II	02:07:00	1	Film
+23/02/2018	05:18:04	MilleVocibrasliane-PrimapuntataBrasile_con_logo	Sconosciuto	Nuovo File	01:19:00	0	
+23/02/2018	06:37:04	AmiciMieiAttoII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO II	02:07:00	1	Film
