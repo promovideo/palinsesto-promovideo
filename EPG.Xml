@@ -2,71 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Cacciaallavolpe_1_mpeg2video</IdName>
-				<StartDate>2018-02-24</StartDate>
-				<StartTime>19:31:13</StartTime>
-				<EndDate>2018-02-24</EndDate>
-				<EndTime>20:22:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CACCIA ALLA VOLPE 1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>Cacciaallavolpe_2_mpeg2video</IdName>
-				<StartDate>2018-02-24</StartDate>
-				<StartTime>20:22:26</StartTime>
-				<EndDate>2018-02-24</EndDate>
-				<EndTime>21:06:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CACCIA ALLA VOLPE 2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>spotDIGIII</IdName>
-				<StartDate>2018-02-24</StartDate>
-				<StartTime>21:06:20</StartTime>
-				<EndDate>2018-02-24</EndDate>
-				<EndTime>21:06:35</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT DIGII</Name>
-					<Description>SPOT PROMOVIDEO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>043-NgoroNgoro,l'UltimaArca(14')eD</IdName>
-				<StartDate>2018-02-24</StartDate>
-				<StartTime>21:06:35</StartTime>
-				<EndDate>2018-02-24</EndDate>
-				<EndTime>21:20:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>NGORO NGORO</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
-				<IdName>GERACE-Cittàmillenaria</IdName>
-				<StartDate>2018-02-24</StartDate>
-				<StartTime>21:20:05</StartTime>
-				<EndDate>2018-02-24</EndDate>
-				<EndTime>21:21:10</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT GERACE CITTà1000ENARIA</Name>
-					<Description>GERACECITTAMILLENARIA SPOT</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
 				<IdName>MYTECH16</IdName>
 				<StartDate>2018-02-24</StartDate>
 				<StartTime>21:21:10</StartTime>
@@ -79,7 +14,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="2">
 				<IdName>Infiltratospeciale_mpeg2video</IdName>
 				<StartDate>2018-02-24</StartDate>
 				<StartTime>21:45:10</StartTime>
@@ -92,12 +27,12 @@
 					<Description>Infiltrato  speciale</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="3">
 				<IdName>TRAILERPARTE6DOPOLE22,30</IdName>
 				<StartDate>2018-02-24</StartDate>
 				<StartTime>23:19:45</StartTime>
 				<EndDate>2018-02-24</EndDate>
-				<EndTime>23:29:50</EndTime>
+				<EndTime>23:29:49</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -105,10 +40,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="4">
 				<IdName>agrisapori746x4-2-18</IdName>
 				<StartDate>2018-02-24</StartDate>
-				<StartTime>23:29:50</StartTime>
+				<StartTime>23:29:49</StartTime>
 				<EndDate>2018-02-24</EndDate>
 				<EndTime>23:59:54</EndTime>
 				<ShortEventDescription>
@@ -118,7 +53,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="5">
 				<IdName>spotDIGIII</IdName>
 				<StartDate>2018-02-24</StartDate>
 				<StartTime>23:59:54</StartTime>
@@ -131,12 +66,12 @@
 					<Description>SPOT PROMOVIDEO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="6">
 				<IdName>TRAILERPARTE8DOPOLE22,30</IdName>
 				<StartDate>2018-02-25</StartDate>
 				<StartTime>00:00:09</StartTime>
 				<EndDate>2018-02-25</EndDate>
-				<EndTime>00:10:12</EndTime>
+				<EndTime>00:10:11</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -144,10 +79,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="7">
 				<IdName>'IlsegretodiSantaVittoria'(1969)conAnnaMagnanieAnthonyQuinn_mpeg2video</IdName>
 				<StartDate>2018-02-25</StartDate>
-				<StartTime>00:10:12</StartTime>
+				<StartTime>00:10:11</StartTime>
 				<EndDate>2018-02-25</EndDate>
 				<EndTime>02:23:26</EndTime>
 				<ShortEventDescription>
@@ -157,7 +92,7 @@
 					<Description>IL SEGRETO DI SANTA  VITTORIA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="8">
 				<IdName>MammaHoRipersoL'aereoEMiSonoSmarritoANewYork</IdName>
 				<StartDate>2018-02-25</StartDate>
 				<StartTime>02:23:26</StartTime>
@@ -170,7 +105,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="9">
 				<IdName>PraiaaMarePiccolaGrandeItalia</IdName>
 				<StartDate>2018-02-25</StartDate>
 				<StartTime>04:11:30</StartTime>
@@ -183,7 +118,7 @@
 					<Description>PRAIA A MARE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="10">
 				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
 				<StartDate>2018-02-25</StartDate>
 				<StartTime>04:36:04</StartTime>
@@ -196,12 +131,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="11">
 				<IdName>Filmato</IdName>
 				<StartDate>2018-02-25</StartDate>
 				<StartTime>04:45:12</StartTime>
 				<EndDate>2018-02-25</EndDate>
-				<EndTime>04:47:42</EndTime>
+				<EndTime>04:47:41</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -209,12 +144,12 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="12">
 				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
 				<StartDate>2018-02-25</StartDate>
-				<StartTime>04:47:42</StartTime>
+				<StartTime>04:47:41</StartTime>
 				<EndDate>2018-02-25</EndDate>
-				<EndTime>04:56:50</EndTime>
+				<EndTime>04:56:49</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -222,10 +157,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="13">
 				<IdName>SPOTC3</IdName>
 				<StartDate>2018-02-25</StartDate>
-				<StartTime>04:56:50</StartTime>
+				<StartTime>04:56:49</StartTime>
 				<EndDate>2018-02-25</EndDate>
 				<EndTime>04:56:53</EndTime>
 				<ShortEventDescription>
@@ -235,7 +170,7 @@
 					<Description>SPOTtuachanne3</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="14">
 				<IdName>'ComeEravamo'</IdName>
 				<StartDate>2018-02-25</StartDate>
 				<StartTime>04:56:53</StartTime>
@@ -248,7 +183,7 @@
 					<Description>COME ERAVAMO </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="15">
 				<IdName>TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2018-02-25</StartDate>
 				<StartTime>04:59:04</StartTime>
@@ -261,7 +196,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="21">
+			<Event id="16">
 				<IdName>MYTECH20</IdName>
 				<StartDate>2018-02-25</StartDate>
 				<StartTime>05:09:10</StartTime>
@@ -274,7 +209,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="22">
+			<Event id="17">
 				<IdName>_1781_Recanatese_vivereomorire</IdName>
 				<StartDate>2018-02-25</StartDate>
 				<StartTime>05:33:10</StartTime>
@@ -287,12 +222,12 @@
 					<Description>vivere  o   morire</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="23">
+			<Event id="18">
 				<IdName>TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2018-02-25</StartDate>
 				<StartTime>05:59:47</StartTime>
 				<EndDate>2018-02-25</EndDate>
-				<EndTime>06:09:53</EndTime>
+				<EndTime>06:09:52</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -300,10 +235,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="24">
+			<Event id="19">
 				<IdName>CauloniaTrenitaliaripristinalafermata</IdName>
 				<StartDate>2018-02-25</StartDate>
-				<StartTime>06:09:53</StartTime>
+				<StartTime>06:09:52</StartTime>
 				<EndDate>2018-02-25</EndDate>
 				<EndTime>06:17:48</EndTime>
 				<ShortEventDescription>
@@ -313,7 +248,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="25">
+			<Event id="20">
 				<IdName>GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)</IdName>
 				<StartDate>2018-02-25</StartDate>
 				<StartTime>06:17:48</StartTime>
