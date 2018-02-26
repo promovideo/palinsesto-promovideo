@@ -1,15 +1,51 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-25/02/2018	20:14:22	FantozziFracchiaLaBelvaUmana	FANTOZZI FRACCHAI LA BELVAUMANA	LA BELVA  UMANA	01:36:05	1	Film
-25/02/2018	21:50:28	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-25/02/2018	21:51:33	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
-25/02/2018	22:00:41	IdentitàViolate	IDENTITA' VIOLATE	IDENTITA' VIOLATE	01:38:46	1	Film
-25/02/2018	23:39:27	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-25/02/2018	23:39:42	FormulaMotoriPuntata52HD720p	FORMULA  MOTORI	Nuovo File	00:24:00	31	programmi informativi
-26/02/2018	00:03:42	Cosedamaschi_mpeg2video	Sconosciuto	COSE DA MASCHI	01:33:44	1	Film
-26/02/2018	01:37:26	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-26/02/2018	01:38:07	TRAILERPARTE5SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:56	0	
-26/02/2018	01:48:03	Cacciaallavolpe_1_mpeg2video	Sconosciuto	CACCIA ALLA VOLPE 1	00:51:12	1	Film
-26/02/2018	02:39:15	Cacciaallavolpe_2_mpeg2video	Sconosciuto	CACCIA ALLA VOLPE 2	00:43:54	1	Film
-26/02/2018	03:23:10	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
-26/02/2018	05:14:52	Buenavistasocialclub_mpeg2video	BUENA VISTA SOCIAL CLUB	buena vista social club	01:40:28	81	videoclip
-26/02/2018	06:55:21	LocriinaugurazioneOstellodellaGioventù	inaugurazione osptello gioventu locri	ostello gioventu locri	00:34:21	41	programmi culturali
+26/02/2018	06:00:00	SimsalaGrimm2-Ep.10-LabellaelabestiaHDItaliano(474p_27fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:25:00	0	
+26/02/2018	06:25:00	MilleVocinapoletane,puntatan.03	Sconosciuto	Nuovo File	01:03:33	0	
+26/02/2018	07:28:34	SimsalaGrimm2-Ep.18-LafortunadiHans(480p_25fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:32	0	
+26/02/2018	07:53:06	Simsalagrimm1-Ep.5-Itrecapellidel'orodeldiavoloHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:23:06	0	
+26/02/2018	08:16:12	italiaEconomia_20150311_49151	Sconosciuto	Nuovo File	00:08:29	0	
+26/02/2018	08:24:42	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+26/02/2018	08:33:50	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+26/02/2018	08:34:55	BadBoys	BAD BOYS	BAD BOYS	01:54:04	1	Film
+26/02/2018	10:28:59	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+26/02/2018	10:39:05	Ritorno.Al.Futuro.3-iTALiAN.DvDRip.DivX-AuDaX	Sconosciuto	Ritorno  al  futuro 3	01:53:23	1	Film
+26/02/2018	12:32:28	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+26/02/2018	12:32:35	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
+26/02/2018	12:37:41	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+26/02/2018	12:37:56	FLASHPARTE5SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:11	0	
+26/02/2018	12:43:08	TgeventsPuntata360	TG EVENTS 360	TG EVENTS 360	00:14:39	31	programmi informativi
+26/02/2018	12:57:48	FLASHPARTE7DOPOLE22,30	Sconosciuto	Nuovo File	00:05:11	0	
+26/02/2018	13:03:00	SimsalaGrimm2-Ep.10-LabellaelabestiaHDItaliano(474p_27fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:25:00	0	
+26/02/2018	13:28:00	Simsalagrimm1-Ep.17-IlfedeleGiovanniHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:23:28	0	
+26/02/2018	13:51:29	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+26/02/2018	14:01:34	SimsalaGrimm2-Ep.18-LafortunadiHans(480p_25fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:32	0	
+26/02/2018	14:26:07	Simsalagrimm1-Ep.5-Itrecapellidel'orodeldiavoloHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:23:06	0	
+26/02/2018	14:49:13	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+26/02/2018	14:49:24	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+26/02/2018	14:59:29	Speed2-SenzaLimiti	SPOEED 2 SENZA LIMITI	SPEED 2 SENZA LIMITI	01:54:12	1	Film
+26/02/2018	16:53:42	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+26/02/2018	17:03:47	TartarugheNinja-14Avventurenelsottosuolo-parte2	Sconosciuto	Nuovo File	00:22:04	0	
+26/02/2018	17:25:51	TartarugheNinja-15Avventurenelsottosuolo-parte3	Sconosciuto	Nuovo File	00:21:41	0	
+26/02/2018	17:47:33	TartarugheNinja-16Ilredeifumetti	Sconosciuto	Nuovo File	00:22:01	0	
+26/02/2018	18:09:34	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
+26/02/2018	18:19:32	Thefastandthefourioustokyodrift	Sconosciuto	The fast  and  furios	01:37:44	22	
+26/02/2018	19:57:16	TgeventsPuntata360	TG EVENTS 360	TG EVENTS 360	00:14:39	31	programmi informativi
+26/02/2018	20:11:56	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
+26/02/2018	20:14:16	DonCamilloMonsignoremanontroppo	DON CAMILLO   MONSIGNORE	DON CAMILLO MONSIGNORE	01:53:25	1	Film
+26/02/2018	22:07:42	L'ultimorediScozia	Sconosciuto	L' ultimo re di Scozia	00:59:18	22	
+26/02/2018	23:07:01	TRAILERPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:10:04	0	
+26/02/2018	23:17:05	BOVALINO-PremioLetterarioMarioLaCava(byEL)(360p_25fps_H264-128kbit_AAC)	premio letterario m. la cava 017	Nuovo File	00:35:22	0	
+26/02/2018	23:52:28	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+27/02/2018	00:02:33	PUNT24PIXMINDDEFINITIVA	PIXMIND P.24	Nuovo File	00:23:59	41	programmi culturali
+27/02/2018	00:26:33	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+27/02/2018	00:26:40	Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)	Sconosciuto	BERTOLDO BERTOLDINO E CACASENNO	01:59:40	1	Film
+27/02/2018	02:26:20	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+27/02/2018	02:35:28	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+27/02/2018	02:45:33	FantozziFracchiaLaBelvaUmana	FANTOZZI FRACCHAI LA BELVAUMANA	LA BELVA  UMANA	01:36:05	1	Film
+27/02/2018	04:21:39	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+27/02/2018	04:22:44	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+27/02/2018	04:31:52	IdentitàViolate	IDENTITA' VIOLATE	IDENTITA' VIOLATE	01:38:46	1	Film
+27/02/2018	06:10:38	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
+27/02/2018	06:10:54	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
+27/02/2018	06:11:34	TRAILERPARTE5SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:56	0	
+27/02/2018	06:21:30	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
