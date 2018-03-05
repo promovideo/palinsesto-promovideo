@@ -2,37 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>ProcessodiBeatificazioneMGMartelli1122007TV</IdName>
-				<StartDate>2018-03-05</StartDate>
-				<StartTime>19:37:37</StartTime>
-				<EndDate>2018-03-05</EndDate>
-				<EndTime>20:39:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>SPOTTC4</IdName>
-				<StartDate>2018-03-05</StartDate>
-				<StartTime>20:39:49</StartTime>
-				<EndDate>2018-03-05</EndDate>
-				<EndTime>20:39:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne4</Name>
-					<Description>SPOTtuachanne4</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
 				<IdName>AmicimieiattoIII_mpeg2video</IdName>
 				<StartDate>2018-03-05</StartDate>
 				<StartTime>20:39:53</StartTime>
 				<EndDate>2018-03-05</EndDate>
-				<EndTime>22:29:14</EndTime>
+				<EndTime>22:29:13</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -40,10 +14,10 @@
 					<Description>AMICI MIEI  ATTO III</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="2">
 				<IdName>SPOTtraPROMOVIDEOTV10</IdName>
 				<StartDate>2018-03-05</StartDate>
-				<StartTime>22:29:14</StartTime>
+				<StartTime>22:29:13</StartTime>
 				<EndDate>2018-03-05</EndDate>
 				<EndTime>22:29:17</EndTime>
 				<ShortEventDescription>
@@ -53,7 +27,7 @@
 					<Description>SPOT PROMOVIDEOTV2</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="3">
 				<IdName>SPOTtraPROMOVIDEOTV8</IdName>
 				<StartDate>2018-03-05</StartDate>
 				<StartTime>22:29:17</StartTime>
@@ -66,7 +40,7 @@
 					<Description>SPOTPROMOVIDEOTV1</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="4">
 				<IdName>ViaggioAspromonte</IdName>
 				<StartDate>2018-03-05</StartDate>
 				<StartTime>22:29:21</StartTime>
@@ -79,7 +53,7 @@
 					<Description>VIAGGIO IN ASPROMONTE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="5">
 				<IdName>Americangraffiti_1_mpeg2video</IdName>
 				<StartDate>2018-03-05</StartDate>
 				<StartTime>22:43:59</StartTime>
@@ -92,7 +66,7 @@
 					<Description>AMERICAN GRAFFITI_1</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="6">
 				<IdName>SPOTtraPROMOVIDEOTV7</IdName>
 				<StartDate>2018-03-05</StartDate>
 				<StartTime>23:41:33</StartTime>
@@ -105,12 +79,12 @@
 					<Description>SPOTtraPROMOVIDEOTV7</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="7">
 				<IdName>Americangraffiti_2_mpeg2video</IdName>
 				<StartDate>2018-03-05</StartDate>
 				<StartTime>23:41:37</StartTime>
 				<EndDate>2018-03-06</EndDate>
-				<EndTime>00:31:42</EndTime>
+				<EndTime>00:31:41</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,10 +92,10 @@
 					<Description>AMERICAN GRAFFITI_2</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="8">
 				<IdName>CiccioeFrancoSatiricosissimo_mpeg2video</IdName>
 				<StartDate>2018-03-06</StartDate>
-				<StartTime>00:31:42</StartTime>
+				<StartTime>00:31:41</StartTime>
 				<EndDate>2018-03-06</EndDate>
 				<EndTime>01:56:42</EndTime>
 				<ShortEventDescription>
@@ -131,7 +105,7 @@
 					<Description>SATIRICONISSIMO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="9">
 				<IdName>A027DaLasVegas_mpeg2video</IdName>
 				<StartDate>2018-03-06</StartDate>
 				<StartTime>01:56:42</StartTime>
@@ -144,7 +118,7 @@
 					<Description>A 27 LAS VEGAS</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="10">
 				<IdName>MagnificaItaliaCalabria_mpeg2video</IdName>
 				<StartDate>2018-03-06</StartDate>
 				<StartTime>03:27:17</StartTime>
@@ -157,7 +131,7 @@
 					<Description>Calabria</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="11">
 				<IdName>Toto'aColoriFilmCompleto(FullMovie)</IdName>
 				<StartDate>2018-03-06</StartDate>
 				<StartTime>04:19:27</StartTime>
