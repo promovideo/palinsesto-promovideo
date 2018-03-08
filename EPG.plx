@@ -1,12 +1,6 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-07/03/2018	21:12:28	ThePrison	Sconosciuto	The  prison	01:45:47	1	Film
-07/03/2018	22:58:16	FLASHPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:00	0	
-07/03/2018	23:03:17	GERACE-Citt‡millenaria	SPOT GERACE CITT‡1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-07/03/2018	23:04:22	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
-07/03/2018	23:13:30	Identit‡Violate	IDENTITA' VIOLATE	IDENTITA' VIOLATE	01:38:46	1	Film
-08/03/2018	00:52:16	FLASHPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:05:00	0	
-08/03/2018	00:57:17	LocriConcorsoNazCaciocavallo_mpeg2video	Sconosciuto	Nuovo File	02:28:01	0	
-08/03/2018	03:25:18	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-08/03/2018	03:25:33	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
-08/03/2018	03:34:41	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-08/03/2018	03:35:00	Pasqua-NoceraTerinese	Pasqua Nocera Terinese	Pasqua Nocera Terinese	00:11:22	41	programmi culturali
+08/03/2018	00:53:44	LocriConcorsoNazCaciocavallo_mpeg2video	Sconosciuto	Nuovo File	02:28:01	0	
+08/03/2018	03:21:45	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
+08/03/2018	03:22:01	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+08/03/2018	03:31:09	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
+08/03/2018	03:31:27	Pasqua-NoceraTerinese	Pasqua Nocera Terinese	Pasqua Nocera Terinese	00:11:22	41	programmi culturali
