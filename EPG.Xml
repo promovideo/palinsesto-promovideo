@@ -2,37 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>StarshipTroopers2-Glieroidellafederazione</IdName>
-				<StartDate>2018-03-10</StartDate>
-				<StartTime>18:02:56</StartTime>
-				<EndDate>2018-03-10</EndDate>
-				<EndTime>19:30:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Trooper 2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2018-03-10</StartDate>
-				<StartTime>19:30:48</StartTime>
-				<EndDate>2018-03-10</EndDate>
-				<EndTime>19:40:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
 				<IdName>PUNT24PIXMINDDEFINITIVA</IdName>
 				<StartDate>2018-03-10</StartDate>
-				<StartTime>19:40:53</StartTime>
+				<StartTime>19:30:21</StartTime>
 				<EndDate>2018-03-10</EndDate>
-				<EndTime>20:04:53</EndTime>
+				<EndTime>19:54:21</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -40,12 +14,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="2">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2018-03-10</StartDate>
-				<StartTime>20:04:53</StartTime>
+				<StartTime>19:54:21</StartTime>
 				<EndDate>2018-03-10</EndDate>
-				<EndTime>20:05:00</EndTime>
+				<EndTime>19:54:27</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -53,12 +27,12 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="3">
 				<IdName>Ilpadrino</IdName>
 				<StartDate>2018-03-10</StartDate>
-				<StartTime>20:05:00</StartTime>
+				<StartTime>19:54:27</StartTime>
 				<EndDate>2018-03-10</EndDate>
-				<EndTime>22:53:04</EndTime>
+				<EndTime>22:42:32</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -66,12 +40,12 @@
 					<Description>Il padrino</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="4">
 				<IdName>TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2018-03-10</StartDate>
-				<StartTime>22:53:04</StartTime>
+				<StartTime>22:42:32</StartTime>
 				<EndDate>2018-03-10</EndDate>
-				<EndTime>23:03:10</EndTime>
+				<EndTime>22:52:37</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -79,12 +53,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="5">
 				<IdName>ThePrison</IdName>
 				<StartDate>2018-03-10</StartDate>
-				<StartTime>23:03:10</StartTime>
+				<StartTime>22:52:37</StartTime>
 				<EndDate>2018-03-11</EndDate>
-				<EndTime>00:48:58</EndTime>
+				<EndTime>00:38:25</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,12 +66,12 @@
 					<Description>The  prison</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="6">
 				<IdName>GERACE-Citt‡millenaria</IdName>
 				<StartDate>2018-03-11</StartDate>
-				<StartTime>00:48:58</StartTime>
+				<StartTime>00:38:25</StartTime>
 				<EndDate>2018-03-11</EndDate>
-				<EndTime>00:50:03</EndTime>
+				<EndTime>00:39:30</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -105,12 +79,12 @@
 					<Description>GERACECITTAMILLENARIA SPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="7">
 				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
 				<StartDate>2018-03-11</StartDate>
-				<StartTime>00:50:03</StartTime>
+				<StartTime>00:39:30</StartTime>
 				<EndDate>2018-03-11</EndDate>
-				<EndTime>00:59:11</EndTime>
+				<EndTime>00:48:38</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,12 +92,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="8">
 				<IdName>Identit‡Violate</IdName>
 				<StartDate>2018-03-11</StartDate>
-				<StartTime>00:59:11</StartTime>
+				<StartTime>00:48:38</StartTime>
 				<EndDate>2018-03-11</EndDate>
-				<EndTime>02:37:57</EndTime>
+				<EndTime>02:27:24</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -131,12 +105,12 @@
 					<Description>IDENTITA' VIOLATE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="9">
 				<IdName>spotDIGIII</IdName>
 				<StartDate>2018-03-11</StartDate>
-				<StartTime>02:37:57</StartTime>
+				<StartTime>02:27:24</StartTime>
 				<EndDate>2018-03-11</EndDate>
-				<EndTime>02:38:12</EndTime>
+				<EndTime>02:27:39</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -144,12 +118,12 @@
 					<Description>SPOT PROMOVIDEO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="10">
 				<IdName>PillolaSalute_20150302_48922</IdName>
 				<StartDate>2018-03-11</StartDate>
-				<StartTime>02:38:12</StartTime>
+				<StartTime>02:27:39</StartTime>
 				<EndDate>2018-03-11</EndDate>
-				<EndTime>02:38:52</EndTime>
+				<EndTime>02:28:20</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -157,12 +131,38 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="11">
 				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
 				<StartDate>2018-03-11</StartDate>
-				<StartTime>02:38:52</StartTime>
+				<StartTime>02:28:20</StartTime>
 				<EndDate>2018-03-11</EndDate>
-				<EndTime>02:48:00</EndTime>
+				<EndTime>02:37:28</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="12">
+				<IdName>spottc</IdName>
+				<StartDate>2018-03-11</StartDate>
+				<StartTime>02:37:28</StartTime>
+				<EndDate>2018-03-11</EndDate>
+				<EndTime>02:37:46</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>TUA CHANNEL SPOT</Name>
+					<Description>SPOT TUA HANNEL</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="13">
+				<IdName>LocriConcorsoNazCaciocavallo_mpeg2video</IdName>
+				<StartDate>2018-03-11</StartDate>
+				<StartTime>02:37:46</StartTime>
+				<EndDate>2018-03-11</EndDate>
+				<EndTime>05:05:47</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -171,37 +171,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="14">
-				<IdName>spottc</IdName>
-				<StartDate>2018-03-11</StartDate>
-				<StartTime>02:48:00</StartTime>
-				<EndDate>2018-03-11</EndDate>
-				<EndTime>02:48:19</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="15">
-				<IdName>LocriConcorsoNazCaciocavallo_mpeg2video</IdName>
-				<StartDate>2018-03-11</StartDate>
-				<StartTime>02:48:19</StartTime>
-				<EndDate>2018-03-11</EndDate>
-				<EndTime>05:16:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="16">
 				<IdName>Pasqua-NoceraTerinese</IdName>
 				<StartDate>2018-03-11</StartDate>
-				<StartTime>05:16:20</StartTime>
+				<StartTime>05:05:47</StartTime>
 				<EndDate>2018-03-11</EndDate>
-				<EndTime>05:27:43</EndTime>
+				<EndTime>05:17:10</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
