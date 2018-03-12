@@ -2,11 +2,37 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
+				<IdName>X-Men</IdName>
 				<StartDate>2018-03-12</StartDate>
-				<StartTime>09:12:19</StartTime>
+				<StartTime>17:37:59</StartTime>
 				<EndDate>2018-03-12</EndDate>
-				<EndTime>09:21:27</EndTime>
+				<EndTime>19:18:01</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>X - MEN</Name>
+					<Description>X - MEN</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="2">
+				<IdName>Locricittadinanzaonorariadonluigiciottimar2018</IdName>
+				<StartDate>2018-03-12</StartDate>
+				<StartTime>19:18:01</StartTime>
+				<EndDate>2018-03-12</EndDate>
+				<EndTime>20:10:14</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Locri cittadinanza onor Don LuigiCiotti</Name>
+					<Description>Don  Luigi Ciotti</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="3">
+				<IdName>FLASHPARTE6DOPOLE22,30</IdName>
+				<StartDate>2018-03-12</StartDate>
+				<StartTime>20:10:14</StartTime>
+				<EndDate>2018-03-12</EndDate>
+				<EndTime>20:15:20</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -14,30 +40,173 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="2">
-				<IdName>spottc</IdName>
+			<Event id="4">
+				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2018-03-12</StartDate>
-				<StartTime>09:21:27</StartTime>
+				<StartTime>20:15:20</StartTime>
 				<EndDate>2018-03-12</EndDate>
-				<EndTime>09:21:46</EndTime>
+				<EndTime>20:15:36</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
+					<Name>ISCRIVITI CANALE YOU TUBE</Name>
+					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="3">
-				<IdName>Pasqua-NoceraTerinese</IdName>
+			<Event id="5">
+				<IdName>TgeventsPuntata360</IdName>
 				<StartDate>2018-03-12</StartDate>
-				<StartTime>09:21:46</StartTime>
+				<StartTime>20:15:36</StartTime>
 				<EndDate>2018-03-12</EndDate>
-				<EndTime>09:33:09</EndTime>
+				<EndTime>20:30:15</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Pasqua Nocera Terinese</Name>
-					<Description>Pasqua Nocera Terinese</Description>
+					<Name>TG EVENTS 360</Name>
+					<Description>TG EVENTS 360</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="6">
+				<IdName>TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
+				<StartDate>2018-03-12</StartDate>
+				<StartTime>20:30:15</StartTime>
+				<EndDate>2018-03-12</EndDate>
+				<EndTime>20:40:21</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="7">
+				<IdName>Locricittadinanzaonorariadonluigiciottimar2018</IdName>
+				<StartDate>2018-03-12</StartDate>
+				<StartTime>20:40:21</StartTime>
+				<EndDate>2018-03-12</EndDate>
+				<EndTime>21:32:34</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Locri cittadinanza onor Don LuigiCiotti</Name>
+					<Description>Don  Luigi Ciotti</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="8">
+				<IdName>CONCERTOQUARTAUMENTATA_mpeg2video</IdName>
+				<StartDate>2018-03-12</StartDate>
+				<StartTime>21:32:34</StartTime>
+				<EndDate>2018-03-12</EndDate>
+				<EndTime>23:17:13</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>QUARTAUMENTATA</Name>
+					<Description>CONCENTO  QUARTAUMENTATA</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="9">
+				<IdName>AladiSturapiccolagrandeitalia</IdName>
+				<StartDate>2018-03-12</StartDate>
+				<StartTime>23:17:13</StartTime>
+				<EndDate>2018-03-12</EndDate>
+				<EndTime>23:37:18</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Piccola Grande Italia</Name>
+					<Description>Ala di Stura</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="10">
+				<IdName>minispotapplicazione</IdName>
+				<StartDate>2018-03-12</StartDate>
+				<StartTime>23:37:18</StartTime>
+				<EndDate>2018-03-12</EndDate>
+				<EndTime>23:37:29</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOTAPP</Name>
+					<Description>SPOTAPP</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="11">
+				<IdName>CATASTOONCIARIOS.GIOVANNIDIGERACE</IdName>
+				<StartDate>2018-03-12</StartDate>
+				<StartTime>23:37:29</StartTime>
+				<EndDate>2018-03-13</EndDate>
+				<EndTime>01:21:02</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>catasto onciario s. giov di Gerace</Name>
+					<Description>catasto s. giovanni  di  Geracec</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="12">
+				<IdName>AltrimentiCiArrabbiamo</IdName>
+				<StartDate>2018-03-13</StartDate>
+				<StartTime>01:21:02</StartTime>
+				<EndDate>2018-03-13</EndDate>
+				<EndTime>02:58:37</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="13">
+				<IdName>Schoolofrock</IdName>
+				<StartDate>2018-03-13</StartDate>
+				<StartTime>02:58:37</StartTime>
+				<EndDate>2018-03-13</EndDate>
+				<EndTime>04:43:23</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Schoolofrock</Name>
+					<Description>SCHOOLOFROK</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="14">
+				<IdName>TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
+				<StartDate>2018-03-13</StartDate>
+				<StartTime>04:43:23</StartTime>
+				<EndDate>2018-03-13</EndDate>
+				<EndTime>04:53:28</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="15">
+				<IdName>ServiziotvGastronomiaarberesheSanBasile(CS),settembre2009(360p_25fps_H264128kbit_AAC)</IdName>
+				<StartDate>2018-03-13</StartDate>
+				<StartTime>04:53:28</StartTime>
+				<EndDate>2018-03-13</EndDate>
+				<EndTime>05:13:45</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="16">
+				<IdName>CompagnoDonCamillo_mpeg2video</IdName>
+				<StartDate>2018-03-13</StartDate>
+				<StartTime>05:13:45</StartTime>
+				<EndDate>2018-03-13</EndDate>
+				<EndTime>06:56:02</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>COMPAGNO  DON CAMILLO</Description>
 				</ShortEventDescription>
 			</Event>
 		</Service>
