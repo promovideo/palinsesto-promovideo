@@ -1,5 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-18/03/2018	16:53:25	LeComiche2	Sconosciuto	Le comiche 2	01:27:16	22	
 18/03/2018	18:20:41	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
 18/03/2018	20:22:51	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
 18/03/2018	20:32:56	PUNT24PIXMINDDEFINITIVA	PIXMIND P.24	Nuovo File	00:23:59	41	programmi culturali
@@ -9,7 +8,7 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 18/03/2018	23:06:49	KarateKid	Sconosciuto	Karate Kid	02:01:36	1	Film
 19/03/2018	01:08:25	GERACE-Citt‡millenaria	SPOT GERACE CITT‡1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
 19/03/2018	01:09:30	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
-19/03/2018	01:18:38	Identit‡Violate	IDENTITA' VIOLATE	IDENTITA' VIOLATE	01:38:46	1	Film
+19/03/2018	01:18:39	Identit‡Violate	IDENTITA' VIOLATE	IDENTITA' VIOLATE	01:38:46	1	Film
 19/03/2018	02:57:25	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
 19/03/2018	02:57:40	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
 19/03/2018	02:58:20	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
