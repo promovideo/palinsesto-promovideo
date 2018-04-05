@@ -1,7 +1,5 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-05/04/2018	18:10:52	StoriadelVaticanoIsegretidiAngelieDemoni	Sconosciuto	STOTIA DEL  VATICANO	01:30:51	1	Film
-05/04/2018	19:41:43	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-05/04/2018	19:42:23	Toto'aColoriFilmCompleto(FullMovie)	TOTO  A COLORI	Tot a  colori	01:32:29	1	Film
+05/04/2018	19:42:24	Toto'aColoriFilmCompleto(FullMovie)	TOTO  A COLORI	Tot a  colori	01:32:29	1	Film
 05/04/2018	21:14:53	Ilpadrino	IL PADRINO	Il padrino	02:48:04	1	Film
 06/04/2018	00:02:57	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
 06/04/2018	01:54:40	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
