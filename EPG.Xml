@@ -2,32 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>StoriadelVaticanoIsegretidiAngelieDemoni</IdName>
-				<StartDate>2018-04-06</StartDate>
-				<StartTime>18:54:05</StartTime>
-				<EndDate>2018-04-06</EndDate>
-				<EndTime>20:24:57</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>STOTIA DEL  VATICANO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>PillolaSalute_20150302_48922</IdName>
-				<StartDate>2018-04-06</StartDate>
-				<StartTime>20:24:57</StartTime>
-				<EndDate>2018-04-06</EndDate>
-				<EndTime>20:25:37</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
 				<IdName>Toto'aColoriFilmCompleto(FullMovie)</IdName>
 				<StartDate>2018-04-06</StartDate>
 				<StartTime>20:25:37</StartTime>
@@ -40,12 +14,12 @@
 					<Description>Tot a  colori</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="2">
 				<IdName>Ilpadrino</IdName>
 				<StartDate>2018-04-06</StartDate>
 				<StartTime>21:58:06</StartTime>
 				<EndDate>2018-04-07</EndDate>
-				<EndTime>00:46:11</EndTime>
+				<EndTime>00:46:10</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -53,10 +27,10 @@
 					<Description>Il padrino</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="3">
 				<IdName>CityofGhost_mpeg2video</IdName>
 				<StartDate>2018-04-07</StartDate>
-				<StartTime>00:46:11</StartTime>
+				<StartTime>00:46:10</StartTime>
 				<EndDate>2018-04-07</EndDate>
 				<EndTime>02:37:53</EndTime>
 				<ShortEventDescription>
@@ -66,7 +40,7 @@
 					<Description>CYTY OF GHOST</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="4">
 				<IdName>Fantozzi-GrandiMagazzini</IdName>
 				<StartDate>2018-04-07</StartDate>
 				<StartTime>02:37:53</StartTime>
@@ -79,7 +53,7 @@
 					<Description>GRANDI MAGAZZINI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="5">
 				<IdName>PiedoneAHongKong</IdName>
 				<StartDate>2018-04-07</StartDate>
 				<StartTime>04:28:29</StartTime>
