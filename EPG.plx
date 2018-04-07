@@ -1,5 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-07/04/2018	18:55:12	AustinPowers2-Laspiacheciprovava	AUSTIN POWERS2	LA SPIA CHE CI  PROVAVA	01:31:07	1	Film
 07/04/2018	20:26:19	gold.il.segno.del.potere.19741°t.	GOLD  IL SEGNO DEL  POTERE 1°	GOLD  IL SEGNO DEL  POTERE 1°	01:01:09	1	Film
 07/04/2018	21:27:29	gold.il.segno.del.potere.19742°t.	GOLD  IL SEGNO DEL  POTERE 2°	GOLD  IL SEGNO DEL  POTERE 2°	00:57:54	1	Film
 07/04/2018	22:25:24	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
@@ -10,5 +9,5 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 07/04/2018	23:33:09	jerry.lewis.l.idolo.delle.donne.19612°t.	L' IDOLO DELLE DONNE 2°	L' IDOLO DELLE DONNE 2°	00:44:37	1	Film
 08/04/2018	00:17:47	Roma.drogata.la.polizia.non_.puo.intervenire.19751°t.	ROMA DROGATA 1^	ROMA DROGATA 1^	00:48:20	1	Film
 08/04/2018	01:06:07	Roma.drogata.la.polizia.non_.puo.intervenire.19752°t.	ROMA DROGATA 2^	ROMA DROGATA 2^	00:41:14	1	Film
-08/04/2018	01:47:22	PiedoneAHongKong	Sconosciuto	Piedone ad Hong Gong	01:50:01	22	
+08/04/2018	01:47:21	PiedoneAHongKong	Sconosciuto	Piedone ad Hong Gong	01:50:01	22	
 08/04/2018	03:37:23	Speed	SPEED	SPEED	01:50:00	1	Film
