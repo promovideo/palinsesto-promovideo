@@ -1,5 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-19/04/2018	17:48:45	Locricittadinanzaonorariadonluigiciottimar2018	Locri cittadinanza onor Don LuigiCiotti	Don  Luigi Ciotti	00:52:13	41	programmi culturali
 19/04/2018	18:40:58	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
 19/04/2018	19:33:04	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
 19/04/2018	19:33:14	PiedoneL'Africano	Sconosciuto	Piedone l' Africano	01:48:55	22	

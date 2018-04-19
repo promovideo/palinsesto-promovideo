@@ -2,45 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Locricittadinanzaonorariadonluigiciottimar2018</IdName>
-				<StartDate>2018-04-19</StartDate>
-				<StartTime>17:48:45</StartTime>
-				<EndDate>2018-04-19</EndDate>
-				<EndTime>18:40:58</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Locri cittadinanza onor Don LuigiCiotti</Name>
-					<Description>Don  Luigi Ciotti</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
-				<StartDate>2018-04-19</StartDate>
-				<StartTime>18:40:58</StartTime>
-				<EndDate>2018-04-19</EndDate>
-				<EndTime>19:33:04</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ANIMALI SERPENTI</Name>
-					<Description>ANIMALI SERPENTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>minispotapplicazione</IdName>
-				<StartDate>2018-04-19</StartDate>
-				<StartTime>19:33:04</StartTime>
-				<EndDate>2018-04-19</EndDate>
-				<EndTime>19:33:14</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTAPP</Name>
-					<Description>SPOTAPP</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
 				<IdName>PiedoneL'Africano</IdName>
 				<StartDate>2018-04-19</StartDate>
 				<StartTime>19:33:14</StartTime>
@@ -53,12 +14,12 @@
 					<Description>Piedone l' Africano</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="2">
 				<IdName>GERACE-Cittàmillenaria</IdName>
 				<StartDate>2018-04-19</StartDate>
 				<StartTime>21:22:09</StartTime>
 				<EndDate>2018-04-19</EndDate>
-				<EndTime>21:23:15</EndTime>
+				<EndTime>21:23:14</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -66,10 +27,10 @@
 					<Description>GERACECITTAMILLENARIA SPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="3">
 				<IdName>TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2018-04-19</StartDate>
-				<StartTime>21:23:15</StartTime>
+				<StartTime>21:23:14</StartTime>
 				<EndDate>2018-04-19</EndDate>
 				<EndTime>21:33:12</EndTime>
 				<ShortEventDescription>
@@ -79,7 +40,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="4">
 				<IdName>Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)</IdName>
 				<StartDate>2018-04-19</StartDate>
 				<StartTime>21:33:12</StartTime>
@@ -92,12 +53,12 @@
 					<Description>BERTOLDO BERTOLDINO E CACASENNO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="5">
 				<IdName>TgeventsPuntata360</IdName>
 				<StartDate>2018-04-19</StartDate>
 				<StartTime>23:32:52</StartTime>
 				<EndDate>2018-04-19</EndDate>
-				<EndTime>23:47:32</EndTime>
+				<EndTime>23:47:31</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -105,12 +66,12 @@
 					<Description>TG EVENTS 360</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="6">
 				<IdName>SLAPROMOVIDEOPERILSOCIALE</IdName>
 				<StartDate>2018-04-19</StartDate>
-				<StartTime>23:47:32</StartTime>
+				<StartTime>23:47:31</StartTime>
 				<EndDate>2018-04-19</EndDate>
-				<EndTime>23:49:52</EndTime>
+				<EndTime>23:49:51</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,10 +79,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="7">
 				<IdName>TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2018-04-19</StartDate>
-				<StartTime>23:49:52</StartTime>
+				<StartTime>23:49:51</StartTime>
 				<EndDate>2018-04-19</EndDate>
 				<EndTime>23:59:57</EndTime>
 				<ShortEventDescription>
@@ -131,7 +92,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="8">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2018-04-19</StartDate>
 				<StartTime>23:59:57</StartTime>
@@ -144,7 +105,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="9">
 				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
 				<StartDate>2018-04-20</StartDate>
 				<StartTime>00:00:04</StartTime>
@@ -157,7 +118,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="10">
 				<IdName>AladiSturapiccolagrandeitalia</IdName>
 				<StartDate>2018-04-20</StartDate>
 				<StartTime>00:09:12</StartTime>
@@ -170,7 +131,7 @@
 					<Description>Ala di Stura</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="11">
 				<IdName>TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
 				<StartDate>2018-04-20</StartDate>
 				<StartTime>00:29:17</StartTime>
@@ -183,7 +144,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="12">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2018-04-20</StartDate>
 				<StartTime>00:39:22</StartTime>
@@ -196,12 +157,12 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="13">
 				<IdName>FormulaMotoriestate(3)ok</IdName>
 				<StartDate>2018-04-20</StartDate>
 				<StartTime>00:39:38</StartTime>
 				<EndDate>2018-04-20</EndDate>
-				<EndTime>01:03:46</EndTime>
+				<EndTime>01:03:45</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -209,10 +170,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="14">
 				<IdName>GERACE-Cittàmillenaria</IdName>
 				<StartDate>2018-04-20</StartDate>
-				<StartTime>01:03:46</StartTime>
+				<StartTime>01:03:45</StartTime>
 				<EndDate>2018-04-20</EndDate>
 				<EndTime>01:04:51</EndTime>
 				<ShortEventDescription>
@@ -222,7 +183,7 @@
 					<Description>GERACECITTAMILLENARIA SPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="15">
 				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
 				<StartDate>2018-04-20</StartDate>
 				<StartTime>01:04:51</StartTime>
@@ -235,7 +196,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="16">
 				<IdName>spotDIGIII</IdName>
 				<StartDate>2018-04-20</StartDate>
 				<StartTime>01:13:59</StartTime>
@@ -248,12 +209,12 @@
 					<Description>SPOT PROMOVIDEO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="17">
 				<IdName>MassafraPiccolaGrandeItalia</IdName>
 				<StartDate>2018-04-20</StartDate>
 				<StartTime>01:14:14</StartTime>
 				<EndDate>2018-04-20</EndDate>
-				<EndTime>01:35:48</EndTime>
+				<EndTime>01:35:47</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -261,10 +222,10 @@
 					<Description>Massafra</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="21">
+			<Event id="18">
 				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
 				<StartDate>2018-04-20</StartDate>
-				<StartTime>01:35:48</StartTime>
+				<StartTime>01:35:47</StartTime>
 				<EndDate>2018-04-20</EndDate>
 				<EndTime>03:24:19</EndTime>
 				<ShortEventDescription>
@@ -274,7 +235,7 @@
 					<Description>CRASH CONTATTO  FINALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="22">
+			<Event id="19">
 				<IdName>domenicadellepalmeLocri</IdName>
 				<StartDate>2018-04-20</StartDate>
 				<StartTime>03:24:19</StartTime>
@@ -287,7 +248,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="23">
+			<Event id="20">
 				<IdName>concertocavallarorhopromovideo</IdName>
 				<StartDate>2018-04-20</StartDate>
 				<StartTime>03:55:53</StartTime>
@@ -300,7 +261,7 @@
 					<Description>Cavallaro concerto 2014</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="24">
+			<Event id="21">
 				<IdName>Treuominieunagamba</IdName>
 				<StartDate>2018-04-20</StartDate>
 				<StartTime>06:11:31</StartTime>
