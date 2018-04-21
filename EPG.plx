@@ -1,13 +1,8 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-21/04/2018	18:59:39	Rotocalco	Sconosciuto	Nuovo File	00:17:25	0	
-21/04/2018	19:17:04	AmicimieiattoIII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO III	01:49:20	1	Film
-21/04/2018	21:06:25	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-21/04/2018	21:16:30	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-21/04/2018	21:17:35	EpiscopioConsorziodelBergamotto_mpeg2video	CONSORZIO BERGAMOTTO EPISCOPATO LOCRI	CONSORZIO BERGAMOTTO	00:18:59	41	programmi culturali
-21/04/2018	21:36:35	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
-21/04/2018	21:45:43	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-21/04/2018	21:45:58	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-21/04/2018	21:46:39	Ilpadrino	IL PADRINO	Il padrino	02:48:04	1	Film
-22/04/2018	00:34:43	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
-22/04/2018	02:26:25	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
-22/04/2018	04:17:01	PiedoneAHongKong	Sconosciuto	Piedone ad Hong Gong	01:50:01	22	
+21/04/2018	21:07:30	EpiscopioConsorziodelBergamotto_mpeg2video	CONSORZIO BERGAMOTTO EPISCOPATO LOCRI	CONSORZIO BERGAMOTTO	00:18:59	41	programmi culturali
+21/04/2018	21:26:29	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
+21/04/2018	21:26:45	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
+21/04/2018	21:27:25	Ilpadrino	IL PADRINO	Il padrino	02:48:04	1	Film
+22/04/2018	00:15:29	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
+22/04/2018	02:07:12	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
+22/04/2018	03:57:48	PiedoneAHongKong	Sconosciuto	Piedone ad Hong Gong	01:50:01	22	
