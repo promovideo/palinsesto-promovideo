@@ -2,32 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Ilpadrino</IdName>
-				<StartDate>2018-04-22</StartDate>
-				<StartTime>20:18:22</StartTime>
-				<EndDate>2018-04-22</EndDate>
-				<EndTime>23:06:27</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IL PADRINO</Name>
-					<Description>Il padrino</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>CityofGhost_mpeg2video</IdName>
-				<StartDate>2018-04-22</StartDate>
-				<StartTime>23:06:27</StartTime>
-				<EndDate>2018-04-23</EndDate>
-				<EndTime>00:58:09</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CYTY OF GHOST</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
 				<IdName>Fantozzi-GrandiMagazzini</IdName>
 				<StartDate>2018-04-23</StartDate>
 				<StartTime>00:58:09</StartTime>
@@ -40,7 +14,7 @@
 					<Description>GRANDI MAGAZZINI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="2">
 				<IdName>PiedoneAHongKong</IdName>
 				<StartDate>2018-04-23</StartDate>
 				<StartTime>02:48:45</StartTime>
