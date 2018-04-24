@@ -1,16 +1,54 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-23/04/2018	21:04:38	L'ultimorediScozia	Sconosciuto	L' ultimo re di Scozia	00:59:18	22	
-23/04/2018	22:03:57	ThePrison	Sconosciuto	The  prison	01:45:47	1	Film
-23/04/2018	23:49:45	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-23/04/2018	23:59:50	Tadpole_mpeg2video	Sconosciuto	TODPOLE	01:15:05	1	Film
-24/04/2018	01:14:55	BOVALINO-PremioLetterarioMarioLaCava(byEL)(360p_25fps_H264-128kbit_AAC)	premio letterario m. la cava 017	Nuovo File	00:35:22	0	
-24/04/2018	01:50:18	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
-24/04/2018	02:00:23	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-24/04/2018	02:00:30	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
-24/04/2018	02:09:38	GERACE-Citt‡millenaria	SPOT GERACE CITT‡1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-24/04/2018	02:10:43	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
-24/04/2018	02:19:51	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-24/04/2018	02:20:07	Identit‡Violate	IDENTITA' VIOLATE	IDENTITA' VIOLATE	01:38:46	1	Film
-24/04/2018	03:58:53	ConsiglioComunaleS.IlariodelloJoniodel2.2.2018	Sconosciuto	Nuovo File	00:50:50	0	
-24/04/2018	04:49:44	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-24/04/2018	04:50:24	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
+24/04/2018	06:00:01	SimsalaGrimm2-Ep.10-LabellaelabestiaHDItaliano(474p_27fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:25:00	0	
+24/04/2018	06:25:01	GERACE-Citt‡millenaria	SPOT GERACE CITT‡1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+24/04/2018	06:26:06	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+24/04/2018	06:36:12	Locricittadinanzaonorariadonluigiciottimar2018	Locri cittadinanza onor Don LuigiCiotti	Don  Luigi Ciotti	00:52:13	41	programmi culturali
+24/04/2018	07:28:25	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+24/04/2018	07:28:32	FLASHPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:05:05	0	
+24/04/2018	07:33:38	Pasqua-NoceraTerinese	Pasqua Nocera Terinese	Pasqua Nocera Terinese	00:11:22	41	programmi culturali
+24/04/2018	07:45:01	042-Tanzania,TerradiAmici(14')eD	TANZANIA	Nuovo File	00:14:05	71	documentari
+24/04/2018	07:59:06	SPOTDIABETE	SPOT DIABETE	spot diabete	00:00:29	11	spot
+24/04/2018	07:59:36	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+24/04/2018	07:59:51	TRAILERPARTE4DEL23-03-2018	Sconosciuto	Nuovo File	00:06:48	0	
+24/04/2018	08:06:39	TgeventsTelevisionpuntata362	Sconosciuto	Nuovo File	00:11:26	0	
+24/04/2018	08:18:06	CalabriaLaraccoltadelleolive	Sconosciuto	Nuovo File	00:13:59	0	
+24/04/2018	08:32:05	TgeventsPuntata360	TG EVENTS 360	TG EVENTS 360	00:14:39	31	programmi informativi
+24/04/2018	08:46:44	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	programmi informativi
+24/04/2018	08:59:30	IpostipibellidellacalabriaDestinationCalabriaGiuseppeScorzaPepoMac@gmailcom_mpeg2video	Sconosciuto	I POSTI PIU  BELLI DELLA CALABRIA	00:03:59	71	documentari
+24/04/2018	09:03:29	SimsalaGrimm2-Ep.10-LabellaelabestiaHDItaliano(474p_27fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:25:00	0	
+24/04/2018	09:28:30	Simsalagrimm1-Ep.17-IlfedeleGiovanniHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:23:28	0	
+24/04/2018	09:51:59	Simsalagrimm1-Ep.14-CappuccettoRossoHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:22:49	0	
+24/04/2018	10:14:48	Simsalagrimm1-Ep.8-RaperonzoloHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:10	0	
+24/04/2018	10:35:58	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+24/04/2018	10:46:04	BovalinoSuperiore(RC)Intervistaallasig.raMariaCarmelaRomeo(720p_30fps_H264-192kbit_AAC)	Sconosciuto	Nuovo File	00:56:55	0	
+24/04/2018	11:43:00	Simsalagrimm1-Ep.4-IlRedeiladriHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:35	0	
+24/04/2018	12:07:35	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+24/04/2018	12:17:41	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+24/04/2018	12:17:51	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+24/04/2018	12:27:57	BovalinoSuperiore(rc)-MomentidellaSettimanaSanta(480p_25fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:44:30	0	
+24/04/2018	13:12:28	L'ApeMaia-Ep.2-Maiaimparaavolare(SerieOriginale)(360p_24fps_H264-128kbit_AAC)	APE MAIA EP 2	Nuovo File	00:22:51	51	cartoni animati
+24/04/2018	13:35:19	L'ApeMaia-Ep.8-IllombricoMax(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:42	0	
+24/04/2018	13:57:02	L'ApeMaia-Ep.10-LalucciolaJimmy(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:56	0	
+24/04/2018	14:18:58	agrisapori732x29-10-17	AGRISAPORI	Nuovo File	00:00:03	41	programmi culturali
+24/04/2018	14:19:02	TRAILERPARTE3NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:09:57	0	
+24/04/2018	14:28:59	TgeventsPuntata360	TG EVENTS 360	TG EVENTS 360	00:14:39	31	programmi informativi
+24/04/2018	14:43:39	LARIVOLTADEIPRETORIANIFilmpeplum1964diAlfonsoBresciacompletoinItaliano	Sconosciuto	LARIVOLTA DEI PRETORIANI	01:33:20	1	Film
+24/04/2018	16:16:59	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
+24/04/2018	16:19:19	TRAILERPARTE1NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+24/04/2018	16:29:24	UFOLeProve	Sconosciuto	Ufo le  prove	01:22:13	1	Film
+24/04/2018	17:51:37	PUNT24PIXMINDDEFINITIVA	PIXMIND P.24	Nuovo File	00:23:59	41	programmi culturali
+24/04/2018	18:15:37	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+24/04/2018	18:15:44	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+24/04/2018	18:24:52	AmicimieiattoIII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO III	01:49:20	1	Film
+24/04/2018	20:14:13	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
+24/04/2018	20:24:18	GERACE-Citt‡millenaria	SPOT GERACE CITT‡1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+24/04/2018	20:25:23	EpiscopioConsorziodelBergamotto_mpeg2video	CONSORZIO BERGAMOTTO EPISCOPATO LOCRI	CONSORZIO BERGAMOTTO	00:18:59	41	programmi culturali
+24/04/2018	20:44:23	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+24/04/2018	20:53:31	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
+24/04/2018	20:53:47	StoriadelVaticanoIsegretidiAngelieDemoni	Sconosciuto	STOTIA DEL  VATICANO	01:30:51	1	Film
+24/04/2018	22:24:38	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
+24/04/2018	22:25:18	Toto'aColoriFilmCompleto(FullMovie)	TOTO  A COLORI	Tot a  colori	01:32:29	1	Film
+24/04/2018	23:57:48	Ilpadrino	IL PADRINO	Il padrino	02:48:04	1	Film
+25/04/2018	02:45:52	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
+25/04/2018	04:37:34	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
+25/04/2018	06:28:10	PiedoneAHongKong	Sconosciuto	Piedone ad Hong Gong	01:50:01	22	
