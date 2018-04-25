@@ -2,11 +2,37 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Rotocalco</IdName>
+				<IdName>CityofGhost_mpeg2video</IdName>
 				<StartDate>2018-04-25</StartDate>
-				<StartTime>19:26:15</StartTime>
+				<StartTime>21:29:15</StartTime>
 				<EndDate>2018-04-25</EndDate>
-				<EndTime>19:43:40</EndTime>
+				<EndTime>23:20:57</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>CYTY OF GHOST</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="2">
+				<IdName>Cacciaalmarito_mpeg2video_001</IdName>
+				<StartDate>2018-04-25</StartDate>
+				<StartTime>23:20:57</StartTime>
+				<EndDate>2018-04-26</EndDate>
+				<EndTime>01:06:40</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>CACCIA AL MARITO</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="3">
+				<IdName>PillolaSalute_20150302_48922</IdName>
+				<StartDate>2018-04-26</StartDate>
+				<StartTime>01:06:40</StartTime>
+				<EndDate>2018-04-26</EndDate>
+				<EndTime>01:07:20</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -14,38 +40,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="2">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2018-04-25</StartDate>
-				<StartTime>19:43:40</StartTime>
-				<EndDate>2018-04-25</EndDate>
-				<EndTime>19:43:47</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
-				<StartDate>2018-04-25</StartDate>
-				<StartTime>19:43:47</StartTime>
-				<EndDate>2018-04-25</EndDate>
-				<EndTime>19:44:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ISCRIVITI CANALE YOU TUBE</Name>
-					<Description>ISCRIVITI CANALE YOU TUBE</Description>
-				</ShortEventDescription>
-			</Event>
 			<Event id="4">
-				<IdName>TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2018-04-25</StartDate>
-				<StartTime>19:44:02</StartTime>
-				<EndDate>2018-04-25</EndDate>
-				<EndTime>19:54:07</EndTime>
+				<IdName>TRAILERPARTE3DEL20-04-18</IdName>
+				<StartDate>2018-04-26</StartDate>
+				<StartTime>01:07:20</StartTime>
+				<EndDate>2018-04-26</EndDate>
+				<EndTime>01:16:06</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -54,141 +54,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="5">
-				<IdName>GERACE-Cittàmillenaria</IdName>
-				<StartDate>2018-04-25</StartDate>
-				<StartTime>19:54:07</StartTime>
-				<EndDate>2018-04-25</EndDate>
-				<EndTime>19:55:12</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT GERACE CITTà1000ENARIA</Name>
-					<Description>GERACECITTAMILLENARIA SPOT</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
-				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
-				<StartDate>2018-04-25</StartDate>
-				<StartTime>19:55:12</StartTime>
-				<EndDate>2018-04-25</EndDate>
-				<EndTime>20:04:21</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
-				<IdName>spotDIGIII</IdName>
-				<StartDate>2018-04-25</StartDate>
-				<StartTime>20:04:21</StartTime>
-				<EndDate>2018-04-25</EndDate>
-				<EndTime>20:04:36</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT DIGII</Name>
-					<Description>SPOT PROMOVIDEO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="8">
-				<IdName>Cacciaallavolpe_1_mpeg2video</IdName>
-				<StartDate>2018-04-25</StartDate>
-				<StartTime>20:04:36</StartTime>
-				<EndDate>2018-04-25</EndDate>
-				<EndTime>20:55:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CACCIA ALLA VOLPE 1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="9">
-				<IdName>Cacciaallavolpe_2_mpeg2video</IdName>
-				<StartDate>2018-04-25</StartDate>
-				<StartTime>20:55:48</StartTime>
-				<EndDate>2018-04-25</EndDate>
-				<EndTime>21:39:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CACCIA ALLA VOLPE 2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
-				<IdName>TRAILERPARTE3DEL20-04-18</IdName>
-				<StartDate>2018-04-25</StartDate>
-				<StartTime>21:39:43</StartTime>
-				<EndDate>2018-04-25</EndDate>
-				<EndTime>21:48:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="11">
-				<IdName>CityofGhost_mpeg2video</IdName>
-				<StartDate>2018-04-25</StartDate>
-				<StartTime>21:48:29</StartTime>
-				<EndDate>2018-04-25</EndDate>
-				<EndTime>23:40:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CYTY OF GHOST</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="12">
-				<IdName>Cacciaalmarito_mpeg2video_001</IdName>
-				<StartDate>2018-04-25</StartDate>
-				<StartTime>23:40:11</StartTime>
-				<EndDate>2018-04-26</EndDate>
-				<EndTime>01:25:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CACCIA AL MARITO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="13">
-				<IdName>PillolaSalute_20150302_48922</IdName>
-				<StartDate>2018-04-26</StartDate>
-				<StartTime>01:25:53</StartTime>
-				<EndDate>2018-04-26</EndDate>
-				<EndTime>01:26:34</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="14">
-				<IdName>TRAILERPARTE3DEL20-04-18</IdName>
-				<StartDate>2018-04-26</StartDate>
-				<StartTime>01:26:34</StartTime>
-				<EndDate>2018-04-26</EndDate>
-				<EndTime>01:35:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="15">
 				<IdName>MilleVocibrasiliane-TerzapuntataBrasile_con_logo</IdName>
 				<StartDate>2018-04-26</StartDate>
-				<StartTime>01:35:20</StartTime>
+				<StartTime>01:16:06</StartTime>
 				<EndDate>2018-04-26</EndDate>
-				<EndTime>02:31:52</EndTime>
+				<EndTime>02:12:38</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -196,12 +66,12 @@
 					<Description>MILLE VOCI BRASILIANE 2017</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="6">
 				<IdName>PresepeVivente2017Geraceultimook</IdName>
 				<StartDate>2018-04-26</StartDate>
-				<StartTime>02:31:52</StartTime>
+				<StartTime>02:12:38</StartTime>
 				<EndDate>2018-04-26</EndDate>
-				<EndTime>03:18:00</EndTime>
+				<EndTime>02:58:46</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -209,12 +79,12 @@
 					<Description>PRESEPE VIVENTE 2017GERACE </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="7">
 				<IdName>MISSARTESTV9PT</IdName>
 				<StartDate>2018-04-26</StartDate>
-				<StartTime>03:18:00</StartTime>
+				<StartTime>02:58:46</StartTime>
 				<EndDate>2018-04-26</EndDate>
-				<EndTime>04:46:59</EndTime>
+				<EndTime>04:27:45</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -222,12 +92,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="8">
 				<IdName>CIBOR-ISPOTPERREGIA</IdName>
 				<StartDate>2018-04-26</StartDate>
-				<StartTime>04:46:59</StartTime>
+				<StartTime>04:27:45</StartTime>
 				<EndDate>2018-04-26</EndDate>
-				<EndTime>04:47:36</EndTime>
+				<EndTime>04:28:23</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -235,12 +105,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="9">
 				<IdName>agrisapori714x28-5-17</IdName>
 				<StartDate>2018-04-26</StartDate>
-				<StartTime>04:47:36</StartTime>
+				<StartTime>04:28:23</StartTime>
 				<EndDate>2018-04-26</EndDate>
-				<EndTime>05:16:38</EndTime>
+				<EndTime>04:57:24</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
