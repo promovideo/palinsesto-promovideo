@@ -2,63 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Atlantis</IdName>
-				<StartDate>2018-04-27</StartDate>
-				<StartTime>16:58:54</StartTime>
-				<EndDate>2018-04-27</EndDate>
-				<EndTime>18:26:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ATLANTIS</Name>
-					<Description>ATLANTIS</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>TRAILERPARTE3DEL20-04-18</IdName>
-				<StartDate>2018-04-27</StartDate>
-				<StartTime>18:26:30</StartTime>
-				<EndDate>2018-04-27</EndDate>
-				<EndTime>18:35:16</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>PUNT24PIXMINDDEFINITIVA</IdName>
-				<StartDate>2018-04-27</StartDate>
-				<StartTime>18:35:16</StartTime>
-				<EndDate>2018-04-27</EndDate>
-				<EndTime>18:59:16</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PIXMIND P.24</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2018-04-27</StartDate>
-				<StartTime>18:59:16</StartTime>
-				<EndDate>2018-04-27</EndDate>
-				<EndTime>18:59:22</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
 				<IdName>Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)</IdName>
 				<StartDate>2018-04-27</StartDate>
-				<StartTime>18:59:22</StartTime>
+				<StartTime>18:59:24</StartTime>
 				<EndDate>2018-04-27</EndDate>
-				<EndTime>20:59:03</EndTime>
+				<EndTime>20:59:04</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -66,12 +14,12 @@
 					<Description>BERTOLDO BERTOLDINO E CACASENNO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="2">
 				<IdName>1SLUCAMessabrigTRIPODI_mpeg2video</IdName>
 				<StartDate>2018-04-27</StartDate>
-				<StartTime>20:59:03</StartTime>
+				<StartTime>20:59:04</StartTime>
 				<EndDate>2018-04-27</EndDate>
-				<EndTime>22:01:33</EndTime>
+				<EndTime>22:01:34</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -79,12 +27,12 @@
 					<Description>commemorazione 28Ï ann.v morte Mar. Tripodi</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="3">
 				<IdName>FantozziFracchiaLaBelvaUmana</IdName>
 				<StartDate>2018-04-27</StartDate>
-				<StartTime>22:01:33</StartTime>
+				<StartTime>22:01:34</StartTime>
 				<EndDate>2018-04-27</EndDate>
-				<EndTime>23:37:38</EndTime>
+				<EndTime>23:37:40</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,12 +40,12 @@
 					<Description>LA BELVA  UMANA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="4">
 				<IdName>GERACE-Citt‡millenaria</IdName>
 				<StartDate>2018-04-27</StartDate>
-				<StartTime>23:37:38</StartTime>
+				<StartTime>23:37:40</StartTime>
 				<EndDate>2018-04-27</EndDate>
-				<EndTime>23:38:44</EndTime>
+				<EndTime>23:38:45</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -105,12 +53,12 @@
 					<Description>GERACECITTAMILLENARIA SPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="5">
 				<IdName>Identit‡Violate</IdName>
 				<StartDate>2018-04-27</StartDate>
-				<StartTime>23:38:44</StartTime>
+				<StartTime>23:38:45</StartTime>
 				<EndDate>2018-04-28</EndDate>
-				<EndTime>01:17:30</EndTime>
+				<EndTime>01:17:31</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,12 +66,64 @@
 					<Description>IDENTITA' VIOLATE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="6">
 				<IdName>TRAILERPARTE5DEL20-04-18</IdName>
 				<StartDate>2018-04-28</StartDate>
-				<StartTime>01:17:30</StartTime>
+				<StartTime>01:17:31</StartTime>
 				<EndDate>2018-04-28</EndDate>
-				<EndTime>01:24:39</EndTime>
+				<EndTime>01:24:41</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="7">
+				<IdName>spotDIGIII</IdName>
+				<StartDate>2018-04-28</StartDate>
+				<StartTime>01:24:41</StartTime>
+				<EndDate>2018-04-28</EndDate>
+				<EndTime>01:24:56</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOT DIGII</Name>
+					<Description>SPOT PROMOVIDEO</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="8">
+				<IdName>LichiamaronoBrigantifilmcompleto</IdName>
+				<StartDate>2018-04-28</StartDate>
+				<StartTime>01:24:56</StartTime>
+				<EndDate>2018-04-28</EndDate>
+				<EndTime>03:25:48</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>LI CHIAMARONO BRIGANTI</Name>
+					<Description>LI CHIAMARONO BRIGANTI</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="9">
+				<IdName>TRADIZIONIDICALABRIA_IGUTI_Dolcitipicipasquali(BenestareRC)metodotradizionale(720p_30fps_H264192kbit_AAC)</IdName>
+				<StartDate>2018-04-28</StartDate>
+				<StartTime>03:25:48</StartTime>
+				<EndDate>2018-04-28</EndDate>
+				<EndTime>03:38:17</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="10">
+				<IdName>PillolaSalute_20150302_48922</IdName>
+				<StartDate>2018-04-28</StartDate>
+				<StartTime>03:38:17</StartTime>
+				<EndDate>2018-04-28</EndDate>
+				<EndTime>03:38:57</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -132,63 +132,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="11">
-				<IdName>spotDIGIII</IdName>
-				<StartDate>2018-04-28</StartDate>
-				<StartTime>01:24:39</StartTime>
-				<EndDate>2018-04-28</EndDate>
-				<EndTime>01:24:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT DIGII</Name>
-					<Description>SPOT PROMOVIDEO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="12">
-				<IdName>LichiamaronoBrigantifilmcompleto</IdName>
-				<StartDate>2018-04-28</StartDate>
-				<StartTime>01:24:54</StartTime>
-				<EndDate>2018-04-28</EndDate>
-				<EndTime>03:25:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LI CHIAMARONO BRIGANTI</Name>
-					<Description>LI CHIAMARONO BRIGANTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="13">
-				<IdName>TRADIZIONIDICALABRIA_IGUTI_Dolcitipicipasquali(BenestareRC)metodotradizionale(720p_30fps_H264192kbit_AAC)</IdName>
-				<StartDate>2018-04-28</StartDate>
-				<StartTime>03:25:46</StartTime>
-				<EndDate>2018-04-28</EndDate>
-				<EndTime>03:38:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="14">
-				<IdName>PillolaSalute_20150302_48922</IdName>
-				<StartDate>2018-04-28</StartDate>
-				<StartTime>03:38:15</StartTime>
-				<EndDate>2018-04-28</EndDate>
-				<EndTime>03:38:55</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="15">
 				<IdName>KarateKid</IdName>
 				<StartDate>2018-04-28</StartDate>
-				<StartTime>03:38:55</StartTime>
+				<StartTime>03:38:57</StartTime>
 				<EndDate>2018-04-28</EndDate>
-				<EndTime>05:40:32</EndTime>
+				<EndTime>05:40:34</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -196,12 +144,12 @@
 					<Description>Karate Kid</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="12">
 				<IdName>Rotocalco</IdName>
 				<StartDate>2018-04-28</StartDate>
-				<StartTime>05:40:32</StartTime>
+				<StartTime>05:40:34</StartTime>
 				<EndDate>2018-04-28</EndDate>
-				<EndTime>05:57:58</EndTime>
+				<EndTime>05:57:59</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -209,12 +157,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="13">
 				<IdName>'ComeEravamo'</IdName>
 				<StartDate>2018-04-28</StartDate>
-				<StartTime>05:57:58</StartTime>
+				<StartTime>05:57:59</StartTime>
 				<EndDate>2018-04-28</EndDate>
-				<EndTime>06:00:09</EndTime>
+				<EndTime>06:00:11</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
