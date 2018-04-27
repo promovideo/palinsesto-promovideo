@@ -1,5 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-27/04/2018	18:59:24	Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)	Sconosciuto	BERTOLDO BERTOLDINO E CACASENNO	01:59:40	1	Film
 27/04/2018	20:59:04	1SLUCAMessabrigTRIPODI_mpeg2video	S. Luca	commemorazione 28ì ann.v morte Mar. Tripodi	01:02:30	41	programmi culturali
 27/04/2018	22:01:34	FantozziFracchiaLaBelvaUmana	FANTOZZI FRACCHAI LA BELVAUMANA	LA BELVA  UMANA	01:36:05	1	Film
 27/04/2018	23:37:40	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
