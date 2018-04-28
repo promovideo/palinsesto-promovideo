@@ -2,11 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>TRAILERPARTE6DEL20-04-18</IdName>
+				<IdName>PrometeoTV_20180418_72375</IdName>
 				<StartDate>2018-04-28</StartDate>
-				<StartTime>18:09:24</StartTime>
+				<StartTime>19:41:57</StartTime>
 				<EndDate>2018-04-28</EndDate>
-				<EndTime>18:18:55</EndTime>
+				<EndTime>19:47:04</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -15,76 +15,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="2">
-				<IdName>EpiscopioConsorziodelBergamotto_mpeg2video</IdName>
-				<StartDate>2018-04-28</StartDate>
-				<StartTime>18:18:55</StartTime>
-				<EndDate>2018-04-28</EndDate>
-				<EndTime>18:37:55</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSORZIO BERGAMOTTO EPISCOPATO LOCRI</Name>
-					<Description>CONSORZIO BERGAMOTTO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>spotDIGIII</IdName>
-				<StartDate>2018-04-28</StartDate>
-				<StartTime>18:37:55</StartTime>
-				<EndDate>2018-04-28</EndDate>
-				<EndTime>18:38:10</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT DIGII</Name>
-					<Description>SPOT PROMOVIDEO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>PillolaSalute_20150302_48922</IdName>
-				<StartDate>2018-04-28</StartDate>
-				<StartTime>18:38:10</StartTime>
-				<EndDate>2018-04-28</EndDate>
-				<EndTime>18:38:50</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
-				<IdName>CorsoUrgenzaEmergenza</IdName>
-				<StartDate>2018-04-28</StartDate>
-				<StartTime>18:38:50</StartTime>
-				<EndDate>2018-04-28</EndDate>
-				<EndTime>19:42:07</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CORSO URGENZA EMERGENZA</Name>
-					<Description>CORSO  URGENZA EMERGENZA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
-				<IdName>PrometeoTV_20180418_72375</IdName>
-				<StartDate>2018-04-28</StartDate>
-				<StartTime>19:42:07</StartTime>
-				<EndDate>2018-04-28</EndDate>
-				<EndTime>19:47:14</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
 				<IdName>Bridget</IdName>
 				<StartDate>2018-04-28</StartDate>
-				<StartTime>19:47:14</StartTime>
+				<StartTime>19:47:04</StartTime>
 				<EndDate>2018-04-28</EndDate>
-				<EndTime>21:17:55</EndTime>
+				<EndTime>21:17:45</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,12 +27,77 @@
 					<Description>BRIDGET</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="3">
 				<IdName>TRAILERPARTE3DEL20-04-18</IdName>
 				<StartDate>2018-04-28</StartDate>
-				<StartTime>21:17:55</StartTime>
+				<StartTime>21:17:45</StartTime>
 				<EndDate>2018-04-28</EndDate>
-				<EndTime>21:26:41</EndTime>
+				<EndTime>21:26:31</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="4">
+				<IdName>Ilpadrino</IdName>
+				<StartDate>2018-04-28</StartDate>
+				<StartTime>21:26:31</StartTime>
+				<EndDate>2018-04-29</EndDate>
+				<EndTime>00:14:35</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>IL PADRINO</Name>
+					<Description>Il padrino</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="5">
+				<IdName>CityofGhost_mpeg2video</IdName>
+				<StartDate>2018-04-29</StartDate>
+				<StartTime>00:14:35</StartTime>
+				<EndDate>2018-04-29</EndDate>
+				<EndTime>02:06:18</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>CYTY OF GHOST</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="6">
+				<IdName>Fantozzi-GrandiMagazzini</IdName>
+				<StartDate>2018-04-29</StartDate>
+				<StartTime>02:06:18</StartTime>
+				<EndDate>2018-04-29</EndDate>
+				<EndTime>03:56:54</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>FANTOZZI GRANDI MAGAZZINI</Name>
+					<Description>GRANDI MAGAZZINI</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="7">
+				<IdName>PiedoneAHongKong</IdName>
+				<StartDate>2018-04-29</StartDate>
+				<StartTime>03:56:54</StartTime>
+				<EndDate>2018-04-29</EndDate>
+				<EndTime>05:46:55</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Piedone ad Hong Gong</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="8">
+				<IdName>TRAILERPARTE2DEL20-04-18</IdName>
+				<StartDate>2018-04-29</StartDate>
+				<StartTime>05:46:55</StartTime>
+				<EndDate>2018-04-29</EndDate>
+				<EndTime>05:55:41</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -106,76 +106,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="9">
-				<IdName>Ilpadrino</IdName>
-				<StartDate>2018-04-28</StartDate>
-				<StartTime>21:26:41</StartTime>
-				<EndDate>2018-04-29</EndDate>
-				<EndTime>00:14:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IL PADRINO</Name>
-					<Description>Il padrino</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
-				<IdName>CityofGhost_mpeg2video</IdName>
-				<StartDate>2018-04-29</StartDate>
-				<StartTime>00:14:46</StartTime>
-				<EndDate>2018-04-29</EndDate>
-				<EndTime>02:06:28</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CYTY OF GHOST</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="11">
-				<IdName>Fantozzi-GrandiMagazzini</IdName>
-				<StartDate>2018-04-29</StartDate>
-				<StartTime>02:06:28</StartTime>
-				<EndDate>2018-04-29</EndDate>
-				<EndTime>03:57:04</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>FANTOZZI GRANDI MAGAZZINI</Name>
-					<Description>GRANDI MAGAZZINI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="12">
-				<IdName>PiedoneAHongKong</IdName>
-				<StartDate>2018-04-29</StartDate>
-				<StartTime>03:57:04</StartTime>
-				<EndDate>2018-04-29</EndDate>
-				<EndTime>05:47:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Piedone ad Hong Gong</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="13">
-				<IdName>TRAILERPARTE2DEL20-04-18</IdName>
-				<StartDate>2018-04-29</StartDate>
-				<StartTime>05:47:05</StartTime>
-				<EndDate>2018-04-29</EndDate>
-				<EndTime>05:55:51</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="14">
 				<IdName>StoriadelVaticanoIsegretidiAngelieDemoni</IdName>
 				<StartDate>2018-04-29</StartDate>
-				<StartTime>05:55:51</StartTime>
+				<StartTime>05:55:41</StartTime>
 				<EndDate>2018-04-29</EndDate>
-				<EndTime>07:26:42</EndTime>
+				<EndTime>07:26:32</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
