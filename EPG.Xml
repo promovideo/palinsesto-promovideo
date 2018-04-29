@@ -2,58 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Scuoladipolizia6_mpeg2video</IdName>
-				<StartDate>2018-04-29</StartDate>
-				<StartTime>18:50:00</StartTime>
-				<EndDate>2018-04-29</EndDate>
-				<EndTime>20:09:55</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Scuola d i polizia 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>CalabriaLaraccoltadelleolive</IdName>
-				<StartDate>2018-04-29</StartDate>
-				<StartTime>20:09:55</StartTime>
-				<EndDate>2018-04-29</EndDate>
-				<EndTime>20:23:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>PillolaSalute_20150302_48922</IdName>
-				<StartDate>2018-04-29</StartDate>
-				<StartTime>20:23:54</StartTime>
-				<EndDate>2018-04-29</EndDate>
-				<EndTime>20:24:34</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>IlmegliodiMilleVoci2017_p01</IdName>
-				<StartDate>2018-04-29</StartDate>
-				<StartTime>20:24:34</StartTime>
-				<EndDate>2018-04-29</EndDate>
-				<EndTime>21:46:16</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
 				<IdName>IlmegliodiMilleVoci2017_p01</IdName>
 				<StartDate>2018-04-29</StartDate>
 				<StartTime>21:46:16</StartTime>
@@ -66,7 +14,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="2">
 				<IdName>GERACE-Cittàmillenaria</IdName>
 				<StartDate>2018-04-29</StartDate>
 				<StartTime>23:07:58</StartTime>
@@ -79,12 +27,12 @@
 					<Description>GERACECITTAMILLENARIA SPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="3">
 				<IdName>AttackForce</IdName>
 				<StartDate>2018-04-29</StartDate>
 				<StartTime>23:09:03</StartTime>
 				<EndDate>2018-04-30</EndDate>
-				<EndTime>00:39:39</EndTime>
+				<EndTime>00:39:38</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,10 +40,10 @@
 					<Description>ATTACK FORCE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="4">
 				<IdName>AustinPowers2-Laspiacheciprovava</IdName>
 				<StartDate>2018-04-30</StartDate>
-				<StartTime>00:39:39</StartTime>
+				<StartTime>00:39:38</StartTime>
 				<EndDate>2018-04-30</EndDate>
 				<EndTime>02:10:46</EndTime>
 				<ShortEventDescription>
@@ -105,12 +53,12 @@
 					<Description>LA SPIA CHE CI  PROVAVA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="5">
 				<IdName>L'isoladeisopravvissuti</IdName>
 				<StartDate>2018-04-30</StartDate>
 				<StartTime>02:10:46</StartTime>
 				<EndDate>2018-04-30</EndDate>
-				<EndTime>03:42:30</EndTime>
+				<EndTime>03:42:29</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,10 +66,10 @@
 					<Description>L' isola dei sopravvissuti </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="6">
 				<IdName>SogniproibitidiDonGaleazzo_mpeg2video</IdName>
 				<StartDate>2018-04-30</StartDate>
-				<StartTime>03:42:30</StartTime>
+				<StartTime>03:42:29</StartTime>
 				<EndDate>2018-04-30</EndDate>
 				<EndTime>05:11:01</EndTime>
 				<ShortEventDescription>
@@ -131,12 +79,12 @@
 					<Description>Sogni  proibiti  di  Don Galeazzo</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="7">
 				<IdName>Tentazionemortale_mpeg2video</IdName>
 				<StartDate>2018-04-30</StartDate>
 				<StartTime>05:11:01</StartTime>
 				<EndDate>2018-04-30</EndDate>
-				<EndTime>06:38:30</EndTime>
+				<EndTime>06:38:29</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
