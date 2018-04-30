@@ -1,7 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-30/04/2018	17:05:58	MammaHoRipersoL'aereoEMiSonoSmarritoANewYork	Mamma ho riperso l' aereo e mi  sono smarrito a New York	Nuovo File	01:48:03	1	Film
-30/04/2018	18:54:02	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-30/04/2018	18:54:08	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
 30/04/2018	18:54:24	KarateKid	Sconosciuto	Karate Kid	02:01:36	1	Film
 30/04/2018	20:56:00	PROMOVIDEOSPOT1	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:06	11	spot
 30/04/2018	20:56:07	Scuoladipolizia6_mpeg2video	Sconosciuto	Scuola d i polizia 6	01:19:55	1	Film
