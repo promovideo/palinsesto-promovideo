@@ -2,37 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>PUNT24PIXMINDDEFINITIVA</IdName>
-				<StartDate>2018-05-02</StartDate>
-				<StartTime>17:36:17</StartTime>
-				<EndDate>2018-05-02</EndDate>
-				<EndTime>18:00:17</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PIXMIND P.24</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2018-05-02</StartDate>
-				<StartTime>18:00:17</StartTime>
-				<EndDate>2018-05-02</EndDate>
-				<EndTime>18:00:24</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
 				<IdName>Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)</IdName>
 				<StartDate>2018-05-02</StartDate>
-				<StartTime>18:00:24</StartTime>
+				<StartTime>18:00:26</StartTime>
 				<EndDate>2018-05-02</EndDate>
-				<EndTime>20:00:04</EndTime>
+				<EndTime>20:00:06</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -40,12 +14,38 @@
 					<Description>BERTOLDO BERTOLDINO E CACASENNO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
-				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
+			<Event id="2">
+				<IdName>FantozziFracchiaLaBelvaUmana</IdName>
 				<StartDate>2018-05-02</StartDate>
-				<StartTime>20:00:04</StartTime>
+				<StartTime>20:00:06</StartTime>
 				<EndDate>2018-05-02</EndDate>
-				<EndTime>20:09:12</EndTime>
+				<EndTime>21:36:12</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>FANTOZZI FRACCHAI LA BELVAUMANA</Name>
+					<Description>LA BELVA  UMANA</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="3">
+				<IdName>Salus_Tg_20180423_72463</IdName>
+				<StartDate>2018-05-02</StartDate>
+				<StartTime>21:36:12</StartTime>
+				<EndDate>2018-05-02</EndDate>
+				<EndTime>21:38:14</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="4">
+				<IdName>LOCRI-CentroPastoraleDiocesano_PANESPORCO</IdName>
+				<StartDate>2018-05-02</StartDate>
+				<StartTime>21:38:14</StartTime>
+				<EndDate>2018-05-02</EndDate>
+				<EndTime>22:18:33</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -54,37 +54,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="5">
-				<IdName>TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00</IdName>
-				<StartDate>2018-05-02</StartDate>
-				<StartTime>20:09:12</StartTime>
-				<EndDate>2018-05-02</EndDate>
-				<EndTime>20:19:17</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
-				<IdName>FantozziFracchiaLaBelvaUmana</IdName>
-				<StartDate>2018-05-02</StartDate>
-				<StartTime>20:19:17</StartTime>
-				<EndDate>2018-05-02</EndDate>
-				<EndTime>21:55:23</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>FANTOZZI FRACCHAI LA BELVAUMANA</Name>
-					<Description>LA BELVA  UMANA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
 				<IdName>GERACE-Citt‡millenaria</IdName>
 				<StartDate>2018-05-02</StartDate>
-				<StartTime>21:55:23</StartTime>
+				<StartTime>22:18:33</StartTime>
 				<EndDate>2018-05-02</EndDate>
-				<EndTime>21:56:28</EndTime>
+				<EndTime>22:19:38</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,12 +66,38 @@
 					<Description>GERACECITTAMILLENARIA SPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
-				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
+			<Event id="6">
+				<IdName>PillolaAdn_20180502_72579</IdName>
 				<StartDate>2018-05-02</StartDate>
-				<StartTime>21:56:28</StartTime>
+				<StartTime>22:19:38</StartTime>
 				<EndDate>2018-05-02</EndDate>
-				<EndTime>22:05:36</EndTime>
+				<EndTime>22:21:55</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="7">
+				<IdName>calabriaantica</IdName>
+				<StartDate>2018-05-02</StartDate>
+				<StartTime>22:21:55</StartTime>
+				<EndDate>2018-05-02</EndDate>
+				<EndTime>22:29:27</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>CALABRIA ANTICA</Name>
+					<Description>CALABRIA ANTICA</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="8">
+				<IdName>MilleVocinapoletane-Puntata02di02-Edizione2016©(468p_25fps_H264-128kbit_AAC)</IdName>
+				<StartDate>2018-05-02</StartDate>
+				<StartTime>22:29:27</StartTime>
+				<EndDate>2018-05-02</EndDate>
+				<EndTime>23:41:27</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -106,11 +106,24 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="9">
-				<IdName>spotDIGIII</IdName>
+				<IdName>bullismoiperbullismo</IdName>
 				<StartDate>2018-05-02</StartDate>
-				<StartTime>22:05:36</StartTime>
-				<EndDate>2018-05-02</EndDate>
-				<EndTime>22:05:51</EndTime>
+				<StartTime>23:41:27</StartTime>
+				<EndDate>2018-05-03</EndDate>
+				<EndTime>00:04:39</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="10">
+				<IdName>spotDIGIII</IdName>
+				<StartDate>2018-05-03</StartDate>
+				<StartTime>00:04:39</StartTime>
+				<EndDate>2018-05-03</EndDate>
+				<EndTime>00:04:54</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,25 +131,12 @@
 					<Description>SPOT PROMOVIDEO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
-				<IdName>Identit‡Violate</IdName>
-				<StartDate>2018-05-02</StartDate>
-				<StartTime>22:05:51</StartTime>
-				<EndDate>2018-05-02</EndDate>
-				<EndTime>23:44:37</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IDENTITA' VIOLATE</Name>
-					<Description>IDENTITA' VIOLATE</Description>
-				</ShortEventDescription>
-			</Event>
 			<Event id="11">
-				<IdName>PillolaSalute_20150302_48922</IdName>
-				<StartDate>2018-05-02</StartDate>
-				<StartTime>23:44:37</StartTime>
-				<EndDate>2018-05-02</EndDate>
-				<EndTime>23:45:18</EndTime>
+				<IdName>TRAILERPARTE4SOLODALLE16,00ALLE18,00</IdName>
+				<StartDate>2018-05-03</StartDate>
+				<StartTime>00:04:54</StartTime>
+				<EndDate>2018-05-03</EndDate>
+				<EndTime>00:14:02</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -145,11 +145,50 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="12">
-				<IdName>CityofGhost_mpeg2video</IdName>
-				<StartDate>2018-05-02</StartDate>
-				<StartTime>23:45:18</StartTime>
+				<IdName>PrometeoTV_20180502_72577</IdName>
+				<StartDate>2018-05-03</StartDate>
+				<StartTime>00:14:02</StartTime>
 				<EndDate>2018-05-03</EndDate>
-				<EndTime>01:37:00</EndTime>
+				<EndTime>00:17:12</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="13">
+				<IdName>PillolaSalute_20150302_48922</IdName>
+				<StartDate>2018-05-03</StartDate>
+				<StartTime>00:17:12</StartTime>
+				<EndDate>2018-05-03</EndDate>
+				<EndTime>00:17:53</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="14">
+				<IdName>COMMIATOVESCOVOGERACE13GEN2007</IdName>
+				<StartDate>2018-05-03</StartDate>
+				<StartTime>00:17:53</StartTime>
+				<EndDate>2018-05-03</EndDate>
+				<EndTime>03:21:11</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="15">
+				<IdName>CityofGhost_mpeg2video</IdName>
+				<StartDate>2018-05-03</StartDate>
+				<StartTime>03:21:11</StartTime>
+				<EndDate>2018-05-03</EndDate>
+				<EndTime>05:12:53</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -157,12 +196,25 @@
 					<Description>CYTY OF GHOST</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="16">
+				<IdName>Identit‡Violate</IdName>
+				<StartDate>2018-05-03</StartDate>
+				<StartTime>05:12:53</StartTime>
+				<EndDate>2018-05-03</EndDate>
+				<EndTime>06:51:39</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>IDENTITA' VIOLATE</Name>
+					<Description>IDENTITA' VIOLATE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="17">
 				<IdName>BadBoys</IdName>
 				<StartDate>2018-05-03</StartDate>
-				<StartTime>01:37:00</StartTime>
+				<StartTime>06:51:39</StartTime>
 				<EndDate>2018-05-03</EndDate>
-				<EndTime>03:31:04</EndTime>
+				<EndTime>08:45:43</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
