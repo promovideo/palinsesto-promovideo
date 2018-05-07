@@ -1,7 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-07/05/2018	17:39:46	150°annivfucilazione5MartiridiGerace	150°ANNIVERSARIO 5 MARTIR	150°ANN 5 MARTIRI GERACE SCUOLA ELM GERACE	01:13:53	41	programmi culturali
-07/05/2018	18:53:39	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-07/05/2018	18:53:54	PROMOVIDEOSPOT1	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:06	11	spot
 07/05/2018	18:54:01	Scuoladipolizia6_mpeg2video	Sconosciuto	Scuola d i polizia 6	01:19:55	1	Film
 07/05/2018	20:13:57	CalabriaLaraccoltadelleolive	Sconosciuto	Nuovo File	00:13:59	0	
 07/05/2018	20:27:56	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
