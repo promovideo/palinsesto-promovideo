@@ -1,6 +1,5 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-09/05/2018	17:59:13	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	documentari
-09/05/2018	18:51:23	INNACaliente(OFFICIALVIDEO)	Caliente	Inna	00:03:21	162	
+09/05/2018	19:01:07	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	documentari
 10/05/2018	06:00:00	SimsalaGrimm2-Ep.10-LabellaelabestiaHDItaliano(474p_27fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:25:00	0	
 10/05/2018	06:25:00	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
 10/05/2018	06:26:05	TRAILERPARTE2NONTRASMETTEREDALLE16,00ALLE19,00	Sconosciuto	Nuovo File	00:10:05	0	
