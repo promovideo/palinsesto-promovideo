@@ -2,37 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Scherzidaprete_mpeg2video</IdName>
-				<StartDate>2018-05-11</StartDate>
-				<StartTime>19:03:58</StartTime>
-				<EndDate>2018-05-11</EndDate>
-				<EndTime>20:31:50</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Scherzi da prete</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>1SLUCAMessabrigTRIPODI_mpeg2video</IdName>
-				<StartDate>2018-05-11</StartDate>
-				<StartTime>20:31:50</StartTime>
-				<EndDate>2018-05-11</EndDate>
-				<EndTime>21:34:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>S. Luca</Name>
-					<Description>commemorazione 28Ï ann.v morte Mar. Tripodi</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
 				<IdName>L'isoladeisopravvissuti</IdName>
 				<StartDate>2018-05-11</StartDate>
 				<StartTime>21:34:20</StartTime>
 				<EndDate>2018-05-11</EndDate>
-				<EndTime>23:06:03</EndTime>
+				<EndTime>23:06:04</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -40,10 +14,10 @@
 					<Description>L' isola dei sopravvissuti </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="2">
 				<IdName>JuwannaMann_mpeg2video</IdName>
 				<StartDate>2018-05-11</StartDate>
-				<StartTime>23:06:03</StartTime>
+				<StartTime>23:06:04</StartTime>
 				<EndDate>2018-05-12</EndDate>
 				<EndTime>00:32:58</EndTime>
 				<ShortEventDescription>
@@ -53,7 +27,7 @@
 					<Description>Juawanna Mann</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="3">
 				<IdName>BovalinolibroMacri</IdName>
 				<StartDate>2018-05-12</StartDate>
 				<StartTime>00:32:58</StartTime>
@@ -66,7 +40,7 @@
 					<Description>BOVALINO  LIBRO MACRI'</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="4">
 				<IdName>0114-1968PreparatiLaBara-TerenceHill_mpeg2video</IdName>
 				<StartDate>2018-05-12</StartDate>
 				<StartTime>02:28:12</StartTime>
@@ -79,7 +53,7 @@
 					<Description>PREPARATI LA  BARA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="5">
 				<IdName>NicolaGratteriNarrarelalegalit‡LeConversazioniSerali</IdName>
 				<StartDate>2018-05-12</StartDate>
 				<StartTime>03:56:13</StartTime>
@@ -92,7 +66,7 @@
 					<Description>Nicoal Gratteri Narrare  la legalit‡</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="6">
 				<IdName>Mr.Bean-L'ultimacatastrofe</IdName>
 				<StartDate>2018-05-12</StartDate>
 				<StartTime>05:19:37</StartTime>
