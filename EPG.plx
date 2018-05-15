@@ -1,22 +1,20 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-15/05/2018	19:01:26	GliUnn	Sconosciuto	Nuovo File	00:43:36	0	
-15/05/2018	19:45:02	AltrimentiCiArrabbiamo	Sconosciuto	Nuovo File	01:37:35	1	Film
 15/05/2018	21:22:37	FIDAPACZ	Sconosciuto	Nuovo File	00:07:24	0	
 15/05/2018	21:30:01	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 15/05/2018	21:30:08	agrisapori732x29-10-17	AGRISAPORI	Nuovo File	00:00:03	41	programmi culturali
-15/05/2018	21:30:12	TgeventsPuntata360	TG EVENTS 360	TG EVENTS 360	00:14:39	31	programmi informativi
+15/05/2018	21:30:11	TgeventsPuntata360	TG EVENTS 360	TG EVENTS 360	00:14:39	31	programmi informativi
 15/05/2018	21:44:51	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
 15/05/2018	21:47:11	ItaliaEconomia	Sconosciuto	Nuovo File	00:17:26	0	
 15/05/2018	22:04:38	bullismoiperbullismo	Sconosciuto	Nuovo File	00:23:11	0	
-15/05/2018	22:27:50	PrometeoTV_20180502_72577	Sconosciuto	Nuovo File	00:03:10	0	
+15/05/2018	22:27:49	PrometeoTV_20180502_72577	Sconosciuto	Nuovo File	00:03:10	0	
 15/05/2018	22:31:00	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
 15/05/2018	22:31:07	TRAILERPARTE4DEL20-04-18	Sconosciuto	Nuovo File	00:09:14	0	
 15/05/2018	22:40:21	Souvenird'Italie_mpeg2video	Souvenir d'Italy	Souvenir d'Italy	01:44:43	1	Film
-16/05/2018	00:25:05	CalabriaLaraccoltadelleolive	Sconosciuto	Nuovo File	00:13:59	0	
-16/05/2018	00:39:04	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-16/05/2018	00:39:11	048-Tokio,EmblemadiunMiracolo(14')eD	TOKIO EMBLEMA DEL MIRACOLO	TOKIO EMBLEMA DEL  MIRACOLO	00:13:57	71	documentari
-16/05/2018	00:53:08	PROMOVIDEOSPOT1	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:06	11	spot
-16/05/2018	00:53:15	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
+16/05/2018	00:25:04	CalabriaLaraccoltadelleolive	Sconosciuto	Nuovo File	00:13:59	0	
+16/05/2018	00:39:03	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+16/05/2018	00:39:10	048-Tokio,EmblemadiunMiracolo(14')eD	TOKIO EMBLEMA DEL MIRACOLO	TOKIO EMBLEMA DEL  MIRACOLO	00:13:57	71	documentari
+16/05/2018	00:53:07	PROMOVIDEOSPOT1	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:06	11	spot
+16/05/2018	00:53:14	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
 16/05/2018	01:45:20	TRAILERPARTE1DEL20-04-18	Sconosciuto	Nuovo File	00:08:46	0	
 16/05/2018	01:54:06	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
 16/05/2018	01:54:46	NinoManfrediSpaghettiHouse(1982)_mpeg2video	MANFREDI	SPAGHETTI HOUSE 	01:39:07	1	Film
