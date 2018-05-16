@@ -1,6 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-16/05/2018	17:21:41	NinoManfrediSpaghettiHouse(1982)_mpeg2video	MANFREDI	SPAGHETTI HOUSE 	01:39:07	1	Film
-16/05/2018	19:00:49	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
 16/05/2018	19:01:54	Scherzidaprete_mpeg2video	Sconosciuto	Scherzi da prete	01:27:51	1	Film
 16/05/2018	20:29:46	1SLUCAMessabrigTRIPODI_mpeg2video	S. Luca	commemorazione 28ì ann.v morte Mar. Tripodi	01:02:30	41	programmi culturali
 16/05/2018	21:32:16	L'isoladeisopravvissuti	Sconosciuto	L' isola dei sopravvissuti 	01:31:43	1	Film
