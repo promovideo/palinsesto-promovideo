@@ -2,19 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Souvenird'Italie_mpeg2video</IdName>
-				<StartDate>2018-05-22</StartDate>
-				<StartTime>18:56:19</StartTime>
-				<EndDate>2018-05-22</EndDate>
-				<EndTime>20:41:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Souvenir d'Italy</Name>
-					<Description>Souvenir d'Italy</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
 				<IdName>Papadiventamamma_mpeg2video</IdName>
 				<StartDate>2018-05-22</StartDate>
 				<StartTime>20:41:02</StartTime>
@@ -27,7 +14,7 @@
 					<Description>PAPA  DIVENTA  MAMMA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="3">
+			<Event id="2">
 				<IdName>PillolaSalute_20150302_48922</IdName>
 				<StartDate>2018-05-22</StartDate>
 				<StartTime>22:01:25</StartTime>
@@ -40,7 +27,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="3">
 				<IdName>WELLIFE_Puntata2</IdName>
 				<StartDate>2018-05-22</StartDate>
 				<StartTime>22:02:05</StartTime>
@@ -53,12 +40,25 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="4">
 				<IdName>TgeventsPuntata377</IdName>
 				<StartDate>2018-05-22</StartDate>
 				<StartTime>22:14:32</StartTime>
 				<EndDate>2018-05-22</EndDate>
-				<EndTime>22:30:32</EndTime>
+				<EndTime>22:30:31</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="5">
+				<IdName>TRAILERPARTE2DEL11-05-18</IdName>
+				<StartDate>2018-05-22</StartDate>
+				<StartTime>22:30:31</StartTime>
+				<EndDate>2018-05-22</EndDate>
+				<EndTime>22:39:25</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -67,24 +67,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="6">
-				<IdName>TRAILERPARTE2DEL11-05-18</IdName>
-				<StartDate>2018-05-22</StartDate>
-				<StartTime>22:30:32</StartTime>
-				<EndDate>2018-05-22</EndDate>
-				<EndTime>22:39:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
 				<IdName>Taxidriver_1_mpeg2video</IdName>
 				<StartDate>2018-05-22</StartDate>
-				<StartTime>22:39:26</StartTime>
+				<StartTime>22:39:25</StartTime>
 				<EndDate>2018-05-22</EndDate>
-				<EndTime>23:34:53</EndTime>
+				<EndTime>23:34:52</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,10 +79,10 @@
 					<Description>TAX DRIVER 1P</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="7">
 				<IdName>Taxidriver_2_mpeg2video</IdName>
 				<StartDate>2018-05-22</StartDate>
-				<StartTime>23:34:53</StartTime>
+				<StartTime>23:34:52</StartTime>
 				<EndDate>2018-05-23</EndDate>
 				<EndTime>00:28:30</EndTime>
 				<ShortEventDescription>
@@ -105,7 +92,7 @@
 					<Description>TAX DRIVE 2 P.</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="8">
 				<IdName>GERACE-Cittàmillenaria</IdName>
 				<StartDate>2018-05-23</StartDate>
 				<StartTime>00:28:30</StartTime>
@@ -118,12 +105,12 @@
 					<Description>GERACECITTAMILLENARIA SPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="9">
 				<IdName>LaCompagniaDell'Anello</IdName>
 				<StartDate>2018-05-23</StartDate>
 				<StartTime>00:29:35</StartTime>
 				<EndDate>2018-05-23</EndDate>
-				<EndTime>03:49:31</EndTime>
+				<EndTime>03:49:30</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -131,10 +118,10 @@
 					<Description>La compagnia dell'anello </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="10">
 				<IdName>L'isoladeisopravvissuti</IdName>
 				<StartDate>2018-05-23</StartDate>
-				<StartTime>03:49:31</StartTime>
+				<StartTime>03:49:30</StartTime>
 				<EndDate>2018-05-23</EndDate>
 				<EndTime>05:21:14</EndTime>
 				<ShortEventDescription>
@@ -144,7 +131,7 @@
 					<Description>L' isola dei sopravvissuti </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="11">
 				<IdName>TRAILERPARTE3DEL11-05-18</IdName>
 				<StartDate>2018-05-23</StartDate>
 				<StartTime>05:21:14</StartTime>
@@ -157,7 +144,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="12">
 				<IdName>Tentazionemortale_mpeg2video</IdName>
 				<StartDate>2018-05-23</StartDate>
 				<StartTime>05:30:08</StartTime>
@@ -170,7 +157,7 @@
 					<Description>Tentazione mortale</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="13">
 				<IdName>BovalinolibroMacri</IdName>
 				<StartDate>2018-05-23</StartDate>
 				<StartTime>06:57:37</StartTime>
