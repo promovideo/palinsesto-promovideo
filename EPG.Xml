@@ -2,48 +2,9 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Souvenird'Italie_mpeg2video</IdName>
-				<StartDate>2018-05-26</StartDate>
-				<StartTime>16:26:48</StartTime>
-				<EndDate>2018-05-26</EndDate>
-				<EndTime>18:11:32</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Souvenir d'Italy</Name>
-					<Description>Souvenir d'Italy</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>PrometeoTV_20180524_73015</IdName>
-				<StartDate>2018-05-26</StartDate>
-				<StartTime>18:11:32</StartTime>
-				<EndDate>2018-05-26</EndDate>
-				<EndTime>18:15:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>PillolaSalute_20150302_48922</IdName>
-				<StartDate>2018-05-26</StartDate>
-				<StartTime>18:15:45</StartTime>
-				<EndDate>2018-05-26</EndDate>
-				<EndTime>18:16:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
 				<IdName>NinoManfrediSpaghettiHouse(1982)_mpeg2video</IdName>
 				<StartDate>2018-05-26</StartDate>
-				<StartTime>18:16:26</StartTime>
+				<StartTime>18:16:25</StartTime>
 				<EndDate>2018-05-26</EndDate>
 				<EndTime>19:55:33</EndTime>
 				<ShortEventDescription>
@@ -53,7 +14,7 @@
 					<Description>SPAGHETTI HOUSE </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="2">
 				<IdName>TRAILERPARTE1DEL11-05-18</IdName>
 				<StartDate>2018-05-26</StartDate>
 				<StartTime>19:55:33</StartTime>
@@ -66,7 +27,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="3">
 				<IdName>GERACE-Citt‡millenaria</IdName>
 				<StartDate>2018-05-26</StartDate>
 				<StartTime>20:04:27</StartTime>
@@ -79,7 +40,7 @@
 					<Description>GERACECITTAMILLENARIA SPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="4">
 				<IdName>Scherzidaprete_mpeg2video</IdName>
 				<StartDate>2018-05-26</StartDate>
 				<StartTime>20:05:32</StartTime>
@@ -92,7 +53,7 @@
 					<Description>Scherzi da prete</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="5">
 				<IdName>1SLUCAMessabrigTRIPODI_mpeg2video</IdName>
 				<StartDate>2018-05-26</StartDate>
 				<StartTime>21:33:24</StartTime>
@@ -105,7 +66,7 @@
 					<Description>commemorazione 28Ï ann.v morte Mar. Tripodi</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="6">
 				<IdName>L'isoladeisopravvissuti</IdName>
 				<StartDate>2018-05-26</StartDate>
 				<StartTime>22:35:54</StartTime>
@@ -118,12 +79,51 @@
 					<Description>L' isola dei sopravvissuti </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
-				<IdName>JuwannaMann_mpeg2video</IdName>
+			<Event id="7">
+				<IdName>BovalinolibroMacri</IdName>
 				<StartDate>2018-05-27</StartDate>
 				<StartTime>00:07:38</StartTime>
 				<EndDate>2018-05-27</EndDate>
-				<EndTime>01:34:33</EndTime>
+				<EndTime>02:02:51</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>LIBRO MACRI</Name>
+					<Description>BOVALINO  LIBRO MACRI'</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="8">
+				<IdName>0114-1968PreparatiLaBara-TerenceHill_mpeg2video</IdName>
+				<StartDate>2018-05-27</StartDate>
+				<StartTime>02:02:51</StartTime>
+				<EndDate>2018-05-27</EndDate>
+				<EndTime>03:30:53</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>PREPARATI LA  BARA</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="9">
+				<IdName>NicolaGratteriNarrarelalegalit‡LeConversazioniSerali</IdName>
+				<StartDate>2018-05-27</StartDate>
+				<StartTime>03:30:53</StartTime>
+				<EndDate>2018-05-27</EndDate>
+				<EndTime>04:54:16</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Narrare  la  legalit‡</Name>
+					<Description>Nicoal Gratteri Narrare  la legalit‡</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="10">
+				<IdName>JuwannaMann_mpeg2video</IdName>
+				<StartDate>2018-05-27</StartDate>
+				<StartTime>04:54:16</StartTime>
+				<EndDate>2018-05-27</EndDate>
+				<EndTime>06:21:11</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -132,45 +132,6 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="11">
-				<IdName>BovalinolibroMacri</IdName>
-				<StartDate>2018-05-27</StartDate>
-				<StartTime>01:34:33</StartTime>
-				<EndDate>2018-05-27</EndDate>
-				<EndTime>03:29:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LIBRO MACRI</Name>
-					<Description>BOVALINO  LIBRO MACRI'</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="12">
-				<IdName>0114-1968PreparatiLaBara-TerenceHill_mpeg2video</IdName>
-				<StartDate>2018-05-27</StartDate>
-				<StartTime>03:29:46</StartTime>
-				<EndDate>2018-05-27</EndDate>
-				<EndTime>04:57:47</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>PREPARATI LA  BARA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="13">
-				<IdName>NicolaGratteriNarrarelalegalit‡LeConversazioniSerali</IdName>
-				<StartDate>2018-05-27</StartDate>
-				<StartTime>04:57:47</StartTime>
-				<EndDate>2018-05-27</EndDate>
-				<EndTime>06:21:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Narrare  la  legalit‡</Name>
-					<Description>Nicoal Gratteri Narrare  la legalit‡</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="14">
 				<IdName>Mr.Bean-L'ultimacatastrofe</IdName>
 				<StartDate>2018-05-27</StartDate>
 				<StartTime>06:21:11</StartTime>
@@ -183,12 +144,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="12">
 				<IdName>TRAILERPARTE1DEL16-05-18</IdName>
 				<StartDate>2018-05-27</StartDate>
 				<StartTime>07:46:38</StartTime>
 				<EndDate>2018-05-27</EndDate>
-				<EndTime>07:55:22</EndTime>
+				<EndTime>07:55:21</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
