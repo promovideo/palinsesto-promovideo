@@ -1,13 +1,7 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-14/06/2018	19:43:01	Canolo	canolo	Nuovo File	00:25:43	0	
-14/06/2018	20:08:44	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-14/06/2018	20:09:50	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
-14/06/2018	20:12:10	POLSIARCHIVIOPROMOCULTURA	POLSI	POLSI	00:14:00	41	programmi culturali
-14/06/2018	20:26:10	agrisapori764X10-6-18	Sconosciuto	Nuovo File	00:27:14	0	
-14/06/2018	20:53:25	Rotocalco	Sconosciuto	Nuovo File	00:17:25	0	
 14/06/2018	21:10:50	Uomo.Avvisato.Mezzo.Ammazzato.19721°t.	Uomo avvisato mezzo salvato	UOMO  AVVISATO MEZZO AMMAZZATO 1^	00:46:39	1	Film
 14/06/2018	21:57:30	Uomo.Avvisato.Mezzo.Ammazzato.19722°t.	UOMO  AVVISATO MEZZO AMMAZZATO 2^ 	UOMO  AVVISATO MEZZO AMMAZZATO 2^	00:43:11	1	Film
-14/06/2018	22:40:41	045-NiloVittoria,ilFiumedellaPreistoria(10')eD	NILO 	IL  LUME DELLA PREISTORIA	00:09:54	71	documentari
+14/06/2018	22:40:42	045-NiloVittoria,ilFiumedellaPreistoria(10')eD	NILO 	IL  LUME DELLA PREISTORIA	00:09:54	71	documentari
 14/06/2018	22:50:36	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
 14/06/2018	22:50:52	Roma.drogata.la.polizia.non_.puo.intervenire.19751°t.	ROMA DROGATA 1^	ROMA DROGATA 1^	00:48:20	1	Film
 14/06/2018	23:39:12	Roma.drogata.la.polizia.non_.puo.intervenire.19752°t.	ROMA DROGATA 2^	ROMA DROGATA 2^	00:41:14	1	Film
