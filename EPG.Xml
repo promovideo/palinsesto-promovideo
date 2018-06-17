@@ -2,74 +2,9 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Rotocalco</IdName>
-				<StartDate>2018-06-17</StartDate>
-				<StartTime>19:31:14</StartTime>
-				<EndDate>2018-06-17</EndDate>
-				<EndTime>19:48:40</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>Uomo.Avvisato.Mezzo.Ammazzato.19721配.</IdName>
-				<StartDate>2018-06-17</StartDate>
-				<StartTime>19:48:40</StartTime>
-				<EndDate>2018-06-17</EndDate>
-				<EndTime>20:35:19</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Uomo avvisato mezzo salvato</Name>
-					<Description>UOMO  AVVISATO MEZZO AMMAZZATO 1^</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>Uomo.Avvisato.Mezzo.Ammazzato.19722配.</IdName>
-				<StartDate>2018-06-17</StartDate>
-				<StartTime>20:35:19</StartTime>
-				<EndDate>2018-06-17</EndDate>
-				<EndTime>21:18:31</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>UOMO  AVVISATO MEZZO AMMAZZATO 2^ </Name>
-					<Description>UOMO  AVVISATO MEZZO AMMAZZATO 2^</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>045-NiloVittoria,ilFiumedellaPreistoria(10')eD</IdName>
-				<StartDate>2018-06-17</StartDate>
-				<StartTime>21:18:31</StartTime>
-				<EndDate>2018-06-17</EndDate>
-				<EndTime>21:28:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>NILO </Name>
-					<Description>IL  LUME DELLA PREISTORIA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
-				<IdName>spotDIGIII</IdName>
-				<StartDate>2018-06-17</StartDate>
-				<StartTime>21:28:26</StartTime>
-				<EndDate>2018-06-17</EndDate>
-				<EndTime>21:28:41</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT DIGII</Name>
-					<Description>SPOT PROMOVIDEO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
 				<IdName>Roma.drogata.la.polizia.non_.puo.intervenire.19751配.</IdName>
 				<StartDate>2018-06-17</StartDate>
-				<StartTime>21:28:41</StartTime>
+				<StartTime>21:28:40</StartTime>
 				<EndDate>2018-06-17</EndDate>
 				<EndTime>22:17:01</EndTime>
 				<ShortEventDescription>
@@ -79,12 +14,12 @@
 					<Description>ROMA DROGATA 1^</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="2">
 				<IdName>Roma.drogata.la.polizia.non_.puo.intervenire.19752配.</IdName>
 				<StartDate>2018-06-17</StartDate>
 				<StartTime>22:17:01</StartTime>
 				<EndDate>2018-06-17</EndDate>
-				<EndTime>22:58:16</EndTime>
+				<EndTime>22:58:15</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,10 +27,10 @@
 					<Description>ROMA DROGATA 2^</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="3">
 				<IdName>PROMOVIDEOSPOT1</IdName>
 				<StartDate>2018-06-17</StartDate>
-				<StartTime>22:58:16</StartTime>
+				<StartTime>22:58:15</StartTime>
 				<EndDate>2018-06-17</EndDate>
 				<EndTime>22:58:22</EndTime>
 				<ShortEventDescription>
@@ -105,12 +40,12 @@
 					<Description>PROMOVIDEOSPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="4">
 				<IdName>JuwannaMann_mpeg2video</IdName>
 				<StartDate>2018-06-17</StartDate>
 				<StartTime>22:58:22</StartTime>
 				<EndDate>2018-06-18</EndDate>
-				<EndTime>00:25:17</EndTime>
+				<EndTime>00:25:16</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,12 +53,12 @@
 					<Description>Juawanna Mann</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="5">
 				<IdName>TRAILERPARTE1DEL16-05-18</IdName>
 				<StartDate>2018-06-18</StartDate>
-				<StartTime>00:25:17</StartTime>
+				<StartTime>00:25:16</StartTime>
 				<EndDate>2018-06-18</EndDate>
-				<EndTime>00:34:01</EndTime>
+				<EndTime>00:34:00</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -131,12 +66,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="6">
 				<IdName>Identit豤iolate</IdName>
 				<StartDate>2018-06-18</StartDate>
-				<StartTime>00:34:01</StartTime>
+				<StartTime>00:34:00</StartTime>
 				<EndDate>2018-06-18</EndDate>
-				<EndTime>02:12:47</EndTime>
+				<EndTime>02:12:46</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -144,10 +79,10 @@
 					<Description>IDENTITA' VIOLATE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="7">
 				<IdName>bullismoiperbullismo</IdName>
 				<StartDate>2018-06-18</StartDate>
-				<StartTime>02:12:47</StartTime>
+				<StartTime>02:12:46</StartTime>
 				<EndDate>2018-06-18</EndDate>
 				<EndTime>02:35:58</EndTime>
 				<ShortEventDescription>
@@ -157,12 +92,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="8">
 				<IdName>TRAILERPARTE2DEL16-05-18</IdName>
 				<StartDate>2018-06-18</StartDate>
 				<StartTime>02:35:58</StartTime>
 				<EndDate>2018-06-18</EndDate>
-				<EndTime>02:44:42</EndTime>
+				<EndTime>02:44:41</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -170,12 +105,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="9">
 				<IdName>Perunpugnonellocchio_mpeg2video</IdName>
 				<StartDate>2018-06-18</StartDate>
-				<StartTime>02:44:42</StartTime>
+				<StartTime>02:44:41</StartTime>
 				<EndDate>2018-06-18</EndDate>
-				<EndTime>04:19:34</EndTime>
+				<EndTime>04:19:33</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -183,12 +118,12 @@
 					<Description>Per  un  pugno  nell' occhio</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="10">
 				<IdName>Rotocalco</IdName>
 				<StartDate>2018-06-18</StartDate>
-				<StartTime>04:19:34</StartTime>
+				<StartTime>04:19:33</StartTime>
 				<EndDate>2018-06-18</EndDate>
-				<EndTime>04:36:59</EndTime>
+				<EndTime>04:36:58</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -196,12 +131,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="11">
 				<IdName>X-Men</IdName>
 				<StartDate>2018-06-18</StartDate>
-				<StartTime>04:36:59</StartTime>
+				<StartTime>04:36:58</StartTime>
 				<EndDate>2018-06-18</EndDate>
-				<EndTime>06:17:01</EndTime>
+				<EndTime>06:17:00</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -209,12 +144,12 @@
 					<Description>X - MEN</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="12">
 				<IdName>Speed</IdName>
 				<StartDate>2018-06-18</StartDate>
-				<StartTime>06:17:01</StartTime>
+				<StartTime>06:17:00</StartTime>
 				<EndDate>2018-06-18</EndDate>
-				<EndTime>08:07:02</EndTime>
+				<EndTime>08:07:01</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
