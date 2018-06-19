@@ -1,7 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-19/06/2018	18:44:02	AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI	Sconosciuto	ABRAMO ISACCO GIACOBBE	01:26:07	1	Film
-19/06/2018	20:10:09	agrisapori764X10-6-18	Sconosciuto	Nuovo File	00:27:14	0	
-19/06/2018	20:37:24	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
 19/06/2018	20:37:39	'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video	Commedia	Natale in casa   Cupiello	02:12:48	1	Film
 19/06/2018	22:50:27	PROMOVIDEOSPOT1	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:06	11	spot
 19/06/2018	22:50:34	JuwannaMann_mpeg2video	Sconosciuto	Juawanna Mann	01:26:54	1	Film
