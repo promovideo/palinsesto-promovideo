@@ -2,50 +2,37 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>7Monacidoro_mpeg2video</IdName>
+				<IdName>Canolo</IdName>
 				<StartDate>2018-06-19</StartDate>
-				<StartTime>08:34:21</StartTime>
+				<StartTime>18:14:54</StartTime>
 				<EndDate>2018-06-19</EndDate>
-				<EndTime>10:08:10</EndTime>
+				<EndTime>18:40:37</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>7  monaci d  oro</Name>
-					<Description>7  MONACI D' ORO</Description>
+					<Name>canolo</Name>
+					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="2">
-				<IdName>InstantFuture_puntata2(1)</IdName>
+				<IdName>GERACE-Cittàmillenaria</IdName>
 				<StartDate>2018-06-19</StartDate>
-				<StartTime>10:08:10</StartTime>
+				<StartTime>18:40:37</StartTime>
 				<EndDate>2018-06-19</EndDate>
-				<EndTime>10:20:56</EndTime>
+				<EndTime>18:41:42</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>SPOT GERACE CITTà1000ENARIA</Name>
+					<Description>GERACECITTAMILLENARIA SPOT</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="3">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>10:20:56</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>10:21:03</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
 				<IdName>SLAPROMOVIDEOPERILSOCIALE</IdName>
 				<StartDate>2018-06-19</StartDate>
-				<StartTime>10:21:03</StartTime>
+				<StartTime>18:41:42</StartTime>
 				<EndDate>2018-06-19</EndDate>
-				<EndTime>10:23:23</EndTime>
+				<EndTime>18:44:02</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -53,12 +40,25 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
-				<IdName>TRAILERPARTE1DEL16-05-18</IdName>
+			<Event id="4">
+				<IdName>AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI</IdName>
 				<StartDate>2018-06-19</StartDate>
-				<StartTime>10:23:23</StartTime>
+				<StartTime>18:44:02</StartTime>
 				<EndDate>2018-06-19</EndDate>
-				<EndTime>10:32:06</EndTime>
+				<EndTime>20:10:09</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>ABRAMO ISACCO GIACOBBE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="5">
+				<IdName>agrisapori764X10-6-18</IdName>
+				<StartDate>2018-06-19</StartDate>
+				<StartTime>20:10:09</StartTime>
+				<EndDate>2018-06-19</EndDate>
+				<EndTime>20:37:24</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -67,24 +67,63 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="6">
-				<IdName>0110-1968-Calmaragazzeoggimisposo-LouisDeFunes_mpeg2video</IdName>
+				<IdName>spotDIGIII</IdName>
 				<StartDate>2018-06-19</StartDate>
-				<StartTime>10:32:06</StartTime>
+				<StartTime>20:37:24</StartTime>
 				<EndDate>2018-06-19</EndDate>
-				<EndTime>11:58:02</EndTime>
+				<EndTime>20:37:39</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOT DIGII</Name>
+					<Description>SPOT PROMOVIDEO</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="7">
+				<IdName>'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video</IdName>
+				<StartDate>2018-06-19</StartDate>
+				<StartTime>20:37:39</StartTime>
+				<EndDate>2018-06-19</EndDate>
+				<EndTime>22:50:28</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Commedia</Name>
+					<Description>Natale in casa   Cupiello</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="8">
+				<IdName>PROMOVIDEOSPOT1</IdName>
+				<StartDate>2018-06-19</StartDate>
+				<StartTime>22:50:28</StartTime>
+				<EndDate>2018-06-19</EndDate>
+				<EndTime>22:50:34</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>PROMOVIDEOSPOT</Name>
+					<Description>PROMOVIDEOSPOT</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="9">
+				<IdName>JuwannaMann_mpeg2video</IdName>
+				<StartDate>2018-06-19</StartDate>
+				<StartTime>22:50:34</StartTime>
+				<EndDate>2018-06-20</EndDate>
+				<EndTime>00:17:29</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Sconosciuto</Name>
-					<Description>CALMA RAGAZZE  OGGI   MI  SPOSO</Description>
+					<Description>Juawanna Mann</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="10">
 				<IdName>TRAILERPARTE1DEL16-05-18</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>11:58:02</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>12:06:46</EndTime>
+				<StartDate>2018-06-20</StartDate>
+				<StartTime>00:17:29</StartTime>
+				<EndDate>2018-06-20</EndDate>
+				<EndTime>00:26:12</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,64 +131,25 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
-				<IdName>3PROMOVIDEOSPOT3</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>12:06:46</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>12:06:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>spot promovideotv</Name>
-					<Description>SPOT PROMOVIDEOTV 3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="9">
-				<IdName>NoepoliPiccolaGrandeItalia</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>12:06:53</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>12:23:25</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola grande Italia</Name>
-					<Description>Neapoli</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>12:23:25</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>12:23:32</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
 			<Event id="11">
-				<IdName>_1719_UnBelDiVedremo</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>12:23:32</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>12:47:19</EndTime>
+				<IdName>bullismoiperbullismo</IdName>
+				<StartDate>2018-06-20</StartDate>
+				<StartTime>00:26:12</StartTime>
+				<EndDate>2018-06-20</EndDate>
+				<EndTime>00:49:24</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>UN BEL  DI  VEDRTEMO</Name>
-					<Description>UN BEL  DI  VEDREMO</Description>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="12">
-				<IdName>SimsalaGrimm2-Ep.25-JorindaeJoringhelloHDItaliano(480p_30fps_H264-128kbit_AAC)</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>12:47:19</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>13:11:49</EndTime>
+				<IdName>TRAILERPARTE2DEL16-05-18</IdName>
+				<StartDate>2018-06-20</StartDate>
+				<StartTime>00:49:24</StartTime>
+				<EndDate>2018-06-20</EndDate>
+				<EndTime>00:58:08</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -158,336 +158,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="13">
-				<IdName>SimsalaGrimm2-Ep.7-IquattrofratelliingegnoHDItaliano(480p_28fps_H264-128kbit_AAC)</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>13:11:49</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>13:40:19</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>I 4 FRATELLI INGEGNO</Name>
-					<Description>EP.7</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="14">
-				<IdName>SimsalaGrimm2-Ep.8-L'ostilita'delmagoHDItaliano(480p_28fps_H264-128kbit_AAC)</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>13:40:19</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>14:04:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>L 'STILITA DEL MAGO</Name>
-					<Description>EP. 8</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="15">
-				<IdName>SimsalaGrimm2-Ep.9-L'usignolodell'imperatoreHdItaliano(480p_28fps_H264-128kbit_AAC)</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>14:04:49</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>14:29:21</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>L 'USIGNOLO DELL' IMPERATORE</Name>
-					<Description>EP. 9</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="16">
-				<IdName>TRAILERPARTE2DEL11-05-18</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>14:29:21</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>14:38:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="17">
-				<IdName>spotDIGIII</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>14:38:15</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>14:38:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT DIGII</Name>
-					<Description>SPOT PROMOVIDEO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="18">
-				<IdName>Atlantis</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>14:38:30</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>16:06:06</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ATLANTIS</Name>
-					<Description>ATLANTIS</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="19">
-				<IdName>PROMOVIDEOSPOT1</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>16:06:06</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>16:06:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PROMOVIDEOSPOT</Name>
-					<Description>PROMOVIDEOSPOT</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="20">
-				<IdName>calabriaantica</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>16:06:13</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>16:13:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CALABRIA ANTICA</Name>
-					<Description>CALABRIA ANTICA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="21">
-				<IdName>TRAILERPARTE2DEL16-05-18</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>16:13:46</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>16:22:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="22">
-				<IdName>CIBOR-ISPOTPERREGIA</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>16:22:29</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>16:23:07</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="23">
-				<IdName>PrometeoTV_20180524_73015</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>16:23:07</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>16:27:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="24">
-				<IdName>'IlsegretodiSantaVittoria'(1969)conAnnaMagnanieAnthonyQuinn_mpeg2video</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>16:27:20</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>18:40:35</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>IL SEGRETO DI SANTA  VITTORIA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="25">
-				<IdName>TRAILERPARTE1DEL11-05-18</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>18:40:35</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>18:49:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="26">
-				<IdName>Canolo</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>18:49:29</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>19:15:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>canolo</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="27">
-				<IdName>GERACE-Cittàmillenaria</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>19:15:13</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>19:16:18</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT GERACE CITTà1000ENARIA</Name>
-					<Description>GERACECITTAMILLENARIA SPOT</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="28">
-				<IdName>SLAPROMOVIDEOPERILSOCIALE</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>19:16:18</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>19:18:38</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="29">
-				<IdName>AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>19:18:38</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>20:44:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>ABRAMO ISACCO GIACOBBE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="30">
-				<IdName>agrisapori764X10-6-18</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>20:44:45</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>21:12:00</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="31">
-				<IdName>spotDIGIII</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>21:12:00</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>21:12:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT DIGII</Name>
-					<Description>SPOT PROMOVIDEO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="32">
-				<IdName>'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>21:12:15</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>23:25:03</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Commedia</Name>
-					<Description>Natale in casa   Cupiello</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="33">
-				<IdName>PROMOVIDEOSPOT1</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>23:25:03</StartTime>
-				<EndDate>2018-06-19</EndDate>
-				<EndTime>23:25:10</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PROMOVIDEOSPOT</Name>
-					<Description>PROMOVIDEOSPOT</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="34">
-				<IdName>JuwannaMann_mpeg2video</IdName>
-				<StartDate>2018-06-19</StartDate>
-				<StartTime>23:25:10</StartTime>
-				<EndDate>2018-06-20</EndDate>
-				<EndTime>00:52:04</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Juawanna Mann</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="35">
-				<IdName>TRAILERPARTE1DEL16-05-18</IdName>
-				<StartDate>2018-06-20</StartDate>
-				<StartTime>00:52:04</StartTime>
-				<EndDate>2018-06-20</EndDate>
-				<EndTime>01:00:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="36">
-				<IdName>bullismoiperbullismo</IdName>
-				<StartDate>2018-06-20</StartDate>
-				<StartTime>01:00:48</StartTime>
-				<EndDate>2018-06-20</EndDate>
-				<EndTime>01:24:00</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="37">
-				<IdName>TRAILERPARTE2DEL16-05-18</IdName>
-				<StartDate>2018-06-20</StartDate>
-				<StartTime>01:24:00</StartTime>
-				<EndDate>2018-06-20</EndDate>
-				<EndTime>01:32:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="38">
 				<IdName>Perunpugnonellocchio_mpeg2video</IdName>
 				<StartDate>2018-06-20</StartDate>
-				<StartTime>01:32:43</StartTime>
+				<StartTime>00:58:08</StartTime>
 				<EndDate>2018-06-20</EndDate>
-				<EndTime>03:07:35</EndTime>
+				<EndTime>02:32:59</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -495,12 +170,12 @@
 					<Description>Per  un  pugno  nell' occhio</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="39">
+			<Event id="14">
 				<IdName>Rotocalco</IdName>
 				<StartDate>2018-06-20</StartDate>
-				<StartTime>03:07:35</StartTime>
+				<StartTime>02:32:59</StartTime>
 				<EndDate>2018-06-20</EndDate>
-				<EndTime>03:25:00</EndTime>
+				<EndTime>02:50:25</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -508,12 +183,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="40">
+			<Event id="15">
 				<IdName>GrotteriaPresepe2012_mpeg2video(1)</IdName>
 				<StartDate>2018-06-20</StartDate>
-				<StartTime>03:25:00</StartTime>
+				<StartTime>02:50:25</StartTime>
 				<EndDate>2018-06-20</EndDate>
-				<EndTime>04:11:16</EndTime>
+				<EndTime>03:36:40</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -521,12 +196,12 @@
 					<Description>GROTTERIA PRESEPE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="41">
+			<Event id="16">
 				<IdName>X-Men</IdName>
 				<StartDate>2018-06-20</StartDate>
-				<StartTime>04:11:16</StartTime>
+				<StartTime>03:36:40</StartTime>
 				<EndDate>2018-06-20</EndDate>
-				<EndTime>05:51:18</EndTime>
+				<EndTime>05:16:42</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -534,12 +209,12 @@
 					<Description>X - MEN</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="42">
+			<Event id="17">
 				<IdName>Speed</IdName>
 				<StartDate>2018-06-20</StartDate>
-				<StartTime>05:51:18</StartTime>
+				<StartTime>05:16:42</StartTime>
 				<EndDate>2018-06-20</EndDate>
-				<EndTime>07:41:18</EndTime>
+				<EndTime>07:06:43</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
