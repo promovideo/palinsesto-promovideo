@@ -2,48 +2,9 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Scuoladipolizia6_mpeg2video</IdName>
-				<StartDate>2018-06-25</StartDate>
-				<StartTime>17:54:31</StartTime>
-				<EndDate>2018-06-25</EndDate>
-				<EndTime>19:14:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Scuola d i polizia 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>TropeaPiccolaGrandeItalia</IdName>
-				<StartDate>2018-06-25</StartDate>
-				<StartTime>19:14:26</StartTime>
-				<EndDate>2018-06-25</EndDate>
-				<EndTime>19:41:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola grande Italia</Name>
-					<Description>TROPEA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2018-06-25</StartDate>
-				<StartTime>19:41:20</StartTime>
-				<EndDate>2018-06-25</EndDate>
-				<EndTime>19:41:27</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
 				<IdName>Scherzidaprete_mpeg2video</IdName>
 				<StartDate>2018-06-25</StartDate>
-				<StartTime>19:41:27</StartTime>
+				<StartTime>19:41:26</StartTime>
 				<EndDate>2018-06-25</EndDate>
 				<EndTime>21:09:18</EndTime>
 				<ShortEventDescription>
@@ -53,12 +14,51 @@
 					<Description>Scherzi da prete</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
-				<IdName>PrometeoTV_20180524_73015</IdName>
+			<Event id="2">
+				<IdName>Rosolinopaternosoldato_mpeg2video</IdName>
 				<StartDate>2018-06-25</StartDate>
 				<StartTime>21:09:18</StartTime>
 				<EndDate>2018-06-25</EndDate>
-				<EndTime>21:13:32</EndTime>
+				<EndTime>22:45:15</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>ROSOLINO PATERNO SOLDATO</Name>
+					<Description>Rosolino paterno  soldato</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="3">
+				<IdName>GERACE-Cittàmillenaria</IdName>
+				<StartDate>2018-06-25</StartDate>
+				<StartTime>22:45:15</StartTime>
+				<EndDate>2018-06-25</EndDate>
+				<EndTime>22:46:20</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOT GERACE CITTà1000ENARIA</Name>
+					<Description>GERACECITTAMILLENARIA SPOT</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="4">
+				<IdName>SLAPROMOVIDEOPERILSOCIALE</IdName>
+				<StartDate>2018-06-25</StartDate>
+				<StartTime>22:46:20</StartTime>
+				<EndDate>2018-06-25</EndDate>
+				<EndTime>22:48:40</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="5">
+				<IdName>agrisapori764X10-6-18</IdName>
+				<StartDate>2018-06-25</StartDate>
+				<StartTime>22:48:40</StartTime>
+				<EndDate>2018-06-25</EndDate>
+				<EndTime>23:15:55</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -67,11 +67,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="6">
-				<IdName>TRAILERPARTE1DEL11-05-18</IdName>
+				<IdName>TRAILERPARTE2DEL14-06-18</IdName>
 				<StartDate>2018-06-25</StartDate>
-				<StartTime>21:13:32</StartTime>
+				<StartTime>23:15:55</StartTime>
 				<EndDate>2018-06-25</EndDate>
-				<EndTime>21:22:26</EndTime>
+				<EndTime>23:23:16</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -80,50 +80,50 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="7">
-				<IdName>Rosolinopaternosoldato_mpeg2video</IdName>
+				<IdName>spotDIGIII</IdName>
 				<StartDate>2018-06-25</StartDate>
-				<StartTime>21:22:26</StartTime>
+				<StartTime>23:23:16</StartTime>
 				<EndDate>2018-06-25</EndDate>
-				<EndTime>22:58:23</EndTime>
+				<EndTime>23:23:31</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>ROSOLINO PATERNO SOLDATO</Name>
-					<Description>Rosolino paterno  soldato</Description>
+					<Name>SPOT DIGII</Name>
+					<Description>SPOT PROMOVIDEO</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="8">
-				<IdName>GERACE-Cittàmillenaria</IdName>
+				<IdName>Un.amore.in.prima.classe.19801°t.</IdName>
 				<StartDate>2018-06-25</StartDate>
-				<StartTime>22:58:23</StartTime>
-				<EndDate>2018-06-25</EndDate>
-				<EndTime>22:59:28</EndTime>
+				<StartTime>23:23:31</StartTime>
+				<EndDate>2018-06-26</EndDate>
+				<EndTime>00:11:38</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>SPOT GERACE CITTà1000ENARIA</Name>
-					<Description>GERACECITTAMILLENARIA SPOT</Description>
+					<Name>UN AMORE IN PRIMA CLASSE 1° T</Name>
+					<Description>UN AMORE IN PRIMA CLASSE 1° T</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="9">
-				<IdName>SLAPROMOVIDEOPERILSOCIALE</IdName>
-				<StartDate>2018-06-25</StartDate>
-				<StartTime>22:59:28</StartTime>
-				<EndDate>2018-06-25</EndDate>
-				<EndTime>23:01:48</EndTime>
+				<IdName>Un.amore.in.prima.classe.19802°t.</IdName>
+				<StartDate>2018-06-26</StartDate>
+				<StartTime>00:11:38</StartTime>
+				<EndDate>2018-06-26</EndDate>
+				<EndTime>00:53:41</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>UN AMORE IN PRIMA CLASSE 2° T</Name>
+					<Description>UN AMORE IN PRIMA CLASSE 2° T</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="10">
-				<IdName>agrisapori764X10-6-18</IdName>
-				<StartDate>2018-06-25</StartDate>
-				<StartTime>23:01:48</StartTime>
-				<EndDate>2018-06-25</EndDate>
-				<EndTime>23:29:03</EndTime>
+				<IdName>TRAILERPARTE2DEL16-05-18</IdName>
+				<StartDate>2018-06-26</StartDate>
+				<StartTime>00:53:41</StartTime>
+				<EndDate>2018-06-26</EndDate>
+				<EndTime>01:02:24</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -132,76 +132,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="11">
-				<IdName>TRAILERPARTE2DEL14-06-18</IdName>
-				<StartDate>2018-06-25</StartDate>
-				<StartTime>23:29:03</StartTime>
-				<EndDate>2018-06-25</EndDate>
-				<EndTime>23:36:24</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="12">
-				<IdName>spotDIGIII</IdName>
-				<StartDate>2018-06-25</StartDate>
-				<StartTime>23:36:24</StartTime>
-				<EndDate>2018-06-25</EndDate>
-				<EndTime>23:36:40</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT DIGII</Name>
-					<Description>SPOT PROMOVIDEO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="13">
-				<IdName>Un.amore.in.prima.classe.19801°t.</IdName>
-				<StartDate>2018-06-25</StartDate>
-				<StartTime>23:36:40</StartTime>
-				<EndDate>2018-06-26</EndDate>
-				<EndTime>00:24:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>UN AMORE IN PRIMA CLASSE 1° T</Name>
-					<Description>UN AMORE IN PRIMA CLASSE 1° T</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="14">
-				<IdName>Un.amore.in.prima.classe.19802°t.</IdName>
-				<StartDate>2018-06-26</StartDate>
-				<StartTime>00:24:46</StartTime>
-				<EndDate>2018-06-26</EndDate>
-				<EndTime>01:06:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>UN AMORE IN PRIMA CLASSE 2° T</Name>
-					<Description>UN AMORE IN PRIMA CLASSE 2° T</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="15">
-				<IdName>TRAILERPARTE2DEL16-05-18</IdName>
-				<StartDate>2018-06-26</StartDate>
-				<StartTime>01:06:49</StartTime>
-				<EndDate>2018-06-26</EndDate>
-				<EndTime>01:15:33</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="16">
 				<IdName>PROMOVIDEOSPOT1</IdName>
 				<StartDate>2018-06-26</StartDate>
-				<StartTime>01:15:33</StartTime>
+				<StartTime>01:02:24</StartTime>
 				<EndDate>2018-06-26</EndDate>
-				<EndTime>01:15:39</EndTime>
+				<EndTime>01:02:31</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -209,12 +144,12 @@
 					<Description>PROMOVIDEOSPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="12">
 				<IdName>JuwannaMann_mpeg2video</IdName>
 				<StartDate>2018-06-26</StartDate>
-				<StartTime>01:15:39</StartTime>
+				<StartTime>01:02:31</StartTime>
 				<EndDate>2018-06-26</EndDate>
-				<EndTime>02:42:34</EndTime>
+				<EndTime>02:29:26</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -222,12 +157,12 @@
 					<Description>Juawanna Mann</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="13">
 				<IdName>TRAILERPARTE1DEL16-05-18</IdName>
 				<StartDate>2018-06-26</StartDate>
-				<StartTime>02:42:34</StartTime>
+				<StartTime>02:29:26</StartTime>
 				<EndDate>2018-06-26</EndDate>
-				<EndTime>02:51:17</EndTime>
+				<EndTime>02:38:09</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -235,12 +170,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="14">
 				<IdName>UmbertoD(1952)unfilmdiVittorioDeSica</IdName>
 				<StartDate>2018-06-26</StartDate>
-				<StartTime>02:51:17</StartTime>
+				<StartTime>02:38:09</StartTime>
 				<EndDate>2018-06-26</EndDate>
-				<EndTime>04:19:35</EndTime>
+				<EndTime>04:06:27</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -248,12 +183,12 @@
 					<Description>Umberto D</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="15">
 				<IdName>Unacoppiaperfetta_mpeg2video</IdName>
 				<StartDate>2018-06-26</StartDate>
-				<StartTime>04:19:35</StartTime>
+				<StartTime>04:06:27</StartTime>
 				<EndDate>2018-06-26</EndDate>
-				<EndTime>06:05:36</EndTime>
+				<EndTime>05:52:27</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -261,12 +196,12 @@
 					<Description>Una coppia  perfetta</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="21">
+			<Event id="16">
 				<IdName>Unavitaquasiperfetta_mpeg2video</IdName>
 				<StartDate>2018-06-26</StartDate>
-				<StartTime>06:05:36</StartTime>
+				<StartTime>05:52:27</StartTime>
 				<EndDate>2018-06-26</EndDate>
-				<EndTime>07:45:11</EndTime>
+				<EndTime>07:32:03</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
