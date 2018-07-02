@@ -1,5 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-02/07/2018	18:42:24	1SLUCAMessabrigTRIPODI_mpeg2video	S. Luca	commemorazione 28ì ann.v morte Mar. Tripodi	01:02:30	41	programmi culturali
 02/07/2018	19:44:54	JuwannaMann_mpeg2video	Sconosciuto	Juawanna Mann	01:26:54	1	Film
 02/07/2018	21:11:49	TRAILERPARTE1DEL25-06-2018	Sconosciuto	Nuovo File	00:08:50	0	
 02/07/2018	21:20:39	Raccontiromani_mpeg2video	Sconosciuto	Racconti  romani	01:34:01	1	Film

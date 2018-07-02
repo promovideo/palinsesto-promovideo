@@ -2,45 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>1SLUCAMessabrigTRIPODI_mpeg2video</IdName>
-				<StartDate>2018-07-02</StartDate>
-				<StartTime>18:42:24</StartTime>
-				<EndDate>2018-07-02</EndDate>
-				<EndTime>19:44:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>S. Luca</Name>
-					<Description>commemorazione 28ì ann.v morte Mar. Tripodi</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>JuwannaMann_mpeg2video</IdName>
-				<StartDate>2018-07-02</StartDate>
-				<StartTime>19:44:54</StartTime>
-				<EndDate>2018-07-02</EndDate>
-				<EndTime>21:11:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Juawanna Mann</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>TRAILERPARTE1DEL25-06-2018</IdName>
-				<StartDate>2018-07-02</StartDate>
-				<StartTime>21:11:49</StartTime>
-				<EndDate>2018-07-02</EndDate>
-				<EndTime>21:20:39</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
 				<IdName>Raccontiromani_mpeg2video</IdName>
 				<StartDate>2018-07-02</StartDate>
 				<StartTime>21:20:39</StartTime>
@@ -53,7 +14,7 @@
 					<Description>Racconti  romani</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="2">
 				<IdName>Mr.Bean-L'ultimacatastrofe</IdName>
 				<StartDate>2018-07-02</StartDate>
 				<StartTime>22:54:40</StartTime>
@@ -66,7 +27,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="3">
 				<IdName>Laclinicadellamore_mpeg2video</IdName>
 				<StartDate>2018-07-03</StartDate>
 				<StartTime>00:20:07</StartTime>
@@ -79,7 +40,7 @@
 					<Description>La clinica dell'amore</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="4">
 				<IdName>TRAILERPARTE3DEL02-07-2018</IdName>
 				<StartDate>2018-07-03</StartDate>
 				<StartTime>01:49:00</StartTime>
@@ -92,7 +53,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="5">
 				<IdName>TRAILERPARTE1DEL16-05-18</IdName>
 				<StartDate>2018-07-03</StartDate>
 				<StartTime>01:59:05</StartTime>
@@ -105,12 +66,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="6">
 				<IdName>Tentazionemortale_mpeg2video</IdName>
 				<StartDate>2018-07-03</StartDate>
 				<StartTime>02:07:49</StartTime>
 				<EndDate>2018-07-03</EndDate>
-				<EndTime>03:35:17</EndTime>
+				<EndTime>03:35:18</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,10 +79,10 @@
 					<Description>Tentazione mortale</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="7">
 				<IdName>Nessunoèperfetto_mpeg2video</IdName>
 				<StartDate>2018-07-03</StartDate>
-				<StartTime>03:35:17</StartTime>
+				<StartTime>03:35:18</StartTime>
 				<EndDate>2018-07-03</EndDate>
 				<EndTime>05:12:51</EndTime>
 				<ShortEventDescription>
@@ -131,7 +92,7 @@
 					<Description>Nessuno è perfetto</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="8">
 				<IdName>TRAILERPARTE3DEL25-06-2018</IdName>
 				<StartDate>2018-07-03</StartDate>
 				<StartTime>05:12:51</StartTime>
