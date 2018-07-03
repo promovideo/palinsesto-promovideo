@@ -2,19 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>NOTEPULITE4</IdName>
-				<StartDate>2018-07-03</StartDate>
-				<StartTime>18:08:41</StartTime>
-				<EndDate>2018-07-03</EndDate>
-				<EndTime>18:32:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
 				<IdName>NinoManfrediSpaghettiHouse(1982)_mpeg2video</IdName>
 				<StartDate>2018-07-03</StartDate>
 				<StartTime>18:32:45</StartTime>
@@ -27,12 +14,25 @@
 					<Description>SPAGHETTI HOUSE </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="3">
-				<IdName>TRAILERPARTE1DEL11-05-18</IdName>
+			<Event id="2">
+				<IdName>GERACE-Cittàmillenaria</IdName>
 				<StartDate>2018-07-03</StartDate>
 				<StartTime>20:11:53</StartTime>
 				<EndDate>2018-07-03</EndDate>
-				<EndTime>20:20:47</EndTime>
+				<EndTime>20:12:58</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOT GERACE CITTà1000ENARIA</Name>
+					<Description>GERACECITTAMILLENARIA SPOT</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="3">
+				<IdName>GeraceCalabriaItalyHD(720p_30fps_H264-192kbit_AAC)</IdName>
+				<StartDate>2018-07-03</StartDate>
+				<StartTime>20:12:58</StartTime>
+				<EndDate>2018-07-03</EndDate>
+				<EndTime>20:15:48</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -41,24 +41,24 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="4">
-				<IdName>GERACE-Cittàmillenaria</IdName>
+				<IdName>045-NiloVittoria,ilFiumedellaPreistoria(10')eD</IdName>
 				<StartDate>2018-07-03</StartDate>
-				<StartTime>20:20:47</StartTime>
+				<StartTime>20:15:48</StartTime>
 				<EndDate>2018-07-03</EndDate>
-				<EndTime>20:21:52</EndTime>
+				<EndTime>20:25:43</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>SPOT GERACE CITTà1000ENARIA</Name>
-					<Description>GERACECITTAMILLENARIA SPOT</Description>
+					<Name>NILO </Name>
+					<Description>IL  LUME DELLA PREISTORIA</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="5">
-				<IdName>GeraceCalabriaItalyHD(720p_30fps_H264-192kbit_AAC)</IdName>
+				<IdName>TRAILERPARTE1DEL02-07-2018</IdName>
 				<StartDate>2018-07-03</StartDate>
-				<StartTime>20:21:52</StartTime>
+				<StartTime>20:25:43</StartTime>
 				<EndDate>2018-07-03</EndDate>
-				<EndTime>20:24:43</EndTime>
+				<EndTime>20:35:48</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -67,50 +67,24 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="6">
-				<IdName>045-NiloVittoria,ilFiumedellaPreistoria(10')eD</IdName>
+				<IdName>IVisigoti-popolazionibarbare</IdName>
 				<StartDate>2018-07-03</StartDate>
-				<StartTime>20:24:43</StartTime>
+				<StartTime>20:35:48</StartTime>
 				<EndDate>2018-07-03</EndDate>
-				<EndTime>20:34:37</EndTime>
+				<EndTime>21:19:35</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>NILO </Name>
-					<Description>IL  LUME DELLA PREISTORIA</Description>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="7">
-				<IdName>TRAILERPARTE1DEL02-07-2018</IdName>
-				<StartDate>2018-07-03</StartDate>
-				<StartTime>20:34:37</StartTime>
-				<EndDate>2018-07-03</EndDate>
-				<EndTime>20:44:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="8">
-				<IdName>IVisigoti-popolazionibarbare</IdName>
-				<StartDate>2018-07-03</StartDate>
-				<StartTime>20:44:43</StartTime>
-				<EndDate>2018-07-03</EndDate>
-				<EndTime>21:28:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="9">
 				<IdName>1SLUCAMessabrigTRIPODI_mpeg2video</IdName>
 				<StartDate>2018-07-03</StartDate>
-				<StartTime>21:28:29</StartTime>
+				<StartTime>21:19:35</StartTime>
 				<EndDate>2018-07-03</EndDate>
-				<EndTime>22:30:59</EndTime>
+				<EndTime>22:22:05</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,12 +92,12 @@
 					<Description>commemorazione 28ì ann.v morte Mar. Tripodi</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="8">
 				<IdName>JuwannaMann_mpeg2video</IdName>
 				<StartDate>2018-07-03</StartDate>
-				<StartTime>22:30:59</StartTime>
+				<StartTime>22:22:05</StartTime>
 				<EndDate>2018-07-03</EndDate>
-				<EndTime>23:57:54</EndTime>
+				<EndTime>23:49:00</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -131,12 +105,12 @@
 					<Description>Juawanna Mann</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="9">
 				<IdName>Raccontiromani_mpeg2video</IdName>
 				<StartDate>2018-07-03</StartDate>
-				<StartTime>23:57:54</StartTime>
+				<StartTime>23:49:00</StartTime>
 				<EndDate>2018-07-04</EndDate>
-				<EndTime>01:31:55</EndTime>
+				<EndTime>01:23:01</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -144,12 +118,38 @@
 					<Description>Racconti  romani</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="10">
 				<IdName>TRAILERPARTE4DEL02-07-2018</IdName>
 				<StartDate>2018-07-04</StartDate>
-				<StartTime>01:31:55</StartTime>
+				<StartTime>01:23:01</StartTime>
 				<EndDate>2018-07-04</EndDate>
-				<EndTime>01:39:26</EndTime>
+				<EndTime>01:30:32</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="11">
+				<IdName>Mr.Bean-L'ultimacatastrofe</IdName>
+				<StartDate>2018-07-04</StartDate>
+				<StartTime>01:30:32</StartTime>
+				<EndDate>2018-07-04</EndDate>
+				<EndTime>02:55:59</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="12">
+				<IdName>TRAILERPARTE3DEL25-06-2018</IdName>
+				<StartDate>2018-07-04</StartDate>
+				<StartTime>02:55:59</StartTime>
+				<EndDate>2018-07-04</EndDate>
+				<EndTime>03:04:49</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -158,37 +158,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="13">
-				<IdName>Mr.Bean-L'ultimacatastrofe</IdName>
-				<StartDate>2018-07-04</StartDate>
-				<StartTime>01:39:26</StartTime>
-				<EndDate>2018-07-04</EndDate>
-				<EndTime>03:04:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="14">
-				<IdName>TRAILERPARTE3DEL25-06-2018</IdName>
-				<StartDate>2018-07-04</StartDate>
-				<StartTime>03:04:53</StartTime>
-				<EndDate>2018-07-04</EndDate>
-				<EndTime>03:13:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="15">
 				<IdName>Laclinicadellamore_mpeg2video</IdName>
 				<StartDate>2018-07-04</StartDate>
-				<StartTime>03:13:43</StartTime>
+				<StartTime>03:04:49</StartTime>
 				<EndDate>2018-07-04</EndDate>
-				<EndTime>04:42:36</EndTime>
+				<EndTime>04:33:41</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -196,12 +170,12 @@
 					<Description>La clinica dell'amore</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="14">
 				<IdName>Tentazionemortale_mpeg2video</IdName>
 				<StartDate>2018-07-04</StartDate>
-				<StartTime>04:42:36</StartTime>
+				<StartTime>04:33:41</StartTime>
 				<EndDate>2018-07-04</EndDate>
-				<EndTime>06:10:04</EndTime>
+				<EndTime>06:01:10</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -209,12 +183,12 @@
 					<Description>Tentazione mortale</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="15">
 				<IdName>Nessunoèperfetto_mpeg2video</IdName>
 				<StartDate>2018-07-04</StartDate>
-				<StartTime>06:10:04</StartTime>
+				<StartTime>06:01:10</StartTime>
 				<EndDate>2018-07-04</EndDate>
-				<EndTime>07:47:38</EndTime>
+				<EndTime>07:38:43</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
