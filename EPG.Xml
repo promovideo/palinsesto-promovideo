@@ -2,58 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Canolo</IdName>
-				<StartDate>2018-07-04</StartDate>
-				<StartTime>19:24:09</StartTime>
-				<EndDate>2018-07-04</EndDate>
-				<EndTime>19:49:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>canolo</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>GERACE-Cittàmillenaria</IdName>
-				<StartDate>2018-07-04</StartDate>
-				<StartTime>19:49:53</StartTime>
-				<EndDate>2018-07-04</EndDate>
-				<EndTime>19:50:58</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT GERACE CITTà1000ENARIA</Name>
-					<Description>GERACECITTAMILLENARIA SPOT</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>SLAPROMOVIDEOPERILSOCIALE</IdName>
-				<StartDate>2018-07-04</StartDate>
-				<StartTime>19:50:58</StartTime>
-				<EndDate>2018-07-04</EndDate>
-				<EndTime>19:53:18</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI</IdName>
-				<StartDate>2018-07-04</StartDate>
-				<StartTime>19:53:18</StartTime>
-				<EndDate>2018-07-04</EndDate>
-				<EndTime>21:19:25</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>ABRAMO ISACCO GIACOBBE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
 				<IdName>agrisapori764X10-6-18</IdName>
 				<StartDate>2018-07-04</StartDate>
 				<StartTime>21:19:25</StartTime>
@@ -66,7 +14,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="2">
 				<IdName>spotDIGIII</IdName>
 				<StartDate>2018-07-04</StartDate>
 				<StartTime>21:46:39</StartTime>
@@ -79,7 +27,7 @@
 					<Description>SPOT PROMOVIDEO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="3">
 				<IdName>NOTEPULITE4</IdName>
 				<StartDate>2018-07-04</StartDate>
 				<StartTime>21:46:55</StartTime>
@@ -92,7 +40,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="4">
 				<IdName>PROMOVIDEOSPOT1</IdName>
 				<StartDate>2018-07-04</StartDate>
 				<StartTime>22:10:59</StartTime>
@@ -105,12 +53,12 @@
 					<Description>PROMOVIDEOSPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="5">
 				<IdName>ItaliaEconomia</IdName>
 				<StartDate>2018-07-04</StartDate>
 				<StartTime>22:11:06</StartTime>
 				<EndDate>2018-07-04</EndDate>
-				<EndTime>22:28:33</EndTime>
+				<EndTime>22:28:32</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,10 +66,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="6">
 				<IdName>TRAILERPARTE2DEL02-07-2018</IdName>
 				<StartDate>2018-07-04</StartDate>
-				<StartTime>22:28:33</StartTime>
+				<StartTime>22:28:32</StartTime>
 				<EndDate>2018-07-04</EndDate>
 				<EndTime>22:38:38</EndTime>
 				<ShortEventDescription>
@@ -131,12 +79,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="7">
 				<IdName>JuwannaMann_mpeg2video</IdName>
 				<StartDate>2018-07-04</StartDate>
 				<StartTime>22:38:38</StartTime>
 				<EndDate>2018-07-05</EndDate>
-				<EndTime>00:05:33</EndTime>
+				<EndTime>00:05:32</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -144,10 +92,10 @@
 					<Description>Juawanna Mann</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="8">
 				<IdName>bullismoiperbullismo</IdName>
 				<StartDate>2018-07-05</StartDate>
-				<StartTime>00:05:33</StartTime>
+				<StartTime>00:05:32</StartTime>
 				<EndDate>2018-07-05</EndDate>
 				<EndTime>00:28:44</EndTime>
 				<ShortEventDescription>
@@ -157,7 +105,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="9">
 				<IdName>Perunpugnonellocchio_mpeg2video</IdName>
 				<StartDate>2018-07-05</StartDate>
 				<StartTime>00:28:44</StartTime>
@@ -170,7 +118,7 @@
 					<Description>Per  un  pugno  nell' occhio</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="10">
 				<IdName>TRAILERPARTE1DEL25-06-2018</IdName>
 				<StartDate>2018-07-05</StartDate>
 				<StartTime>02:03:36</StartTime>
@@ -183,7 +131,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="11">
 				<IdName>InstantFuture_puntata2(1)</IdName>
 				<StartDate>2018-07-05</StartDate>
 				<StartTime>02:12:26</StartTime>
@@ -196,7 +144,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="12">
 				<IdName>GrotteriaPresepe2012_mpeg2video(1)</IdName>
 				<StartDate>2018-07-05</StartDate>
 				<StartTime>02:25:12</StartTime>
@@ -209,7 +157,7 @@
 					<Description>GROTTERIA PRESEPE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="13">
 				<IdName>X-Men</IdName>
 				<StartDate>2018-07-05</StartDate>
 				<StartTime>03:11:27</StartTime>
@@ -222,7 +170,7 @@
 					<Description>X - MEN</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="14">
 				<IdName>Speed</IdName>
 				<StartDate>2018-07-05</StartDate>
 				<StartTime>04:51:29</StartTime>
