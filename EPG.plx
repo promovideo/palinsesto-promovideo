@@ -1,6 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-11/07/2018	17:21:39	DonCamilloMonsignoremanontroppo	DON CAMILLO   MONSIGNORE	DON CAMILLO MONSIGNORE	01:53:25	1	Film
-11/07/2018	19:15:05	TRAILERPARTE3DEL25-06-2018	Sconosciuto	Nuovo File	00:08:50	0	
 11/07/2018	19:23:55	L'ultimorediScozia	Sconosciuto	L' ultimo re di Scozia	00:59:18	22	
 11/07/2018	20:23:14	PUNT24PIXMINDDEFINITIVA	PIXMIND P.24	Nuovo File	00:23:59	41	programmi culturali
 11/07/2018	20:47:14	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
