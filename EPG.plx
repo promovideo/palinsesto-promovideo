@@ -1,7 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-12/07/2018	19:53:18	AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI	Sconosciuto	ABRAMO ISACCO GIACOBBE	01:26:07	1	Film
-12/07/2018	21:19:25	agrisapori764X10-6-18	Sconosciuto	Nuovo File	00:27:14	0	
-12/07/2018	21:46:40	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
 12/07/2018	21:46:55	NOTEPULITE4	Sconosciuto	Nuovo File	00:24:04	0	
 12/07/2018	22:10:59	PROMOVIDEOSPOT1	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:06	11	spot
 12/07/2018	22:11:06	ItaliaEconomia	Sconosciuto	Nuovo File	00:17:26	0	
