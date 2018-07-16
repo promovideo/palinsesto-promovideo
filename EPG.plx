@@ -1,8 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-16/07/2018	18:45:13	NOTEPULITE4	Sconosciuto	Nuovo File	00:24:04	0	
-16/07/2018	19:09:17	NinoManfrediSpaghettiHouse(1982)_mpeg2video	MANFREDI	SPAGHETTI HOUSE 	01:39:07	1	Film
-16/07/2018	20:48:25	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-16/07/2018	20:49:30	GeraceCalabriaItalyHD(720p_30fps_H264-192kbit_AAC)	Sconosciuto	Nuovo File	00:02:50	0	
 16/07/2018	20:52:20	045-NiloVittoria,ilFiumedellaPreistoria(10')eD	NILO 	IL  LUME DELLA PREISTORIA	00:09:54	71	documentari
 16/07/2018	21:02:15	TRAILERPARTE1DEL02-07-2018	Sconosciuto	Nuovo File	00:10:05	0	
 16/07/2018	21:12:21	IVisigoti-popolazionibarbare	Sconosciuto	Nuovo File	00:43:46	0	
