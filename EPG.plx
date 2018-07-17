@@ -1,5 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-17/07/2018	17:41:41	MilleVocibrasliane-PrimapuntataBrasile_con_logo	Sconosciuto	Nuovo File	01:19:00	0	
 17/07/2018	19:00:41	NOTEPULITE4	Sconosciuto	Nuovo File	00:24:04	0	
 17/07/2018	19:24:45	NinoManfrediSpaghettiHouse(1982)_mpeg2video	MANFREDI	SPAGHETTI HOUSE 	01:39:07	1	Film
 17/07/2018	21:03:53	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
