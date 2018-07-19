@@ -1,6 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-19/07/2018	18:12:53	AdrianoCelentanoJoanLuiFilmCompleto	Sconosciuto	JOAN LUI	02:05:39	1	Film
-19/07/2018	20:18:32	SimsalaGrimm2-Ep.14-Pelled'orsoHDItaliano(480p_25fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:28	0	
 19/07/2018	20:43:01	SimsalaGrimm2-Ep.10-LabellaelabestiaHDItaliano(474p_27fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:25:00	0	
 19/07/2018	21:08:02	Simsalagrimm1-Ep.17-IlfedeleGiovanniHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:23:28	0	
 19/07/2018	21:31:31	SimsalaGrimm2-Ep.18-LafortunadiHans(480p_25fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:32	0	
