@@ -1,9 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-20/07/2018	18:15:15	'IlsegretodiSantaVittoria'(1969)conAnnaMagnanieAnthonyQuinn_mpeg2video	Sconosciuto	IL SEGRETO DI SANTA  VITTORIA	02:13:14	1	Film
-20/07/2018	20:28:30	TRAILERPARTE1DEL25-06-2018	Sconosciuto	Nuovo File	00:08:50	0	
-20/07/2018	20:37:20	Canolo	canolo	Nuovo File	00:25:43	0	
-20/07/2018	21:03:04	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-20/07/2018	21:04:09	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
 20/07/2018	21:06:29	AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI	Sconosciuto	ABRAMO ISACCO GIACOBBE	01:26:07	1	Film
 20/07/2018	22:32:36	agrisapori764X10-6-18	Sconosciuto	Nuovo File	00:27:14	0	
 20/07/2018	22:59:51	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
