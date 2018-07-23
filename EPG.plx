@@ -1,6 +1,5 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-23/07/2018	18:09:44	FormulaMotoriPuntata02-07-18	Sconosciuto	Nuovo File	00:12:00	0	
-23/07/2018	18:21:45	DonCamilloMonsignoremanontroppo	DON CAMILLO   MONSIGNORE	DON CAMILLO MONSIGNORE	01:53:25	1	Film
+23/07/2018	18:21:44	DonCamilloMonsignoremanontroppo	DON CAMILLO   MONSIGNORE	DON CAMILLO MONSIGNORE	01:53:25	1	Film
 23/07/2018	20:15:10	TRAILERPARTE3DEL25-06-2018	Sconosciuto	Nuovo File	00:08:50	0	
 23/07/2018	20:24:00	L'ultimorediScozia	Sconosciuto	L' ultimo re di Scozia	00:59:18	22	
 23/07/2018	21:23:19	BOVALINO-PremioLetterarioMarioLaCava(byEL)(360p_25fps_H264-128kbit_AAC)	premio letterario m. la cava 017	Nuovo File	00:35:22	0	
