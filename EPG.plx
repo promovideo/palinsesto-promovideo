@@ -2,7 +2,7 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 24/07/2018	17:56:10	AustinPowers-IlControspione	Sconosciuto	Nuovo File	01:30:47	22	
 24/07/2018	19:26:57	CIBOR-ISPOTPERREGIA	Sconosciuto	Nuovo File	00:00:37	0	
 24/07/2018	19:27:35	InstantFuturepuntata1_Stagione2(1)	INSTANT 1 2018	INSTANT 1  2018	00:13:51	31	programmi informativi
-24/07/2018	19:41:26	TRAILERPARTE1DEL25-06-2018	Sconosciuto	Nuovo File	00:08:50	0	
+24/07/2018	19:41:26	TRAILERPARTE1DEL25-06-2018	Sconosciuto	GERACE FESTA CARMILE 2018	00:08:50	41	programmi culturali
 24/07/2018	19:50:16	Canolo	canolo	Nuovo File	00:25:43	0	
 24/07/2018	20:16:00	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
 24/07/2018	20:17:05	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
