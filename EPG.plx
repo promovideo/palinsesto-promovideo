@@ -1,5 +1,44 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-25/07/2018	03:57:43	Identit‡Violate	IDENTITA' VIOLATE	IDENTITA' VIOLATE	01:38:46	1	Film
-25/07/2018	05:36:29	FIDAPACZ	Sconosciuto	Nuovo File	00:07:24	0	
-25/07/2018	05:43:54	TRAILERPARTE2DEL25-06-2018	Sconosciuto	Nuovo File	00:08:50	0	
-25/07/2018	05:52:44	Perunpugnonellocchio_mpeg2video	Sconosciuto	Per  un  pugno  nell' occhio	01:34:51	1	Film
+25/07/2018	08:58:25	TartarugheNinja-01Nonuscitedaqueltombino	Sconosciuto	Non uscite dal  quel tombino	00:21:58	51	cartoni animati
+25/07/2018	09:20:24	PROMOVIDEOSPOT2	SPOT  PROMOVIDEOTV 2	SPOT  PROMOVIDEOTV 2	00:00:06	11	spot
+25/07/2018	09:20:30	TRAILERPARTE3DEL02-07-2018	Sconosciuto	Nuovo File	00:10:05	0	
+25/07/2018	09:30:36	FantozziInParadiso	FANTOZZI VA  IN PARADISO	FANTOZZI VA IN PARADISO	01:32:30	1	Film
+25/07/2018	11:03:07	GERACE-Citt‡millenaria	SPOT GERACE CITT‡1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+25/07/2018	11:04:12	FormulaMotoriPuntata02-07-18	Sconosciuto	Nuovo File	00:12:00	0	
+25/07/2018	11:16:12	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+25/07/2018	11:16:19	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
+25/07/2018	11:18:39	GalSila-PiccolaGrandeItalia(720p_30fps_H264-192kbit_AAC)	Sconosciuto	Nuovo File	00:20:47	0	
+25/07/2018	11:39:26	Treuominieunagamba	TRE   UOMINI ED UNA GAMBA	Tre  uomini ed una  gamba	01:37:43	1	Film
+25/07/2018	13:17:10	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
+25/07/2018	13:17:17	TRAILERPARTE4DEL25-06-2018	Sconosciuto	Nuovo File	00:07:49	0	
+25/07/2018	13:25:06	Gliaspid'acheronte.RicordidisetaC)	GILASPI D' ACHERONTE	Nuovo File	00:27:19	71	documentari
+25/07/2018	13:52:25	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+25/07/2018	13:52:32	InstantFutureStagione2_puntata3	INSTANT 3  2018	Nuovo File	00:11:22	31	programmi informativi
+25/07/2018	14:03:55	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
+25/07/2018	14:04:10	Emigrantiedimmigrati	aemigrandi ed  immigrati	scuoal siderno	01:33:33	41	programmi culturali
+25/07/2018	15:37:44	PROMOVIDEOSPOT1	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:06	11	spot
+25/07/2018	15:37:51	CIBOR-ISPOTPERREGIA	Sconosciuto	Nuovo File	00:00:37	0	
+25/07/2018	15:38:28	InstantFuturepuntata1_Stagione2(1)	INSTANT 1 2018	INSTANT 1  2018	00:13:51	31	programmi informativi
+25/07/2018	15:52:20	TRAILERPARTE1DEL25-06-2018	Sconosciuto	GERACE FESTA CARMILE 2018	00:08:50	41	programmi culturali
+25/07/2018	16:01:10	GERACE-FestadellaMadonnadelCarmelo2018(byEL)(360p_25fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:19:44	0	
+25/07/2018	16:20:55	GERACE-Citt‡millenaria	SPOT GERACE CITT‡1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+25/07/2018	16:22:00	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
+25/07/2018	16:24:20	agrisapori764X10-6-18	Sconosciuto	Nuovo File	00:27:14	0	
+25/07/2018	16:51:34	viaggioalsud-castellabate,amantea,tropea,soverato,sanfelicecirceo	CASTRELLABATE AMANTEA PROPEA	CASTRELLABATE AMANTEA PROPEA	00:36:33	71	documentari
+25/07/2018	17:28:08	Perunpugnonellocchio_mpeg2video	Sconosciuto	Per  un  pugno  nell' occhio	01:34:51	1	Film
+25/07/2018	19:03:00	TRAILERPARTE3DEL25-06-2018	Sconosciuto	Nuovo File	00:08:50	0	
+25/07/2018	19:11:50	045-NiloVittoria,ilFiumedellaPreistoria(10')eD	NILO 	IL  LUME DELLA PREISTORIA	00:09:54	71	documentari
+25/07/2018	19:21:45	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
+25/07/2018	19:22:00	AloeBlacc-TheMan(Explicit)	ALOE BLACC	THE MAN	00:04:24	81	videoclip
+25/07/2018	19:26:25	PROMOVIDEOSPOT1	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:06	11	spot
+25/07/2018	19:26:31	JuwannaMann_mpeg2video	Sconosciuto	Juawanna Mann	01:26:54	1	Film
+25/07/2018	20:53:26	Il.Diavolo.bn19631∞t	IL DIAVOLO B/N SORDI 1∞	IL DIAVOLO B/N SORDI 1∞	00:51:44	1	Film
+25/07/2018	21:45:11	Il.Diavolo.bn19632∞t	IL DIAVOLO B/N SORDI 2∞	IL DIAVOLO B/N SORDI 2∞	00:53:09	1	Film
+25/07/2018	22:38:20	Identit‡Violate	IDENTITA' VIOLATE	IDENTITA' VIOLATE	01:38:46	1	Film
+26/07/2018	00:17:06	TRAILERPARTE2DEL25-06-2018	Sconosciuto	Nuovo File	00:08:50	0	
+26/07/2018	00:25:56	gold.il.segno.del.potere.19741∞t.	GOLD  IL SEGNO DEL  POTERE 1∞	GOLD  IL SEGNO DEL  POTERE 1∞	01:01:09	1	Film
+26/07/2018	01:27:05	gold.il.segno.del.potere.19742∞t.	GOLD  IL SEGNO DEL  POTERE 2∞	GOLD  IL SEGNO DEL  POTERE 2∞	00:57:54	1	Film
+26/07/2018	02:25:00	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
+26/07/2018	02:25:19	AustinPowers-IlControspione	Sconosciuto	Nuovo File	01:30:47	22	
+26/07/2018	03:56:06	PiedoneAHongKong	Sconosciuto	Piedone ad Hong Gong	01:50:01	22	
+26/07/2018	05:46:07	Uomo.Avvisato.Mezzo.Ammazzato.19721∞t.	Uomo avvisato mezzo salvato	UOMO  AVVISATO MEZZO AMMAZZATO 1^	00:46:39	1	Film
