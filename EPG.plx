@@ -1,9 +1,8 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-26/07/2018	19:16:26	viaggioalsud-castellabate,amantea,tropea,soverato,sanfelicecirceo	CASTRELLABATE AMANTEA PROPEA	CASTRELLABATE AMANTEA PROPEA	00:36:33	71	
-26/07/2018	19:53:00	Perunpugnonellocchio_mpeg2video	Sconosciuto	Per  un  pugno  nell' occhio	01:34:51	1	
+26/07/2018	19:52:59	Perunpugnonellocchio_mpeg2video	Sconosciuto	Per  un  pugno  nell' occhio	01:34:51	1	
 26/07/2018	21:27:51	TRAILERPARTE3DEL25-06-2018	Sconosciuto	Nuovo File	00:08:50	0	
 26/07/2018	21:36:41	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	
-26/07/2018	21:36:57	InsideI'mdancing	INSIDEL MDANCING	FILM	01:39:53	1	
+26/07/2018	21:36:56	InsideI'mdancing	INSIDEL MDANCING	FILM	01:39:53	1	
 26/07/2018	23:16:50	AloeBlacc-TheMan(Explicit)	ALOE BLACC	THE MAN	00:04:24	81	
 26/07/2018	23:21:14	PROMOVIDEOSPOT1	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:06	11	
 26/07/2018	23:21:21	JuwannaMann_mpeg2video	Sconosciuto	Juawanna Mann	01:26:54	1	
