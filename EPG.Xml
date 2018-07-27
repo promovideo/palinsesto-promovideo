@@ -2,63 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Emigrantiedimmigrati</IdName>
-				<StartDate>2018-07-27</StartDate>
-				<StartTime>19:31:18</StartTime>
-				<EndDate>2018-07-27</EndDate>
-				<EndTime>21:04:52</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>aemigrandi ed  immigrati</Name>
-					<Description>scuola siderno</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>TRAILERPARTE1DEL25-06-2018</IdName>
-				<StartDate>2018-07-27</StartDate>
-				<StartTime>21:04:52</StartTime>
-				<EndDate>2018-07-27</EndDate>
-				<EndTime>21:13:42</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>GERACE FESTA CARMILE 2018</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>GERACE-Cittàmillenaria</IdName>
-				<StartDate>2018-07-27</StartDate>
-				<StartTime>21:13:42</StartTime>
-				<EndDate>2018-07-27</EndDate>
-				<EndTime>21:14:47</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT GERACE CITTà1000ENARIA</Name>
-					<Description>GERACECITTAMILLENARIA SPOT</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>spotDIGIII</IdName>
-				<StartDate>2018-07-27</StartDate>
-				<StartTime>21:14:47</StartTime>
-				<EndDate>2018-07-27</EndDate>
-				<EndTime>21:15:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT DIGII</Name>
-					<Description>SPOT PROMOVIDEO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
 				<IdName>AdrianoCelentanoJoanLuiFilmCompleto</IdName>
 				<StartDate>2018-07-27</StartDate>
-				<StartTime>21:15:02</StartTime>
+				<StartTime>21:15:10</StartTime>
 				<EndDate>2018-07-27</EndDate>
-				<EndTime>23:20:42</EndTime>
+				<EndTime>23:20:50</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -66,12 +14,64 @@
 					<Description>JOAN LUI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="2">
 				<IdName>SimsalaGrimm2-Ep.14-Pelled'orsoHDItaliano(480p_25fps_H264-128kbit_AAC)</IdName>
 				<StartDate>2018-07-27</StartDate>
-				<StartTime>23:20:42</StartTime>
+				<StartTime>23:20:50</StartTime>
 				<EndDate>2018-07-27</EndDate>
-				<EndTime>23:45:11</EndTime>
+				<EndTime>23:45:18</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="3">
+				<IdName>SimsalaGrimm2-Ep.10-LabellaelabestiaHDItaliano(474p_27fps_H264-128kbit_AAC)</IdName>
+				<StartDate>2018-07-27</StartDate>
+				<StartTime>23:45:18</StartTime>
+				<EndDate>2018-07-28</EndDate>
+				<EndTime>00:10:19</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="4">
+				<IdName>Simsalagrimm1-Ep.17-IlfedeleGiovanniHDItaliano(360p_24fps_H264-128kbit_AAC)</IdName>
+				<StartDate>2018-07-28</StartDate>
+				<StartTime>00:10:19</StartTime>
+				<EndDate>2018-07-28</EndDate>
+				<EndTime>00:33:48</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="5">
+				<IdName>SimsalaGrimm2-Ep.18-LafortunadiHans(480p_25fps_H264-128kbit_AAC)</IdName>
+				<StartDate>2018-07-28</StartDate>
+				<StartTime>00:33:48</StartTime>
+				<EndDate>2018-07-28</EndDate>
+				<EndTime>00:58:20</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="6">
+				<IdName>PillolaSalute_20150302_48922</IdName>
+				<StartDate>2018-07-28</StartDate>
+				<StartTime>00:58:20</StartTime>
+				<EndDate>2018-07-28</EndDate>
+				<EndTime>00:59:01</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -80,11 +80,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="7">
-				<IdName>SimsalaGrimm2-Ep.10-LabellaelabestiaHDItaliano(474p_27fps_H264-128kbit_AAC)</IdName>
-				<StartDate>2018-07-27</StartDate>
-				<StartTime>23:45:11</StartTime>
+				<IdName>TRAILERPARTE2DEL02-07-2018</IdName>
+				<StartDate>2018-07-28</StartDate>
+				<StartTime>00:59:01</StartTime>
 				<EndDate>2018-07-28</EndDate>
-				<EndTime>00:10:11</EndTime>
+				<EndTime>01:09:06</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -93,24 +93,24 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="8">
-				<IdName>Simsalagrimm1-Ep.17-IlfedeleGiovanniHDItaliano(360p_24fps_H264-128kbit_AAC)</IdName>
+				<IdName>Infiltratospeciale_mpeg2video</IdName>
 				<StartDate>2018-07-28</StartDate>
-				<StartTime>00:10:11</StartTime>
+				<StartTime>01:09:06</StartTime>
 				<EndDate>2018-07-28</EndDate>
-				<EndTime>00:33:40</EndTime>
+				<EndTime>02:43:41</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Description>Infiltrato  speciale</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="9">
-				<IdName>SimsalaGrimm2-Ep.18-LafortunadiHans(480p_25fps_H264-128kbit_AAC)</IdName>
+				<IdName>2Fastand2Furios</IdName>
 				<StartDate>2018-07-28</StartDate>
-				<StartTime>00:33:40</StartTime>
+				<StartTime>02:43:41</StartTime>
 				<EndDate>2018-07-28</EndDate>
-				<EndTime>00:58:12</EndTime>
+				<EndTime>04:26:51</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -119,11 +119,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="10">
-				<IdName>PillolaSalute_20150302_48922</IdName>
+				<IdName>MilleVocinapoletane,puntatan.01</IdName>
 				<StartDate>2018-07-28</StartDate>
-				<StartTime>00:58:12</StartTime>
+				<StartTime>04:26:51</StartTime>
 				<EndDate>2018-07-28</EndDate>
-				<EndTime>00:58:53</EndTime>
+				<EndTime>06:23:29</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -132,63 +132,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="11">
-				<IdName>TRAILERPARTE2DEL02-07-2018</IdName>
-				<StartDate>2018-07-28</StartDate>
-				<StartTime>00:58:53</StartTime>
-				<EndDate>2018-07-28</EndDate>
-				<EndTime>01:08:58</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="12">
-				<IdName>Infiltratospeciale_mpeg2video</IdName>
-				<StartDate>2018-07-28</StartDate>
-				<StartTime>01:08:58</StartTime>
-				<EndDate>2018-07-28</EndDate>
-				<EndTime>02:43:33</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Infiltrato  speciale</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="13">
-				<IdName>2Fastand2Furios</IdName>
-				<StartDate>2018-07-28</StartDate>
-				<StartTime>02:43:33</StartTime>
-				<EndDate>2018-07-28</EndDate>
-				<EndTime>04:26:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="14">
-				<IdName>MilleVocinapoletane,puntatan.01</IdName>
-				<StartDate>2018-07-28</StartDate>
-				<StartTime>04:26:43</StartTime>
-				<EndDate>2018-07-28</EndDate>
-				<EndTime>06:23:21</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="15">
 				<IdName>29PIXMIND</IdName>
 				<StartDate>2018-07-28</StartDate>
-				<StartTime>06:23:21</StartTime>
+				<StartTime>06:23:29</StartTime>
 				<EndDate>2018-07-28</EndDate>
-				<EndTime>06:47:21</EndTime>
+				<EndTime>06:47:29</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
