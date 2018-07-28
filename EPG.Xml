@@ -2,45 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>agrisapori763X3-6-18</IdName>
-				<StartDate>2018-07-28</StartDate>
-				<StartTime>18:00:36</StartTime>
-				<EndDate>2018-07-28</EndDate>
-				<EndTime>18:28:31</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>GERACE-Cittàmillenaria</IdName>
-				<StartDate>2018-07-28</StartDate>
-				<StartTime>18:28:31</StartTime>
-				<EndDate>2018-07-28</EndDate>
-				<EndTime>18:29:36</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT GERACE CITTà1000ENARIA</Name>
-					<Description>GERACECITTAMILLENARIA SPOT</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>TRAILERPARTE3DEL25-06-2018</IdName>
-				<StartDate>2018-07-28</StartDate>
-				<StartTime>18:29:36</StartTime>
-				<EndDate>2018-07-28</EndDate>
-				<EndTime>18:38:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
 				<IdName>7Monacidoro_mpeg2video</IdName>
 				<StartDate>2018-07-28</StartDate>
 				<StartTime>18:38:26</StartTime>
@@ -53,12 +14,12 @@
 					<Description>7  MONACI D' ORO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="2">
 				<IdName>InstantFuture_puntata2(1)</IdName>
 				<StartDate>2018-07-28</StartDate>
 				<StartTime>20:12:15</StartTime>
 				<EndDate>2018-07-28</EndDate>
-				<EndTime>20:25:01</EndTime>
+				<EndTime>20:25:00</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -66,12 +27,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="3">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2018-07-28</StartDate>
-				<StartTime>20:25:01</StartTime>
+				<StartTime>20:25:00</StartTime>
 				<EndDate>2018-07-28</EndDate>
-				<EndTime>20:25:08</EndTime>
+				<EndTime>20:25:07</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -79,12 +40,12 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="4">
 				<IdName>SLAPROMOVIDEOPERILSOCIALE</IdName>
 				<StartDate>2018-07-28</StartDate>
-				<StartTime>20:25:08</StartTime>
+				<StartTime>20:25:07</StartTime>
 				<EndDate>2018-07-28</EndDate>
-				<EndTime>20:27:28</EndTime>
+				<EndTime>20:27:27</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,10 +53,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="5">
 				<IdName>TRAILERPARTE4DEL02-07-2018</IdName>
 				<StartDate>2018-07-28</StartDate>
-				<StartTime>20:27:28</StartTime>
+				<StartTime>20:27:27</StartTime>
 				<EndDate>2018-07-28</EndDate>
 				<EndTime>20:34:58</EndTime>
 				<ShortEventDescription>
@@ -105,7 +66,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="6">
 				<IdName>0110-1968-Calmaragazzeoggimisposo-LouisDeFunes_mpeg2video</IdName>
 				<StartDate>2018-07-28</StartDate>
 				<StartTime>20:34:58</StartTime>
@@ -118,12 +79,12 @@
 					<Description>CALMA RAGAZZE  OGGI   MI  SPOSO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="7">
 				<IdName>3PROMOVIDEOSPOT3</IdName>
 				<StartDate>2018-07-28</StartDate>
 				<StartTime>22:00:54</StartTime>
 				<EndDate>2018-07-28</EndDate>
-				<EndTime>22:01:01</EndTime>
+				<EndTime>22:01:00</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -131,10 +92,10 @@
 					<Description>SPOT PROMOVIDEOTV 3</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="8">
 				<IdName>NoepoliPiccolaGrandeItalia</IdName>
 				<StartDate>2018-07-28</StartDate>
-				<StartTime>22:01:01</StartTime>
+				<StartTime>22:01:00</StartTime>
 				<EndDate>2018-07-28</EndDate>
 				<EndTime>22:17:33</EndTime>
 				<ShortEventDescription>
@@ -144,12 +105,12 @@
 					<Description>Neapoli</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="9">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2018-07-28</StartDate>
 				<StartTime>22:17:33</StartTime>
 				<EndDate>2018-07-28</EndDate>
-				<EndTime>22:17:40</EndTime>
+				<EndTime>22:17:39</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -157,10 +118,10 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="10">
 				<IdName>TRAILERPARTE2DEL02-07-2018</IdName>
 				<StartDate>2018-07-28</StartDate>
-				<StartTime>22:17:40</StartTime>
+				<StartTime>22:17:39</StartTime>
 				<EndDate>2018-07-28</EndDate>
 				<EndTime>22:27:45</EndTime>
 				<ShortEventDescription>
@@ -170,7 +131,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="11">
 				<IdName>spotDIGIII</IdName>
 				<StartDate>2018-07-28</StartDate>
 				<StartTime>22:27:45</StartTime>
@@ -183,7 +144,7 @@
 					<Description>SPOT PROMOVIDEO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="12">
 				<IdName>TRAILERPARTE2DEL25-06-2018</IdName>
 				<StartDate>2018-07-28</StartDate>
 				<StartTime>22:28:00</StartTime>
@@ -196,12 +157,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="13">
 				<IdName>SalusTV</IdName>
 				<StartDate>2018-07-28</StartDate>
 				<StartTime>22:36:50</StartTime>
 				<EndDate>2018-07-28</EndDate>
-				<EndTime>22:52:33</EndTime>
+				<EndTime>22:52:32</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -209,12 +170,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="14">
 				<IdName>Atlantis</IdName>
 				<StartDate>2018-07-28</StartDate>
-				<StartTime>22:52:33</StartTime>
+				<StartTime>22:52:32</StartTime>
 				<EndDate>2018-07-29</EndDate>
-				<EndTime>00:20:09</EndTime>
+				<EndTime>00:20:08</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -222,12 +183,12 @@
 					<Description>ATLANTIS</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="15">
 				<IdName>PROMOVIDEOSPOT1</IdName>
 				<StartDate>2018-07-29</StartDate>
-				<StartTime>00:20:09</StartTime>
+				<StartTime>00:20:08</StartTime>
 				<EndDate>2018-07-29</EndDate>
-				<EndTime>00:20:16</EndTime>
+				<EndTime>00:20:15</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -235,10 +196,10 @@
 					<Description>PROMOVIDEOSPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="16">
 				<IdName>calabriaantica</IdName>
 				<StartDate>2018-07-29</StartDate>
-				<StartTime>00:20:16</StartTime>
+				<StartTime>00:20:15</StartTime>
 				<EndDate>2018-07-29</EndDate>
 				<EndTime>00:27:48</EndTime>
 				<ShortEventDescription>
@@ -248,12 +209,12 @@
 					<Description>CALABRIA ANTICA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="17">
 				<IdName>CIBOR-ISPOTPERREGIA</IdName>
 				<StartDate>2018-07-29</StartDate>
 				<StartTime>00:27:48</StartTime>
 				<EndDate>2018-07-29</EndDate>
-				<EndTime>00:28:26</EndTime>
+				<EndTime>00:28:25</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -261,12 +222,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="21">
+			<Event id="18">
 				<IdName>TRAILERPARTE1DEL25-06-2018</IdName>
 				<StartDate>2018-07-29</StartDate>
-				<StartTime>00:28:26</StartTime>
+				<StartTime>00:28:25</StartTime>
 				<EndDate>2018-07-29</EndDate>
-				<EndTime>00:37:16</EndTime>
+				<EndTime>00:37:15</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -274,12 +235,12 @@
 					<Description>GERACE FESTA CARMILE 2018</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="22">
+			<Event id="19">
 				<IdName>Canolo</IdName>
 				<StartDate>2018-07-29</StartDate>
-				<StartTime>00:37:16</StartTime>
+				<StartTime>00:37:15</StartTime>
 				<EndDate>2018-07-29</EndDate>
-				<EndTime>01:03:00</EndTime>
+				<EndTime>01:02:59</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -287,12 +248,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="23">
+			<Event id="20">
 				<IdName>GERACE-Cittàmillenaria</IdName>
 				<StartDate>2018-07-29</StartDate>
-				<StartTime>01:03:00</StartTime>
+				<StartTime>01:02:59</StartTime>
 				<EndDate>2018-07-29</EndDate>
-				<EndTime>01:04:05</EndTime>
+				<EndTime>01:04:04</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -300,12 +261,12 @@
 					<Description>GERACECITTAMILLENARIA SPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="24">
+			<Event id="21">
 				<IdName>SLAPROMOVIDEOPERILSOCIALE</IdName>
 				<StartDate>2018-07-29</StartDate>
-				<StartTime>01:04:05</StartTime>
+				<StartTime>01:04:04</StartTime>
 				<EndDate>2018-07-29</EndDate>
-				<EndTime>01:06:25</EndTime>
+				<EndTime>01:06:24</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -313,10 +274,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="25">
+			<Event id="22">
 				<IdName>agrisapori764X10-6-18</IdName>
 				<StartDate>2018-07-29</StartDate>
-				<StartTime>01:06:25</StartTime>
+				<StartTime>01:06:24</StartTime>
 				<EndDate>2018-07-29</EndDate>
 				<EndTime>01:33:39</EndTime>
 				<ShortEventDescription>
@@ -326,12 +287,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="26">
+			<Event id="23">
 				<IdName>NOTEPULITE4</IdName>
 				<StartDate>2018-07-29</StartDate>
 				<StartTime>01:33:39</StartTime>
 				<EndDate>2018-07-29</EndDate>
-				<EndTime>01:57:44</EndTime>
+				<EndTime>01:57:43</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -339,10 +300,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="27">
+			<Event id="24">
 				<IdName>TRAILERPARTE2DEL02-07-2018</IdName>
 				<StartDate>2018-07-29</StartDate>
-				<StartTime>01:57:44</StartTime>
+				<StartTime>01:57:43</StartTime>
 				<EndDate>2018-07-29</EndDate>
 				<EndTime>02:07:49</EndTime>
 				<ShortEventDescription>
@@ -352,12 +313,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="28">
+			<Event id="25">
 				<IdName>InstantFuture_puntata2(1)</IdName>
 				<StartDate>2018-07-29</StartDate>
 				<StartTime>02:07:49</StartTime>
 				<EndDate>2018-07-29</EndDate>
-				<EndTime>02:20:35</EndTime>
+				<EndTime>02:20:34</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -365,10 +326,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="29">
+			<Event id="26">
 				<IdName>Buenavistasocialclub_mpeg2video</IdName>
 				<StartDate>2018-07-29</StartDate>
-				<StartTime>02:20:35</StartTime>
+				<StartTime>02:20:34</StartTime>
 				<EndDate>2018-07-29</EndDate>
 				<EndTime>04:01:03</EndTime>
 				<ShortEventDescription>
@@ -378,7 +339,7 @@
 					<Description>buena vista social club</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="30">
+			<Event id="27">
 				<IdName>GERACE-Cittàmillenaria</IdName>
 				<StartDate>2018-07-29</StartDate>
 				<StartTime>04:01:03</StartTime>
@@ -391,7 +352,7 @@
 					<Description>GERACECITTAMILLENARIA SPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="31">
+			<Event id="28">
 				<IdName>TartarugheNinja-60Agguatonellefogne</IdName>
 				<StartDate>2018-07-29</StartDate>
 				<StartTime>04:02:08</StartTime>
@@ -404,12 +365,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="32">
+			<Event id="29">
 				<IdName>TartarugheNinja-44Ildischettod'oro</IdName>
 				<StartDate>2018-07-29</StartDate>
 				<StartTime>04:22:38</StartTime>
 				<EndDate>2018-07-29</EndDate>
-				<EndTime>04:43:09</EndTime>
+				<EndTime>04:43:08</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -417,10 +378,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="33">
+			<Event id="30">
 				<IdName>2012VUEMMESPOT</IdName>
 				<StartDate>2018-07-29</StartDate>
-				<StartTime>04:43:09</StartTime>
+				<StartTime>04:43:08</StartTime>
 				<EndDate>2018-07-29</EndDate>
 				<EndTime>04:43:46</EndTime>
 				<ShortEventDescription>
@@ -430,12 +391,12 @@
 					<Description>VUEMMEFAST</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="34">
+			<Event id="31">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2018-07-29</StartDate>
 				<StartTime>04:43:46</StartTime>
 				<EndDate>2018-07-29</EndDate>
-				<EndTime>04:43:53</EndTime>
+				<EndTime>04:43:52</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -443,10 +404,10 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="35">
+			<Event id="32">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2018-07-29</StartDate>
-				<StartTime>04:43:53</StartTime>
+				<StartTime>04:43:52</StartTime>
 				<EndDate>2018-07-29</EndDate>
 				<EndTime>04:44:08</EndTime>
 				<ShortEventDescription>
@@ -456,7 +417,7 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="36">
+			<Event id="33">
 				<IdName>GERACE-Cittàmillenaria</IdName>
 				<StartDate>2018-07-29</StartDate>
 				<StartTime>04:44:08</StartTime>
@@ -469,7 +430,7 @@
 					<Description>GERACECITTAMILLENARIA SPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="37">
+			<Event id="34">
 				<IdName>3PROMOVIDEOSPOT3</IdName>
 				<StartDate>2018-07-29</StartDate>
 				<StartTime>04:45:13</StartTime>
@@ -482,12 +443,12 @@
 					<Description>SPOT PROMOVIDEOTV 3</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="38">
+			<Event id="35">
 				<IdName>benessere_20150715_52345</IdName>
 				<StartDate>2018-07-29</StartDate>
 				<StartTime>04:45:20</StartTime>
 				<EndDate>2018-07-29</EndDate>
-				<EndTime>04:46:32</EndTime>
+				<EndTime>04:46:31</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -495,10 +456,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="39">
+			<Event id="36">
 				<IdName>agrisapori715x4-6-17</IdName>
 				<StartDate>2018-07-29</StartDate>
-				<StartTime>04:46:32</StartTime>
+				<StartTime>04:46:31</StartTime>
 				<EndDate>2018-07-29</EndDate>
 				<EndTime>05:11:51</EndTime>
 				<ShortEventDescription>
@@ -508,7 +469,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="40">
+			<Event id="37">
 				<IdName>spotDIGIII</IdName>
 				<StartDate>2018-07-29</StartDate>
 				<StartTime>05:11:51</StartTime>
@@ -521,7 +482,7 @@
 					<Description>SPOT PROMOVIDEO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="41">
+			<Event id="38">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2018-07-29</StartDate>
 				<StartTime>05:12:06</StartTime>
@@ -534,12 +495,12 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="42">
+			<Event id="39">
 				<IdName>PillolaSalute_20150302_48922</IdName>
 				<StartDate>2018-07-29</StartDate>
 				<StartTime>05:12:13</StartTime>
 				<EndDate>2018-07-29</EndDate>
-				<EndTime>05:12:54</EndTime>
+				<EndTime>05:12:53</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -547,10 +508,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="43">
+			<Event id="40">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2018-07-29</StartDate>
-				<StartTime>05:12:54</StartTime>
+				<StartTime>05:12:53</StartTime>
 				<EndDate>2018-07-29</EndDate>
 				<EndTime>05:13:00</EndTime>
 				<ShortEventDescription>
@@ -560,7 +521,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="44">
+			<Event id="41">
 				<IdName>SLAPROMOVIDEOPERILSOCIALE</IdName>
 				<StartDate>2018-07-29</StartDate>
 				<StartTime>05:13:00</StartTime>
@@ -573,12 +534,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="45">
+			<Event id="42">
 				<IdName>Filmato</IdName>
 				<StartDate>2018-07-29</StartDate>
 				<StartTime>05:15:20</StartTime>
 				<EndDate>2018-07-29</EndDate>
-				<EndTime>05:17:50</EndTime>
+				<EndTime>05:17:49</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -586,10 +547,10 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="46">
+			<Event id="43">
 				<IdName>Iscrivitialnostrocanalepromovideotvsuyoutube</IdName>
 				<StartDate>2018-07-29</StartDate>
-				<StartTime>05:17:50</StartTime>
+				<StartTime>05:17:49</StartTime>
 				<EndDate>2018-07-29</EndDate>
 				<EndTime>05:18:05</EndTime>
 				<ShortEventDescription>
@@ -599,7 +560,7 @@
 					<Description>ISCRIVITI CANALE YOU TUBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="47">
+			<Event id="44">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2018-07-29</StartDate>
 				<StartTime>05:18:05</StartTime>
