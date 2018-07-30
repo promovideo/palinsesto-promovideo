@@ -1,8 +1,6 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-30/07/2018	17:13:28	Buenavistasocialclub_mpeg2video	BUENA VISTA SOCIAL CLUB	buena vista social club	01:40:28	81	videoclip
-30/07/2018	18:53:57	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
 30/07/2018	18:55:02	TartarugheNinja-60Agguatonellefogne	Sconosciuto	Nuovo File	00:20:29	0	
-30/07/2018	19:15:32	TartarugheNinja-44Ildischettod'oro	Sconosciuto	Nuovo File	00:20:30	0	
+30/07/2018	19:15:31	TartarugheNinja-44Ildischettod'oro	Sconosciuto	Nuovo File	00:20:30	0	
 30/07/2018	19:36:02	TartarugheNinja-43Pericolosubacqueo	Sconosciuto	Nuovo File	00:20:30	0	
 30/07/2018	19:56:32	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
 30/07/2018	19:56:43	2012VUEMMESPOT	VUEMMEFAST	VUEMMEFAST	00:00:37	11	spot
@@ -14,7 +12,7 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 30/07/2018	22:24:56	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	documentari
 30/07/2018	22:46:25	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
 30/07/2018	22:47:30	benessere_20150715_52345	Sconosciuto	Nuovo File	00:01:11	0	
-30/07/2018	22:48:42	agrisapori715x4-6-17	Sconosciuto	Nuovo File	00:25:19	0	
+30/07/2018	22:48:41	agrisapori715x4-6-17	Sconosciuto	Nuovo File	00:25:19	0	
 30/07/2018	23:14:01	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
 30/07/2018	23:14:16	CassanoFestadelSantissimoCrocifisso	Sconosciuto	Nuovo File	00:29:43	0	
 30/07/2018	23:44:00	paesemio	Sconosciuto	Nuovo File	00:31:37	0	
