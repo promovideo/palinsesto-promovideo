@@ -1,3 +1,38 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-30/07/2018	06:13:20	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	
-30/07/2018	07:43:56	AustinPowers-IlControspione	Sconosciuto	Nuovo File	01:30:47	22	
+30/07/2018	17:13:28	Buenavistasocialclub_mpeg2video	BUENA VISTA SOCIAL CLUB	buena vista social club	01:40:28	81	videoclip
+30/07/2018	18:53:57	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+30/07/2018	18:55:02	TartarugheNinja-60Agguatonellefogne	Sconosciuto	Nuovo File	00:20:29	0	
+30/07/2018	19:15:32	TartarugheNinja-44Ildischettod'oro	Sconosciuto	Nuovo File	00:20:30	0	
+30/07/2018	19:36:02	TartarugheNinja-43Pericolosubacqueo	Sconosciuto	Nuovo File	00:20:30	0	
+30/07/2018	19:56:32	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+30/07/2018	19:56:43	2012VUEMMESPOT	VUEMMEFAST	VUEMMEFAST	00:00:37	11	spot
+30/07/2018	19:57:21	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
+30/07/2018	20:21:44	29PIXMIND	Sconosciuto	Nuovo File	00:24:00	0	
+30/07/2018	20:45:44	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+30/07/2018	20:45:51	Integralespettacolo	FESTA DEI  POPOLI	FESTA DEI  POPOLI	01:38:49	41	programmi culturali
+30/07/2018	22:24:40	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
+30/07/2018	22:24:56	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	documentari
+30/07/2018	22:46:25	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+30/07/2018	22:47:30	benessere_20150715_52345	Sconosciuto	Nuovo File	00:01:11	0	
+30/07/2018	22:48:42	agrisapori715x4-6-17	Sconosciuto	Nuovo File	00:25:19	0	
+30/07/2018	23:14:01	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
+30/07/2018	23:14:16	CassanoFestadelSantissimoCrocifisso	Sconosciuto	Nuovo File	00:29:43	0	
+30/07/2018	23:44:00	paesemio	Sconosciuto	Nuovo File	00:31:37	0	
+31/07/2018	00:15:37	IlBrigantaggio	IL  BRIGANTAGGIO	IL  BRIGANTAGGIO	00:32:04	71	documentari
+31/07/2018	00:47:41	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
+31/07/2018	00:48:22	IlmegliodiMilleVoci2017_p02	Sconosciuto	Nuovo File	01:23:08	0	
+31/07/2018	02:11:30	SimsalaGrimm2-Ep.19-IlpiccoloMookHDItaliano(480p_20fps_H264-128kbit_AAC)	IL PICCOLO MOOK	EP.19	00:24:35	51	cartoni animati
+31/07/2018	02:36:06	SimsalaGrimm2-Ep.13-LetrepiumeHdItaliano(720p_30fps_H264-192kbit_AAC)	le tre  piume	EP 13	00:24:33	51	cartoni animati
+31/07/2018	03:00:39	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
+31/07/2018	03:00:46	MuseoEgiziodelCairo(parte1)(2)	MUSEO EGIZIO DEL CAIRO 1^	MUSEO EGIZIODEL CAIRO 1^	00:24:45	41	programmi culturali
+31/07/2018	03:25:31	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+31/07/2018	03:25:38	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
+31/07/2018	03:27:58	AmicimieiattoIII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO III	01:49:20	1	Film
+31/07/2018	05:17:19	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+31/07/2018	05:17:26	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
+31/07/2018	05:19:55	FantozziVaInPensione	FANTOZZI VA IN PENSIONE	FANTOZZI VA IN PENSIONE	01:34:36	1	Film
+31/07/2018	06:54:31	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+31/07/2018	06:54:38	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+31/07/2018	06:54:49	Souvenird'Italie_mpeg2video	Souvenir d'Italy	Souvenir d'Italy	01:44:43	1	Film
+31/07/2018	08:39:32	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+31/07/2018	08:39:39	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
