@@ -2,35 +2,9 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>gold.il.segno.del.potere.19741°t.</IdName>
-				<StartDate>2018-07-30</StartDate>
-				<StartTime>05:11:53</StartTime>
-				<EndDate>2018-07-30</EndDate>
-				<EndTime>06:13:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GOLD  IL SEGNO DEL  POTERE 1°</Name>
-					<Description>GOLD  IL SEGNO DEL  POTERE 1°</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>spottc</IdName>
-				<StartDate>2018-07-30</StartDate>
-				<StartTime>06:13:02</StartTime>
-				<EndDate>2018-07-30</EndDate>
-				<EndTime>06:13:21</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
 				<IdName>AttackForce</IdName>
 				<StartDate>2018-07-30</StartDate>
-				<StartTime>06:13:21</StartTime>
+				<StartTime>06:13:20</StartTime>
 				<EndDate>2018-07-30</EndDate>
 				<EndTime>07:43:56</EndTime>
 				<ShortEventDescription>
@@ -40,7 +14,7 @@
 					<Description>ATTACK FORCE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="2">
 				<IdName>AustinPowers-IlControspione</IdName>
 				<StartDate>2018-07-30</StartDate>
 				<StartTime>07:43:56</StartTime>
