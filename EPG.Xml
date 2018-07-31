@@ -2,45 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>FantozziFracchiaLaBelvaUmana</IdName>
-				<StartDate>2018-07-31</StartDate>
-				<StartTime>19:19:32</StartTime>
-				<EndDate>2018-07-31</EndDate>
-				<EndTime>20:55:38</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>FANTOZZI FRACCHAI LA BELVAUMANA</Name>
-					<Description>LA BELVA  UMANA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>GERACE-Cittàmillenaria</IdName>
-				<StartDate>2018-07-31</StartDate>
-				<StartTime>20:55:38</StartTime>
-				<EndDate>2018-07-31</EndDate>
-				<EndTime>20:56:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT GERACE CITTà1000ENARIA</Name>
-					<Description>GERACECITTAMILLENARIA SPOT</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>TRAILERPARTE1DEL02-07-2018</IdName>
-				<StartDate>2018-07-31</StartDate>
-				<StartTime>20:56:43</StartTime>
-				<EndDate>2018-07-31</EndDate>
-				<EndTime>21:06:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
 				<IdName>Perunpugnonellocchio_mpeg2video</IdName>
 				<StartDate>2018-07-31</StartDate>
 				<StartTime>21:06:48</StartTime>
@@ -53,7 +14,7 @@
 					<Description>Per  un  pugno  nell' occhio</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="2">
 				<IdName>IdentitàViolate</IdName>
 				<StartDate>2018-07-31</StartDate>
 				<StartTime>22:41:40</StartTime>
@@ -66,7 +27,7 @@
 					<Description>IDENTITA' VIOLATE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="3">
 				<IdName>spotDIGIII</IdName>
 				<StartDate>2018-08-01</StartDate>
 				<StartTime>00:20:26</StartTime>
@@ -79,7 +40,7 @@
 					<Description>SPOT PROMOVIDEO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="4">
 				<IdName>GERACE-BORGOINCANTATO2018</IdName>
 				<StartDate>2018-08-01</StartDate>
 				<StartTime>00:20:41</StartTime>
@@ -92,7 +53,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="5">
 				<IdName>Malibùmostwanted_mpeg2video</IdName>
 				<StartDate>2018-08-01</StartDate>
 				<StartTime>00:56:08</StartTime>
@@ -105,12 +66,12 @@
 					<Description>MALIBU MONS WANTED</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="6">
 				<IdName>PillolaSalute_20150302_48922</IdName>
 				<StartDate>2018-08-01</StartDate>
 				<StartTime>02:18:43</StartTime>
 				<EndDate>2018-08-01</EndDate>
-				<EndTime>02:19:24</EndTime>
+				<EndTime>02:19:23</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,10 +79,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="7">
 				<IdName>CityofGhost_mpeg2video</IdName>
 				<StartDate>2018-08-01</StartDate>
-				<StartTime>02:19:24</StartTime>
+				<StartTime>02:19:23</StartTime>
 				<EndDate>2018-08-01</EndDate>
 				<EndTime>04:11:06</EndTime>
 				<ShortEventDescription>
@@ -131,7 +92,7 @@
 					<Description>CYTY OF GHOST</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="8">
 				<IdName>Papadiventamamma_mpeg2video</IdName>
 				<StartDate>2018-08-01</StartDate>
 				<StartTime>04:11:06</StartTime>
