@@ -1,62 +1,24 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-03/08/2018	09:14:33	Papadiventamamma_mpeg2video	PAPA  DIVENTA  MAMMA	PAPA  DIVENTA  MAMMA	01:20:22	1	Film
-03/08/2018	10:34:56	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-03/08/2018	10:36:01	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-03/08/2018	10:36:08	IpostipibellidellacalabriaDestinationCalabriaGiuseppeScorzaPepoMac@gmailcom_mpeg2video	Sconosciuto	I POSTI PIU  BELLI DELLA CALABRIA	00:03:59	71	documentari
-03/08/2018	10:40:08	SPOTDIABETE	SPOT DIABETE	spot diabete	00:00:29	11	spot
-03/08/2018	10:40:38	Iscrivitialnostrocanalepromovideotvsuyoutube	ISCRIVITI CANALE YOU TUBE	ISCRIVITI CANALE YOU TUBE	00:00:15	11	spot
-03/08/2018	10:40:53	MYTECH-PIXMINDreplicaestate(9ok)	Sconosciuto	Nuovo File	00:23:59	0	
-03/08/2018	11:04:53	TgeventsPuntata360	TG EVENTS 360	TG EVENTS 360	00:14:39	31	programmi informativi
-03/08/2018	11:19:32	TRAILERPARTE7DEL25-06-2018	Sconosciuto	Nuovo File	00:08:50	0	
-03/08/2018	11:28:22	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-03/08/2018	11:28:29	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-03/08/2018	11:28:40	PROMOVIDEOSPOT2	SPOT  PROMOVIDEOTV 2	SPOT  PROMOVIDEOTV 2	00:00:06	11	spot
-03/08/2018	11:28:47	TRAILERPARTE4DEL25-06-2018	Sconosciuto	Nuovo File	00:07:49	0	
-03/08/2018	11:36:36	L'ApeMaia-Ep.7-Williperdelamemoria(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:53	0	
-03/08/2018	11:58:30	L'ApeMaia-Ep.6-L'incendionelbosco(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:48	0	
-03/08/2018	12:20:19	L'ApeMaia-Ep.3-Lalibellula(SerieOriginale)(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:25	0	
-03/08/2018	12:44:44	agrisapori763X3-6-18	Sconosciuto	Nuovo File	00:27:54	0	
-03/08/2018	13:12:39	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-03/08/2018	13:13:44	TRAILERPARTE3DEL25-06-2018	Sconosciuto	Nuovo File	00:08:50	0	
-03/08/2018	13:22:34	7Monacidoro_mpeg2video	7  monaci d  oro	7  MONACI D' ORO	01:33:49	1	Film
-03/08/2018	14:56:23	InstantFuture_puntata2(1)	INSTANT 2  2018	Nuovo File	00:12:45	31	programmi informativi
-03/08/2018	15:09:09	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-03/08/2018	15:09:16	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
-03/08/2018	15:11:36	TRAILERPARTE4DEL02-07-2018	Sconosciuto	Nuovo File	00:07:30	0	
-03/08/2018	15:19:06	0110-1968-Calmaragazzeoggimisposo-LouisDeFunes_mpeg2video	Sconosciuto	CALMA RAGAZZE  OGGI   MI  SPOSO	01:25:55	1	Film
-03/08/2018	16:45:02	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-03/08/2018	16:45:09	NoepoliPiccolaGrandeItalia	Piccola grande Italia	Neapoli	00:16:32	71	documentari
-03/08/2018	17:01:41	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-03/08/2018	17:01:48	viaggioalsud-castellabate,amantea,tropea,soverato,sanfelicecirceo	CASTRELLABATE AMANTEA PROPEA	CASTRELLABATE AMANTEA PROPEA	00:36:33	71	documentari
-03/08/2018	17:38:21	TRAILERPARTE2DEL02-07-2018	Sconosciuto	Nuovo File	00:10:05	0	
-03/08/2018	17:48:27	SimsalaGrimm2-Ep.25-JorindaeJoringhelloHDItaliano(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:29	51	cartoni animati
-03/08/2018	18:12:56	SimsalaGrimm2-Ep.7-IquattrofratelliingegnoHDItaliano(480p_28fps_H264-128kbit_AAC)	I 4 FRATELLI INGEGNO	EP.7	00:28:29	51	cartoni animati
-03/08/2018	18:41:26	SimsalaGrimm2-Ep.8-L'ostilita'delmagoHDItaliano(480p_28fps_H264-128kbit_AAC)	L 'STILITA DEL MAGO	EP. 8	00:24:30	51	cartoni animati
-03/08/2018	19:05:57	SimsalaGrimm2-Ep.9-L'usignolodell'imperatoreHdItaliano(480p_28fps_H264-128kbit_AAC)	L 'USIGNOLO DELL' IMPERATORE	EP. 9	00:24:31	51	cartoni animati
-03/08/2018	19:30:29	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-03/08/2018	19:30:44	TRAILERPARTE2DEL25-06-2018	Sconosciuto	Nuovo File	00:08:50	0	
-03/08/2018	19:39:34	SalusTV	Sconosciuto	Nuovo File	00:15:42	0	
-03/08/2018	19:55:16	Atlantis	ATLANTIS	ATLANTIS	01:27:36	71	documentari
-03/08/2018	21:22:53	PROMOVIDEOSPOT1	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:06	11	spot
-03/08/2018	21:22:59	calabriaantica	CALABRIA ANTICA	CALABRIA ANTICA	00:07:32	41	programmi culturali
-03/08/2018	21:30:32	CIBOR-ISPOTPERREGIA	Sconosciuto	Nuovo File	00:00:37	0	
-03/08/2018	21:31:09	'IlsegretodiSantaVittoria'(1969)conAnnaMagnanieAnthonyQuinn_mpeg2video	Sconosciuto	IL SEGRETO DI SANTA  VITTORIA	02:13:14	1	Film
-03/08/2018	23:44:24	TRAILERPARTE1DEL25-06-2018	Sconosciuto	GERACE FESTA CARMILE 2018	00:08:50	41	programmi culturali
-03/08/2018	23:53:14	Canolo	canolo	Nuovo File	00:25:43	0	
-04/08/2018	00:18:58	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-04/08/2018	00:20:03	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
-04/08/2018	00:22:23	AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI	Sconosciuto	ABRAMO ISACCO GIACOBBE	01:26:07	1	Film
-04/08/2018	01:48:30	agrisapori764X10-6-18	Sconosciuto	Nuovo File	00:27:14	0	
-04/08/2018	02:15:45	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-04/08/2018	02:16:00	NOTEPULITE4	Sconosciuto	Nuovo File	00:24:04	0	
-04/08/2018	02:40:04	PROMOVIDEOSPOT1	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:06	11	spot
-04/08/2018	02:40:11	ItaliaEconomia	Sconosciuto	Nuovo File	00:17:26	0	
-04/08/2018	02:57:38	TRAILERPARTE2DEL02-07-2018	Sconosciuto	Nuovo File	00:10:05	0	
-04/08/2018	03:07:43	JuwannaMann_mpeg2video	Sconosciuto	Juawanna Mann	01:26:54	1	Film
-04/08/2018	04:34:38	bullismoiperbullismo	Sconosciuto	Nuovo File	00:23:11	0	
-04/08/2018	04:57:49	Perunpugnonellocchio_mpeg2video	Sconosciuto	Per  un  pugno  nell' occhio	01:34:51	1	Film
-04/08/2018	06:32:41	TRAILERPARTE1DEL25-06-2018	Sconosciuto	GERACE FESTA CARMILE 2018	00:08:50	41	programmi culturali
-04/08/2018	06:41:31	InstantFuture_puntata2(1)	INSTANT 2  2018	Nuovo File	00:12:45	31	programmi informativi
-04/08/2018	06:54:17	GrotteriaPresepe2012_mpeg2video(1)	GROTTERIA PRESEPE	GROTTERIA PRESEPE	00:46:15	71	documentari
-04/08/2018	07:40:32	X-Men	X - MEN	X - MEN	01:40:02	1	Film
-04/08/2018	09:20:34	Speed	SPEED	SPEED	01:50:00	1	Film
+03/08/2018	18:14:03	Atlantis	ATLANTIS	ATLANTIS	01:27:36	71	documentari
+03/08/2018	19:41:39	PROMOVIDEOSPOT1	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:06	11	spot
+03/08/2018	19:41:46	calabriaantica	CALABRIA ANTICA	CALABRIA ANTICA	00:07:32	41	programmi culturali
+03/08/2018	19:49:18	CIBOR-ISPOTPERREGIA	Sconosciuto	Nuovo File	00:00:37	0	
+03/08/2018	19:49:56	'IlsegretodiSantaVittoria'(1969)conAnnaMagnanieAnthonyQuinn_mpeg2video	Sconosciuto	IL SEGRETO DI SANTA  VITTORIA	02:13:14	1	Film
+03/08/2018	22:03:10	TRAILERPARTE1DEL25-06-2018	Sconosciuto	GERACE FESTA CARMILE 2018	00:08:50	41	programmi culturali
+03/08/2018	22:12:00	Canolo	canolo	Nuovo File	00:25:43	0	
+03/08/2018	22:37:44	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+03/08/2018	22:38:49	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
+03/08/2018	22:41:09	AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI	Sconosciuto	ABRAMO ISACCO GIACOBBE	01:26:07	1	Film
+04/08/2018	00:07:16	agrisapori764X10-6-18	Sconosciuto	Nuovo File	00:27:14	0	
+04/08/2018	00:34:31	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
+04/08/2018	00:34:46	NOTEPULITE4	Sconosciuto	Nuovo File	00:24:04	0	
+04/08/2018	00:58:51	PROMOVIDEOSPOT1	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:06	11	spot
+04/08/2018	00:58:58	ItaliaEconomia	Sconosciuto	Nuovo File	00:17:26	0	
+04/08/2018	01:16:24	TRAILERPARTE2DEL02-07-2018	Sconosciuto	Nuovo File	00:10:05	0	
+04/08/2018	01:26:29	JuwannaMann_mpeg2video	Sconosciuto	Juawanna Mann	01:26:54	1	Film
+04/08/2018	02:53:24	bullismoiperbullismo	Sconosciuto	Nuovo File	00:23:11	0	
+04/08/2018	03:16:36	Perunpugnonellocchio_mpeg2video	Sconosciuto	Per  un  pugno  nell' occhio	01:34:51	1	Film
+04/08/2018	04:51:27	TRAILERPARTE1DEL25-06-2018	Sconosciuto	GERACE FESTA CARMILE 2018	00:08:50	41	programmi culturali
+04/08/2018	05:00:18	InstantFuture_puntata2(1)	INSTANT 2  2018	Nuovo File	00:12:45	31	programmi informativi
+04/08/2018	05:13:03	GrotteriaPresepe2012_mpeg2video(1)	GROTTERIA PRESEPE	GROTTERIA PRESEPE	00:46:15	71	documentari
+04/08/2018	05:59:19	X-Men	X - MEN	X - MEN	01:40:02	1	Film
