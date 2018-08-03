@@ -2,32 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Atlantis</IdName>
-				<StartDate>2018-08-03</StartDate>
-				<StartTime>18:14:03</StartTime>
-				<EndDate>2018-08-03</EndDate>
-				<EndTime>19:41:39</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ATLANTIS</Name>
-					<Description>ATLANTIS</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>PROMOVIDEOSPOT1</IdName>
-				<StartDate>2018-08-03</StartDate>
-				<StartTime>19:41:39</StartTime>
-				<EndDate>2018-08-03</EndDate>
-				<EndTime>19:41:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PROMOVIDEOSPOT</Name>
-					<Description>PROMOVIDEOSPOT</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
 				<IdName>calabriaantica</IdName>
 				<StartDate>2018-08-03</StartDate>
 				<StartTime>19:41:46</StartTime>
@@ -40,7 +14,7 @@
 					<Description>CALABRIA ANTICA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="2">
 				<IdName>CIBOR-ISPOTPERREGIA</IdName>
 				<StartDate>2018-08-03</StartDate>
 				<StartTime>19:49:18</StartTime>
@@ -53,7 +27,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="3">
 				<IdName>'IlsegretodiSantaVittoria'(1969)conAnnaMagnanieAnthonyQuinn_mpeg2video</IdName>
 				<StartDate>2018-08-03</StartDate>
 				<StartTime>19:49:56</StartTime>
@@ -66,7 +40,7 @@
 					<Description>IL SEGRETO DI SANTA  VITTORIA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="4">
 				<IdName>TRAILERPARTE1DEL25-06-2018</IdName>
 				<StartDate>2018-08-03</StartDate>
 				<StartTime>22:03:10</StartTime>
@@ -79,7 +53,7 @@
 					<Description>GERACE FESTA CARMILE 2018</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="5">
 				<IdName>Canolo</IdName>
 				<StartDate>2018-08-03</StartDate>
 				<StartTime>22:12:00</StartTime>
@@ -92,7 +66,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="6">
 				<IdName>GERACE-Cittàmillenaria</IdName>
 				<StartDate>2018-08-03</StartDate>
 				<StartTime>22:37:44</StartTime>
@@ -105,7 +79,7 @@
 					<Description>GERACECITTAMILLENARIA SPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="7">
 				<IdName>SLAPROMOVIDEOPERILSOCIALE</IdName>
 				<StartDate>2018-08-03</StartDate>
 				<StartTime>22:38:49</StartTime>
@@ -118,7 +92,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="8">
 				<IdName>AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI</IdName>
 				<StartDate>2018-08-03</StartDate>
 				<StartTime>22:41:09</StartTime>
@@ -131,7 +105,7 @@
 					<Description>ABRAMO ISACCO GIACOBBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="9">
 				<IdName>agrisapori764X10-6-18</IdName>
 				<StartDate>2018-08-04</StartDate>
 				<StartTime>00:07:16</StartTime>
@@ -144,7 +118,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="10">
 				<IdName>spotDIGIII</IdName>
 				<StartDate>2018-08-04</StartDate>
 				<StartTime>00:34:31</StartTime>
@@ -157,7 +131,7 @@
 					<Description>SPOT PROMOVIDEO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="11">
 				<IdName>NOTEPULITE4</IdName>
 				<StartDate>2018-08-04</StartDate>
 				<StartTime>00:34:46</StartTime>
@@ -170,12 +144,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="12">
 				<IdName>PROMOVIDEOSPOT1</IdName>
 				<StartDate>2018-08-04</StartDate>
 				<StartTime>00:58:51</StartTime>
 				<EndDate>2018-08-04</EndDate>
-				<EndTime>00:58:58</EndTime>
+				<EndTime>00:58:57</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -183,10 +157,10 @@
 					<Description>PROMOVIDEOSPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="13">
 				<IdName>ItaliaEconomia</IdName>
 				<StartDate>2018-08-04</StartDate>
-				<StartTime>00:58:58</StartTime>
+				<StartTime>00:58:57</StartTime>
 				<EndDate>2018-08-04</EndDate>
 				<EndTime>01:16:24</EndTime>
 				<ShortEventDescription>
@@ -196,7 +170,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="14">
 				<IdName>TRAILERPARTE2DEL02-07-2018</IdName>
 				<StartDate>2018-08-04</StartDate>
 				<StartTime>01:16:24</StartTime>
@@ -209,7 +183,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="15">
 				<IdName>JuwannaMann_mpeg2video</IdName>
 				<StartDate>2018-08-04</StartDate>
 				<StartTime>01:26:29</StartTime>
@@ -222,7 +196,7 @@
 					<Description>Juawanna Mann</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="16">
 				<IdName>bullismoiperbullismo</IdName>
 				<StartDate>2018-08-04</StartDate>
 				<StartTime>02:53:24</StartTime>
@@ -235,7 +209,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="17">
 				<IdName>Perunpugnonellocchio_mpeg2video</IdName>
 				<StartDate>2018-08-04</StartDate>
 				<StartTime>03:16:36</StartTime>
@@ -248,12 +222,12 @@
 					<Description>Per  un  pugno  nell' occhio</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="18">
 				<IdName>TRAILERPARTE1DEL25-06-2018</IdName>
 				<StartDate>2018-08-04</StartDate>
 				<StartTime>04:51:27</StartTime>
 				<EndDate>2018-08-04</EndDate>
-				<EndTime>05:00:18</EndTime>
+				<EndTime>05:00:17</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -261,10 +235,10 @@
 					<Description>GERACE FESTA CARMILE 2018</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="21">
+			<Event id="19">
 				<IdName>InstantFuture_puntata2(1)</IdName>
 				<StartDate>2018-08-04</StartDate>
-				<StartTime>05:00:18</StartTime>
+				<StartTime>05:00:17</StartTime>
 				<EndDate>2018-08-04</EndDate>
 				<EndTime>05:13:03</EndTime>
 				<ShortEventDescription>
@@ -274,7 +248,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="22">
+			<Event id="20">
 				<IdName>GrotteriaPresepe2012_mpeg2video(1)</IdName>
 				<StartDate>2018-08-04</StartDate>
 				<StartTime>05:13:03</StartTime>
@@ -287,7 +261,7 @@
 					<Description>GROTTERIA PRESEPE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="23">
+			<Event id="21">
 				<IdName>X-Men</IdName>
 				<StartDate>2018-08-04</StartDate>
 				<StartTime>05:59:19</StartTime>
