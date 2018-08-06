@@ -2,19 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>IdentitàViolate</IdName>
-				<StartDate>2018-08-06</StartDate>
-				<StartTime>19:26:32</StartTime>
-				<EndDate>2018-08-06</EndDate>
-				<EndTime>21:05:18</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IDENTITA' VIOLATE</Name>
-					<Description>IDENTITA' VIOLATE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
 				<IdName>Papadiventamamma_mpeg2video</IdName>
 				<StartDate>2018-08-06</StartDate>
 				<StartTime>21:05:18</StartTime>
@@ -27,7 +14,7 @@
 					<Description>PAPA  DIVENTA  MAMMA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="3">
+			<Event id="2">
 				<IdName>spotDIGIII</IdName>
 				<StartDate>2018-08-06</StartDate>
 				<StartTime>22:25:41</StartTime>
@@ -40,7 +27,7 @@
 					<Description>SPOT PROMOVIDEO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="3">
 				<IdName>TRAILERPARTE1DEL25-06-2018</IdName>
 				<StartDate>2018-08-06</StartDate>
 				<StartTime>22:25:56</StartTime>
@@ -53,7 +40,7 @@
 					<Description>GERACE FESTA CARMILE 2018</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="4">
 				<IdName>MelicuccàPiccolaGrandeItalia</IdName>
 				<StartDate>2018-08-06</StartDate>
 				<StartTime>22:34:46</StartTime>
@@ -66,7 +53,7 @@
 					<Description>Melicuccà</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="5">
 				<IdName>GERACE-BORGOINCANTATO2018</IdName>
 				<StartDate>2018-08-06</StartDate>
 				<StartTime>22:53:08</StartTime>
@@ -79,7 +66,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="6">
 				<IdName>Malibùmostwanted_mpeg2video</IdName>
 				<StartDate>2018-08-06</StartDate>
 				<StartTime>23:28:34</StartTime>
@@ -92,7 +79,7 @@
 					<Description>MALIBU MONS WANTED</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="7">
 				<IdName>FormulaMotori_Puntata_27-08-18</IdName>
 				<StartDate>2018-08-07</StartDate>
 				<StartTime>00:51:10</StartTime>
@@ -105,7 +92,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="8">
 				<IdName>'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video</IdName>
 				<StartDate>2018-08-07</StartDate>
 				<StartTime>01:03:10</StartTime>
@@ -118,7 +105,7 @@
 					<Description>Natale in casa   Cupiello</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="9">
 				<IdName>PillolaSalute_20150302_48922</IdName>
 				<StartDate>2018-08-07</StartDate>
 				<StartTime>03:15:58</StartTime>
@@ -131,12 +118,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="10">
 				<IdName>TRAILERPARTE1DEL25-06-2018</IdName>
 				<StartDate>2018-08-07</StartDate>
 				<StartTime>03:16:38</StartTime>
 				<EndDate>2018-08-07</EndDate>
-				<EndTime>03:25:29</EndTime>
+				<EndTime>03:25:28</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -144,10 +131,10 @@
 					<Description>GERACE FESTA CARMILE 2018</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="11">
 				<IdName>CoriglianoCalabro-PiccolaGrandeItalia</IdName>
 				<StartDate>2018-08-07</StartDate>
-				<StartTime>03:25:29</StartTime>
+				<StartTime>03:25:28</StartTime>
 				<EndDate>2018-08-07</EndDate>
 				<EndTime>03:50:31</EndTime>
 				<ShortEventDescription>
@@ -157,7 +144,7 @@
 					<Description>CORIGLIANO CALABRO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="12">
 				<IdName>CityofGhost_mpeg2video</IdName>
 				<StartDate>2018-08-07</StartDate>
 				<StartTime>03:50:31</StartTime>
