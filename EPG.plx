@@ -1,6 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-07/08/2018	17:25:36	filmcompletoPiratiRPolanski1986	PIRATI	Pirati	01:45:39	1	Film
-07/08/2018	19:11:16	TRAILERPARTE1DEL25-06-2018	Sconosciuto	GERACE FESTA CARMILE 2018	00:08:50	41	programmi culturali
 07/08/2018	19:20:06	MelicuccàPiccolaGrandeItalia	Piccola grande Italia	Melicuccà	00:18:21	42	
 07/08/2018	19:38:27	Spotoffertaestiva_mpeg2video	SPOT OFEFRTA ESTIVA	SPOT OFFERAT ESTIVA	00:00:46	11	spot
 07/08/2018	19:39:13	Malibùmostwanted_mpeg2video	Sconosciuto	MALIBU MONS WANTED	01:22:35	1	Film
