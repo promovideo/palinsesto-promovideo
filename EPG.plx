@@ -1,8 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-07/08/2018	19:20:06	MelicuccàPiccolaGrandeItalia	Piccola grande Italia	Melicuccà	00:18:21	42	
-07/08/2018	19:38:27	Spotoffertaestiva_mpeg2video	SPOT OFEFRTA ESTIVA	SPOT OFFERAT ESTIVA	00:00:46	11	spot
-07/08/2018	19:39:13	Malibùmostwanted_mpeg2video	Sconosciuto	MALIBU MONS WANTED	01:22:35	1	Film
-07/08/2018	21:01:49	FormulaMotori_Puntata_27-08-18	Sconosciuto	Nuovo File	00:12:00	0	
 07/08/2018	21:13:49	'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video	Commedia	Natale in casa   Cupiello	02:12:48	1	Film
 07/08/2018	23:26:37	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
 07/08/2018	23:27:17	PROMOVIDEOTVinformazioneculturacomunicazione(1)hd	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:21	11	spot
