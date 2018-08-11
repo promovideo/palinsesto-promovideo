@@ -2,50 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>filmcompletoPiratiRPolanski1986</IdName>
-				<StartDate>2018-08-11</StartDate>
-				<StartTime>19:25:07</StartTime>
-				<EndDate>2018-08-11</EndDate>
-				<EndTime>21:10:47</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PIRATI</Name>
-					<Description>Pirati</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>MelicuccàPiccolaGrandeItalia</IdName>
-				<StartDate>2018-08-11</StartDate>
-				<StartTime>21:10:47</StartTime>
-				<EndDate>2018-08-11</EndDate>
-				<EndTime>21:29:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola grande Italia</Name>
-					<Description>Melicuccà</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>Spotoffertaestiva_mpeg2video</IdName>
-				<StartDate>2018-08-11</StartDate>
-				<StartTime>21:29:08</StartTime>
-				<EndDate>2018-08-11</EndDate>
-				<EndTime>21:29:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT OFEFRTA ESTIVA</Name>
-					<Description>SPOT OFFERAT ESTIVA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
 				<IdName>Malibùmostwanted_mpeg2video</IdName>
 				<StartDate>2018-08-11</StartDate>
 				<StartTime>21:29:54</StartTime>
 				<EndDate>2018-08-11</EndDate>
-				<EndTime>22:52:30</EndTime>
+				<EndTime>22:52:29</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -53,12 +14,12 @@
 					<Description>MALIBU MONS WANTED</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="2">
 				<IdName>FormulaMotori_Puntata_27-08-18</IdName>
 				<StartDate>2018-08-11</StartDate>
-				<StartTime>22:52:30</StartTime>
+				<StartTime>22:52:29</StartTime>
 				<EndDate>2018-08-11</EndDate>
-				<EndTime>23:04:30</EndTime>
+				<EndTime>23:04:29</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -66,12 +27,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="3">
 				<IdName>PillolaSalute_20150302_48922</IdName>
 				<StartDate>2018-08-11</StartDate>
-				<StartTime>23:04:30</StartTime>
+				<StartTime>23:04:29</StartTime>
 				<EndDate>2018-08-11</EndDate>
-				<EndTime>23:05:10</EndTime>
+				<EndTime>23:05:09</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -79,12 +40,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="4">
 				<IdName>KarateKid</IdName>
 				<StartDate>2018-08-11</StartDate>
-				<StartTime>23:05:10</StartTime>
+				<StartTime>23:05:09</StartTime>
 				<EndDate>2018-08-12</EndDate>
-				<EndTime>01:06:47</EndTime>
+				<EndTime>01:06:46</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,12 +53,12 @@
 					<Description>Karate Kid</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="5">
 				<IdName>CoriglianoCalabro-PiccolaGrandeItalia</IdName>
 				<StartDate>2018-08-12</StartDate>
-				<StartTime>01:06:47</StartTime>
+				<StartTime>01:06:46</StartTime>
 				<EndDate>2018-08-12</EndDate>
-				<EndTime>01:31:50</EndTime>
+				<EndTime>01:31:49</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -105,12 +66,12 @@
 					<Description>CORIGLIANO CALABRO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="6">
 				<IdName>Ilpadrino</IdName>
 				<StartDate>2018-08-12</StartDate>
-				<StartTime>01:31:50</StartTime>
+				<StartTime>01:31:49</StartTime>
 				<EndDate>2018-08-12</EndDate>
-				<EndTime>04:19:54</EndTime>
+				<EndTime>04:19:53</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,12 +79,12 @@
 					<Description>Il padrino</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="7">
 				<IdName>GERACE-BORGOINCANTATO2018</IdName>
 				<StartDate>2018-08-12</StartDate>
-				<StartTime>04:19:54</StartTime>
+				<StartTime>04:19:53</StartTime>
 				<EndDate>2018-08-12</EndDate>
-				<EndTime>04:55:21</EndTime>
+				<EndTime>04:55:20</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -131,12 +92,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="8">
 				<IdName>GIORGIAINFINITEVOLTE</IdName>
 				<StartDate>2018-08-12</StartDate>
-				<StartTime>04:55:21</StartTime>
+				<StartTime>04:55:20</StartTime>
 				<EndDate>2018-08-12</EndDate>
-				<EndTime>04:59:11</EndTime>
+				<EndTime>04:59:10</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
