@@ -2,193 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Emigrantiedimmigrati</IdName>
-				<StartDate>2018-08-12</StartDate>
-				<StartTime>21:07:14</StartTime>
-				<EndDate>2018-08-12</EndDate>
-				<EndTime>22:40:47</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>aemigrandi ed  immigrati</Name>
-					<Description>scuola siderno</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2018-08-12</StartDate>
-				<StartTime>22:40:47</StartTime>
-				<EndDate>2018-08-12</EndDate>
-				<EndTime>22:40:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>MusicaeTradizioni</IdName>
-				<StartDate>2018-08-12</StartDate>
-				<StartTime>22:40:54</StartTime>
-				<EndDate>2018-08-12</EndDate>
-				<EndTime>22:51:52</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>MUSICA E TRADIZIONI</Name>
-					<Description>MUSICA E TRADIZIONI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>MontaltoUffugoFestadelgranosull'Aia</IdName>
-				<StartDate>2018-08-12</StartDate>
-				<StartTime>22:51:52</StartTime>
-				<EndDate>2018-08-12</EndDate>
-				<EndTime>23:06:22</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>MONTALTO UFFUGO</Name>
-					<Description>MONTALTO  UFFUGO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
-				<IdName>Spotoffertaestiva_mpeg2video</IdName>
-				<StartDate>2018-08-12</StartDate>
-				<StartTime>23:06:22</StartTime>
-				<EndDate>2018-08-12</EndDate>
-				<EndTime>23:07:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT OFEFRTA ESTIVA</Name>
-					<Description>SPOT OFFERAT ESTIVA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
-				<IdName>GERACE-Cittàmillenaria</IdName>
-				<StartDate>2018-08-12</StartDate>
-				<StartTime>23:07:08</StartTime>
-				<EndDate>2018-08-12</EndDate>
-				<EndTime>23:08:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT GERACE CITTà1000ENARIA</Name>
-					<Description>GERACECITTAMILLENARIA SPOT</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
-				<IdName>TRAILERPARTE1DEL02-07-2018</IdName>
-				<StartDate>2018-08-12</StartDate>
-				<StartTime>23:08:13</StartTime>
-				<EndDate>2018-08-12</EndDate>
-				<EndTime>23:18:18</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="8">
-				<IdName>spotDIGIII</IdName>
-				<StartDate>2018-08-12</StartDate>
-				<StartTime>23:18:18</StartTime>
-				<EndDate>2018-08-12</EndDate>
-				<EndTime>23:18:33</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT DIGII</Name>
-					<Description>SPOT PROMOVIDEO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="9">
-				<IdName>filmcompletoPiratiRPolanski1986</IdName>
-				<StartDate>2018-08-12</StartDate>
-				<StartTime>23:18:33</StartTime>
-				<EndDate>2018-08-13</EndDate>
-				<EndTime>01:04:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PIRATI</Name>
-					<Description>Pirati</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
-				<IdName>TRAILERPARTE1DEL25-06-2018</IdName>
-				<StartDate>2018-08-13</StartDate>
-				<StartTime>01:04:13</StartTime>
-				<EndDate>2018-08-13</EndDate>
-				<EndTime>01:13:03</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>GERACE FESTA CARMILE 2018</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="11">
-				<IdName>MelicuccàPiccolaGrandeItalia</IdName>
-				<StartDate>2018-08-13</StartDate>
-				<StartTime>01:13:03</StartTime>
-				<EndDate>2018-08-13</EndDate>
-				<EndTime>01:31:25</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola grande Italia</Name>
-					<Description>Melicuccà</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="12">
-				<IdName>Spotoffertaestiva_mpeg2video</IdName>
-				<StartDate>2018-08-13</StartDate>
-				<StartTime>01:31:25</StartTime>
-				<EndDate>2018-08-13</EndDate>
-				<EndTime>01:32:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT OFEFRTA ESTIVA</Name>
-					<Description>SPOT OFFERAT ESTIVA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="13">
-				<IdName>Malibùmostwanted_mpeg2video</IdName>
-				<StartDate>2018-08-13</StartDate>
-				<StartTime>01:32:11</StartTime>
-				<EndDate>2018-08-13</EndDate>
-				<EndTime>02:54:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>MALIBU MONS WANTED</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="14">
-				<IdName>FormulaMotori_Puntata_27-08-18</IdName>
-				<StartDate>2018-08-13</StartDate>
-				<StartTime>02:54:46</StartTime>
-				<EndDate>2018-08-13</EndDate>
-				<EndTime>03:06:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="15">
 				<IdName>'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video</IdName>
 				<StartDate>2018-08-13</StartDate>
-				<StartTime>03:06:46</StartTime>
+				<StartTime>02:48:12</StartTime>
 				<EndDate>2018-08-13</EndDate>
-				<EndTime>05:19:34</EndTime>
+				<EndTime>05:01:00</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -196,12 +14,12 @@
 					<Description>Natale in casa   Cupiello</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="2">
 				<IdName>PillolaSalute_20150302_48922</IdName>
 				<StartDate>2018-08-13</StartDate>
-				<StartTime>05:19:34</StartTime>
+				<StartTime>05:01:00</StartTime>
 				<EndDate>2018-08-13</EndDate>
-				<EndTime>05:20:15</EndTime>
+				<EndTime>05:01:40</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -209,12 +27,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="3">
 				<IdName>PROMOVIDEOTVinformazioneculturacomunicazione(1)hd</IdName>
 				<StartDate>2018-08-13</StartDate>
-				<StartTime>05:20:15</StartTime>
+				<StartTime>05:01:40</StartTime>
 				<EndDate>2018-08-13</EndDate>
-				<EndTime>05:20:36</EndTime>
+				<EndTime>05:02:02</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -222,12 +40,12 @@
 					<Description>PROMOVIDEOSPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="4">
 				<IdName>KarateKid</IdName>
 				<StartDate>2018-08-13</StartDate>
-				<StartTime>05:20:36</StartTime>
+				<StartTime>05:02:02</StartTime>
 				<EndDate>2018-08-13</EndDate>
-				<EndTime>07:22:13</EndTime>
+				<EndTime>07:03:39</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
