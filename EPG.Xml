@@ -2,50 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>PiedoneAHongKong</IdName>
-				<StartDate>2018-08-19</StartDate>
-				<StartTime>19:40:59</StartTime>
-				<EndDate>2018-08-19</EndDate>
-				<EndTime>21:31:00</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Piedone ad Hong Gong</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>TRAILERPARTE3DEL13-08-2018</IdName>
-				<StartDate>2018-08-19</StartDate>
-				<StartTime>21:31:00</StartTime>
-				<EndDate>2018-08-19</EndDate>
-				<EndTime>21:40:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>spotDIGIII</IdName>
-				<StartDate>2018-08-19</StartDate>
-				<StartTime>21:40:11</StartTime>
-				<EndDate>2018-08-19</EndDate>
-				<EndTime>21:40:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT DIGII</Name>
-					<Description>SPOT PROMOVIDEO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
 				<IdName>Melicucc‡PiccolaGrandeItalia</IdName>
 				<StartDate>2018-08-19</StartDate>
 				<StartTime>21:40:26</StartTime>
 				<EndDate>2018-08-19</EndDate>
-				<EndTime>21:58:48</EndTime>
+				<EndTime>21:58:47</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -53,10 +14,10 @@
 					<Description>Melicucc‡</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="2">
 				<IdName>GERACE-BORGOINCANTATO2018</IdName>
 				<StartDate>2018-08-19</StartDate>
-				<StartTime>21:58:48</StartTime>
+				<StartTime>21:58:47</StartTime>
 				<EndDate>2018-08-19</EndDate>
 				<EndTime>22:34:14</EndTime>
 				<ShortEventDescription>
@@ -66,7 +27,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="3">
 				<IdName>FormulaMotori_Puntata_27-08-18</IdName>
 				<StartDate>2018-08-19</StartDate>
 				<StartTime>22:34:14</StartTime>
@@ -79,7 +40,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="4">
 				<IdName>PillolaSalute_20150302_48922</IdName>
 				<StartDate>2018-08-19</StartDate>
 				<StartTime>22:46:14</StartTime>
@@ -92,7 +53,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="5">
 				<IdName>TRAILERPARTE2DEL20-08-2018</IdName>
 				<StartDate>2018-08-19</StartDate>
 				<StartTime>22:46:55</StartTime>
@@ -105,12 +66,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="6">
 				<IdName>GliUnn</IdName>
 				<StartDate>2018-08-19</StartDate>
 				<StartTime>22:55:39</StartTime>
 				<EndDate>2018-08-19</EndDate>
-				<EndTime>23:39:16</EndTime>
+				<EndTime>23:39:15</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,10 +79,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="7">
 				<IdName>BovaChoratuVuaIlGioielloD'Aspromonte</IdName>
 				<StartDate>2018-08-19</StartDate>
-				<StartTime>23:39:16</StartTime>
+				<StartTime>23:39:15</StartTime>
 				<EndDate>2018-08-19</EndDate>
 				<EndTime>23:55:27</EndTime>
 				<ShortEventDescription>
@@ -131,7 +92,7 @@
 					<Description>BOVA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="8">
 				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
 				<StartDate>2018-08-19</StartDate>
 				<StartTime>23:55:27</StartTime>
@@ -144,7 +105,7 @@
 					<Description>CRASH CONTATTO  FINALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="9">
 				<IdName>CoriglianoCalabro-PiccolaGrandeItalia</IdName>
 				<StartDate>2018-08-20</StartDate>
 				<StartTime>01:43:58</StartTime>
@@ -157,7 +118,7 @@
 					<Description>CORIGLIANO CALABRO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="10">
 				<IdName>AmicimieiattoIII_mpeg2video</IdName>
 				<StartDate>2018-08-20</StartDate>
 				<StartTime>02:09:01</StartTime>
@@ -170,7 +131,7 @@
 					<Description>AMICI MIEI  ATTO III</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="11">
 				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
 				<StartDate>2018-08-20</StartDate>
 				<StartTime>03:58:22</StartTime>
@@ -183,12 +144,12 @@
 					<Description>CRASH CONTATTO  FINALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="12">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2018-08-20</StartDate>
 				<StartTime>05:46:53</StartTime>
 				<EndDate>2018-08-20</EndDate>
-				<EndTime>05:47:00</EndTime>
+				<EndTime>05:46:59</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
