@@ -2,37 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Uomo.Avvisato.Mezzo.Ammazzato.19722°t.</IdName>
-				<StartDate>2018-08-27</StartDate>
-				<StartTime>17:50:44</StartTime>
-				<EndDate>2018-08-27</EndDate>
-				<EndTime>18:33:55</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>UOMO  AVVISATO MEZZO AMMAZZATO 2^ </Name>
-					<Description>UOMO  AVVISATO MEZZO AMMAZZATO 2^</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2018-08-27</StartDate>
-				<StartTime>18:33:55</StartTime>
-				<EndDate>2018-08-27</EndDate>
-				<EndTime>18:34:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
 				<IdName>LaCompagniaDell'Anello</IdName>
 				<StartDate>2018-08-27</StartDate>
 				<StartTime>18:34:02</StartTime>
 				<EndDate>2018-08-27</EndDate>
-				<EndTime>21:53:58</EndTime>
+				<EndTime>21:53:57</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -40,12 +14,12 @@
 					<Description>La compagnia dell'anello </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="2">
 				<IdName>GERACE-Cittàmillenaria</IdName>
 				<StartDate>2018-08-27</StartDate>
-				<StartTime>21:53:58</StartTime>
+				<StartTime>21:53:57</StartTime>
 				<EndDate>2018-08-27</EndDate>
-				<EndTime>21:55:03</EndTime>
+				<EndTime>21:55:02</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -53,10 +27,10 @@
 					<Description>GERACECITTAMILLENARIA SPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="3">
 				<IdName>AustinPowers2-Laspiacheciprovava</IdName>
 				<StartDate>2018-08-27</StartDate>
-				<StartTime>21:55:03</StartTime>
+				<StartTime>21:55:02</StartTime>
 				<EndDate>2018-08-27</EndDate>
 				<EndTime>23:26:10</EndTime>
 				<ShortEventDescription>
@@ -66,7 +40,7 @@
 					<Description>LA SPIA CHE CI  PROVAVA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="4">
 				<IdName>spotDIGIII</IdName>
 				<StartDate>2018-08-27</StartDate>
 				<StartTime>23:26:10</StartTime>
@@ -79,7 +53,7 @@
 					<Description>SPOT PROMOVIDEO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="5">
 				<IdName>Senzanomesanzaregole</IdName>
 				<StartDate>2018-08-27</StartDate>
 				<StartTime>23:26:25</StartTime>
@@ -92,7 +66,7 @@
 					<Description>Senza nome senza regole</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="6">
 				<IdName>PillolaSalute_20150302_48922</IdName>
 				<StartDate>2018-08-28</StartDate>
 				<StartTime>01:10:05</StartTime>
@@ -105,7 +79,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="7">
 				<IdName>6PROMOVIDEOSPOT6</IdName>
 				<StartDate>2018-08-28</StartDate>
 				<StartTime>01:10:45</StartTime>
@@ -118,7 +92,7 @@
 					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="8">
 				<IdName>CityofGhost_mpeg2video</IdName>
 				<StartDate>2018-08-28</StartDate>
 				<StartTime>01:10:52</StartTime>
@@ -131,12 +105,12 @@
 					<Description>CYTY OF GHOST</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="9">
 				<IdName>Papadiventamamma_mpeg2video</IdName>
 				<StartDate>2018-08-28</StartDate>
 				<StartTime>03:02:35</StartTime>
 				<EndDate>2018-08-28</EndDate>
-				<EndTime>04:22:58</EndTime>
+				<EndTime>04:22:57</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -144,10 +118,10 @@
 					<Description>PAPA  DIVENTA  MAMMA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="10">
 				<IdName>TRAILERPARTE1DEL13-08-2018</IdName>
 				<StartDate>2018-08-28</StartDate>
-				<StartTime>04:22:58</StartTime>
+				<StartTime>04:22:57</StartTime>
 				<EndDate>2018-08-28</EndDate>
 				<EndTime>04:32:08</EndTime>
 				<ShortEventDescription>
@@ -157,7 +131,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="11">
 				<IdName>2Fastand2Furios</IdName>
 				<StartDate>2018-08-28</StartDate>
 				<StartTime>04:32:08</StartTime>
@@ -170,7 +144,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="12">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2018-08-28</StartDate>
 				<StartTime>06:15:18</StartTime>
@@ -183,7 +157,7 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="13">
 				<IdName>Il.Diavolo.bn19631°t</IdName>
 				<StartDate>2018-08-28</StartDate>
 				<StartTime>06:15:25</StartTime>
