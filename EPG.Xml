@@ -2,24 +2,50 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>TRAILERPARTE2DEL13-08-2018</IdName>
+				<IdName>Uomo.Avvisato.Mezzo.Ammazzato.19722°t.</IdName>
 				<StartDate>2018-08-27</StartDate>
-				<StartTime>10:04:41</StartTime>
+				<StartTime>17:50:44</StartTime>
 				<EndDate>2018-08-27</EndDate>
-				<EndTime>10:13:51</EndTime>
+				<EndTime>18:33:55</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>UOMO  AVVISATO MEZZO AMMAZZATO 2^ </Name>
+					<Description>UOMO  AVVISATO MEZZO AMMAZZATO 2^</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="2">
+				<IdName>7PROMOVIDEOspot7</IdName>
+				<StartDate>2018-08-27</StartDate>
+				<StartTime>18:33:55</StartTime>
+				<EndDate>2018-08-27</EndDate>
+				<EndTime>18:34:02</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOT  PROMOVIDEOTV</Name>
+					<Description>SPOT PROMOVIDEOTV</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="3">
+				<IdName>LaCompagniaDell'Anello</IdName>
+				<StartDate>2018-08-27</StartDate>
+				<StartTime>18:34:02</StartTime>
+				<EndDate>2018-08-27</EndDate>
+				<EndTime>21:53:58</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Description>La compagnia dell'anello </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="2">
+			<Event id="4">
 				<IdName>GERACE-Cittàmillenaria</IdName>
 				<StartDate>2018-08-27</StartDate>
-				<StartTime>10:13:51</StartTime>
+				<StartTime>21:53:58</StartTime>
 				<EndDate>2018-08-27</EndDate>
-				<EndTime>10:14:56</EndTime>
+				<EndTime>21:55:03</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -27,12 +53,12 @@
 					<Description>GERACECITTAMILLENARIA SPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="3">
+			<Event id="5">
 				<IdName>AustinPowers2-Laspiacheciprovava</IdName>
 				<StartDate>2018-08-27</StartDate>
-				<StartTime>10:14:56</StartTime>
+				<StartTime>21:55:03</StartTime>
 				<EndDate>2018-08-27</EndDate>
-				<EndTime>11:46:03</EndTime>
+				<EndTime>23:26:10</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -40,116 +66,90 @@
 					<Description>LA SPIA CHE CI  PROVAVA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
-				<IdName>PrometeoTV_20180801_74277</IdName>
-				<StartDate>2018-08-27</StartDate>
-				<StartTime>11:46:03</StartTime>
-				<EndDate>2018-08-27</EndDate>
-				<EndTime>11:51:42</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
-				<IdName>minispotapplicazione</IdName>
-				<StartDate>2018-08-27</StartDate>
-				<StartTime>11:51:42</StartTime>
-				<EndDate>2018-08-27</EndDate>
-				<EndTime>11:51:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTAPP</Name>
-					<Description>SPOTAPP</Description>
-				</ShortEventDescription>
-			</Event>
 			<Event id="6">
-				<IdName>PUNT19MYTECH-PIXMINDok</IdName>
+				<IdName>spotDIGIII</IdName>
 				<StartDate>2018-08-27</StartDate>
-				<StartTime>11:51:53</StartTime>
+				<StartTime>23:26:10</StartTime>
 				<EndDate>2018-08-27</EndDate>
-				<EndTime>12:14:56</EndTime>
+				<EndTime>23:26:25</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>PIUXMIND P. 19</Name>
-					<Description>Nuovo File</Description>
+					<Name>SPOT DIGII</Name>
+					<Description>SPOT PROMOVIDEO</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="7">
-				<IdName>IoStoConGliIppopotami</IdName>
+				<IdName>Senzanomesanzaregole</IdName>
 				<StartDate>2018-08-27</StartDate>
-				<StartTime>12:14:56</StartTime>
-				<EndDate>2018-08-27</EndDate>
-				<EndTime>13:59:22</EndTime>
+				<StartTime>23:26:25</StartTime>
+				<EndDate>2018-08-28</EndDate>
+				<EndTime>01:10:05</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Io  sto  con gli Ippopotami</Description>
+					<Name>SENZA NOME SENZA REGOLE</Name>
+					<Description>Senza nome senza regole</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="8">
-				<IdName>TgeventsPuntata360</IdName>
-				<StartDate>2018-08-27</StartDate>
-				<StartTime>13:59:22</StartTime>
-				<EndDate>2018-08-27</EndDate>
-				<EndTime>14:14:01</EndTime>
+				<IdName>PillolaSalute_20150302_48922</IdName>
+				<StartDate>2018-08-28</StartDate>
+				<StartTime>01:10:05</StartTime>
+				<EndDate>2018-08-28</EndDate>
+				<EndTime>01:10:45</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>TG EVENTS 360</Name>
-					<Description>TG EVENTS 360</Description>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="9">
-				<IdName>TRAILERPARTE4DEL13-08-2018</IdName>
-				<StartDate>2018-08-27</StartDate>
-				<StartTime>14:14:01</StartTime>
-				<EndDate>2018-08-27</EndDate>
-				<EndTime>14:21:57</EndTime>
+				<IdName>6PROMOVIDEOSPOT6</IdName>
+				<StartDate>2018-08-28</StartDate>
+				<StartTime>01:10:45</StartTime>
+				<EndDate>2018-08-28</EndDate>
+				<EndTime>01:10:52</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>6 SPOT PTOMOVIDEO</Name>
+					<Description>PROMOVIDEOSPOT 6</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="10">
-				<IdName>LeComiche2</IdName>
-				<StartDate>2018-08-27</StartDate>
-				<StartTime>14:21:57</StartTime>
-				<EndDate>2018-08-27</EndDate>
-				<EndTime>15:49:13</EndTime>
+				<IdName>CityofGhost_mpeg2video</IdName>
+				<StartDate>2018-08-28</StartDate>
+				<StartTime>01:10:52</StartTime>
+				<EndDate>2018-08-28</EndDate>
+				<EndTime>03:02:35</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Sconosciuto</Name>
-					<Description>Le comiche 2</Description>
+					<Description>CYTY OF GHOST</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="11">
-				<IdName>042-Tanzania,TerradiAmici(14')eD</IdName>
-				<StartDate>2018-08-27</StartDate>
-				<StartTime>15:49:13</StartTime>
-				<EndDate>2018-08-27</EndDate>
-				<EndTime>16:03:18</EndTime>
+				<IdName>Papadiventamamma_mpeg2video</IdName>
+				<StartDate>2018-08-28</StartDate>
+				<StartTime>03:02:35</StartTime>
+				<EndDate>2018-08-28</EndDate>
+				<EndTime>04:22:58</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>TANZANIA</Name>
-					<Description>Nuovo File</Description>
+					<Name>PAPA  DIVENTA  MAMMA</Name>
+					<Description>PAPA  DIVENTA  MAMMA</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="12">
-				<IdName>TRAILERPARTE3DEL13-08-2018</IdName>
-				<StartDate>2018-08-27</StartDate>
-				<StartTime>16:03:18</StartTime>
-				<EndDate>2018-08-27</EndDate>
-				<EndTime>16:12:28</EndTime>
+				<IdName>TRAILERPARTE1DEL13-08-2018</IdName>
+				<StartDate>2018-08-28</StartDate>
+				<StartTime>04:22:58</StartTime>
+				<EndDate>2018-08-28</EndDate>
+				<EndTime>04:32:08</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -158,219 +158,37 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="13">
-				<IdName>Fantozzi-GrandiMagazzini</IdName>
-				<StartDate>2018-08-27</StartDate>
-				<StartTime>16:12:28</StartTime>
-				<EndDate>2018-08-27</EndDate>
-				<EndTime>18:03:04</EndTime>
+				<IdName>2Fastand2Furios</IdName>
+				<StartDate>2018-08-28</StartDate>
+				<StartTime>04:32:08</StartTime>
+				<EndDate>2018-08-28</EndDate>
+				<EndTime>06:15:18</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>FANTOZZI GRANDI MAGAZZINI</Name>
-					<Description>GRANDI MAGAZZINI</Description>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="14">
-				<IdName>SLAPROMOVIDEOPERILSOCIALE</IdName>
-				<StartDate>2018-08-27</StartDate>
-				<StartTime>18:03:04</StartTime>
-				<EndDate>2018-08-27</EndDate>
-				<EndTime>18:05:24</EndTime>
+				<IdName>7PROMOVIDEOspot7</IdName>
+				<StartDate>2018-08-28</StartDate>
+				<StartTime>06:15:18</StartTime>
+				<EndDate>2018-08-28</EndDate>
+				<EndTime>06:15:25</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>SPOT  PROMOVIDEOTV</Name>
+					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="15">
-				<IdName>Uomo.Avvisato.Mezzo.Ammazzato.19722°t.</IdName>
-				<StartDate>2018-08-27</StartDate>
-				<StartTime>18:05:24</StartTime>
-				<EndDate>2018-08-27</EndDate>
-				<EndTime>18:48:36</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>UOMO  AVVISATO MEZZO AMMAZZATO 2^ </Name>
-					<Description>UOMO  AVVISATO MEZZO AMMAZZATO 2^</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="16">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2018-08-27</StartDate>
-				<StartTime>18:48:36</StartTime>
-				<EndDate>2018-08-27</EndDate>
-				<EndTime>18:48:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="17">
-				<IdName>LaCompagniaDell'Anello</IdName>
-				<StartDate>2018-08-27</StartDate>
-				<StartTime>18:48:43</StartTime>
-				<EndDate>2018-08-27</EndDate>
-				<EndTime>22:08:38</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>La compagnia dell'anello </Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="18">
-				<IdName>GERACE-Cittàmillenaria</IdName>
-				<StartDate>2018-08-27</StartDate>
-				<StartTime>22:08:38</StartTime>
-				<EndDate>2018-08-27</EndDate>
-				<EndTime>22:09:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT GERACE CITTà1000ENARIA</Name>
-					<Description>GERACECITTAMILLENARIA SPOT</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="19">
-				<IdName>AustinPowers2-Laspiacheciprovava</IdName>
-				<StartDate>2018-08-27</StartDate>
-				<StartTime>22:09:43</StartTime>
-				<EndDate>2018-08-27</EndDate>
-				<EndTime>23:40:50</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>AUSTIN POWERS2</Name>
-					<Description>LA SPIA CHE CI  PROVAVA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="20">
-				<IdName>spotDIGIII</IdName>
-				<StartDate>2018-08-27</StartDate>
-				<StartTime>23:40:50</StartTime>
-				<EndDate>2018-08-27</EndDate>
-				<EndTime>23:41:06</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT DIGII</Name>
-					<Description>SPOT PROMOVIDEO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="21">
-				<IdName>Senzanomesanzaregole</IdName>
-				<StartDate>2018-08-27</StartDate>
-				<StartTime>23:41:06</StartTime>
-				<EndDate>2018-08-28</EndDate>
-				<EndTime>01:24:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SENZA NOME SENZA REGOLE</Name>
-					<Description>Senza nome senza regole</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="22">
-				<IdName>PillolaSalute_20150302_48922</IdName>
-				<StartDate>2018-08-28</StartDate>
-				<StartTime>01:24:46</StartTime>
-				<EndDate>2018-08-28</EndDate>
-				<EndTime>01:25:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="23">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2018-08-28</StartDate>
-				<StartTime>01:25:26</StartTime>
-				<EndDate>2018-08-28</EndDate>
-				<EndTime>01:25:33</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="24">
-				<IdName>CityofGhost_mpeg2video</IdName>
-				<StartDate>2018-08-28</StartDate>
-				<StartTime>01:25:33</StartTime>
-				<EndDate>2018-08-28</EndDate>
-				<EndTime>03:17:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CYTY OF GHOST</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="25">
-				<IdName>Papadiventamamma_mpeg2video</IdName>
-				<StartDate>2018-08-28</StartDate>
-				<StartTime>03:17:15</StartTime>
-				<EndDate>2018-08-28</EndDate>
-				<EndTime>04:37:38</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PAPA  DIVENTA  MAMMA</Name>
-					<Description>PAPA  DIVENTA  MAMMA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="26">
-				<IdName>TRAILERPARTE1DEL13-08-2018</IdName>
-				<StartDate>2018-08-28</StartDate>
-				<StartTime>04:37:38</StartTime>
-				<EndDate>2018-08-28</EndDate>
-				<EndTime>04:46:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="27">
-				<IdName>2Fastand2Furios</IdName>
-				<StartDate>2018-08-28</StartDate>
-				<StartTime>04:46:48</StartTime>
-				<EndDate>2018-08-28</EndDate>
-				<EndTime>06:29:59</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="28">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2018-08-28</StartDate>
-				<StartTime>06:29:59</StartTime>
-				<EndDate>2018-08-28</EndDate>
-				<EndTime>06:30:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="29">
 				<IdName>Il.Diavolo.bn19631°t</IdName>
 				<StartDate>2018-08-28</StartDate>
-				<StartTime>06:30:05</StartTime>
+				<StartTime>06:15:25</StartTime>
 				<EndDate>2018-08-28</EndDate>
-				<EndTime>07:21:50</EndTime>
+				<EndTime>07:07:09</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
