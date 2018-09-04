@@ -2,24 +2,115 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>CODICECARRATELLI</IdName>
-				<StartDate>2018-09-03</StartDate>
-				<StartTime>20:52:03</StartTime>
-				<EndDate>2018-09-03</EndDate>
-				<EndTime>22:36:49</EndTime>
+				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>05:31:27</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>05:53:39</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>CODICE CARRATELLI </Name>
-					<Description>codice carratelli Roccella</Description>
+					<Name>Sconosciuto</Name>
+					<Description>Reggio piccola grande Italia  </Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="2">
+				<IdName>MagnificaItaliaCalabria_mpeg2video</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>05:53:39</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>06:45:49</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Calabria</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="3">
+				<IdName>Buenavistasocialclub_mpeg2video</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>06:00:00</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>07:40:28</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>BUENA VISTA SOCIAL CLUB</Name>
+					<Description>buena vista social club</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="4">
+				<IdName>6PROMOVIDEOSPOT6</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>07:40:28</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>07:40:35</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>6 SPOT PTOMOVIDEO</Name>
+					<Description>PROMOVIDEOSPOT 6</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="5">
+				<IdName>Simsalagrimm1-Ep.12-Strepitolino-HDItaliano(360p_24fps_H264-128kbit_AAC)</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>07:40:35</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>08:04:12</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="6">
+				<IdName>Simsalagrimm1-Ep.14-CappuccettoRossoHDItaliano(360p_24fps_H264-128kbit_AAC)</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>08:04:12</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>08:27:01</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="7">
+				<IdName>Simsalagrimm1-Ep.8-RaperonzoloHDItaliano(360p_24fps_H264-128kbit_AAC)</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>08:27:01</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>08:48:12</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="8">
+				<IdName>TRAILERPARTE6DEL27-08-2018</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>08:48:12</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>08:57:27</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="9">
 				<IdName>SPOTtraPROMOVIDEOTV10</IdName>
-				<StartDate>2018-09-03</StartDate>
-				<StartTime>22:36:49</StartTime>
-				<EndDate>2018-09-03</EndDate>
-				<EndTime>22:36:52</EndTime>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>08:57:27</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>08:57:31</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -27,77 +118,415 @@
 					<Description>SPOT PROMOVIDEOTV2</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="3">
-				<IdName>GalSila-PiccolaGrandeItalia</IdName>
-				<StartDate>2018-09-03</StartDate>
-				<StartTime>22:36:52</StartTime>
-				<EndDate>2018-09-03</EndDate>
-				<EndTime>22:57:40</EndTime>
+			<Event id="10">
+				<IdName>_1781_Recanatese_vivereomorire</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>08:57:31</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>09:24:08</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>sila piccola grande italia</Name>
+					<Name>vivere o morire</Name>
+					<Description>vivere  o   morire</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="11">
+				<IdName>SPOTtraPROMOVIDEOTV9</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>09:24:08</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>09:24:12</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>SPOT PROMOVIDEOTV</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="12">
+				<IdName>CalabriaLaraccoltadelleolive</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>09:24:12</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>09:38:11</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
-				<IdName>BadBoys</IdName>
-				<StartDate>2018-09-03</StartDate>
-				<StartTime>22:57:40</StartTime>
-				<EndDate>2018-09-04</EndDate>
-				<EndTime>00:51:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>BAD BOYS</Name>
-					<Description>BAD BOYS</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
-				<IdName>_1717_Altuoposto</IdName>
+			<Event id="13">
+				<IdName>FRATELLIDISANGUE_mpeg2video</IdName>
 				<StartDate>2018-09-04</StartDate>
-				<StartTime>00:51:44</StartTime>
+				<StartTime>09:38:11</StartTime>
 				<EndDate>2018-09-04</EndDate>
-				<EndTime>00:59:29</EndTime>
+				<EndTime>09:58:15</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>L'AUTOPOSTO</Name>
-					<Description>L'AUTOPOSTO</Description>
+					<Name>FRATELLI  DI SANGUE</Name>
+					<Description>FRATELLI  DI SANGUE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
-				<IdName>SanRocco2006</IdName>
+			<Event id="14">
+				<IdName>Mr.Bean-L'ultimacatastrofe</IdName>
 				<StartDate>2018-09-04</StartDate>
-				<StartTime>00:59:29</StartTime>
+				<StartTime>09:58:15</StartTime>
 				<EndDate>2018-09-04</EndDate>
-				<EndTime>01:16:19</EndTime>
+				<EndTime>11:23:42</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>S. ROCCO 2006</Name>
-					<Description>S.ROCCO 2006 GIOIOSA J</Description>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
-				<IdName>X-Men</IdName>
+			<Event id="15">
+				<IdName>TRAILERPARTE2DEL20-08-2018</IdName>
 				<StartDate>2018-09-04</StartDate>
-				<StartTime>01:16:19</StartTime>
+				<StartTime>11:23:42</StartTime>
 				<EndDate>2018-09-04</EndDate>
-				<EndTime>02:56:21</EndTime>
+				<EndTime>11:32:26</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>X - MEN</Name>
-					<Description>X - MEN</Description>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="16">
+				<IdName>SPOTTC1</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>11:32:26</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>11:32:30</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOTtuachannel1</Name>
+					<Description>SPOTtuachannel1</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="17">
+				<IdName>KarateKid</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>11:32:30</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>13:34:06</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Karate Kid</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="18">
+				<IdName>SLAPROMOVIDEOPERILSOCIALE</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>13:34:06</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>13:36:26</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="19">
+				<IdName>TRAILERPARTE4DEL13-08-2018</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>13:36:26</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>13:44:22</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="20">
+				<IdName>GeracePiccolaGrandeItalia_mpeg2video</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>13:44:22</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>14:07:49</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Gerace Piccola Grande città</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="21">
+				<IdName>LeDueTorri</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>14:07:49</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>16:59:53</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Le due torri </Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="22">
+				<IdName>TRAILERPARTE1DEL13-08-2018</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>16:59:53</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>17:09:03</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="23">
+				<IdName>PROMOVIDEOSPOT2</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>17:09:03</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>17:09:10</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOT  PROMOVIDEOTV 2</Name>
+					<Description>SPOT  PROMOVIDEOTV 2</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="24">
+				<IdName>L'ApeMaia-Ep.6-L'incendionelbosco(SerieOriginale)(480p_30fps_H264-128kbit_AAC)</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>17:09:10</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>17:30:59</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="25">
+				<IdName>L'ApeMaia-Ep.5-IlragnoTecla(SerieOriginale)(480p_30fps_H264-128kbit_AAC)</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>17:30:59</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>17:53:03</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="26">
+				<IdName>L'ApeMaia-Ep.3-Lalibellula(SerieOriginale)(360p_24fps_H264-128kbit_AAC)</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>17:53:03</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>18:17:28</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="27">
+				<IdName>TRAILERPARTE1DEL13-08-2018</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>18:17:28</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>18:26:39</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="28">
+				<IdName>Gliaspid'acheronte.RicordidisetaC)</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>18:26:39</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>18:53:58</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>GILASPI D' ACHERONTE</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="29">
+				<IdName>TRAILERPARTE3DEL13-08-2018</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>18:53:58</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>19:03:08</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="30">
+				<IdName>PUNT19MYTECH-PIXMINDok</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>19:03:08</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>19:26:10</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>PIUXMIND P. 19</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="31">
+				<IdName>ACavallosugliAltopianidelPollino-PiccolaGrandeItalia(720p_30fps_H264-192kbit_AAC)</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>19:26:10</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>19:45:49</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>TEBISACCE</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="32">
+				<IdName>6PROMOVIDEOSPOT6</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>19:45:49</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>19:45:55</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>6 SPOT PTOMOVIDEO</Name>
+					<Description>PROMOVIDEOSPOT 6</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="33">
+				<IdName>PrometeoTV_20180801_74277</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>19:45:55</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>19:51:34</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="34">
+				<IdName>POLSIARCHIVIOPROMOCULTURA</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>19:51:34</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>20:05:35</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>POLSI</Name>
+					<Description>POLSI</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="35">
+				<IdName>ItaliaEconomia(2)</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>20:05:35</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>20:23:37</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="36">
+				<IdName>MYTECH-PIXMINDreplicaestate(9ok)</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>20:23:37</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>20:47:36</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="37">
+				<IdName>Ritorno.Al.Futuro.1-iTALiAN.DvDRip</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>20:47:36</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>22:38:50</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Ritorno  al  futuro  1</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="38">
+				<IdName>TRAILERPARTE1DEL13-08-2018</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>22:38:50</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>22:48:00</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="39">
+				<IdName>SPOTtraPROMOVIDEOTV10</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>22:48:00</StartTime>
+				<EndDate>2018-09-04</EndDate>
+				<EndTime>22:48:03</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>SPOT PROMOVIDEOTV2</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="40">
+				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
+				<StartDate>2018-09-04</StartDate>
+				<StartTime>22:48:03</StartTime>
+				<EndDate>2018-09-05</EndDate>
+				<EndTime>00:36:34</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>CRASH CONTATTO   FINALE FISICO</Name>
+					<Description>CRASH CONTATTO  FINALE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="41">
 				<IdName>Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)</IdName>
-				<StartDate>2018-09-04</StartDate>
-				<StartTime>02:56:21</StartTime>
-				<EndDate>2018-09-04</EndDate>
-				<EndTime>04:56:01</EndTime>
+				<StartDate>2018-09-05</StartDate>
+				<StartTime>00:36:34</StartTime>
+				<EndDate>2018-09-05</EndDate>
+				<EndTime>02:36:15</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -105,30 +534,69 @@
 					<Description>BERTOLDO BERTOLDINO E CACASENNO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
-				<IdName>GERACE-BORGOINCANTATO2018</IdName>
-				<StartDate>2018-09-04</StartDate>
-				<StartTime>04:56:01</StartTime>
-				<EndDate>2018-09-04</EndDate>
-				<EndTime>05:31:28</EndTime>
+			<Event id="42">
+				<IdName>NoepoliPiccolaGrandeItalia</IdName>
+				<StartDate>2018-09-05</StartDate>
+				<StartTime>02:36:15</StartTime>
+				<EndDate>2018-09-05</EndDate>
+				<EndTime>02:52:47</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>Piccola grande Italia</Name>
+					<Description>Neapoli</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
-				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
-				<StartDate>2018-09-04</StartDate>
-				<StartTime>05:31:28</StartTime>
-				<EndDate>2018-09-04</EndDate>
-				<EndTime>05:53:41</EndTime>
+			<Event id="43">
+				<IdName>Filmato</IdName>
+				<StartDate>2018-09-05</StartDate>
+				<StartTime>02:52:47</StartTime>
+				<EndDate>2018-09-05</EndDate>
+				<EndTime>02:55:16</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>GERACE IN 2 MINUTI</Name>
+					<Description>GERACE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="44">
+				<IdName>BovaChoratuVuaIlGioielloD'Aspromonte</IdName>
+				<StartDate>2018-09-05</StartDate>
+				<StartTime>02:55:16</StartTime>
+				<EndDate>2018-09-05</EndDate>
+				<EndTime>03:11:28</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>BOVA GIOIELLO D' ASPROMONTE</Name>
+					<Description>BOVA</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="45">
+				<IdName>StarshipTroopers-FanteriaDelloSpazio</IdName>
+				<StartDate>2018-09-05</StartDate>
+				<StartTime>03:11:28</StartTime>
+				<EndDate>2018-09-05</EndDate>
+				<EndTime>05:15:46</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>STARSHIP TROOPERS</Name>
+					<Description>STARSHIP TROOPERS</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="46">
+				<IdName>L'isoladeisopravvissuti</IdName>
+				<StartDate>2018-09-05</StartDate>
+				<StartTime>05:15:46</StartTime>
+				<EndDate>2018-09-05</EndDate>
+				<EndTime>06:47:30</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Sconosciuto</Name>
-					<Description>Reggio piccola grande Italia  </Description>
+					<Description>L' isola dei sopravvissuti </Description>
 				</ShortEventDescription>
 			</Event>
 		</Service>
