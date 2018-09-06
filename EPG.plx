@@ -1,36 +1,18 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-06/09/2018	09:39:50	JuwannaMann_mpeg2video	Sconosciuto	Juawanna Mann	01:26:54	1	Film
-06/09/2018	11:06:44	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-06/09/2018	11:06:55	CariatiPiccolaGrandeItalia	CARIATI	cariati	00:21:41	71	documentari
-06/09/2018	11:28:37	Ritornoalfuturo3_1_mpeg2video	RIRORNO  AL  FUTURO 3	Ritorno  al  futuro 3	01:00:22	1	Film
-06/09/2018	12:28:59	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
-06/09/2018	12:31:19	TRAILERPARTE1DEL06-08-2018	Sconosciuto	Nuovo File	00:09:21	0	
-06/09/2018	12:40:41	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-06/09/2018	12:40:47	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-06/09/2018	12:41:53	CompagnoDonCamillo_mpeg2video	Sconosciuto	COMPAGNO  DON CAMILLO	01:42:17	1	Film
-06/09/2018	14:24:10	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-06/09/2018	14:24:25	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
-06/09/2018	14:26:45	TRAILERPARTE1DEL13-08-2018	Sconosciuto	Nuovo File	00:09:10	0	
-06/09/2018	14:35:55	CauloniaPontesull'AllarosopralluogodelPrefettodiReggioCal.480p_25fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:11:58	0	
-06/09/2018	14:47:54	Spotoffertaestiva_mpeg2video	SPOT OFEFRTA ESTIVA	SPOT OFFERAT ESTIVA	00:00:46	11	spot
-06/09/2018	14:48:40	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-06/09/2018	14:49:20	CiccioeFrancoSatiricosissimo_mpeg2video	FRANCO FRANCHI INGRASSIA	SATIRICONISSIMO	01:25:00	1	Film
-06/09/2018	16:14:21	TRAILERPARTE1DEL06-08-2018	Sconosciuto	Nuovo File	00:09:21	0	
-06/09/2018	16:23:43	PROMORADIONETWORK_mpeg2video	PROMORADIONETWORK	PROMORADIONETWORK	00:00:57	11	spot
-06/09/2018	16:24:41	Unmostroemezzo_mpeg2video	Sconosciuto	Un mostro e   mezzo	01:36:32	1	Film
-06/09/2018	18:01:13	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-06/09/2018	18:01:20	Labandadeglionesti_mpeg2video	LA BANDA DEGLI ONESTI	LA BANDA DEGLI  ONESTI	01:40:55	1	Film
-06/09/2018	19:42:15	GliAnimalipiPericolosiGiunglaUrbana(ITA)	Animali pericolosi	ANIMALI PERICOLOSI	00:47:02	71	documentari
-06/09/2018	20:29:18	TRAILERPARTE2DEL13-08-2018	Sconosciuto	Nuovo File	00:09:10	0	
-06/09/2018	20:38:28	CommandPerformance2009iTALiANDVDRipXviDPrEsTiGe	Sconosciuto	Command performance	01:29:22	1	Film
-06/09/2018	22:07:50	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-06/09/2018	22:07:57	Unbigliettoindue_1_mpeg2video	Un biglietto in due_1 P	Nuovo File	00:43:40	1	Film
-06/09/2018	22:51:37	TRAILERPARTE6DEL27-08-2018	Sconosciuto	Nuovo File	00:09:15	0	
-06/09/2018	23:00:53	Unbigliettoindue_2_mpeg2video	Un biglietto in due_2 P	Nuovo File	00:44:38	1	Film
-06/09/2018	23:45:31	Undollarodififa_mpeg2video	UN DOLLARO  DI  FIFA	UN DOLLARO  DI  FIFA	01:29:53	1	Film
-07/09/2018	01:15:24	Papadiventamamma_mpeg2video	PAPA  DIVENTA  MAMMA	PAPA  DIVENTA  MAMMA	01:20:22	1	Film
-07/09/2018	02:35:47	LaCarbonarafilmcompleto_mpeg2video	LA  CARBONARA	LA CARBONARA	01:48:07	1	Film
-07/09/2018	04:23:54	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	Film
-07/09/2018	06:09:37	TRAILERPARTE7DEL13-08-2018	Sconosciuto	Nuovo File	00:09:10	0	
-07/09/2018	06:18:47	agrisapori618x19-7-15	AGRISAPORI	La Magdaleine	00:08:48	71	documentari
-07/09/2018	06:27:35	Ritornoalfuturo3_1_mpeg2video	RIRORNO  AL  FUTURO 3	Ritorno  al  futuro 3	01:00:22	1	Film
+06/09/2018	16:24:39	Unmostroemezzo_mpeg2video	Sconosciuto	Un mostro e   mezzo	01:36:32	1	Film
+06/09/2018	18:01:11	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+06/09/2018	18:01:18	Labandadeglionesti_mpeg2video	LA BANDA DEGLI ONESTI	LA BANDA DEGLI  ONESTI	01:40:55	1	Film
+06/09/2018	19:42:13	GliAnimalipiPericolosiGiunglaUrbana(ITA)	Animali pericolosi	ANIMALI PERICOLOSI	00:47:02	71	documentari
+06/09/2018	20:29:16	TRAILERPARTE2DEL13-08-2018	Sconosciuto	Nuovo File	00:09:10	0	
+06/09/2018	20:38:26	CommandPerformance2009iTALiANDVDRipXviDPrEsTiGe	Sconosciuto	Command performance	01:29:22	1	Film
+06/09/2018	22:07:48	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+06/09/2018	22:07:55	Unbigliettoindue_1_mpeg2video	Un biglietto in due_1 P	Nuovo File	00:43:40	1	Film
+06/09/2018	22:51:35	TRAILERPARTE6DEL27-08-2018	Sconosciuto	Nuovo File	00:09:15	0	
+06/09/2018	23:00:51	Unbigliettoindue_2_mpeg2video	Un biglietto in due_2 P	Nuovo File	00:44:38	1	Film
+06/09/2018	23:45:29	Undollarodififa_mpeg2video	UN DOLLARO  DI  FIFA	UN DOLLARO  DI  FIFA	01:29:53	1	Film
+07/09/2018	01:15:23	Papadiventamamma_mpeg2video	PAPA  DIVENTA  MAMMA	PAPA  DIVENTA  MAMMA	01:20:22	1	Film
+07/09/2018	02:35:45	LaCarbonarafilmcompleto_mpeg2video	LA  CARBONARA	LA CARBONARA	01:48:07	1	Film
+07/09/2018	04:23:53	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	Film
+07/09/2018	06:09:35	TRAILERPARTE7DEL13-08-2018	Sconosciuto	Nuovo File	00:09:10	0	
+07/09/2018	06:18:45	agrisapori618x19-7-15	AGRISAPORI	La Magdaleine	00:08:48	71	documentari
+07/09/2018	06:27:33	Ritornoalfuturo3_1_mpeg2video	RIRORNO  AL  FUTURO 3	Ritorno  al  futuro 3	01:00:22	1	Film
