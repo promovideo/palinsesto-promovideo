@@ -1,10 +1,8 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-10/09/2018	19:42:13	GliAnimalipiPericolosiGiunglaUrbana(ITA)	Animali pericolosi	ANIMALI PERICOLOSI	00:47:02	71	documentari
-10/09/2018	20:29:16	TRAILERPARTE2DEL13-08-2018	Sconosciuto	Nuovo File	00:09:10	0	
 10/09/2018	20:38:26	CommandPerformance2009iTALiANDVDRipXviDPrEsTiGe	Sconosciuto	Command performance	01:29:22	1	Film
-10/09/2018	22:07:49	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+10/09/2018	22:07:48	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
 10/09/2018	22:07:55	Unbigliettoindue_1_mpeg2video	Un biglietto in due_1 P	Nuovo File	00:43:40	1	Film
-10/09/2018	22:51:36	TRAILERPARTE6DEL27-08-2018	Sconosciuto	Nuovo File	00:09:15	0	
+10/09/2018	22:51:35	TRAILERPARTE6DEL27-08-2018	Sconosciuto	Nuovo File	00:09:15	0	
 10/09/2018	23:00:51	Unbigliettoindue_2_mpeg2video	Un biglietto in due_2 P	Nuovo File	00:44:38	1	Film
 10/09/2018	23:45:29	Undollarodififa_mpeg2video	UN DOLLARO  DI  FIFA	UN DOLLARO  DI  FIFA	01:29:53	1	Film
 11/09/2018	01:15:23	Papadiventamamma_mpeg2video	PAPA  DIVENTA  MAMMA	PAPA  DIVENTA  MAMMA	01:20:22	1	Film
