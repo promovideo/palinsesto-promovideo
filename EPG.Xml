@@ -2,50 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Unmostroemezzo_mpeg2video</IdName>
-				<StartDate>2018-09-10</StartDate>
-				<StartTime>16:24:40</StartTime>
-				<EndDate>2018-09-10</EndDate>
-				<EndTime>18:01:12</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Un mostro e   mezzo</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2018-09-10</StartDate>
-				<StartTime>18:01:12</StartTime>
-				<EndDate>2018-09-10</EndDate>
-				<EndTime>18:01:19</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>Labandadeglionesti_mpeg2video</IdName>
-				<StartDate>2018-09-10</StartDate>
-				<StartTime>18:01:19</StartTime>
-				<EndDate>2018-09-10</EndDate>
-				<EndTime>19:42:14</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LA BANDA DEGLI ONESTI</Name>
-					<Description>LA BANDA DEGLI  ONESTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
 				<IdName>GliAnimalipiPericolosiGiunglaUrbana(ITA)</IdName>
 				<StartDate>2018-09-10</StartDate>
-				<StartTime>19:42:14</StartTime>
+				<StartTime>19:42:13</StartTime>
 				<EndDate>2018-09-10</EndDate>
-				<EndTime>20:29:17</EndTime>
+				<EndTime>20:29:16</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -53,12 +14,12 @@
 					<Description>ANIMALI PERICOLOSI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="2">
 				<IdName>TRAILERPARTE2DEL13-08-2018</IdName>
 				<StartDate>2018-09-10</StartDate>
-				<StartTime>20:29:17</StartTime>
+				<StartTime>20:29:16</StartTime>
 				<EndDate>2018-09-10</EndDate>
-				<EndTime>20:38:27</EndTime>
+				<EndTime>20:38:26</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -66,10 +27,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="3">
 				<IdName>CommandPerformance2009iTALiANDVDRipXviDPrEsTiGe</IdName>
 				<StartDate>2018-09-10</StartDate>
-				<StartTime>20:38:27</StartTime>
+				<StartTime>20:38:26</StartTime>
 				<EndDate>2018-09-10</EndDate>
 				<EndTime>22:07:49</EndTime>
 				<ShortEventDescription>
@@ -79,12 +40,12 @@
 					<Description>Command performance</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="4">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2018-09-10</StartDate>
 				<StartTime>22:07:49</StartTime>
 				<EndDate>2018-09-10</EndDate>
-				<EndTime>22:07:56</EndTime>
+				<EndTime>22:07:55</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,10 +53,10 @@
 					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="5">
 				<IdName>Unbigliettoindue_1_mpeg2video</IdName>
 				<StartDate>2018-09-10</StartDate>
-				<StartTime>22:07:56</StartTime>
+				<StartTime>22:07:55</StartTime>
 				<EndDate>2018-09-10</EndDate>
 				<EndTime>22:51:36</EndTime>
 				<ShortEventDescription>
@@ -105,12 +66,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="6">
 				<IdName>TRAILERPARTE6DEL27-08-2018</IdName>
 				<StartDate>2018-09-10</StartDate>
 				<StartTime>22:51:36</StartTime>
 				<EndDate>2018-09-10</EndDate>
-				<EndTime>23:00:52</EndTime>
+				<EndTime>23:00:51</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,12 +79,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="7">
 				<IdName>Unbigliettoindue_2_mpeg2video</IdName>
 				<StartDate>2018-09-10</StartDate>
-				<StartTime>23:00:52</StartTime>
+				<StartTime>23:00:51</StartTime>
 				<EndDate>2018-09-10</EndDate>
-				<EndTime>23:45:30</EndTime>
+				<EndTime>23:45:29</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -131,10 +92,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="8">
 				<IdName>Undollarodififa_mpeg2video</IdName>
 				<StartDate>2018-09-10</StartDate>
-				<StartTime>23:45:30</StartTime>
+				<StartTime>23:45:29</StartTime>
 				<EndDate>2018-09-11</EndDate>
 				<EndTime>01:15:23</EndTime>
 				<ShortEventDescription>
@@ -144,7 +105,7 @@
 					<Description>UN DOLLARO  DI  FIFA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="9">
 				<IdName>Papadiventamamma_mpeg2video</IdName>
 				<StartDate>2018-09-11</StartDate>
 				<StartTime>01:15:23</StartTime>
@@ -157,7 +118,7 @@
 					<Description>PAPA  DIVENTA  MAMMA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="10">
 				<IdName>LaCarbonarafilmcompleto_mpeg2video</IdName>
 				<StartDate>2018-09-11</StartDate>
 				<StartTime>02:35:46</StartTime>
@@ -170,12 +131,12 @@
 					<Description>LA CARBONARA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="11">
 				<IdName>Cacciaalmarito_mpeg2video_001</IdName>
 				<StartDate>2018-09-11</StartDate>
 				<StartTime>04:23:53</StartTime>
 				<EndDate>2018-09-11</EndDate>
-				<EndTime>06:09:36</EndTime>
+				<EndTime>06:09:35</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -183,12 +144,12 @@
 					<Description>CACCIA AL MARITO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="12">
 				<IdName>TRAILERPARTE7DEL13-08-2018</IdName>
 				<StartDate>2018-09-11</StartDate>
-				<StartTime>06:09:36</StartTime>
+				<StartTime>06:09:35</StartTime>
 				<EndDate>2018-09-11</EndDate>
-				<EndTime>06:18:46</EndTime>
+				<EndTime>06:18:45</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -196,12 +157,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="13">
 				<IdName>agrisapori618x19-7-15</IdName>
 				<StartDate>2018-09-11</StartDate>
-				<StartTime>06:18:46</StartTime>
+				<StartTime>06:18:45</StartTime>
 				<EndDate>2018-09-11</EndDate>
-				<EndTime>06:27:34</EndTime>
+				<EndTime>06:27:33</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -209,10 +170,10 @@
 					<Description>La Magdaleine</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="14">
 				<IdName>Ritornoalfuturo3_1_mpeg2video</IdName>
 				<StartDate>2018-09-11</StartDate>
-				<StartTime>06:27:34</StartTime>
+				<StartTime>06:27:33</StartTime>
 				<EndDate>2018-09-11</EndDate>
 				<EndTime>07:27:56</EndTime>
 				<ShortEventDescription>
