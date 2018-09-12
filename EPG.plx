@@ -1,6 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-12/09/2018	15:35:52	IlritornodelRe	Sconosciuto	Il  ritorno del re	03:12:46	22	
-12/09/2018	18:48:38	TRAILERPARTE1DEL13-08-2018	Sconosciuto	Nuovo File	00:09:10	0	
 12/09/2018	18:57:48	Gliaspid'acheronte.RicordidisetaC)	GILASPI D' ACHERONTE	Nuovo File	00:27:19	71	documentari
 12/09/2018	19:25:07	Papadiventamamma_mpeg2video	PAPA  DIVENTA  MAMMA	PAPA  DIVENTA  MAMMA	01:20:22	1	Film
 12/09/2018	20:45:30	TRAILERPARTE3DEL13-08-2018	Sconosciuto	Nuovo File	00:09:10	0	
