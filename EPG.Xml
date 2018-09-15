@@ -2,37 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Emigrantiedimmigrati</IdName>
-				<StartDate>2018-09-15</StartDate>
-				<StartTime>19:28:05</StartTime>
-				<EndDate>2018-09-15</EndDate>
-				<EndTime>21:01:38</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>aemigrandi ed  immigrati</Name>
-					<Description>scuola siderno</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>_1717_Altuoposto</IdName>
-				<StartDate>2018-09-15</StartDate>
-				<StartTime>21:01:38</StartTime>
-				<EndDate>2018-09-15</EndDate>
-				<EndTime>21:09:24</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>L'AUTOPOSTO</Name>
-					<Description>L'AUTOPOSTO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
 				<IdName>FILMSANTANTONIOGUERRIERODIDIO</IdName>
 				<StartDate>2018-09-15</StartDate>
-				<StartTime>21:09:24</StartTime>
+				<StartTime>21:09:31</StartTime>
 				<EndDate>2018-09-15</EndDate>
-				<EndTime>22:42:57</EndTime>
+				<EndTime>22:43:05</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -40,12 +14,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="2">
 				<IdName>Ragazzepompom_mpeg2video</IdName>
 				<StartDate>2018-09-15</StartDate>
-				<StartTime>22:42:57</StartTime>
+				<StartTime>22:43:05</StartTime>
 				<EndDate>2018-09-16</EndDate>
-				<EndTime>00:08:12</EndTime>
+				<EndTime>00:08:20</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -53,12 +27,12 @@
 					<Description>Ragazze pom pom</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="3">
 				<IdName>X-Men</IdName>
 				<StartDate>2018-09-16</StartDate>
-				<StartTime>00:08:12</StartTime>
+				<StartTime>00:08:20</StartTime>
 				<EndDate>2018-09-16</EndDate>
-				<EndTime>01:48:14</EndTime>
+				<EndTime>01:48:22</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -66,12 +40,12 @@
 					<Description>X - MEN</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="4">
 				<IdName>Perunpugnonellocchio_mpeg2video</IdName>
 				<StartDate>2018-09-16</StartDate>
-				<StartTime>01:48:14</StartTime>
+				<StartTime>01:48:22</StartTime>
 				<EndDate>2018-09-16</EndDate>
-				<EndTime>03:23:06</EndTime>
+				<EndTime>03:23:14</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -79,12 +53,38 @@
 					<Description>Per  un  pugno  nell' occhio</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="5">
 				<IdName>TRAILERPARTE1DEL06-08-2018</IdName>
 				<StartDate>2018-09-16</StartDate>
-				<StartTime>03:23:06</StartTime>
+				<StartTime>03:23:14</StartTime>
 				<EndDate>2018-09-16</EndDate>
-				<EndTime>03:32:28</EndTime>
+				<EndTime>03:32:36</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="6">
+				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
+				<StartDate>2018-09-16</StartDate>
+				<StartTime>03:32:36</StartTime>
+				<EndDate>2018-09-16</EndDate>
+				<EndTime>03:54:48</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Reggio piccola grande Italia  </Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="7">
+				<IdName>GERACE-BORGOINCANTATO2018</IdName>
+				<StartDate>2018-09-16</StartDate>
+				<StartTime>03:54:48</StartTime>
+				<EndDate>2018-09-16</EndDate>
+				<EndTime>04:30:15</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -93,37 +93,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="8">
-				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
-				<StartDate>2018-09-16</StartDate>
-				<StartTime>03:32:28</StartTime>
-				<EndDate>2018-09-16</EndDate>
-				<EndTime>03:54:41</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Reggio piccola grande Italia  </Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="9">
-				<IdName>GERACE-BORGOINCANTATO2018</IdName>
-				<StartDate>2018-09-16</StartDate>
-				<StartTime>03:54:41</StartTime>
-				<EndDate>2018-09-16</EndDate>
-				<EndTime>04:30:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
 				<IdName>Papadiventamamma_mpeg2video</IdName>
 				<StartDate>2018-09-16</StartDate>
-				<StartTime>04:30:08</StartTime>
+				<StartTime>04:30:15</StartTime>
 				<EndDate>2018-09-16</EndDate>
-				<EndTime>05:50:31</EndTime>
+				<EndTime>05:50:38</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -131,12 +105,12 @@
 					<Description>PAPA  DIVENTA  MAMMA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="9">
 				<IdName>FormulaMotori_Puntata06-08-18</IdName>
 				<StartDate>2018-09-16</StartDate>
-				<StartTime>05:50:31</StartTime>
+				<StartTime>05:50:38</StartTime>
 				<EndDate>2018-09-16</EndDate>
-				<EndTime>06:02:31</EndTime>
+				<EndTime>06:02:38</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
