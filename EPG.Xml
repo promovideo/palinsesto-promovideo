@@ -2,19 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>GalSila-PiccolaGrandeItalia</IdName>
-				<StartDate>2018-09-17</StartDate>
-				<StartTime>18:14:22</StartTime>
-				<EndDate>2018-09-17</EndDate>
-				<EndTime>18:35:10</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>sila piccola grande italia</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
 				<IdName>BadBoys</IdName>
 				<StartDate>2018-09-17</StartDate>
 				<StartTime>18:35:10</StartTime>
@@ -27,7 +14,7 @@
 					<Description>BAD BOYS</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="3">
+			<Event id="2">
 				<IdName>_1717_Altuoposto</IdName>
 				<StartDate>2018-09-17</StartDate>
 				<StartTime>20:29:14</StartTime>
@@ -40,7 +27,7 @@
 					<Description>L'AUTOPOSTO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="3">
 				<IdName>SanRocco2006</IdName>
 				<StartDate>2018-09-17</StartDate>
 				<StartTime>20:36:59</StartTime>
@@ -53,25 +40,25 @@
 					<Description>S.ROCCO 2006 GIOIOSA J</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
-				<IdName>X-Men</IdName>
+			<Event id="4">
+				<IdName>POLSI218MITIRELIGIOSITA'EPAESAGGIO</IdName>
 				<StartDate>2018-09-17</StartDate>
 				<StartTime>20:53:49</StartTime>
 				<EndDate>2018-09-17</EndDate>
-				<EndTime>22:33:51</EndTime>
+				<EndTime>21:30:25</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>X - MEN</Name>
-					<Description>X - MEN</Description>
+					<Name>polsi 2018 santa  croce</Name>
+					<Description>polsi  2018</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="5">
 				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
 				<StartDate>2018-09-17</StartDate>
-				<StartTime>22:33:51</StartTime>
+				<StartTime>21:30:25</StartTime>
 				<EndDate>2018-09-17</EndDate>
-				<EndTime>22:56:04</EndTime>
+				<EndTime>21:52:38</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -79,12 +66,51 @@
 					<Description>Reggio piccola grande Italia  </Description>
 				</ShortEventDescription>
 			</Event>
+			<Event id="6">
+				<IdName>agrisapori736x26-11-17</IdName>
+				<StartDate>2018-09-17</StartDate>
+				<StartTime>21:52:38</StartTime>
+				<EndDate>2018-09-17</EndDate>
+				<EndTime>22:21:03</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
 			<Event id="7">
+				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
+				<StartDate>2018-09-17</StartDate>
+				<StartTime>22:21:03</StartTime>
+				<EndDate>2018-09-17</EndDate>
+				<EndTime>22:43:16</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Reggio piccola grande Italia  </Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="8">
+				<IdName>_1718_Ilsolenegliocchi</IdName>
+				<StartDate>2018-09-17</StartDate>
+				<StartTime>22:43:16</StartTime>
+				<EndDate>2018-09-17</EndDate>
+				<EndTime>23:00:58</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>IL SOLE NEGLI  OCCHI</Name>
+					<Description>IL  SOLE NEGLI  OCCHI</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="9">
 				<IdName>Mammola40annisagradellostocco</IdName>
 				<StartDate>2018-09-17</StartDate>
-				<StartTime>22:56:04</StartTime>
+				<StartTime>23:00:58</StartTime>
 				<EndDate>2018-09-18</EndDate>
-				<EndTime>00:17:06</EndTime>
+				<EndTime>00:22:00</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,12 +118,77 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="10">
+				<IdName>AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI</IdName>
+				<StartDate>2018-09-18</StartDate>
+				<StartTime>00:22:00</StartTime>
+				<EndDate>2018-09-18</EndDate>
+				<EndTime>01:48:07</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>ABRAMO ISACCO GIACOBBE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="11">
+				<IdName>X-Men</IdName>
+				<StartDate>2018-09-18</StartDate>
+				<StartTime>01:48:07</StartTime>
+				<EndDate>2018-09-18</EndDate>
+				<EndTime>03:28:09</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>X - MEN</Name>
+					<Description>X - MEN</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="12">
 				<IdName>agrisapori736x26-11-17</IdName>
 				<StartDate>2018-09-18</StartDate>
-				<StartTime>00:17:06</StartTime>
+				<StartTime>03:28:09</StartTime>
 				<EndDate>2018-09-18</EndDate>
-				<EndTime>00:45:31</EndTime>
+				<EndTime>03:56:34</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="13">
+				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
+				<StartDate>2018-09-18</StartDate>
+				<StartTime>03:56:34</StartTime>
+				<EndDate>2018-09-18</EndDate>
+				<EndTime>04:18:47</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Reggio piccola grande Italia  </Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="14">
+				<IdName>7Monacidoro_mpeg2video</IdName>
+				<StartDate>2018-09-18</StartDate>
+				<StartTime>04:18:47</StartTime>
+				<EndDate>2018-09-18</EndDate>
+				<EndTime>05:52:36</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>7  monaci d  oro</Name>
+					<Description>7  MONACI D' ORO</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="15">
+				<IdName>agrisapori736x26-11-17</IdName>
+				<StartDate>2018-09-18</StartDate>
+				<StartTime>05:52:36</StartTime>
+				<EndDate>2018-09-18</EndDate>
+				<EndTime>06:21:01</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
