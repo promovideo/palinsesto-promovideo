@@ -2,58 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>BadBoys</IdName>
-				<StartDate>2018-09-17</StartDate>
-				<StartTime>18:35:10</StartTime>
-				<EndDate>2018-09-17</EndDate>
-				<EndTime>20:29:14</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>BAD BOYS</Name>
-					<Description>BAD BOYS</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>_1717_Altuoposto</IdName>
-				<StartDate>2018-09-17</StartDate>
-				<StartTime>20:29:14</StartTime>
-				<EndDate>2018-09-17</EndDate>
-				<EndTime>20:36:59</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>L'AUTOPOSTO</Name>
-					<Description>L'AUTOPOSTO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>SanRocco2006</IdName>
-				<StartDate>2018-09-17</StartDate>
-				<StartTime>20:36:59</StartTime>
-				<EndDate>2018-09-17</EndDate>
-				<EndTime>20:53:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>S. ROCCO 2006</Name>
-					<Description>S.ROCCO 2006 GIOIOSA J</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>POLSI218MITIRELIGIOSITA'EPAESAGGIO</IdName>
-				<StartDate>2018-09-17</StartDate>
-				<StartTime>20:53:49</StartTime>
-				<EndDate>2018-09-17</EndDate>
-				<EndTime>21:30:25</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>polsi 2018 santa  croce</Name>
-					<Description>polsi  2018</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
 				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
 				<StartDate>2018-09-17</StartDate>
 				<StartTime>21:30:25</StartTime>
@@ -66,12 +14,12 @@
 					<Description>Reggio piccola grande Italia  </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="2">
 				<IdName>agrisapori736x26-11-17</IdName>
 				<StartDate>2018-09-17</StartDate>
 				<StartTime>21:52:38</StartTime>
 				<EndDate>2018-09-17</EndDate>
-				<EndTime>22:21:03</EndTime>
+				<EndTime>22:21:02</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -79,12 +27,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="3">
 				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
 				<StartDate>2018-09-17</StartDate>
-				<StartTime>22:21:03</StartTime>
+				<StartTime>22:21:02</StartTime>
 				<EndDate>2018-09-17</EndDate>
-				<EndTime>22:43:16</EndTime>
+				<EndTime>22:43:15</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,12 +40,12 @@
 					<Description>Reggio piccola grande Italia  </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="4">
 				<IdName>_1718_Ilsolenegliocchi</IdName>
 				<StartDate>2018-09-17</StartDate>
-				<StartTime>22:43:16</StartTime>
+				<StartTime>22:43:15</StartTime>
 				<EndDate>2018-09-17</EndDate>
-				<EndTime>23:00:58</EndTime>
+				<EndTime>23:00:57</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -105,10 +53,10 @@
 					<Description>IL  SOLE NEGLI  OCCHI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="5">
 				<IdName>Mammola40annisagradellostocco</IdName>
 				<StartDate>2018-09-17</StartDate>
-				<StartTime>23:00:58</StartTime>
+				<StartTime>23:00:57</StartTime>
 				<EndDate>2018-09-18</EndDate>
 				<EndTime>00:22:00</EndTime>
 				<ShortEventDescription>
@@ -118,7 +66,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="6">
 				<IdName>AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI</IdName>
 				<StartDate>2018-09-18</StartDate>
 				<StartTime>00:22:00</StartTime>
@@ -131,7 +79,7 @@
 					<Description>ABRAMO ISACCO GIACOBBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="7">
 				<IdName>X-Men</IdName>
 				<StartDate>2018-09-18</StartDate>
 				<StartTime>01:48:07</StartTime>
@@ -144,7 +92,7 @@
 					<Description>X - MEN</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="8">
 				<IdName>agrisapori736x26-11-17</IdName>
 				<StartDate>2018-09-18</StartDate>
 				<StartTime>03:28:09</StartTime>
@@ -157,12 +105,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="9">
 				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
 				<StartDate>2018-09-18</StartDate>
 				<StartTime>03:56:34</StartTime>
 				<EndDate>2018-09-18</EndDate>
-				<EndTime>04:18:47</EndTime>
+				<EndTime>04:18:46</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -170,12 +118,12 @@
 					<Description>Reggio piccola grande Italia  </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="10">
 				<IdName>7Monacidoro_mpeg2video</IdName>
 				<StartDate>2018-09-18</StartDate>
-				<StartTime>04:18:47</StartTime>
+				<StartTime>04:18:46</StartTime>
 				<EndDate>2018-09-18</EndDate>
-				<EndTime>05:52:36</EndTime>
+				<EndTime>05:52:35</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -183,12 +131,12 @@
 					<Description>7  MONACI D' ORO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="11">
 				<IdName>agrisapori736x26-11-17</IdName>
 				<StartDate>2018-09-18</StartDate>
-				<StartTime>05:52:36</StartTime>
+				<StartTime>05:52:35</StartTime>
 				<EndDate>2018-09-18</EndDate>
-				<EndTime>06:21:01</EndTime>
+				<EndTime>06:21:00</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
