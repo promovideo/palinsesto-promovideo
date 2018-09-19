@@ -1,41 +1,17 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-19/09/2018	09:07:47	L'ApeMaia-Ep.4-Maiaelamoscadomestica(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:45	0	
-19/09/2018	09:29:32	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-19/09/2018	09:30:37	TRAILERPARTE2DEL13-08-2018	Sconosciuto	Nuovo File	00:09:10	0	
-19/09/2018	09:39:47	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-19/09/2018	09:39:58	CariatiPiccolaGrandeItalia	CARIATI	cariati	00:21:41	71	documentari
-19/09/2018	10:01:39	Integralespettacolo	FESTA DEI  POPOLI	FESTA DEI  POPOLI	01:38:49	41	programmi culturali
-19/09/2018	11:40:28	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
-19/09/2018	11:42:48	TRAILERPARTE1DEL06-08-2018	Sconosciuto	Nuovo File	00:09:21	0	
-19/09/2018	11:52:10	FormulaMotoriPuntata25-06-18	Sconosciuto	Nuovo File	00:12:00	0	
-19/09/2018	12:04:10	Gliaspid'acheronte.RicordidisetaC)	GILASPI D' ACHERONTE	Nuovo File	00:27:19	71	documentari
-19/09/2018	12:31:29	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-19/09/2018	12:31:36	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-19/09/2018	12:32:41	MilleVocinapoletane-Puntata01di02_Edizione2016©(468p_25fps_H264-128kbit_AAC)	mille voci napoletane 1	mille    voci napoletane 1	01:29:30	81	videoclip
-19/09/2018	14:02:12	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-19/09/2018	14:02:27	POLSI218MITIRELIGIOSITA'EPAESAGGIO	polsi 2018 santa  croce	polsi  2018	00:36:36	41	programmi culturali
-19/09/2018	14:39:03	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
-19/09/2018	14:41:23	TRAILERPARTE1DEL13-08-2018	Sconosciuto	Nuovo File	00:09:10	0	
-19/09/2018	14:50:33	Spotoffertaestiva_mpeg2video	SPOT OFEFRTA ESTIVA	SPOT OFFERAT ESTIVA	00:00:46	11	spot
-19/09/2018	14:51:19	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-19/09/2018	14:52:00	TRAILERPARTE1DEL06-08-2018	Sconosciuto	Nuovo File	00:09:21	0	
-19/09/2018	15:01:22	PROMORADIONETWORK_mpeg2video	PROMORADIONETWORK	PROMORADIONETWORK	00:00:57	11	spot
-19/09/2018	15:02:19	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-19/09/2018	15:02:26	Labandadeglionesti_mpeg2video	LA BANDA DEGLI ONESTI	LA BANDA DEGLI  ONESTI	01:40:55	1	Film
-19/09/2018	16:43:21	TRAILERPARTE2DEL13-08-2018	Sconosciuto	Nuovo File	00:09:10	0	
-19/09/2018	16:52:32	CommandPerformance2009iTALiANDVDRipXviDPrEsTiGe	Sconosciuto	Command performance	01:29:22	1	Film
-19/09/2018	18:21:54	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-19/09/2018	18:22:01	Unbigliettoindue_1_mpeg2video	Un biglietto in due_1 P	Nuovo File	00:43:40	1	Film
-19/09/2018	19:05:41	TRAILERPARTE6DEL27-08-2018	Sconosciuto	Nuovo File	00:09:15	0	
-19/09/2018	19:14:57	Unbigliettoindue_2_mpeg2video	Un biglietto in due_2 P	Nuovo File	00:44:38	1	Film
-19/09/2018	19:59:35	Undollarodififa_mpeg2video	UN DOLLARO  DI  FIFA	UN DOLLARO  DI  FIFA	01:29:53	1	Film
-19/09/2018	21:29:28	Papadiventamamma_mpeg2video	PAPA  DIVENTA  MAMMA	PAPA  DIVENTA  MAMMA	01:20:22	1	Film
-19/09/2018	22:49:51	SPOTCIBRIO-PROMOVIDEOTVOK	Sconosciuto	Nuovo File	00:00:44	0	
-19/09/2018	22:50:36	AVISLOCRI	Sconosciuto	Nuovo File	00:00:33	0	
-19/09/2018	22:51:09	StarshipTroopers-FanteriaDelloSpazio	STARSHIP TROOPERS	STARSHIP TROOPERS	02:04:18	1	Film
-20/09/2018	00:55:28	LaCarbonarafilmcompleto_mpeg2video	LA  CARBONARA	LA CARBONARA	01:48:07	1	Film
-20/09/2018	02:43:35	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	Film
-20/09/2018	04:29:17	TRAILERPARTE7DEL13-08-2018	Sconosciuto	Nuovo File	00:09:10	0	
-20/09/2018	04:38:28	agrisapori618x19-7-15	AGRISAPORI	La Magdaleine	00:08:48	71	documentari
-20/09/2018	04:47:16	TropeaPiccolaGrandeItalia	Piccola grande Italia	TROPEA	00:26:53	71	documentari
-20/09/2018	05:14:09	GliAnimalipiPericolosiGiunglaUrbana(ITA)	Animali pericolosi	ANIMALI PERICOLOSI	00:47:02	71	documentari
+19/09/2018	16:56:01	CommandPerformance2009iTALiANDVDRipXviDPrEsTiGe	Sconosciuto	Command performance	01:29:22	1	Film
+19/09/2018	18:25:23	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+19/09/2018	18:25:30	Unbigliettoindue_1_mpeg2video	Un biglietto in due_1 P	Nuovo File	00:43:40	1	Film
+19/09/2018	19:09:10	TRAILERPARTE6DEL27-08-2018	Sconosciuto	Nuovo File	00:09:15	0	
+19/09/2018	19:18:26	Unbigliettoindue_2_mpeg2video	Un biglietto in due_2 P	Nuovo File	00:44:38	1	Film
+19/09/2018	20:03:04	Undollarodififa_mpeg2video	UN DOLLARO  DI  FIFA	UN DOLLARO  DI  FIFA	01:29:53	1	Film
+19/09/2018	21:32:57	Papadiventamamma_mpeg2video	PAPA  DIVENTA  MAMMA	PAPA  DIVENTA  MAMMA	01:20:22	1	Film
+19/09/2018	22:53:20	SPOTCIBRIO-PROMOVIDEOTVOK	Sconosciuto	Nuovo File	00:00:44	0	
+19/09/2018	22:54:05	AVISLOCRI	Sconosciuto	Nuovo File	00:00:33	0	
+19/09/2018	22:54:38	StarshipTroopers-FanteriaDelloSpazio	STARSHIP TROOPERS	STARSHIP TROOPERS	02:04:18	1	Film
+20/09/2018	00:58:57	LaCarbonarafilmcompleto_mpeg2video	LA  CARBONARA	LA CARBONARA	01:48:07	1	Film
+20/09/2018	02:47:04	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	Film
+20/09/2018	04:32:46	TRAILERPARTE7DEL13-08-2018	Sconosciuto	Nuovo File	00:09:10	0	
+20/09/2018	04:41:57	agrisapori618x19-7-15	AGRISAPORI	La Magdaleine	00:08:48	71	documentari
+20/09/2018	04:50:45	TropeaPiccolaGrandeItalia	Piccola grande Italia	TROPEA	00:26:53	71	documentari
+20/09/2018	05:17:38	GliAnimalipiPericolosiGiunglaUrbana(ITA)	Animali pericolosi	ANIMALI PERICOLOSI	00:47:02	71	documentari
