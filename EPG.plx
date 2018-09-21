@@ -1,6 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-21/09/2018	19:00:09	MuseoEgiziodelCairo(parte1)(2)	MUSEO EGIZIO DEL CAIRO 1^	MUSEO EGIZIODEL CAIRO 1^	00:24:45	41	programmi culturali
-21/09/2018	19:24:54	Scherzidaprete_mpeg2video	Sconosciuto	Scherzi da prete	01:27:51	1	Film
 21/09/2018	20:52:46	Malibùmostwanted_mpeg2video	Sconosciuto	MALIBU MONS WANTED	01:22:35	1	Film
 21/09/2018	22:15:21	TRAILERPARTE2DEL13-08-2018	Sconosciuto	Nuovo File	00:09:10	0	
 21/09/2018	22:24:31	Laclinicadellamore_mpeg2video	Sconosciuto	La clinica dell'amore	01:28:52	1	Film
