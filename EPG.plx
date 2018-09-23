@@ -1,17 +1,55 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-22/09/2018	19:42:02	LaCarbonarafilmcompleto_mpeg2video	LA  CARBONARA	LA CARBONARA	01:48:07	1	Film
-22/09/2018	21:30:09	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-22/09/2018	21:30:16	PasquaBenestareIGuti	Benestare I Guti	Bnestare I Guti	00:12:02	41	programmi culturali
-22/09/2018	21:42:19	PrometeoTV_20180801_74277	Sconosciuto	Nuovo File	00:05:39	0	
-22/09/2018	21:47:58	TRAILERPARTE1DEL13-08-2018	Sconosciuto	Nuovo File	00:09:10	0	
-22/09/2018	21:57:08	SPOTtraPROMOVIDEOTV10	Sconosciuto	SPOT PROMOVIDEOTV2	00:00:03	11	spot
-22/09/2018	21:57:11	NoepoliPiccolaGrandeItalia	Piccola grande Italia	Neapoli	00:16:32	71	documentari
-22/09/2018	22:13:44	TRAILERPARTE6DEL27-08-2018	Sconosciuto	Nuovo File	00:09:15	0	
-22/09/2018	22:22:59	Papadiventamamma_mpeg2video	PAPA  DIVENTA  MAMMA	PAPA  DIVENTA  MAMMA	01:20:22	1	Film
-22/09/2018	23:43:22	MuseoEgiziodelCairo(parte1)(2)	MUSEO EGIZIO DEL CAIRO 1^	MUSEO EGIZIODEL CAIRO 1^	00:24:45	41	programmi culturali
-23/09/2018	00:08:07	Scherzidaprete_mpeg2video	Sconosciuto	Scherzi da prete	01:27:51	1	Film
-23/09/2018	01:35:59	TRAILERPARTE2DEL13-08-2018	Sconosciuto	Nuovo File	00:09:10	0	
-23/09/2018	01:45:09	Segretaria_mpeg2video	Sconosciuto	Segretaria	01:46:42	1	Film
-23/09/2018	03:31:51	Infiltratospeciale_mpeg2video	Sconosciuto	Infiltrato  speciale	01:34:35	1	Film
-23/09/2018	05:06:26	TRAILERPARTE1DEL06-08-2018	Sconosciuto	Nuovo File	00:09:21	0	
-23/09/2018	05:15:48	CompagnoDonCamillo_mpeg2video	Sconosciuto	COMPAGNO  DON CAMILLO	01:42:17	1	Film
+23/09/2018	05:15:47	CompagnoDonCamillo_mpeg2video	Sconosciuto	COMPAGNO  DON CAMILLO	01:42:17	1	Film
+23/09/2018	06:00:00	Buenavistasocialclub_mpeg2video	BUENA VISTA SOCIAL CLUB	buena vista social club	01:40:28	81	videoclip
+23/09/2018	07:40:28	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+23/09/2018	07:40:35	Simsalagrimm1-Ep.12-Strepitolino-HDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:23:37	0	
+23/09/2018	08:04:12	Simsalagrimm1-Ep.14-CappuccettoRossoHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:22:49	0	
+23/09/2018	08:27:01	Simsalagrimm1-Ep.8-RaperonzoloHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:10	0	
+23/09/2018	08:48:12	TRAILERPARTE6DEL27-08-2018	Sconosciuto	Nuovo File	00:09:15	0	
+23/09/2018	08:57:27	SPOTtraPROMOVIDEOTV10	Sconosciuto	SPOT PROMOVIDEOTV2	00:00:03	11	spot
+23/09/2018	08:57:31	_1781_Recanatese_vivereomorire	vivere o morire	vivere  o   morire	00:26:37	61	Telefilm
+23/09/2018	09:24:08	SPOTtraPROMOVIDEOTV9	Sconosciuto	SPOT PROMOVIDEOTV	00:00:03	11	spot
+23/09/2018	09:24:12	CalabriaLaraccoltadelleolive	Sconosciuto	Nuovo File	00:13:59	0	
+23/09/2018	09:38:11	FRATELLIDISANGUE_mpeg2video	FRATELLI  DI SANGUE	FRATELLI  DI SANGUE	00:20:03	41	programmi culturali
+23/09/2018	09:58:15	Mr.Bean-L'ultimacatastrofe	Sconosciuto	Nuovo File	01:25:27	0	
+23/09/2018	11:23:42	TRAILERPARTE2DEL20-08-2018	Sconosciuto	Nuovo File	00:08:44	0	
+23/09/2018	11:32:26	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
+23/09/2018	11:32:30	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
+23/09/2018	11:34:50	TRAILERPARTE4DEL13-08-2018	Sconosciuto	Nuovo File	00:07:55	0	
+23/09/2018	11:42:45	GeracePiccolaGrandeItalia_mpeg2video	Sconosciuto	Gerace Piccola Grande città	00:23:27	42	
+23/09/2018	12:06:12	Pillola_Salute_20180529_73107	Sconosciuto	Nuovo File	00:02:18	0	
+23/09/2018	12:08:31	WELLIFE_puntata3	Sconosciuto	Nuovo File	00:12:02	0	
+23/09/2018	12:20:33	FIDAPACZ	Sconosciuto	Nuovo File	00:07:24	0	
+23/09/2018	12:27:58	TRAILERPARTE1DEL13-08-2018	Sconosciuto	Nuovo File	00:09:10	0	
+23/09/2018	12:37:08	Wargames_mpeg2video	WARGAMES	Wrgames	01:48:02	1	Film
+23/09/2018	14:25:10	PROMOVIDEOSPOT2	SPOT  PROMOVIDEOTV 2	SPOT  PROMOVIDEOTV 2	00:00:06	11	spot
+23/09/2018	14:25:17	Rotocalco	Sconosciuto	Nuovo File	00:17:25	0	
+23/09/2018	14:42:42	L'ApeMaia-Ep.6-L'incendionelbosco(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:48	0	
+23/09/2018	15:04:31	L'ApeMaia-Ep.5-IlragnoTecla(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:22:04	0	
+23/09/2018	15:26:35	L'ApeMaia-Ep.3-Lalibellula(SerieOriginale)(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:25	0	
+23/09/2018	15:51:00	TRAILERPARTE1DEL13-08-2018	Sconosciuto	Nuovo File	00:09:10	0	
+23/09/2018	16:00:11	Gliaspid'acheronte.RicordidisetaC)	GILASPI D' ACHERONTE	Nuovo File	00:27:19	71	documentari
+23/09/2018	16:27:30	TRAILERPARTE3DEL13-08-2018	Sconosciuto	Nuovo File	00:09:10	0	
+23/09/2018	16:36:40	DGM13DT	Sconosciuto	Nuovo File	00:24:34	0	
+23/09/2018	17:01:14	Unosparonelbuio_mpeg2video	Sconosciuto	Uno  sparo  nel  buoio	01:37:59	22	
+23/09/2018	18:39:13	PUNT19MYTECH-PIXMINDok	PIUXMIND P. 19	Nuovo File	00:23:02	31	programmi informativi
+23/09/2018	19:02:16	ACavallosugliAltopianidelPollino-PiccolaGrandeItalia(720p_30fps_H264-192kbit_AAC)	TEBISACCE	Nuovo File	00:19:38	41	programmi culturali
+23/09/2018	19:21:54	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+23/09/2018	19:22:01	PrometeoTV_20180801_74277	Sconosciuto	Nuovo File	00:05:39	0	
+23/09/2018	19:27:40	POLSIARCHIVIOPROMOCULTURA	POLSI	POLSI	00:14:00	41	programmi culturali
+23/09/2018	19:41:40	ItaliaEconomia(2)	Sconosciuto	Nuovo File	00:18:01	0	
+23/09/2018	19:59:42	MYTECH-PIXMINDreplicaestate(9ok)	Sconosciuto	Nuovo File	00:23:59	0	
+23/09/2018	20:23:42	049-LaTerradelSoleRosso(11')eD	LA TERRA DEL   SOLE ROSSO	LA TERRA DEL   SOLE  ROSSO	00:10:48	71	documentari
+23/09/2018	20:34:30	Americangraffiti_1_mpeg2video	AMERICAN GRAFFITI_1	AMERICAN GRAFFITI_1	00:57:34	1	Film
+23/09/2018	21:32:04	Americangraffiti_2_mpeg2video	AMERICAN GRAFFITI_2	AMERICAN GRAFFITI_2	00:50:04	1	Film
+23/09/2018	22:22:09	TRAILERPARTE1DEL13-08-2018	Sconosciuto	Nuovo File	00:09:10	0	
+23/09/2018	22:31:19	SPOTtraPROMOVIDEOTV10	Sconosciuto	SPOT PROMOVIDEOTV2	00:00:03	11	spot
+23/09/2018	22:31:23	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
+24/09/2018	00:19:54	Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)	Sconosciuto	BERTOLDO BERTOLDINO E CACASENNO	01:59:40	1	Film
+24/09/2018	02:19:34	NoepoliPiccolaGrandeItalia	Piccola grande Italia	Neapoli	00:16:32	71	documentari
+24/09/2018	02:36:06	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
+24/09/2018	02:38:36	Ancora48ore_3_mpeg2video	Sconosciuto	Nuovo File	00:24:07	22	
+24/09/2018	03:02:43	Ancora48ore_3_mpeg2video	Sconosciuto	Nuovo File	00:24:07	22	
+24/09/2018	03:26:51	BovaChoratuVuaIlGioielloD'Aspromonte	BOVA GIOIELLO D' ASPROMONTE	BOVA	00:16:11	41	programmi culturali
+24/09/2018	03:43:02	StarshipTroopers-FanteriaDelloSpazio	STARSHIP TROOPERS	STARSHIP TROOPERS	02:04:18	1	Film
+24/09/2018	05:47:21	L'isoladeisopravvissuti	Sconosciuto	L' isola dei sopravvissuti 	01:31:43	1	Film
