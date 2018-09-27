@@ -1,35 +1,21 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-27/09/2018	11:15:44	CariatiPiccolaGrandeItalia	CARIATI	cariati	00:21:41	71	documentari
-27/09/2018	11:37:25	Ritornoalfuturo3_1_mpeg2video	RIRORNO  AL  FUTURO 3	Ritorno  al  futuro 3	01:00:22	1	Film
-27/09/2018	12:37:47	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
-27/09/2018	12:40:07	TRAILERPARTE1DEL06-08-2018	Sconosciuto	Nuovo File	00:09:21	0	
-27/09/2018	12:49:29	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-27/09/2018	12:49:36	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-27/09/2018	12:50:41	Mammola(RC)-CALABRIA(720p_30fps_H264-192kbit_AAC)	mammola docu	MAMMOLA	00:05:29	41	programmi culturali
-27/09/2018	12:56:10	CompagnoDonCamillo_mpeg2video	Sconosciuto	COMPAGNO  DON CAMILLO	01:42:17	1	Film
-27/09/2018	14:38:27	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-27/09/2018	14:38:43	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
-27/09/2018	14:41:03	TRAILERPARTE1DEL13-08-2018	Sconosciuto	Nuovo File	00:09:10	0	
-27/09/2018	14:50:13	CauloniaPontesull'AllarosopralluogodelPrefettodiReggioCal.480p_25fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:11:58	0	
-27/09/2018	15:02:12	Spotoffertaestiva_mpeg2video	SPOT OFEFRTA ESTIVA	SPOT OFFERAT ESTIVA	00:00:46	11	spot
-27/09/2018	15:02:58	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-27/09/2018	15:03:38	CiccioeFrancoSatiricosissimo_mpeg2video	FRANCO FRANCHI INGRASSIA	SATIRICONISSIMO	01:25:00	1	Film
-27/09/2018	16:28:39	TRAILERPARTE1DEL06-08-2018	Sconosciuto	Nuovo File	00:09:21	0	
-27/09/2018	16:38:01	PROMORADIONETWORK_mpeg2video	PROMORADIONETWORK	PROMORADIONETWORK	00:00:57	11	spot
-27/09/2018	16:38:59	Unmostroemezzo_mpeg2video	Sconosciuto	Un mostro e   mezzo	01:36:32	1	Film
-27/09/2018	18:15:31	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-27/09/2018	18:15:37	Labandadeglionesti_mpeg2video	LA BANDA DEGLI ONESTI	LA BANDA DEGLI  ONESTI	01:40:55	1	Film
-27/09/2018	19:56:33	GliAnimalipiPericolosiGiunglaUrbana(ITA)	Animali pericolosi	ANIMALI PERICOLOSI	00:47:02	71	documentari
-27/09/2018	20:43:35	TRAILERPARTE2DEL13-08-2018	Sconosciuto	Nuovo File	00:09:10	0	
-27/09/2018	20:52:45	CommandPerformance2009iTALiANDVDRipXviDPrEsTiGe	Sconosciuto	Command performance	01:29:22	1	Film
-27/09/2018	22:22:08	Mammola(RC)-CALABRIA(720p_30fps_H264-192kbit_AAC)	mammola docu	MAMMOLA	00:05:29	41	programmi culturali
-27/09/2018	22:27:37	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-27/09/2018	22:27:44	Unbigliettoindue_1_mpeg2video	Un biglietto in due_1 P	Nuovo File	00:43:40	1	Film
-27/09/2018	23:11:24	Unbigliettoindue_2_mpeg2video	Un biglietto in due_2 P	Nuovo File	00:44:38	1	Film
-27/09/2018	23:56:02	Undollarodififa_mpeg2video	UN DOLLARO  DI  FIFA	UN DOLLARO  DI  FIFA	01:29:53	1	Film
-28/09/2018	01:25:56	Papadiventamamma_mpeg2video	PAPA  DIVENTA  MAMMA	PAPA  DIVENTA  MAMMA	01:20:22	1	Film
-28/09/2018	02:46:19	LaCarbonarafilmcompleto_mpeg2video	LA  CARBONARA	LA CARBONARA	01:48:07	1	Film
-28/09/2018	04:34:26	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	Film
-28/09/2018	06:20:08	TRAILERPARTE7DEL13-08-2018	Sconosciuto	Nuovo File	00:09:10	0	
-28/09/2018	06:29:18	agrisapori618x19-7-15	AGRISAPORI	La Magdaleine	00:08:48	71	documentari
-28/09/2018	06:38:07	Ritornoalfuturo3_1_mpeg2video	RIRORNO  AL  FUTURO 3	Ritorno  al  futuro 3	01:00:22	1	Film
+27/09/2018	19:51:38	agrisapori715x4-6-17	Sconosciuto	Nuovo File	00:25:19	0	
+27/09/2018	20:16:58	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
+27/09/2018	20:17:13	CassanoFestadelSantissimoCrocifisso	Sconosciuto	Nuovo File	00:29:43	0	
+27/09/2018	20:46:57	paesemio	Sconosciuto	Nuovo File	00:31:37	0	
+27/09/2018	21:18:34	IlBrigantaggio	IL  BRIGANTAGGIO	IL  BRIGANTAGGIO	00:32:04	71	documentari
+27/09/2018	21:50:38	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
+27/09/2018	21:51:18	IlmegliodiMilleVoci2017_p02	Sconosciuto	Nuovo File	01:23:08	0	
+27/09/2018	23:14:27	SimsalaGrimm2-Ep.19-IlpiccoloMookHDItaliano(480p_20fps_H264-128kbit_AAC)	IL PICCOLO MOOK	EP.19	00:24:35	51	cartoni animati
+27/09/2018	23:39:02	SimsalaGrimm2-Ep.13-LetrepiumeHdItaliano(720p_30fps_H264-192kbit_AAC)	le tre  piume	EP 13	00:24:33	51	cartoni animati
+28/09/2018	00:03:36	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
+28/09/2018	00:03:43	MuseoEgiziodelCairo(parte1)(2)	MUSEO EGIZIO DEL CAIRO 1^	MUSEO EGIZIODEL CAIRO 1^	00:24:45	41	programmi culturali
+28/09/2018	00:28:28	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+28/09/2018	00:28:35	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
+28/09/2018	00:30:55	AmicimieiattoIII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO III	01:49:20	1	Film
+28/09/2018	02:20:16	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+28/09/2018	02:20:23	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
+28/09/2018	02:22:52	FantozziVaInPensione	FANTOZZI VA IN PENSIONE	FANTOZZI VA IN PENSIONE	01:34:36	1	Film
+28/09/2018	03:57:28	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+28/09/2018	03:57:35	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+28/09/2018	03:57:46	Souvenird'Italie_mpeg2video	Souvenir d'Italy	Souvenir d'Italy	01:44:43	1	Film
