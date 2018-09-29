@@ -1,6 +1,5 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-29/09/2018	18:37:41	IlritornodelRe	Sconosciuto	Il  ritorno del re	03:12:46	22	
-29/09/2018	21:50:27	Schoolofrock	Schoolofrock	SCHOOLOFROK	01:44:45	1	Film
+29/09/2018	21:50:28	Schoolofrock	Schoolofrock	SCHOOLOFROK	01:44:45	1	Film
 29/09/2018	23:35:13	Papadiventamamma_mpeg2video	PAPA  DIVENTA  MAMMA	PAPA  DIVENTA  MAMMA	01:20:22	1	Film
 30/09/2018	00:55:36	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
 30/09/2018	01:02:51	StarshipTroopers2-Glieroidellafederazione	Sconosciuto	Trooper 2	01:27:52	1	Film
