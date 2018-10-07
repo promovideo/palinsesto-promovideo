@@ -1,40 +1,47 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-06/10/2018	21:15:39	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-06/10/2018	21:22:54	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	documentari
-06/10/2018	21:43:53	80vogliadicantareFaustoCigliano	Sconosciuto	Nuovo File	00:15:43	0	
-06/10/2018	21:59:36	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-06/10/2018	22:06:51	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	documentari
-06/10/2018	22:27:49	80vogliadicantareFaustoCigliano	Sconosciuto	Nuovo File	00:15:43	0	
-06/10/2018	22:43:33	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-06/10/2018	22:50:47	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	documentari
-06/10/2018	23:11:46	80vogliadicantareFaustoCigliano	Sconosciuto	Nuovo File	00:15:43	0	
-06/10/2018	23:27:29	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-06/10/2018	23:34:44	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	documentari
-06/10/2018	23:55:42	80vogliadicantareFaustoCigliano	Sconosciuto	Nuovo File	00:15:43	0	
-07/10/2018	00:11:26	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-07/10/2018	00:18:40	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	documentari
-07/10/2018	00:39:39	80vogliadicantareFaustoCigliano	Sconosciuto	Nuovo File	00:15:43	0	
-07/10/2018	00:55:22	80vogliadicantareFaustoCigliano	Sconosciuto	Nuovo File	00:15:43	0	
-07/10/2018	01:11:06	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-07/10/2018	01:18:20	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	documentari
-07/10/2018	01:39:19	80vogliadicantareFaustoCigliano	Sconosciuto	Nuovo File	00:15:43	0	
-07/10/2018	01:55:02	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-07/10/2018	02:02:17	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	documentari
-07/10/2018	02:23:16	80vogliadicantareFaustoCigliano	Sconosciuto	Nuovo File	00:15:43	0	
-07/10/2018	02:38:59	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-07/10/2018	02:46:14	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	documentari
-07/10/2018	03:07:12	80vogliadicantareFaustoCigliano	Sconosciuto	Nuovo File	00:15:43	0	
-07/10/2018	03:22:56	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-07/10/2018	03:30:10	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	documentari
-07/10/2018	03:51:09	80vogliadicantareFaustoCigliano	Sconosciuto	Nuovo File	00:15:43	0	
-07/10/2018	04:06:52	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-07/10/2018	04:14:07	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	documentari
-07/10/2018	04:35:05	80vogliadicantareFaustoCigliano	Sconosciuto	Nuovo File	00:15:43	0	
-07/10/2018	04:50:49	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-07/10/2018	04:58:03	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	documentari
-07/10/2018	05:19:02	80vogliadicantareFaustoCigliano	Sconosciuto	Nuovo File	00:15:43	0	
-07/10/2018	05:34:45	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-07/10/2018	05:42:00	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	documentari
-07/10/2018	06:02:59	80vogliadicantareFaustoCigliano	Sconosciuto	Nuovo File	00:15:43	0	
-07/10/2018	06:18:42	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-07/10/2018	06:25:57	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	documentari
+07/10/2018	05:17:18	CleanBandit-RatherBe(feat.JessGlynne)(OfficialVideo)	RATHER BE	CLEAN BANDIT	00:04:28	81	videoclip
+07/10/2018	05:21:46	MuseoEgiziodelCairo(parte3)	MUSEO EGIZIO DEL CAIRO 3^ P	MUSEO EGIZIO DEL CAIRO 3^ P	00:29:05	41	programmi culturali
+07/10/2018	05:50:51	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+07/10/2018	05:59:59	italiaEconomia_20150311_49151	Sconosciuto	Nuovo File	00:08:29	0	
+07/10/2018	06:08:29	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+07/10/2018	06:09:34	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+07/10/2018	06:09:45	2012VUEMMESPOT	VUEMMEFAST	VUEMMEFAST	00:00:37	11	spot
+07/10/2018	06:10:22	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
+07/10/2018	06:34:46	TRAILERPARTE4SOLODALLE16,00ALLE18,00	Sconosciuto	Nuovo File	00:09:08	0	
+07/10/2018	06:43:54	TartarugheNinja-16Ilredeifumetti	Sconosciuto	Nuovo File	00:22:01	0	
+07/10/2018	07:05:55	TartarugheNinja-14Avventurenelsottosuolo-parte2	Sconosciuto	Nuovo File	00:22:04	0	
+07/10/2018	07:27:59	TartarugheNinja-13Avventurenelsottosuolo-parte1	Sconosciuto	Nuovo File	00:22:05	0	
+07/10/2018	07:50:04	inTavola_20150226_48823	Sconosciuto	Nuovo File	00:01:58	0	
+07/10/2018	07:52:03	TRAILERPARTE6DOPOLE22,30	Sconosciuto	Nuovo File	00:10:04	0	
+07/10/2018	08:02:08	GeracepresentatoilDiariofotograficodi25annidicammino(byEL)	LIBRO  FOTOGRAFICO 25  ANNI  DI  CAMMINO	GERACE 25  ANNI  DI CAMMINO	00:31:39	41	programmi culturali
+07/10/2018	08:33:47	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+07/10/2018	08:33:54	jerry.lewis.l.idolo.delle.donne.19611°t.	L' IDOLO DELLE DONNE 1°	L' IDOLO DELLE DONNE 1°	00:47:12	1	Film
+07/10/2018	09:21:06	Arma.Da.Taglio.19722°t	ARMA DA TAGLIO 2°	ARMA DA TAGLIO 2°	00:37:18	1	Film
+07/10/2018	09:58:25	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+07/10/2018	09:59:30	benessere_20150715_52345	Sconosciuto	Nuovo File	00:01:11	0	
+07/10/2018	10:00:41	Bowfinger_1_mpeg2video	Sconosciuto	BOWFINGER 1P	00:44:18	1	Film
+07/10/2018	10:45:00	Bowfinger_2_mpeg2video	Sconosciuto	BOWFINGER 2 P	00:48:07	1	Film
+07/10/2018	11:33:07	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
+07/10/2018	11:33:22	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
+07/10/2018	11:34:03	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
+07/10/2018	13:25:45	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
+07/10/2018	15:27:55	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
+07/10/2018	15:28:02	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
+07/10/2018	15:50:15	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
+07/10/2018	17:20:50	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+07/10/2018	17:20:57	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
+07/10/2018	19:11:32	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+07/10/2018	19:11:39	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+07/10/2018	19:11:50	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+07/10/2018	19:11:57	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
+07/10/2018	20:35:06	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
+07/10/2018	21:27:11	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
+07/10/2018	23:15:42	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+07/10/2018	23:15:49	_1779_Recanatese_Lunaametà	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
+07/10/2018	23:24:07	GeracepresentatoilDiariofotograficodi25annidicammino(byEL)	LIBRO  FOTOGRAFICO 25  ANNI  DI  CAMMINO	GERACE 25  ANNI  DI CAMMINO	00:31:39	41	programmi culturali
+07/10/2018	23:55:46	jerry.lewis.l.idolo.delle.donne.19611°t.	L' IDOLO DELLE DONNE 1°	L' IDOLO DELLE DONNE 1°	00:47:12	1	Film
+08/10/2018	00:42:58	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+08/10/2018	00:43:05	_1779_Recanatese_Lunaametà	RECANATESE 'LUNA A META'	RECANATESE  LUNA A METa'	00:08:17	61	Telefilm
+08/10/2018	00:51:22	jerry.lewis.l.idolo.delle.donne.19611°t.	L' IDOLO DELLE DONNE 1°	L' IDOLO DELLE DONNE 1°	00:47:12	1	Film
+08/10/2018	01:38:35	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
+08/10/2018	03:40:44	jerry.lewis.l.idolo.delle.donne.19611°t.	L' IDOLO DELLE DONNE 1°	L' IDOLO DELLE DONNE 1°	00:47:12	1	Film
