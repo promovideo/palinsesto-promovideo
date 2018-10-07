@@ -2,141 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Bowfinger_1_mpeg2video</IdName>
-				<StartDate>2018-10-07</StartDate>
-				<StartTime>09:22:41</StartTime>
-				<EndDate>2018-10-07</EndDate>
-				<EndTime>10:06:59</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>BOWFINGER 1P</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>Bowfinger_2_mpeg2video</IdName>
-				<StartDate>2018-10-07</StartDate>
-				<StartTime>10:06:59</StartTime>
-				<EndDate>2018-10-07</EndDate>
-				<EndTime>10:55:06</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>BOWFINGER 2 P</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>spotDIGIII</IdName>
-				<StartDate>2018-10-07</StartDate>
-				<StartTime>10:55:06</StartTime>
-				<EndDate>2018-10-07</EndDate>
-				<EndTime>10:55:22</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT DIGII</Name>
-					<Description>SPOT PROMOVIDEO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>PillolaSalute_20150302_48922</IdName>
-				<StartDate>2018-10-07</StartDate>
-				<StartTime>10:55:22</StartTime>
-				<EndDate>2018-10-07</EndDate>
-				<EndTime>10:56:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
-				<IdName>CityofGhost_mpeg2video</IdName>
-				<StartDate>2018-10-07</StartDate>
-				<StartTime>10:56:02</StartTime>
-				<EndDate>2018-10-07</EndDate>
-				<EndTime>12:47:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CYTY OF GHOST</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
-				<IdName>Colpogrosso_mpeg2video</IdName>
-				<StartDate>2018-10-07</StartDate>
-				<StartTime>12:47:44</StartTime>
-				<EndDate>2018-10-07</EndDate>
-				<EndTime>14:49:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Colpogrosso</Name>
-					<Description>COLPO  GROSSO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
-				<IdName>3PROMOVIDEOSPOT3</IdName>
-				<StartDate>2018-10-07</StartDate>
-				<StartTime>14:49:54</StartTime>
-				<EndDate>2018-10-07</EndDate>
-				<EndTime>14:50:01</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>spot promovideotv</Name>
-					<Description>SPOT PROMOVIDEOTV 3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="8">
-				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
-				<StartDate>2018-10-07</StartDate>
-				<StartTime>14:50:01</StartTime>
-				<EndDate>2018-10-07</EndDate>
-				<EndTime>15:12:14</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Reggio piccola grande Italia  </Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="9">
-				<IdName>AttackForce</IdName>
-				<StartDate>2018-10-07</StartDate>
-				<StartTime>15:12:14</StartTime>
-				<EndDate>2018-10-07</EndDate>
-				<EndTime>16:42:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ATTACK FORCR </Name>
-					<Description>ATTACK FORCE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2018-10-07</StartDate>
-				<StartTime>16:42:49</StartTime>
-				<EndDate>2018-10-07</EndDate>
-				<EndTime>16:42:56</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="11">
 				<IdName>Fantozzi-GrandiMagazzini</IdName>
 				<StartDate>2018-10-07</StartDate>
-				<StartTime>16:42:56</StartTime>
+				<StartTime>16:42:52</StartTime>
 				<EndDate>2018-10-07</EndDate>
-				<EndTime>18:33:32</EndTime>
+				<EndTime>18:33:28</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -144,12 +14,142 @@
 					<Description>GRANDI MAGAZZINI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="2">
 				<IdName>7PROMOVIDEOspot7</IdName>
 				<StartDate>2018-10-07</StartDate>
-				<StartTime>18:33:32</StartTime>
+				<StartTime>18:33:28</StartTime>
 				<EndDate>2018-10-07</EndDate>
-				<EndTime>18:33:39</EndTime>
+				<EndTime>18:33:35</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOT  PROMOVIDEOTV</Name>
+					<Description>SPOT PROMOVIDEOTV</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="3">
+				<IdName>minispotapplicazione</IdName>
+				<StartDate>2018-10-07</StartDate>
+				<StartTime>18:33:35</StartTime>
+				<EndDate>2018-10-07</EndDate>
+				<EndTime>18:33:46</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOTAPP</Name>
+					<Description>SPOTAPP</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="4">
+				<IdName>6PROMOVIDEOSPOT6</IdName>
+				<StartDate>2018-10-07</StartDate>
+				<StartTime>18:33:46</StartTime>
+				<EndDate>2018-10-07</EndDate>
+				<EndTime>18:33:52</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>6 SPOT PTOMOVIDEO</Name>
+					<Description>PROMOVIDEOSPOT 6</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="5">
+				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
+				<StartDate>2018-10-07</StartDate>
+				<StartTime>18:33:52</StartTime>
+				<EndDate>2018-10-07</EndDate>
+				<EndTime>19:57:01</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>BELLEZZE SULLA SPIAGGIA</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="6">
+				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
+				<StartDate>2018-10-07</StartDate>
+				<StartTime>19:57:01</StartTime>
+				<EndDate>2018-10-07</EndDate>
+				<EndTime>20:49:07</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>ANIMALI SERPENTI</Name>
+					<Description>ANIMALI SERPENTI</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="7">
+				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
+				<StartDate>2018-10-07</StartDate>
+				<StartTime>20:49:07</StartTime>
+				<EndDate>2018-10-07</EndDate>
+				<EndTime>22:37:38</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>CRASH CONTATTO   FINALE FISICO</Name>
+					<Description>CRASH CONTATTO  FINALE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="8">
+				<IdName>7PROMOVIDEOspot7</IdName>
+				<StartDate>2018-10-07</StartDate>
+				<StartTime>22:37:38</StartTime>
+				<EndDate>2018-10-07</EndDate>
+				<EndTime>22:37:45</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOT  PROMOVIDEOTV</Name>
+					<Description>SPOT PROMOVIDEOTV</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="9">
+				<IdName>_1779_Recanatese_Lunaametà</IdName>
+				<StartDate>2018-10-07</StartDate>
+				<StartTime>22:37:45</StartTime>
+				<EndDate>2018-10-07</EndDate>
+				<EndTime>22:46:02</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>RECANATESE 'LUNA A META'</Name>
+					<Description>RECANATESE  LUNA A METa'</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="10">
+				<IdName>GeracepresentatoilDiariofotograficodi25annidicammino(byEL)</IdName>
+				<StartDate>2018-10-07</StartDate>
+				<StartTime>22:46:02</StartTime>
+				<EndDate>2018-10-07</EndDate>
+				<EndTime>23:17:41</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>LIBRO  FOTOGRAFICO 25  ANNI  DI  CAMMINO</Name>
+					<Description>GERACE 25  ANNI  DI CAMMINO</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="11">
+				<IdName>jerry.lewis.l.idolo.delle.donne.19611°t.</IdName>
+				<StartDate>2018-10-07</StartDate>
+				<StartTime>23:17:41</StartTime>
+				<EndDate>2018-10-08</EndDate>
+				<EndTime>00:04:54</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>L' IDOLO DELLE DONNE 1°</Name>
+					<Description>L' IDOLO DELLE DONNE 1°</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="12">
+				<IdName>7PROMOVIDEOspot7</IdName>
+				<StartDate>2018-10-08</StartDate>
+				<StartTime>00:04:54</StartTime>
+				<EndDate>2018-10-08</EndDate>
+				<EndTime>00:05:00</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -158,167 +158,37 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="13">
-				<IdName>minispotapplicazione</IdName>
-				<StartDate>2018-10-07</StartDate>
-				<StartTime>18:33:39</StartTime>
-				<EndDate>2018-10-07</EndDate>
-				<EndTime>18:33:49</EndTime>
+				<IdName>_1779_Recanatese_Lunaametà</IdName>
+				<StartDate>2018-10-08</StartDate>
+				<StartTime>00:05:00</StartTime>
+				<EndDate>2018-10-08</EndDate>
+				<EndTime>00:13:18</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>SPOTAPP</Name>
-					<Description>SPOTAPP</Description>
+					<Name>RECANATESE 'LUNA A META'</Name>
+					<Description>RECANATESE  LUNA A METa'</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="14">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2018-10-07</StartDate>
-				<StartTime>18:33:49</StartTime>
-				<EndDate>2018-10-07</EndDate>
-				<EndTime>18:33:56</EndTime>
+				<IdName>jerry.lewis.l.idolo.delle.donne.19611°t.</IdName>
+				<StartDate>2018-10-08</StartDate>
+				<StartTime>00:13:18</StartTime>
+				<EndDate>2018-10-08</EndDate>
+				<EndTime>01:00:30</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
+					<Name>L' IDOLO DELLE DONNE 1°</Name>
+					<Description>L' IDOLO DELLE DONNE 1°</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="15">
-				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
-				<StartDate>2018-10-07</StartDate>
-				<StartTime>18:33:56</StartTime>
-				<EndDate>2018-10-07</EndDate>
-				<EndTime>19:57:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>BELLEZZE SULLA SPIAGGIA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="16">
-				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
-				<StartDate>2018-10-07</StartDate>
-				<StartTime>19:57:05</StartTime>
-				<EndDate>2018-10-07</EndDate>
-				<EndTime>20:49:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ANIMALI SERPENTI</Name>
-					<Description>ANIMALI SERPENTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="17">
-				<IdName>Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT</IdName>
-				<StartDate>2018-10-07</StartDate>
-				<StartTime>20:49:11</StartTime>
-				<EndDate>2018-10-07</EndDate>
-				<EndTime>22:37:42</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CRASH CONTATTO   FINALE FISICO</Name>
-					<Description>CRASH CONTATTO  FINALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="18">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2018-10-07</StartDate>
-				<StartTime>22:37:42</StartTime>
-				<EndDate>2018-10-07</EndDate>
-				<EndTime>22:37:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="19">
-				<IdName>_1779_Recanatese_Lunaametà</IdName>
-				<StartDate>2018-10-07</StartDate>
-				<StartTime>22:37:49</StartTime>
-				<EndDate>2018-10-07</EndDate>
-				<EndTime>22:46:06</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>RECANATESE 'LUNA A META'</Name>
-					<Description>RECANATESE  LUNA A METa'</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="20">
-				<IdName>GeracepresentatoilDiariofotograficodi25annidicammino(byEL)</IdName>
-				<StartDate>2018-10-07</StartDate>
-				<StartTime>22:46:06</StartTime>
-				<EndDate>2018-10-07</EndDate>
-				<EndTime>23:17:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LIBRO  FOTOGRAFICO 25  ANNI  DI  CAMMINO</Name>
-					<Description>GERACE 25  ANNI  DI CAMMINO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="21">
-				<IdName>jerry.lewis.l.idolo.delle.donne.19611°t.</IdName>
-				<StartDate>2018-10-07</StartDate>
-				<StartTime>23:17:45</StartTime>
-				<EndDate>2018-10-08</EndDate>
-				<EndTime>00:04:58</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>L' IDOLO DELLE DONNE 1°</Name>
-					<Description>L' IDOLO DELLE DONNE 1°</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="22">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2018-10-08</StartDate>
-				<StartTime>00:04:58</StartTime>
-				<EndDate>2018-10-08</EndDate>
-				<EndTime>00:05:04</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="23">
-				<IdName>_1779_Recanatese_Lunaametà</IdName>
-				<StartDate>2018-10-08</StartDate>
-				<StartTime>00:05:04</StartTime>
-				<EndDate>2018-10-08</EndDate>
-				<EndTime>00:13:22</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>RECANATESE 'LUNA A META'</Name>
-					<Description>RECANATESE  LUNA A METa'</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="24">
-				<IdName>jerry.lewis.l.idolo.delle.donne.19611°t.</IdName>
-				<StartDate>2018-10-08</StartDate>
-				<StartTime>00:13:22</StartTime>
-				<EndDate>2018-10-08</EndDate>
-				<EndTime>01:00:34</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>L' IDOLO DELLE DONNE 1°</Name>
-					<Description>L' IDOLO DELLE DONNE 1°</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="25">
 				<IdName>Colpogrosso_mpeg2video</IdName>
 				<StartDate>2018-10-08</StartDate>
-				<StartTime>01:00:34</StartTime>
+				<StartTime>01:00:30</StartTime>
 				<EndDate>2018-10-08</EndDate>
-				<EndTime>03:02:44</EndTime>
+				<EndTime>03:02:40</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -326,12 +196,12 @@
 					<Description>COLPO  GROSSO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="26">
+			<Event id="16">
 				<IdName>jerry.lewis.l.idolo.delle.donne.19611°t.</IdName>
 				<StartDate>2018-10-08</StartDate>
-				<StartTime>03:02:44</StartTime>
+				<StartTime>03:02:40</StartTime>
 				<EndDate>2018-10-08</EndDate>
-				<EndTime>03:49:56</EndTime>
+				<EndTime>03:49:52</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
