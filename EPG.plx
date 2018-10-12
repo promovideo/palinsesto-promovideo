@@ -1,7 +1,6 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-12/10/2018	04:01:52	TotoaParigi_mpeg2video	Sconosciuto	Tot a Prigi	01:33:42	1	Film
-12/10/2018	05:35:34	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-12/10/2018	05:42:49	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	documentari
+12/10/2018	09:09:30	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	documentari
+12/10/2018	10:01:40	INNACaliente(OFFICIALVIDEO)	Caliente	Inna	00:03:21	162	
 12/11/2018	06:00:00	Buenavistasocialclub_mpeg2video	BUENA VISTA SOCIAL CLUB	buena vista social club	01:40:28	81	videoclip
 12/11/2018	07:40:28	PianadegliAlbanesi'DomenicadellePalme'PiccolaGrandeItalia	PIANA DEGLI ALBANESI	PIANA DEGLI ALBANESI	00:14:12	71	documentari
 12/11/2018	07:54:40	TRAILERPARTE4DEL24-09-2018	Sconosciuto	Nuovo File	00:08:05	0	
