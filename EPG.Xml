@@ -2,63 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Carnevale2013Flashsulprimocorsomascherato</IdName>
-				<StartDate>2018-10-25</StartDate>
-				<StartTime>19:26:42</StartTime>
-				<EndDate>2018-10-25</EndDate>
-				<EndTime>19:49:47</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CARNEVALE VENEZIA 2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>TRAILERPARTE8DEL15-10-2018</IdName>
-				<StartDate>2018-10-25</StartDate>
-				<StartTime>19:49:47</StartTime>
-				<EndDate>2018-10-25</EndDate>
-				<EndTime>19:58:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2018-10-25</StartDate>
-				<StartTime>19:58:54</StartTime>
-				<EndDate>2018-10-25</EndDate>
-				<EndTime>19:59:00</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>L'isoladeisopravvissuti</IdName>
-				<StartDate>2018-10-25</StartDate>
-				<StartTime>19:59:00</StartTime>
-				<EndDate>2018-10-25</EndDate>
-				<EndTime>21:30:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>L' isola dei sopravvissuti </Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
 				<IdName>Bridget</IdName>
 				<StartDate>2018-10-25</StartDate>
-				<StartTime>21:30:44</StartTime>
+				<StartTime>21:30:40</StartTime>
 				<EndDate>2018-10-25</EndDate>
-				<EndTime>23:01:25</EndTime>
+				<EndTime>23:01:21</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -66,12 +14,12 @@
 					<Description>BRIDGET</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="2">
 				<IdName>SardegnaVistadalcielo</IdName>
 				<StartDate>2018-10-25</StartDate>
-				<StartTime>23:01:25</StartTime>
+				<StartTime>23:01:21</StartTime>
 				<EndDate>2018-10-25</EndDate>
-				<EndTime>23:51:49</EndTime>
+				<EndTime>23:51:45</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -79,12 +27,12 @@
 					<Description>Sardegna vista dal cielo</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="3">
 				<IdName>TRAILERPARTE7DEL15-10-2018</IdName>
 				<StartDate>2018-10-25</StartDate>
-				<StartTime>23:51:49</StartTime>
+				<StartTime>23:51:45</StartTime>
 				<EndDate>2018-10-26</EndDate>
-				<EndTime>00:00:56</EndTime>
+				<EndTime>00:00:52</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,12 +40,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="4">
 				<IdName>MuseoEgiziodelCairo(parte1)(2)</IdName>
 				<StartDate>2018-10-26</StartDate>
-				<StartTime>00:00:56</StartTime>
+				<StartTime>00:00:52</StartTime>
 				<EndDate>2018-10-26</EndDate>
-				<EndTime>00:25:41</EndTime>
+				<EndTime>00:25:37</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -105,12 +53,12 @@
 					<Description>MUSEO EGIZIODEL CAIRO 1^</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="5">
 				<IdName>MilleVocibrasiliane-SecondapuntataBrasile_con_logo</IdName>
 				<StartDate>2018-10-26</StartDate>
-				<StartTime>00:25:41</StartTime>
+				<StartTime>00:25:37</StartTime>
 				<EndDate>2018-10-26</EndDate>
-				<EndTime>01:13:16</EndTime>
+				<EndTime>01:13:12</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,12 +66,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="6">
 				<IdName>FILMSANTANTONIOGUERRIERODIDIO</IdName>
 				<StartDate>2018-10-26</StartDate>
-				<StartTime>01:13:16</StartTime>
+				<StartTime>01:13:12</StartTime>
 				<EndDate>2018-10-26</EndDate>
-				<EndTime>02:46:49</EndTime>
+				<EndTime>02:46:46</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -131,12 +79,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="7">
 				<IdName>CODICECARRATELLI</IdName>
 				<StartDate>2018-10-26</StartDate>
-				<StartTime>02:46:49</StartTime>
+				<StartTime>02:46:46</StartTime>
 				<EndDate>2018-10-26</EndDate>
-				<EndTime>04:31:35</EndTime>
+				<EndTime>04:31:31</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
