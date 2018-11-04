@@ -2,32 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Atlantis</IdName>
-				<StartDate>2018-11-04</StartDate>
-				<StartTime>17:42:03</StartTime>
-				<EndDate>2018-11-04</EndDate>
-				<EndTime>19:09:39</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ATLANTIS</Name>
-					<Description>ATLANTIS</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>TRAILERPARTE8DEL15-10-2018</IdName>
-				<StartDate>2018-11-04</StartDate>
-				<StartTime>19:09:39</StartTime>
-				<EndDate>2018-11-04</EndDate>
-				<EndTime>19:18:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
 				<IdName>Tadpole_mpeg2video</IdName>
 				<StartDate>2018-11-04</StartDate>
 				<StartTime>19:18:46</StartTime>
@@ -40,7 +14,7 @@
 					<Description>TODPOLE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="2">
 				<IdName>AmiciMieiAttoII_mpeg2video</IdName>
 				<StartDate>2018-11-04</StartDate>
 				<StartTime>20:33:51</StartTime>
@@ -53,7 +27,7 @@
 					<Description>AMICI MIEI  ATTO II</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="3">
 				<IdName>Arredi%20alvaro</IdName>
 				<StartDate>2018-11-04</StartDate>
 				<StartTime>22:40:51</StartTime>
@@ -66,12 +40,12 @@
 					<Description>ARREDI ALVARO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="4">
 				<IdName>SPOTTC1</IdName>
 				<StartDate>2018-11-04</StartDate>
 				<StartTime>22:41:07</StartTime>
 				<EndDate>2018-11-04</EndDate>
-				<EndTime>22:41:11</EndTime>
+				<EndTime>22:41:10</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -79,12 +53,12 @@
 					<Description>SPOTtuachannel1</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="5">
 				<IdName>AmicimieiattoIII_mpeg2video</IdName>
 				<StartDate>2018-11-04</StartDate>
-				<StartTime>22:41:11</StartTime>
+				<StartTime>22:41:10</StartTime>
 				<EndDate>2018-11-05</EndDate>
-				<EndTime>00:30:32</EndTime>
+				<EndTime>00:30:31</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -92,10 +66,10 @@
 					<Description>AMICI MIEI  ATTO III</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="6">
 				<IdName>Arredi%20alvaro</IdName>
 				<StartDate>2018-11-05</StartDate>
-				<StartTime>00:30:32</StartTime>
+				<StartTime>00:30:31</StartTime>
 				<EndDate>2018-11-05</EndDate>
 				<EndTime>00:30:47</EndTime>
 				<ShortEventDescription>
@@ -105,7 +79,7 @@
 					<Description>ARREDI ALVARO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="7">
 				<IdName>PROMOVIDEOSPOT1</IdName>
 				<StartDate>2018-11-05</StartDate>
 				<StartTime>00:30:47</StartTime>
@@ -118,7 +92,7 @@
 					<Description>PROMOVIDEOSPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="8">
 				<IdName>Puntata8FormulaMotoridel3nov2018</IdName>
 				<StartDate>2018-11-05</StartDate>
 				<StartTime>00:30:54</StartTime>
@@ -131,7 +105,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="9">
 				<IdName>GeracePiccolaGrandeItalia_mpeg2video</IdName>
 				<StartDate>2018-11-05</StartDate>
 				<StartTime>00:42:54</StartTime>
@@ -144,12 +118,12 @@
 					<Description>Gerace Piccola Grande città</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="10">
 				<IdName>DGM7DT</IdName>
 				<StartDate>2018-11-05</StartDate>
 				<StartTime>01:06:21</StartTime>
 				<EndDate>2018-11-05</EndDate>
-				<EndTime>01:31:19</EndTime>
+				<EndTime>01:31:18</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -157,10 +131,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="11">
 				<IdName>gold.il.segno.del.potere.19741°t.</IdName>
 				<StartDate>2018-11-05</StartDate>
-				<StartTime>01:31:19</StartTime>
+				<StartTime>01:31:18</StartTime>
 				<EndDate>2018-11-05</EndDate>
 				<EndTime>02:32:28</EndTime>
 				<ShortEventDescription>
@@ -170,7 +144,7 @@
 					<Description>GOLD  IL SEGNO DEL  POTERE 1°</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="12">
 				<IdName>gold.il.segno.del.potere.19742°t.</IdName>
 				<StartDate>2018-11-05</StartDate>
 				<StartTime>02:32:28</StartTime>
@@ -183,7 +157,7 @@
 					<Description>GOLD  IL SEGNO DEL  POTERE 2°</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="13">
 				<IdName>UnpescedinomeWanda_mpeg2video</IdName>
 				<StartDate>2018-11-05</StartDate>
 				<StartTime>03:30:23</StartTime>
@@ -196,7 +170,7 @@
 					<Description>Un pesce di  nome  Wanda</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="14">
 				<IdName>PROMOVIDEOSPOT2</IdName>
 				<StartDate>2018-11-05</StartDate>
 				<StartTime>05:13:58</StartTime>
@@ -209,7 +183,7 @@
 					<Description>SPOT  PROMOVIDEOTV 2</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="15">
 				<IdName>Arredi%20alvaro</IdName>
 				<StartDate>2018-11-05</StartDate>
 				<StartTime>05:14:05</StartTime>
@@ -222,12 +196,12 @@
 					<Description>ARREDI ALVARO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="16">
 				<IdName>TRAILERPARTE8DEL15-10-2018</IdName>
 				<StartDate>2018-11-05</StartDate>
 				<StartTime>05:14:21</StartTime>
 				<EndDate>2018-11-05</EndDate>
-				<EndTime>05:23:28</EndTime>
+				<EndTime>05:23:27</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -235,10 +209,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="17">
 				<IdName>POLSI218MITIRELIGIOSITA'EPAESAGGIO</IdName>
 				<StartDate>2018-11-05</StartDate>
-				<StartTime>05:23:28</StartTime>
+				<StartTime>05:23:27</StartTime>
 				<EndDate>2018-11-05</EndDate>
 				<EndTime>06:00:04</EndTime>
 				<ShortEventDescription>
