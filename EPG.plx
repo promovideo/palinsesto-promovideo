@@ -1,17 +1,67 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-06/11/2018	21:29:36	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	documentari
-06/11/2018	21:51:05	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
-06/11/2018	21:51:21	L'ultimorediScozia	Sconosciuto	L' ultimo re di Scozia	00:59:18	22	
-06/11/2018	22:50:40	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-06/11/2018	22:50:43	TRAILERPARTE2DEL24-09-2018	Sconosciuto	Nuovo File	00:09:40	0	
-06/11/2018	23:00:23	GeracePiccolaGrandeItalia_mpeg2video	Sconosciuto	Gerace Piccola Grande città	00:23:27	42	
-06/11/2018	23:23:50	DGM7DT	Sconosciuto	Nuovo File	00:24:57	0	
-06/11/2018	23:48:48	PROMOVIDEOSPOT2	SPOT  PROMOVIDEOTV 2	SPOT  PROMOVIDEOTV 2	00:00:06	11	spot
-06/11/2018	23:48:54	TRAILERPARTE3DEL24-09-2018	Sconosciuto	Nuovo File	00:09:40	0	
-06/11/2018	23:58:35	Tempimoderni_mpeg2video	Sconosciuto	Tempi  moderni	01:27:33	1	Film
-07/11/2018	01:26:08	ThePrison	Sconosciuto	The  prison	01:45:47	1	Film
-07/11/2018	03:11:56	TRAILERPARTE4DEL24-09-2018	Sconosciuto	Nuovo File	00:08:05	0	
-07/11/2018	03:20:02	TotoaParigi_mpeg2video	Sconosciuto	Tot a Prigi	01:33:42	1	Film
-07/11/2018	04:53:44	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-07/11/2018	05:00:58	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	documentari
-07/11/2018	05:21:57	80vogliadicantareFaustoCigliano	Sconosciuto	Nuovo File	00:15:43	0	
+07/11/2018	04:42:36	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	documentari
+07/11/2018	05:34:46	INNACaliente(OFFICIALVIDEO)	Caliente	Inna	00:03:21	162	
+07/11/2018	06:00:00	SimsalaGrimm2-Ep.10-LabellaelabestiaHDItaliano(474p_27fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:25:00	0	
+07/11/2018	06:25:00	italiaEconomia_20150311_49151	Sconosciuto	Nuovo File	00:08:29	0	
+07/11/2018	06:33:30	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+07/11/2018	06:34:35	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+07/11/2018	06:34:42	TRAILERPARTE6DEL05-11-2018	Sconosciuto	Nuovo File	00:09:18	0	
+07/11/2018	06:44:00	Malibùmostwanted_mpeg2video	Sconosciuto	MALIBU MONS WANTED	01:22:35	1	Film
+07/11/2018	08:06:36	Trebisacce-PiccolaGrandeItalia	Sconosciuto	Nuovo File	00:10:51	0	
+07/11/2018	08:17:27	L'ApeMaia-Ep.8-IllombricoMax(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:42	0	
+07/11/2018	08:39:10	L'ApeMaia-Ep.4-Maiaelamoscadomestica(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:45	0	
+07/11/2018	09:00:55	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+07/11/2018	09:02:00	CoriglianoCalabro-PiccolaGrandeItalia	CORIGLIANO CALABRO	CORIGLIANO CALABRO	00:25:02	71	documentari
+07/11/2018	09:27:02	TRAILERPARTE1DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
+07/11/2018	09:35:59	JuwannaMann_mpeg2video	Sconosciuto	Juawanna Mann	01:26:54	1	Film
+07/11/2018	11:02:54	Emigrantiedimmigrati	aemigrandi ed  immigrati	scuola siderno	01:33:33	41	programmi culturali
+07/11/2018	12:36:28	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
+07/11/2018	12:36:44	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+07/11/2018	12:36:54	TRAILERPARTE5DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
+07/11/2018	12:45:51	DGM15DT	Sconosciuto	Nuovo File	00:26:20	0	
+07/11/2018	13:12:11	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
+07/11/2018	13:14:31	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+07/11/2018	13:14:38	TRAILERPARTE1DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
+07/11/2018	13:23:35	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+07/11/2018	13:24:40	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
+07/11/2018	13:24:56	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
+07/11/2018	13:25:11	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
+07/11/2018	13:27:31	TRAILERPARTE5DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
+07/11/2018	13:36:28	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
+07/11/2018	13:36:44	Gliaspid'acheronte.RicordidisetaC)	GILASPI D' ACHERONTE	Nuovo File	00:27:19	71	documentari
+07/11/2018	14:04:03	Spotoffertaestiva_mpeg2video	SPOT OFEFRTA ESTIVA	SPOT OFFERAT ESTIVA	00:00:46	11	spot
+07/11/2018	14:04:49	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
+07/11/2018	14:05:29	CiccioeFrancoSatiricosissimo_mpeg2video	FRANCO FRANCHI INGRASSIA	SATIRICONISSIMO	01:25:00	1	Film
+07/11/2018	15:30:30	TRAILERPARTE2DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
+07/11/2018	15:39:27	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
+07/11/2018	15:39:42	PROMORADIONETWORK_mpeg2video	PROMORADIONETWORK	PROMORADIONETWORK	00:00:57	11	spot
+07/11/2018	15:40:40	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+07/11/2018	15:40:47	TRAILERPARTE4DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
+07/11/2018	15:49:44	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
+07/11/2018	15:50:00	Mammola(RC)-CALABRIA(720p_30fps_H264-192kbit_AAC)	mammola docu	MAMMOLA	00:05:29	41	programmi culturali
+07/11/2018	15:55:29	CONCERTOQUARTAUMENTATA_mpeg2video	QUARTAUMENTATA	CONCENTO  QUARTAUMENTATA	01:44:38	81	videoclip
+07/11/2018	17:40:07	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
+07/11/2018	17:40:23	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+07/11/2018	17:40:30	TRAILERPARTE1DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
+07/11/2018	17:49:27	Puntata8FormulaMotoridel3nov2018	Sconosciuto	Nuovo File	00:12:00	0	
+07/11/2018	18:01:27	Millevoci_2017_Puntata_10_di_13	Sconosciuto	Nuovo File	00:02:06	0	
+07/11/2018	18:03:34	L'ApeMaia-Ep.3-Lalibellula(SerieOriginale)(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:25	0	
+07/11/2018	18:27:59	L'ApeMaia-Ep.6-L'incendionelbosco(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:48	0	
+07/11/2018	18:49:48	L'ApeMaia-Ep.9-Ilcoleotteroinnamorato(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:57	0	
+07/11/2018	19:11:45	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+07/11/2018	19:11:52	TRAILERPARTE2DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
+07/11/2018	19:20:49	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	Film
+07/11/2018	21:06:31	PENTEDATTILORIDE102017	Sconosciuto	PENTEDATTILO	00:27:16	41	programmi culturali
+07/11/2018	21:33:47	SPOTMILLEVOCINAPOLETXFACEBOOK	SPOT MILLE VOCI CON  PROMOVIDEO	Nuovo File	00:00:36	0	
+07/11/2018	21:34:23	'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video	Commedia	Natale in casa   Cupiello	02:12:48	1	Film
+07/11/2018	23:47:11	CalabriaLaraccoltadelleolive	Sconosciuto	Nuovo File	00:13:59	0	
+08/11/2018	00:01:10	Souvenird'Italie_mpeg2video	Souvenir d'Italy	Souvenir d'Italy	01:44:43	1	Film
+08/11/2018	01:45:53	TRAILERPARTE6DEL15-10-2018	Sconosciuto	Nuovo File	00:09:06	0	
+08/11/2018	01:55:00	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
+08/11/2018	01:55:07	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
+08/11/2018	01:57:27	instantfuture13	Sconosciuto	Nuovo File	00:23:02	0	
+08/11/2018	02:20:29	PROMOVIDEOSPOT2	SPOT  PROMOVIDEOTV 2	SPOT  PROMOVIDEOTV 2	00:00:06	11	spot
+08/11/2018	02:20:36	FILMSANTANTONIOGUERRIERODIDIO	S. ANTONIO IL GUERRIERO DI  DIO	Nuovo File	01:33:33	1	Film
+08/11/2018	03:54:09	TRADIZIONIDICALABRIA_IGUTI_Dolcitipicipasquali(BenestareRC)metodotradizionale(720p_30fps_H264192kbit_AAC)	Sconosciuto	Nuovo File	00:12:29	0	
+08/11/2018	04:06:39	Tentazionemortale_mpeg2video	Sconosciuto	Tentazione mortale	01:27:28	22	
+08/11/2018	05:34:07	Unafortunasfacciata_mpeg2video	Sconosciuto	Una fortuna sfacciata	01:34:56	22	
