@@ -1,53 +1,24 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-07/11/2018	09:29:23	JuwannaMann_mpeg2video	Sconosciuto	Juawanna Mann	01:26:54	1	Film
-07/11/2018	10:56:17	Emigrantiedimmigrati	aemigrandi ed  immigrati	scuola siderno	01:33:33	41	programmi culturali
-07/11/2018	12:29:51	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
-07/11/2018	12:30:07	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
-07/11/2018	12:30:18	TRAILERPARTE5DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
-07/11/2018	12:39:15	DGM15DT	Sconosciuto	Nuovo File	00:26:20	0	
-07/11/2018	13:05:35	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
-07/11/2018	13:07:55	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-07/11/2018	13:08:02	TRAILERPARTE1DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
-07/11/2018	13:16:58	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
-07/11/2018	13:18:03	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
-07/11/2018	13:18:19	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-07/11/2018	13:18:35	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
-07/11/2018	13:20:55	TRAILERPARTE5DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
-07/11/2018	13:29:51	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
-07/11/2018	13:30:07	Gliaspid'acheronte.RicordidisetaC)	GILASPI D' ACHERONTE	Nuovo File	00:27:19	71	documentari
-07/11/2018	13:57:26	Spotoffertaestiva_mpeg2video	SPOT OFEFRTA ESTIVA	SPOT OFFERAT ESTIVA	00:00:46	11	spot
-07/11/2018	13:58:12	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
-07/11/2018	13:58:53	CiccioeFrancoSatiricosissimo_mpeg2video	FRANCO FRANCHI INGRASSIA	SATIRICONISSIMO	01:25:00	1	Film
-07/11/2018	15:23:53	TRAILERPARTE2DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
-07/11/2018	15:32:50	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
-07/11/2018	15:33:06	PROMORADIONETWORK_mpeg2video	PROMORADIONETWORK	PROMORADIONETWORK	00:00:57	11	spot
-07/11/2018	15:34:04	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-07/11/2018	15:34:11	TRAILERPARTE4DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
-07/11/2018	15:43:07	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
-07/11/2018	15:43:23	Mammola(RC)-CALABRIA(720p_30fps_H264-192kbit_AAC)	mammola docu	MAMMOLA	00:05:29	41	programmi culturali
-07/11/2018	15:48:53	CONCERTOQUARTAUMENTATA_mpeg2video	QUARTAUMENTATA	CONCENTO  QUARTAUMENTATA	01:44:38	81	videoclip
-07/11/2018	17:33:31	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
-07/11/2018	17:33:47	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-07/11/2018	17:33:54	TRAILERPARTE1DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
-07/11/2018	17:42:50	Puntata8FormulaMotoridel3nov2018	Sconosciuto	Nuovo File	00:12:00	0	
-07/11/2018	17:54:50	Millevoci_2017_Puntata_10_di_13	Sconosciuto	Nuovo File	00:02:06	0	
-07/11/2018	17:56:57	L'ApeMaia-Ep.3-Lalibellula(SerieOriginale)(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:25	0	
-07/11/2018	18:21:23	L'ApeMaia-Ep.6-L'incendionelbosco(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:48	0	
-07/11/2018	18:43:11	L'ApeMaia-Ep.9-Ilcoleotteroinnamorato(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:57	0	
-07/11/2018	19:05:09	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-07/11/2018	19:05:16	TRAILERPARTE2DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
-07/11/2018	19:14:12	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	Film
-07/11/2018	20:59:54	PENTEDATTILORIDE102017	Sconosciuto	PENTEDATTILO	00:27:16	41	programmi culturali
-07/11/2018	21:27:10	SPOTMILLEVOCINAPOLETXFACEBOOK	SPOT MILLE VOCI CON  PROMOVIDEO	Nuovo File	00:00:36	0	
-07/11/2018	21:27:47	'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video	Commedia	Natale in casa   Cupiello	02:12:48	1	Film
-07/11/2018	23:40:35	CalabriaLaraccoltadelleolive	Sconosciuto	Nuovo File	00:13:59	0	
-07/11/2018	23:54:34	Souvenird'Italie_mpeg2video	Souvenir d'Italy	Souvenir d'Italy	01:44:43	1	Film
-08/11/2018	01:39:17	TRAILERPARTE6DEL15-10-2018	Sconosciuto	Nuovo File	00:09:06	0	
-08/11/2018	01:48:24	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
-08/11/2018	01:48:31	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
-08/11/2018	01:50:51	instantfuture13	Sconosciuto	Nuovo File	00:23:02	0	
-08/11/2018	02:13:53	PROMOVIDEOSPOT2	SPOT  PROMOVIDEOTV 2	SPOT  PROMOVIDEOTV 2	00:00:06	11	spot
-08/11/2018	02:14:00	FILMSANTANTONIOGUERRIERODIDIO	S. ANTONIO IL GUERRIERO DI  DIO	Nuovo File	01:33:33	1	Film
-08/11/2018	03:47:33	TRADIZIONIDICALABRIA_IGUTI_Dolcitipicipasquali(BenestareRC)metodotradizionale(720p_30fps_H264192kbit_AAC)	Sconosciuto	Nuovo File	00:12:29	0	
-08/11/2018	04:00:02	Tentazionemortale_mpeg2video	Sconosciuto	Tentazione mortale	01:27:28	22	
-08/11/2018	05:27:31	Unafortunasfacciata_mpeg2video	Sconosciuto	Una fortuna sfacciata	01:34:56	22	
+07/11/2018	17:34:03	TRAILERPARTE1DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
+07/11/2018	17:43:00	Puntata8FormulaMotoridel3nov2018	Sconosciuto	Nuovo File	00:12:00	0	
+07/11/2018	17:55:00	Millevoci_2017_Puntata_10_di_13	Sconosciuto	Nuovo File	00:02:06	0	
+07/11/2018	17:57:07	L'ApeMaia-Ep.3-Lalibellula(SerieOriginale)(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:25	0	
+07/11/2018	18:21:33	L'ApeMaia-Ep.6-L'incendionelbosco(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:48	0	
+07/11/2018	18:43:21	L'ApeMaia-Ep.9-Ilcoleotteroinnamorato(SerieOriginale)(480p_30fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:21:57	0	
+07/11/2018	19:05:19	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+07/11/2018	19:05:25	TRAILERPARTE2DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
+07/11/2018	19:14:22	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	Film
+07/11/2018	21:00:04	PENTEDATTILORIDE102017	Sconosciuto	PENTEDATTILO	00:27:16	41	programmi culturali
+07/11/2018	21:27:20	SPOTMILLEVOCINAPOLETXFACEBOOK	SPOT MILLE VOCI CON  PROMOVIDEO	Nuovo File	00:00:36	0	
+07/11/2018	21:27:56	'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video	Commedia	Natale in casa   Cupiello	02:12:48	1	Film
+07/11/2018	23:40:45	CalabriaLaraccoltadelleolive	Sconosciuto	Nuovo File	00:13:59	0	
+07/11/2018	23:54:44	Souvenird'Italie_mpeg2video	Souvenir d'Italy	Souvenir d'Italy	01:44:43	1	Film
+08/11/2018	01:39:27	TRAILERPARTE6DEL15-10-2018	Sconosciuto	Nuovo File	00:09:06	0	
+08/11/2018	01:48:34	3PROMOVIDEOSPOT3	spot promovideotv	SPOT PROMOVIDEOTV 3	00:00:06	11	spot
+08/11/2018	01:48:41	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
+08/11/2018	01:51:01	instantfuture13	Sconosciuto	Nuovo File	00:23:02	0	
+08/11/2018	02:14:03	PROMOVIDEOSPOT2	SPOT  PROMOVIDEOTV 2	SPOT  PROMOVIDEOTV 2	00:00:06	11	spot
+08/11/2018	02:14:09	FILMSANTANTONIOGUERRIERODIDIO	S. ANTONIO IL GUERRIERO DI  DIO	Nuovo File	01:33:33	1	Film
+08/11/2018	03:47:43	TRADIZIONIDICALABRIA_IGUTI_Dolcitipicipasquali(BenestareRC)metodotradizionale(720p_30fps_H264192kbit_AAC)	Sconosciuto	Nuovo File	00:12:29	0	
+08/11/2018	04:00:12	Tentazionemortale_mpeg2video	Sconosciuto	Tentazione mortale	01:27:28	22	
+08/11/2018	05:27:41	Unafortunasfacciata_mpeg2video	Sconosciuto	Una fortuna sfacciata	01:34:56	22	
