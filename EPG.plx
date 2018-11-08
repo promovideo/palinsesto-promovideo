@@ -1,37 +1,14 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-08/11/2018	09:27:52	NoceraTerineseSabatoSanto1991(480p_25fps_H264128kbit_AAC)	Sconosciuto	Nuovo File	00:11:35	0	
-08/11/2018	09:39:28	DGM19dt	Sconosciuto	Nuovo File	00:26:23	0	
-08/11/2018	10:05:51	TRAILERPARTE6DEL05-11-2018	Sconosciuto	Nuovo File	00:09:18	0	
-08/11/2018	10:15:10	agrisapori714x28-5-17	Sconosciuto	Nuovo File	00:29:01	0	
-08/11/2018	10:44:11	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
-08/11/2018	10:44:27	Puntata8FormulaMotoridel3nov2018	Sconosciuto	Nuovo File	00:12:00	0	
-08/11/2018	10:56:27	CIBOR-ISPOTPERREGIA	Sconosciuto	Nuovo File	00:00:37	0	
-08/11/2018	10:57:05	PiedoneAHongKong	Sconosciuto	Piedone ad Hong Gong	01:50:01	22	
-08/11/2018	12:47:06	TRAILERPARTE5DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
-08/11/2018	12:56:02	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
-08/11/2018	12:58:22	FormulaMotoriPuntata25-06-18	Sconosciuto	Nuovo File	00:12:00	0	
-08/11/2018	13:10:22	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-08/11/2018	13:10:29	AmicimieiattoIII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO III	01:49:20	1	Film
-08/11/2018	14:59:50	TRAILERPARTE4DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
-08/11/2018	15:08:47	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
-08/11/2018	15:09:03	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-08/11/2018	15:09:18	POLSI218MITIRELIGIOSITA'EPAESAGGIO	polsi 2018 santa  croce	polsi  2018	00:36:36	41	programmi culturali
-08/11/2018	15:45:54	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
-08/11/2018	15:48:14	Puntata7FormilaMotoridel27ottobre	Sconosciuto	Nuovo File	00:12:00	0	
-08/11/2018	16:00:14	PROMORADIONETWORK_mpeg2video	PROMORADIONETWORK	PROMORADIONETWORK	00:00:57	11	spot
-08/11/2018	16:01:12	TRAILERPARTE1DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
-08/11/2018	16:10:09	filmcompletoPiratiRPolanski1986	PIRATI	Pirati	01:45:39	1	Film
-08/11/2018	17:55:48	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-08/11/2018	17:55:55	Labandadeglionesti_mpeg2video	LA BANDA DEGLI ONESTI	LA BANDA DEGLI  ONESTI	01:40:55	1	Film
-08/11/2018	19:36:50	AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI	Sconosciuto	ABRAMO ISACCO GIACOBBE	01:26:07	1	Film
-08/11/2018	21:02:58	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
-08/11/2018	21:03:13	Nell'annoDelSignoreManfredi,Sordi,Tognazzi(Filmcompleto)	Sconosciuto	Nell'anno del  Signore	01:57:54	1	Film
-08/11/2018	23:01:08	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	Film
-09/11/2018	00:46:50	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-09/11/2018	00:46:57	SPOTCIBRIO-PROMOVIDEOTVOK	Sconosciuto	Nuovo File	00:00:44	0	
-09/11/2018	00:47:42	AVISLOCRI	Sconosciuto	Nuovo File	00:00:33	0	
-09/11/2018	00:48:15	Infiltratospeciale_mpeg2video	Sconosciuto	Infiltrato  speciale	01:34:35	1	Film
-09/11/2018	02:22:50	LaCarbonarafilmcompleto_mpeg2video	LA  CARBONARA	LA CARBONARA	01:48:07	1	Film
-09/11/2018	04:10:58	AlbertoSordiIlVedovo	Sconosciuto	IL  VEDOVO	01:27:06	1	Film
-09/11/2018	05:38:04	'ComeEravamo'	COME ERAVAMO	COME ERAVAMO 	00:02:11	11	spot
-09/11/2018	05:40:16	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	Film
+08/11/2018	17:14:53	Labandadeglionesti_mpeg2video	LA BANDA DEGLI ONESTI	LA BANDA DEGLI  ONESTI	01:40:55	1	Film
+08/11/2018	18:55:48	AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI	Sconosciuto	ABRAMO ISACCO GIACOBBE	01:26:07	1	Film
+08/11/2018	20:21:55	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
+08/11/2018	20:22:11	Nell'annoDelSignoreManfredi,Sordi,Tognazzi(Filmcompleto)	Sconosciuto	Nell'anno del  Signore	01:57:54	1	Film
+08/11/2018	22:20:06	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	Film
+09/11/2018	00:05:48	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+09/11/2018	00:05:55	SPOTCIBRIO-PROMOVIDEOTVOK	Sconosciuto	Nuovo File	00:00:44	0	
+09/11/2018	00:06:39	AVISLOCRI	Sconosciuto	Nuovo File	00:00:33	0	
+09/11/2018	00:07:13	Infiltratospeciale_mpeg2video	Sconosciuto	Infiltrato  speciale	01:34:35	1	Film
+09/11/2018	01:41:48	LaCarbonarafilmcompleto_mpeg2video	LA  CARBONARA	LA CARBONARA	01:48:07	1	Film
+09/11/2018	03:29:55	AlbertoSordiIlVedovo	Sconosciuto	IL  VEDOVO	01:27:06	1	Film
+09/11/2018	04:57:02	'ComeEravamo'	COME ERAVAMO	COME ERAVAMO 	00:02:11	11	spot
+09/11/2018	04:59:13	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	Film

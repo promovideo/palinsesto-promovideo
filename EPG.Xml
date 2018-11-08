@@ -2,24 +2,37 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>TRAILERPARTE6DEL05-11-2018</IdName>
+				<IdName>Labandadeglionesti_mpeg2video</IdName>
 				<StartDate>2018-11-08</StartDate>
-				<StartTime>10:05:52</StartTime>
+				<StartTime>17:14:53</StartTime>
 				<EndDate>2018-11-08</EndDate>
-				<EndTime>10:15:10</EndTime>
+				<EndTime>18:55:48</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>LA BANDA DEGLI ONESTI</Name>
+					<Description>LA BANDA DEGLI  ONESTI</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="2">
+				<IdName>AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI</IdName>
+				<StartDate>2018-11-08</StartDate>
+				<StartTime>18:55:48</StartTime>
+				<EndDate>2018-11-08</EndDate>
+				<EndTime>20:21:55</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Description>ABRAMO ISACCO GIACOBBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="2">
+			<Event id="3">
 				<IdName>Arredi%20alvaro</IdName>
 				<StartDate>2018-11-08</StartDate>
-				<StartTime>10:15:10</StartTime>
+				<StartTime>20:21:55</StartTime>
 				<EndDate>2018-11-08</EndDate>
-				<EndTime>10:15:26</EndTime>
+				<EndTime>20:22:11</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -27,64 +40,51 @@
 					<Description>ARREDI ALVARO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="3">
-				<IdName>Puntata8FormulaMotoridel3nov2018</IdName>
-				<StartDate>2018-11-08</StartDate>
-				<StartTime>10:15:26</StartTime>
-				<EndDate>2018-11-08</EndDate>
-				<EndTime>10:27:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
 			<Event id="4">
-				<IdName>CIBOR-ISPOTPERREGIA</IdName>
+				<IdName>Nell'annoDelSignoreManfredi,Sordi,Tognazzi(Filmcompleto)</IdName>
 				<StartDate>2018-11-08</StartDate>
-				<StartTime>10:27:26</StartTime>
+				<StartTime>20:22:11</StartTime>
 				<EndDate>2018-11-08</EndDate>
-				<EndTime>10:28:04</EndTime>
+				<EndTime>22:20:06</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Description>Nell'anno del  Signore</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="5">
-				<IdName>PiedoneAHongKong</IdName>
+				<IdName>Cacciaalmarito_mpeg2video_001</IdName>
 				<StartDate>2018-11-08</StartDate>
-				<StartTime>10:28:04</StartTime>
-				<EndDate>2018-11-08</EndDate>
-				<EndTime>12:18:05</EndTime>
+				<StartTime>22:20:06</StartTime>
+				<EndDate>2018-11-09</EndDate>
+				<EndTime>00:05:48</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Sconosciuto</Name>
-					<Description>Piedone ad Hong Gong</Description>
+					<Description>CACCIA AL MARITO</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="6">
-				<IdName>TRAILERPARTE5DEL05-11-2018</IdName>
-				<StartDate>2018-11-08</StartDate>
-				<StartTime>12:18:05</StartTime>
-				<EndDate>2018-11-08</EndDate>
-				<EndTime>12:27:02</EndTime>
+				<IdName>7PROMOVIDEOspot7</IdName>
+				<StartDate>2018-11-09</StartDate>
+				<StartTime>00:05:48</StartTime>
+				<EndDate>2018-11-09</EndDate>
+				<EndTime>00:05:55</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>SPOT  PROMOVIDEOTV</Name>
+					<Description>SPOT PROMOVIDEOTV</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="7">
-				<IdName>SLAPROMOVIDEOPERILSOCIALE</IdName>
-				<StartDate>2018-11-08</StartDate>
-				<StartTime>12:27:02</StartTime>
-				<EndDate>2018-11-08</EndDate>
-				<EndTime>12:29:22</EndTime>
+				<IdName>SPOTCIBRIO-PROMOVIDEOTVOK</IdName>
+				<StartDate>2018-11-09</StartDate>
+				<StartTime>00:05:55</StartTime>
+				<EndDate>2018-11-09</EndDate>
+				<EndTime>00:06:39</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -93,11 +93,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="8">
-				<IdName>FormulaMotoriPuntata25-06-18</IdName>
-				<StartDate>2018-11-08</StartDate>
-				<StartTime>12:29:22</StartTime>
-				<EndDate>2018-11-08</EndDate>
-				<EndTime>12:41:22</EndTime>
+				<IdName>AVISLOCRI</IdName>
+				<StartDate>2018-11-09</StartDate>
+				<StartTime>00:06:39</StartTime>
+				<EndDate>2018-11-09</EndDate>
+				<EndTime>00:07:13</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -106,271 +106,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="9">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2018-11-08</StartDate>
-				<StartTime>12:41:22</StartTime>
-				<EndDate>2018-11-08</EndDate>
-				<EndTime>12:41:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
-				<IdName>AmicimieiattoIII_mpeg2video</IdName>
-				<StartDate>2018-11-08</StartDate>
-				<StartTime>12:41:29</StartTime>
-				<EndDate>2018-11-08</EndDate>
-				<EndTime>14:30:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>AMICI MIEI  ATTO III</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="11">
-				<IdName>TRAILERPARTE4DEL05-11-2018</IdName>
-				<StartDate>2018-11-08</StartDate>
-				<StartTime>14:30:49</StartTime>
-				<EndDate>2018-11-08</EndDate>
-				<EndTime>14:39:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="12">
-				<IdName>Arredi%20alvaro</IdName>
-				<StartDate>2018-11-08</StartDate>
-				<StartTime>14:39:46</StartTime>
-				<EndDate>2018-11-08</EndDate>
-				<EndTime>14:40:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ARREDI ALVARO DAL 02 10 18</Name>
-					<Description>ARREDI ALVARO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="13">
-				<IdName>spotDIGIII</IdName>
-				<StartDate>2018-11-08</StartDate>
-				<StartTime>14:40:02</StartTime>
-				<EndDate>2018-11-08</EndDate>
-				<EndTime>14:40:17</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT DIGII</Name>
-					<Description>SPOT PROMOVIDEO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="14">
-				<IdName>POLSI218MITIRELIGIOSITA'EPAESAGGIO</IdName>
-				<StartDate>2018-11-08</StartDate>
-				<StartTime>14:40:17</StartTime>
-				<EndDate>2018-11-08</EndDate>
-				<EndTime>15:16:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>polsi 2018 santa  croce</Name>
-					<Description>polsi  2018</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="15">
-				<IdName>SLAPROMOVIDEOPERILSOCIALE</IdName>
-				<StartDate>2018-11-08</StartDate>
-				<StartTime>15:16:53</StartTime>
-				<EndDate>2018-11-08</EndDate>
-				<EndTime>15:19:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="16">
-				<IdName>Puntata7FormilaMotoridel27ottobre</IdName>
-				<StartDate>2018-11-08</StartDate>
-				<StartTime>15:19:13</StartTime>
-				<EndDate>2018-11-08</EndDate>
-				<EndTime>15:31:14</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="17">
-				<IdName>PROMORADIONETWORK_mpeg2video</IdName>
-				<StartDate>2018-11-08</StartDate>
-				<StartTime>15:31:14</StartTime>
-				<EndDate>2018-11-08</EndDate>
-				<EndTime>15:32:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PROMORADIONETWORK</Name>
-					<Description>PROMORADIONETWORK</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="18">
-				<IdName>TRAILERPARTE1DEL05-11-2018</IdName>
-				<StartDate>2018-11-08</StartDate>
-				<StartTime>15:32:11</StartTime>
-				<EndDate>2018-11-08</EndDate>
-				<EndTime>15:41:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="19">
-				<IdName>filmcompletoPiratiRPolanski1986</IdName>
-				<StartDate>2018-11-08</StartDate>
-				<StartTime>15:41:08</StartTime>
-				<EndDate>2018-11-08</EndDate>
-				<EndTime>17:26:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PIRATI</Name>
-					<Description>Pirati</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="20">
-				<IdName>6PROMOVIDEOSPOT6</IdName>
-				<StartDate>2018-11-08</StartDate>
-				<StartTime>17:26:48</StartTime>
-				<EndDate>2018-11-08</EndDate>
-				<EndTime>17:26:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>6 SPOT PTOMOVIDEO</Name>
-					<Description>PROMOVIDEOSPOT 6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="21">
-				<IdName>Labandadeglionesti_mpeg2video</IdName>
-				<StartDate>2018-11-08</StartDate>
-				<StartTime>17:26:54</StartTime>
-				<EndDate>2018-11-08</EndDate>
-				<EndTime>19:07:50</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LA BANDA DEGLI ONESTI</Name>
-					<Description>LA BANDA DEGLI  ONESTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="22">
-				<IdName>AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI</IdName>
-				<StartDate>2018-11-08</StartDate>
-				<StartTime>19:07:50</StartTime>
-				<EndDate>2018-11-08</EndDate>
-				<EndTime>20:33:57</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>ABRAMO ISACCO GIACOBBE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="23">
-				<IdName>Arredi%20alvaro</IdName>
-				<StartDate>2018-11-08</StartDate>
-				<StartTime>20:33:57</StartTime>
-				<EndDate>2018-11-08</EndDate>
-				<EndTime>20:34:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ARREDI ALVARO DAL 02 10 18</Name>
-					<Description>ARREDI ALVARO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="24">
-				<IdName>Nell'annoDelSignoreManfredi,Sordi,Tognazzi(Filmcompleto)</IdName>
-				<StartDate>2018-11-08</StartDate>
-				<StartTime>20:34:13</StartTime>
-				<EndDate>2018-11-08</EndDate>
-				<EndTime>22:32:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nell'anno del  Signore</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="25">
-				<IdName>Cacciaalmarito_mpeg2video_001</IdName>
-				<StartDate>2018-11-08</StartDate>
-				<StartTime>22:32:08</StartTime>
-				<EndDate>2018-11-09</EndDate>
-				<EndTime>00:17:50</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CACCIA AL MARITO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="26">
-				<IdName>7PROMOVIDEOspot7</IdName>
-				<StartDate>2018-11-09</StartDate>
-				<StartTime>00:17:50</StartTime>
-				<EndDate>2018-11-09</EndDate>
-				<EndTime>00:17:56</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV</Name>
-					<Description>SPOT PROMOVIDEOTV</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="27">
-				<IdName>SPOTCIBRIO-PROMOVIDEOTVOK</IdName>
-				<StartDate>2018-11-09</StartDate>
-				<StartTime>00:17:56</StartTime>
-				<EndDate>2018-11-09</EndDate>
-				<EndTime>00:18:41</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="28">
-				<IdName>AVISLOCRI</IdName>
-				<StartDate>2018-11-09</StartDate>
-				<StartTime>00:18:41</StartTime>
-				<EndDate>2018-11-09</EndDate>
-				<EndTime>00:19:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="29">
 				<IdName>Infiltratospeciale_mpeg2video</IdName>
 				<StartDate>2018-11-09</StartDate>
-				<StartTime>00:19:15</StartTime>
+				<StartTime>00:07:13</StartTime>
 				<EndDate>2018-11-09</EndDate>
-				<EndTime>01:53:50</EndTime>
+				<EndTime>01:41:48</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -378,12 +118,12 @@
 					<Description>Infiltrato  speciale</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="30">
+			<Event id="10">
 				<IdName>LaCarbonarafilmcompleto_mpeg2video</IdName>
 				<StartDate>2018-11-09</StartDate>
-				<StartTime>01:53:50</StartTime>
+				<StartTime>01:41:48</StartTime>
 				<EndDate>2018-11-09</EndDate>
-				<EndTime>03:41:57</EndTime>
+				<EndTime>03:29:55</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -391,12 +131,12 @@
 					<Description>LA CARBONARA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="31">
+			<Event id="11">
 				<IdName>AlbertoSordiIlVedovo</IdName>
 				<StartDate>2018-11-09</StartDate>
-				<StartTime>03:41:57</StartTime>
+				<StartTime>03:29:55</StartTime>
 				<EndDate>2018-11-09</EndDate>
-				<EndTime>05:09:03</EndTime>
+				<EndTime>04:57:02</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -404,12 +144,12 @@
 					<Description>IL  VEDOVO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="32">
+			<Event id="12">
 				<IdName>'ComeEravamo'</IdName>
 				<StartDate>2018-11-09</StartDate>
-				<StartTime>05:09:03</StartTime>
+				<StartTime>04:57:02</StartTime>
 				<EndDate>2018-11-09</EndDate>
-				<EndTime>05:11:15</EndTime>
+				<EndTime>04:59:13</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -417,12 +157,12 @@
 					<Description>COME ERAVAMO </Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="33">
+			<Event id="13">
 				<IdName>Cacciaalmarito_mpeg2video_001</IdName>
 				<StartDate>2018-11-09</StartDate>
-				<StartTime>05:11:15</StartTime>
+				<StartTime>04:59:13</StartTime>
 				<EndDate>2018-11-09</EndDate>
-				<EndTime>06:56:57</EndTime>
+				<EndTime>06:44:55</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
