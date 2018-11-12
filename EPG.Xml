@@ -2,19 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>MammaHoRipersoL'aereoEMiSonoSmarritoANewYork</IdName>
-				<StartDate>2018-11-12</StartDate>
-				<StartTime>17:49:21</StartTime>
-				<EndDate>2018-11-12</EndDate>
-				<EndTime>19:37:25</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Mamma ho riperso l' aereo e mi  sono smarrito a New York</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
 				<IdName>Treuominieunagamba</IdName>
 				<StartDate>2018-11-12</StartDate>
 				<StartTime>19:37:25</StartTime>
@@ -27,12 +14,25 @@
 					<Description>Tre  uomini ed una  gamba</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="3">
-				<IdName>Il.Diavolo.bn19631°t</IdName>
+			<Event id="2">
+				<IdName>CIBOTTG_12_11</IdName>
 				<StartDate>2018-11-12</StartDate>
 				<StartTime>21:15:09</StartTime>
 				<EndDate>2018-11-12</EndDate>
-				<EndTime>22:06:54</EndTime>
+				<EndTime>21:22:09</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="3">
+				<IdName>Il.Diavolo.bn19631°t</IdName>
+				<StartDate>2018-11-12</StartDate>
+				<StartTime>21:22:09</StartTime>
+				<EndDate>2018-11-12</EndDate>
+				<EndTime>22:13:54</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -43,9 +43,9 @@
 			<Event id="4">
 				<IdName>Il.Diavolo.bn19632°t</IdName>
 				<StartDate>2018-11-12</StartDate>
-				<StartTime>22:06:54</StartTime>
+				<StartTime>22:13:54</StartTime>
 				<EndDate>2018-11-12</EndDate>
-				<EndTime>23:00:03</EndTime>
+				<EndTime>23:07:03</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -56,9 +56,9 @@
 			<Event id="5">
 				<IdName>gold.il.segno.del.potere.19741°t.</IdName>
 				<StartDate>2018-11-12</StartDate>
-				<StartTime>23:00:03</StartTime>
+				<StartTime>23:07:03</StartTime>
 				<EndDate>2018-11-13</EndDate>
-				<EndTime>00:01:13</EndTime>
+				<EndTime>00:08:12</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -69,9 +69,9 @@
 			<Event id="6">
 				<IdName>gold.il.segno.del.potere.19742°t.</IdName>
 				<StartDate>2018-11-13</StartDate>
-				<StartTime>00:01:13</StartTime>
+				<StartTime>00:08:12</StartTime>
 				<EndDate>2018-11-13</EndDate>
-				<EndTime>00:59:07</EndTime>
+				<EndTime>01:06:07</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -80,11 +80,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="7">
-				<IdName>2018_WELLIFE_EP05</IdName>
+				<IdName>CIBOTTG_12_11</IdName>
 				<StartDate>2018-11-13</StartDate>
-				<StartTime>00:59:07</StartTime>
+				<StartTime>01:06:07</StartTime>
 				<EndDate>2018-11-13</EndDate>
-				<EndTime>01:12:20</EndTime>
+				<EndTime>01:13:07</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -93,11 +93,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="8">
-				<IdName>TRAILERPARTE4DEL05-11-2018</IdName>
+				<IdName>2018_WELLIFE_EP05</IdName>
 				<StartDate>2018-11-13</StartDate>
-				<StartTime>01:12:20</StartTime>
+				<StartTime>01:13:07</StartTime>
 				<EndDate>2018-11-13</EndDate>
-				<EndTime>01:21:16</EndTime>
+				<EndTime>01:26:20</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -106,50 +106,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="9">
-				<IdName>Arma.Da.Taglio.19721°t</IdName>
+				<IdName>TRAILERPARTE4DEL05-11-2018</IdName>
 				<StartDate>2018-11-13</StartDate>
-				<StartTime>01:21:16</StartTime>
+				<StartTime>01:26:20</StartTime>
 				<EndDate>2018-11-13</EndDate>
-				<EndTime>02:07:01</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ARMA DA TAGLIO 1°</Name>
-					<Description>ARMA DA TAGLIO 1°</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
-				<IdName>Arma.Da.Taglio.19722°t</IdName>
-				<StartDate>2018-11-13</StartDate>
-				<StartTime>02:07:01</StartTime>
-				<EndDate>2018-11-13</EndDate>
-				<EndTime>02:44:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ARMA DA TAGLIO 2°</Name>
-					<Description>ARMA DA TAGLIO 2°</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="11">
-				<IdName>AustinPowers2-Laspiacheciprovava</IdName>
-				<StartDate>2018-11-13</StartDate>
-				<StartTime>02:44:20</StartTime>
-				<EndDate>2018-11-13</EndDate>
-				<EndTime>04:15:27</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>AUSTIN POWERS2</Name>
-					<Description>LA SPIA CHE CI  PROVAVA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="12">
-				<IdName>TRAILERPARTE6DEL05-11-2018</IdName>
-				<StartDate>2018-11-13</StartDate>
-				<StartTime>04:15:27</StartTime>
-				<EndDate>2018-11-13</EndDate>
-				<EndTime>04:24:45</EndTime>
+				<EndTime>01:35:17</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -157,12 +118,116 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
+			<Event id="10">
+				<IdName>CIBOTTG_12_11</IdName>
+				<StartDate>2018-11-13</StartDate>
+				<StartTime>01:35:17</StartTime>
+				<EndDate>2018-11-13</EndDate>
+				<EndTime>01:42:17</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="11">
+				<IdName>Arma.Da.Taglio.19721°t</IdName>
+				<StartDate>2018-11-13</StartDate>
+				<StartTime>01:42:17</StartTime>
+				<EndDate>2018-11-13</EndDate>
+				<EndTime>02:28:01</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>ARMA DA TAGLIO 1°</Name>
+					<Description>ARMA DA TAGLIO 1°</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="12">
+				<IdName>Arma.Da.Taglio.19722°t</IdName>
+				<StartDate>2018-11-13</StartDate>
+				<StartTime>02:28:01</StartTime>
+				<EndDate>2018-11-13</EndDate>
+				<EndTime>03:05:20</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>ARMA DA TAGLIO 2°</Name>
+					<Description>ARMA DA TAGLIO 2°</Description>
+				</ShortEventDescription>
+			</Event>
 			<Event id="13">
+				<IdName>AustinPowers2-Laspiacheciprovava</IdName>
+				<StartDate>2018-11-13</StartDate>
+				<StartTime>03:05:20</StartTime>
+				<EndDate>2018-11-13</EndDate>
+				<EndTime>04:36:27</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>AUSTIN POWERS2</Name>
+					<Description>LA SPIA CHE CI  PROVAVA</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="14">
+				<IdName>TRAILERPARTE6DEL05-11-2018</IdName>
+				<StartDate>2018-11-13</StartDate>
+				<StartTime>04:36:27</StartTime>
+				<EndDate>2018-11-13</EndDate>
+				<EndTime>04:45:46</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="15">
 				<IdName>2018_WELLIFE_EP05</IdName>
 				<StartDate>2018-11-13</StartDate>
-				<StartTime>04:24:45</StartTime>
+				<StartTime>04:45:46</StartTime>
 				<EndDate>2018-11-13</EndDate>
-				<EndTime>04:37:58</EndTime>
+				<EndTime>04:58:58</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="16">
+				<IdName>Agrisapori781x4-11-18</IdName>
+				<StartDate>2018-11-13</StartDate>
+				<StartTime>04:58:58</StartTime>
+				<EndDate>2018-11-13</EndDate>
+				<EndTime>05:29:09</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="17">
+				<IdName>DGM19dt</IdName>
+				<StartDate>2018-11-13</StartDate>
+				<StartTime>05:29:09</StartTime>
+				<EndDate>2018-11-13</EndDate>
+				<EndTime>05:55:33</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="18">
+				<IdName>Puntata7FormilaMotoridel27ottobre</IdName>
+				<StartDate>2018-11-13</StartDate>
+				<StartTime>05:55:33</StartTime>
+				<EndDate>2018-11-13</EndDate>
+				<EndTime>06:07:33</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
