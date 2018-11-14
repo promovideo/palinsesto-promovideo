@@ -2,24 +2,37 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Moschetta2012_mpeg2video</IdName>
+				<IdName>UnpescedinomeWanda_mpeg2video</IdName>
 				<StartDate>2018-11-14</StartDate>
-				<StartTime>17:11:45</StartTime>
+				<StartTime>19:17:11</StartTime>
 				<EndDate>2018-11-14</EndDate>
-				<EndTime>18:37:49</EndTime>
+				<EndTime>21:00:46</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Moschetta 2012</Name>
-					<Description>Moschetta 2012</Description>
+					<Name>Sconosciuto</Name>
+					<Description>Un pesce di  nome  Wanda</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="2">
-				<IdName>TRAILERPARTE4DEL05-11-2018</IdName>
+				<IdName>PROMOVIDEOSPOT2</IdName>
 				<StartDate>2018-11-14</StartDate>
-				<StartTime>18:37:49</StartTime>
+				<StartTime>21:00:46</StartTime>
 				<EndDate>2018-11-14</EndDate>
-				<EndTime>18:46:46</EndTime>
+				<EndTime>21:00:53</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOT  PROMOVIDEOTV 2</Name>
+					<Description>SPOT  PROMOVIDEOTV 2</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="3">
+				<IdName>TG_14_11_medio</IdName>
+				<StartDate>2018-11-14</StartDate>
+				<StartTime>21:00:53</StartTime>
+				<EndDate>2018-11-14</EndDate>
+				<EndTime>21:07:48</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -27,25 +40,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="3">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2018-11-14</StartDate>
-				<StartTime>18:46:46</StartTime>
-				<EndDate>2018-11-14</EndDate>
-				<EndTime>18:46:50</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
 			<Event id="4">
-				<IdName>TG_14_11_medio</IdName>
+				<IdName>TRAILERPARTE3DEL05-11-2018</IdName>
 				<StartDate>2018-11-14</StartDate>
-				<StartTime>18:46:50</StartTime>
+				<StartTime>21:07:48</StartTime>
 				<EndDate>2018-11-14</EndDate>
-				<EndTime>18:53:45</EndTime>
+				<EndTime>21:16:45</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -54,89 +54,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="5">
-				<IdName>GeracePiccolaGrandeItalia_mpeg2video</IdName>
-				<StartDate>2018-11-14</StartDate>
-				<StartTime>18:53:45</StartTime>
-				<EndDate>2018-11-14</EndDate>
-				<EndTime>19:17:12</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Gerace Piccola Grande città</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
-				<IdName>DGM7DT</IdName>
-				<StartDate>2018-11-14</StartDate>
-				<StartTime>19:17:12</StartTime>
-				<EndDate>2018-11-14</EndDate>
-				<EndTime>19:42:09</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
-				<IdName>UnpescedinomeWanda_mpeg2video</IdName>
-				<StartDate>2018-11-14</StartDate>
-				<StartTime>19:42:09</StartTime>
-				<EndDate>2018-11-14</EndDate>
-				<EndTime>21:25:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Un pesce di  nome  Wanda</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="8">
-				<IdName>PROMOVIDEOSPOT2</IdName>
-				<StartDate>2018-11-14</StartDate>
-				<StartTime>21:25:44</StartTime>
-				<EndDate>2018-11-14</EndDate>
-				<EndTime>21:25:51</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV 2</Name>
-					<Description>SPOT  PROMOVIDEOTV 2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="9">
-				<IdName>TG_14_11_medio</IdName>
-				<StartDate>2018-11-14</StartDate>
-				<StartTime>21:25:51</StartTime>
-				<EndDate>2018-11-14</EndDate>
-				<EndTime>21:32:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
-				<IdName>TRAILERPARTE3DEL05-11-2018</IdName>
-				<StartDate>2018-11-14</StartDate>
-				<StartTime>21:32:46</StartTime>
-				<EndDate>2018-11-14</EndDate>
-				<EndTime>21:41:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="11">
 				<IdName>IlritornodelRe</IdName>
 				<StartDate>2018-11-14</StartDate>
-				<StartTime>21:41:43</StartTime>
+				<StartTime>21:16:45</StartTime>
 				<EndDate>2018-11-15</EndDate>
-				<EndTime>00:54:30</EndTime>
+				<EndTime>00:29:32</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -144,12 +66,12 @@
 					<Description>Il  ritorno del re</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="6">
 				<IdName>Taxidriver_1_mpeg2video</IdName>
 				<StartDate>2018-11-15</StartDate>
-				<StartTime>00:54:30</StartTime>
+				<StartTime>00:29:32</StartTime>
 				<EndDate>2018-11-15</EndDate>
-				<EndTime>01:49:57</EndTime>
+				<EndTime>01:24:59</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -157,12 +79,12 @@
 					<Description>TAX DRIVER 1P</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="7">
 				<IdName>TG_14_11_medio</IdName>
 				<StartDate>2018-11-15</StartDate>
-				<StartTime>01:49:57</StartTime>
+				<StartTime>01:24:59</StartTime>
 				<EndDate>2018-11-15</EndDate>
-				<EndTime>01:56:52</EndTime>
+				<EndTime>01:31:54</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -170,12 +92,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="8">
 				<IdName>Taxidriver_2_mpeg2video</IdName>
 				<StartDate>2018-11-15</StartDate>
-				<StartTime>01:56:52</StartTime>
+				<StartTime>01:31:54</StartTime>
 				<EndDate>2018-11-15</EndDate>
-				<EndTime>02:50:29</EndTime>
+				<EndTime>02:25:31</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -183,12 +105,12 @@
 					<Description>TAX DRIVE 2 P.</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="9">
 				<IdName>TotoaParigi_mpeg2video</IdName>
 				<StartDate>2018-11-15</StartDate>
-				<StartTime>02:50:29</StartTime>
+				<StartTime>02:25:31</StartTime>
 				<EndDate>2018-11-15</EndDate>
-				<EndTime>04:24:11</EndTime>
+				<EndTime>03:59:13</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -196,12 +118,12 @@
 					<Description>Tot a Prigi</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="10">
 				<IdName>Gerace</IdName>
 				<StartDate>2018-11-15</StartDate>
-				<StartTime>04:24:11</StartTime>
+				<StartTime>03:59:13</StartTime>
 				<EndDate>2018-11-15</EndDate>
-				<EndTime>04:30:12</EndTime>
+				<EndTime>04:05:14</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -209,12 +131,12 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="11">
 				<IdName>TG_14_11_medio</IdName>
 				<StartDate>2018-11-15</StartDate>
-				<StartTime>04:30:12</StartTime>
+				<StartTime>04:05:14</StartTime>
 				<EndDate>2018-11-15</EndDate>
-				<EndTime>04:37:07</EndTime>
+				<EndTime>04:12:09</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -222,12 +144,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="18">
+			<Event id="12">
 				<IdName>STILOELACATTOLICA</IdName>
 				<StartDate>2018-11-15</StartDate>
-				<StartTime>04:37:07</StartTime>
+				<StartTime>04:12:09</StartTime>
 				<EndDate>2018-11-15</EndDate>
-				<EndTime>04:44:22</EndTime>
+				<EndTime>04:19:24</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -235,12 +157,12 @@
 					<Description>Stilo e la  cattolica</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="19">
+			<Event id="13">
 				<IdName>StarshipTroopers2-Glieroidellafederazione</IdName>
 				<StartDate>2018-11-15</StartDate>
-				<StartTime>04:44:22</StartTime>
+				<StartTime>04:19:24</StartTime>
 				<EndDate>2018-11-15</EndDate>
-				<EndTime>06:12:14</EndTime>
+				<EndTime>05:47:16</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -248,12 +170,12 @@
 					<Description>Trooper 2</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="20">
+			<Event id="14">
 				<IdName>L'ultimorediScozia</IdName>
 				<StartDate>2018-11-15</StartDate>
-				<StartTime>06:12:14</StartTime>
+				<StartTime>05:47:16</StartTime>
 				<EndDate>2018-11-15</EndDate>
-				<EndTime>07:11:33</EndTime>
+				<EndTime>06:46:35</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
