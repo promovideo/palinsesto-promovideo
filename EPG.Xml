@@ -2,37 +2,37 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>UnpescedinomeWanda_mpeg2video</IdName>
+				<IdName>IlritornodelRe</IdName>
 				<StartDate>2018-11-14</StartDate>
-				<StartTime>19:17:11</StartTime>
-				<EndDate>2018-11-14</EndDate>
-				<EndTime>21:00:46</EndTime>
+				<StartTime>21:16:44</StartTime>
+				<EndDate>2018-11-15</EndDate>
+				<EndTime>00:29:31</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Sconosciuto</Name>
-					<Description>Un pesce di  nome  Wanda</Description>
+					<Description>Il  ritorno del re</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="2">
-				<IdName>PROMOVIDEOSPOT2</IdName>
-				<StartDate>2018-11-14</StartDate>
-				<StartTime>21:00:46</StartTime>
-				<EndDate>2018-11-14</EndDate>
-				<EndTime>21:00:53</EndTime>
+				<IdName>Taxidriver_1_mpeg2video</IdName>
+				<StartDate>2018-11-15</StartDate>
+				<StartTime>00:29:31</StartTime>
+				<EndDate>2018-11-15</EndDate>
+				<EndTime>01:24:58</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV 2</Name>
-					<Description>SPOT  PROMOVIDEOTV 2</Description>
+					<Name>Sconosciuto</Name>
+					<Description>TAX DRIVER 1P</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="3">
 				<IdName>TG_14_11_medio</IdName>
-				<StartDate>2018-11-14</StartDate>
-				<StartTime>21:00:53</StartTime>
-				<EndDate>2018-11-14</EndDate>
-				<EndTime>21:07:48</EndTime>
+				<StartDate>2018-11-15</StartDate>
+				<StartTime>01:24:58</StartTime>
+				<EndDate>2018-11-15</EndDate>
+				<EndTime>01:31:53</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -41,63 +41,11 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="4">
-				<IdName>TRAILERPARTE3DEL05-11-2018</IdName>
-				<StartDate>2018-11-14</StartDate>
-				<StartTime>21:07:48</StartTime>
-				<EndDate>2018-11-14</EndDate>
-				<EndTime>21:16:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
-				<IdName>IlritornodelRe</IdName>
-				<StartDate>2018-11-14</StartDate>
-				<StartTime>21:16:45</StartTime>
-				<EndDate>2018-11-15</EndDate>
-				<EndTime>00:29:32</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Il  ritorno del re</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
-				<IdName>Taxidriver_1_mpeg2video</IdName>
-				<StartDate>2018-11-15</StartDate>
-				<StartTime>00:29:32</StartTime>
-				<EndDate>2018-11-15</EndDate>
-				<EndTime>01:24:59</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>TAX DRIVER 1P</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
-				<IdName>TG_14_11_medio</IdName>
-				<StartDate>2018-11-15</StartDate>
-				<StartTime>01:24:59</StartTime>
-				<EndDate>2018-11-15</EndDate>
-				<EndTime>01:31:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="8">
 				<IdName>Taxidriver_2_mpeg2video</IdName>
 				<StartDate>2018-11-15</StartDate>
-				<StartTime>01:31:54</StartTime>
+				<StartTime>01:31:53</StartTime>
 				<EndDate>2018-11-15</EndDate>
-				<EndTime>02:25:31</EndTime>
+				<EndTime>02:25:30</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -105,10 +53,10 @@
 					<Description>TAX DRIVE 2 P.</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="5">
 				<IdName>TotoaParigi_mpeg2video</IdName>
 				<StartDate>2018-11-15</StartDate>
-				<StartTime>02:25:31</StartTime>
+				<StartTime>02:25:30</StartTime>
 				<EndDate>2018-11-15</EndDate>
 				<EndTime>03:59:13</EndTime>
 				<ShortEventDescription>
@@ -118,7 +66,7 @@
 					<Description>Tot a Prigi</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="6">
 				<IdName>Gerace</IdName>
 				<StartDate>2018-11-15</StartDate>
 				<StartTime>03:59:13</StartTime>
@@ -131,7 +79,7 @@
 					<Description>GERACE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="7">
 				<IdName>TG_14_11_medio</IdName>
 				<StartDate>2018-11-15</StartDate>
 				<StartTime>04:05:14</StartTime>
@@ -144,12 +92,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="8">
 				<IdName>STILOELACATTOLICA</IdName>
 				<StartDate>2018-11-15</StartDate>
 				<StartTime>04:12:09</StartTime>
 				<EndDate>2018-11-15</EndDate>
-				<EndTime>04:19:24</EndTime>
+				<EndTime>04:19:23</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -157,10 +105,10 @@
 					<Description>Stilo e la  cattolica</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="9">
 				<IdName>StarshipTroopers2-Glieroidellafederazione</IdName>
 				<StartDate>2018-11-15</StartDate>
-				<StartTime>04:19:24</StartTime>
+				<StartTime>04:19:23</StartTime>
 				<EndDate>2018-11-15</EndDate>
 				<EndTime>05:47:16</EndTime>
 				<ShortEventDescription>
@@ -170,7 +118,7 @@
 					<Description>Trooper 2</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="10">
 				<IdName>L'ultimorediScozia</IdName>
 				<StartDate>2018-11-15</StartDate>
 				<StartTime>05:47:16</StartTime>
