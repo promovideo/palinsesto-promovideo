@@ -2,45 +2,6 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Tadpole_mpeg2video</IdName>
-				<StartDate>2018-11-18</StartDate>
-				<StartTime>19:08:40</StartTime>
-				<EndDate>2018-11-18</EndDate>
-				<EndTime>20:23:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>TODPOLE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>Arredi%20alvaro</IdName>
-				<StartDate>2018-11-18</StartDate>
-				<StartTime>20:23:45</StartTime>
-				<EndDate>2018-11-18</EndDate>
-				<EndTime>20:24:01</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ARREDI ALVARO DAL 02 10 18</Name>
-					<Description>ARREDI ALVARO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2018-11-18</StartDate>
-				<StartTime>20:24:01</StartTime>
-				<EndDate>2018-11-18</EndDate>
-				<EndTime>20:24:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
 				<IdName>filmcompletoPiratiRPolanski1986</IdName>
 				<StartDate>2018-11-18</StartDate>
 				<StartTime>20:24:05</StartTime>
@@ -53,7 +14,7 @@
 					<Description>Pirati</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="2">
 				<IdName>Arredi%20alvaro</IdName>
 				<StartDate>2018-11-18</StartDate>
 				<StartTime>22:09:44</StartTime>
@@ -66,7 +27,7 @@
 					<Description>ARREDI ALVARO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="3">
 				<IdName>PROMOVIDEOSPOT1</IdName>
 				<StartDate>2018-11-18</StartDate>
 				<StartTime>22:10:00</StartTime>
@@ -79,7 +40,7 @@
 					<Description>PROMOVIDEOSPOT</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="4">
 				<IdName>GeracePiccolaGrandeItalia_mpeg2video</IdName>
 				<StartDate>2018-11-18</StartDate>
 				<StartTime>22:10:07</StartTime>
@@ -92,7 +53,7 @@
 					<Description>Gerace Piccola Grande città</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="5">
 				<IdName>DGM7DT</IdName>
 				<StartDate>2018-11-18</StartDate>
 				<StartTime>22:33:34</StartTime>
@@ -105,7 +66,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="6">
 				<IdName>SuperTG_16_11_medio</IdName>
 				<StartDate>2018-11-18</StartDate>
 				<StartTime>22:58:31</StartTime>
@@ -118,7 +79,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="7">
 				<IdName>InstantFutureStagione2_puntata3</IdName>
 				<StartDate>2018-11-18</StartDate>
 				<StartTime>23:27:43</StartTime>
@@ -131,7 +92,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="8">
 				<IdName>GODOFWARASCENSION</IdName>
 				<StartDate>2018-11-18</StartDate>
 				<StartTime>23:39:06</StartTime>
@@ -144,7 +105,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="9">
 				<IdName>UnpescedinomeWanda_mpeg2video</IdName>
 				<StartDate>2018-11-19</StartDate>
 				<StartTime>01:17:28</StartTime>
@@ -157,12 +118,12 @@
 					<Description>Un pesce di  nome  Wanda</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="10">
 				<IdName>PROMOVIDEOSPOT2</IdName>
 				<StartDate>2018-11-19</StartDate>
 				<StartTime>03:01:04</StartTime>
 				<EndDate>2018-11-19</EndDate>
-				<EndTime>03:01:11</EndTime>
+				<EndTime>03:01:10</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -170,10 +131,10 @@
 					<Description>SPOT  PROMOVIDEOTV 2</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="11">
 				<IdName>MilleVocinapoletane-Puntata01di02_Edizione2016©(468p_25fps_H264-128kbit_AAC)</IdName>
 				<StartDate>2018-11-19</StartDate>
-				<StartTime>03:01:11</StartTime>
+				<StartTime>03:01:10</StartTime>
 				<EndDate>2018-11-19</EndDate>
 				<EndTime>04:30:41</EndTime>
 				<ShortEventDescription>
@@ -183,7 +144,7 @@
 					<Description>mille    voci napoletane 1</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="12">
 				<IdName>Arredi%20alvaro</IdName>
 				<StartDate>2018-11-19</StartDate>
 				<StartTime>04:30:41</StartTime>
@@ -196,7 +157,7 @@
 					<Description>ARREDI ALVARO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="13">
 				<IdName>firgofidelisGerace2016</IdName>
 				<StartDate>2018-11-19</StartDate>
 				<StartTime>04:30:57</StartTime>
@@ -209,7 +170,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="14">
 				<IdName>Pasqua-NoceraTerinese</IdName>
 				<StartDate>2018-11-19</StartDate>
 				<StartTime>05:07:22</StartTime>
