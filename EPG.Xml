@@ -2,50 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>UnpescedinomeWanda_mpeg2video</IdName>
-				<StartDate>2018-11-21</StartDate>
-				<StartTime>17:01:10</StartTime>
-				<EndDate>2018-11-21</EndDate>
-				<EndTime>18:44:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Un pesce di  nome  Wanda</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>PROMOVIDEOSPOT2</IdName>
-				<StartDate>2018-11-21</StartDate>
-				<StartTime>18:44:46</StartTime>
-				<EndDate>2018-11-21</EndDate>
-				<EndTime>18:44:52</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOT  PROMOVIDEOTV 2</Name>
-					<Description>SPOT  PROMOVIDEOTV 2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>Arredi%20alvaro</IdName>
-				<StartDate>2018-11-21</StartDate>
-				<StartTime>18:44:52</StartTime>
-				<EndDate>2018-11-21</EndDate>
-				<EndTime>18:45:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ARREDI ALVARO DAL 02 10 18</Name>
-					<Description>ARREDI ALVARO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
 				<IdName>Amy'sO-FinalmenteL'Amore</IdName>
 				<StartDate>2018-11-21</StartDate>
 				<StartTime>18:45:08</StartTime>
 				<EndDate>2018-11-21</EndDate>
-				<EndTime>20:08:35</EndTime>
+				<EndTime>20:08:34</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -53,12 +14,12 @@
 					<Description>Finalmente l' amore</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="5">
+			<Event id="2">
 				<IdName>TG_21_11_medio</IdName>
 				<StartDate>2018-11-21</StartDate>
-				<StartTime>20:08:35</StartTime>
+				<StartTime>20:08:34</StartTime>
 				<EndDate>2018-11-21</EndDate>
-				<EndTime>20:15:45</EndTime>
+				<EndTime>20:15:44</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -66,10 +27,10 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="6">
+			<Event id="3">
 				<IdName>Tempimoderni_mpeg2video</IdName>
 				<StartDate>2018-11-21</StartDate>
-				<StartTime>20:15:45</StartTime>
+				<StartTime>20:15:44</StartTime>
 				<EndDate>2018-11-21</EndDate>
 				<EndTime>21:43:18</EndTime>
 				<ShortEventDescription>
@@ -79,7 +40,7 @@
 					<Description>Tempi  moderni</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="7">
+			<Event id="4">
 				<IdName>Arredi%20alvaro</IdName>
 				<StartDate>2018-11-21</StartDate>
 				<StartTime>21:43:18</StartTime>
@@ -92,7 +53,7 @@
 					<Description>ARREDI ALVARO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="8">
+			<Event id="5">
 				<IdName>TG_21_11_medio</IdName>
 				<StartDate>2018-11-21</StartDate>
 				<StartTime>21:43:34</StartTime>
@@ -105,12 +66,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="9">
+			<Event id="6">
 				<IdName>IlritornodelRe</IdName>
 				<StartDate>2018-11-21</StartDate>
 				<StartTime>21:50:44</StartTime>
 				<EndDate>2018-11-22</EndDate>
-				<EndTime>01:03:31</EndTime>
+				<EndTime>01:03:30</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -118,12 +79,12 @@
 					<Description>Il  ritorno del re</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="10">
+			<Event id="7">
 				<IdName>TotoaParigi_mpeg2video</IdName>
 				<StartDate>2018-11-22</StartDate>
-				<StartTime>01:03:31</StartTime>
+				<StartTime>01:03:30</StartTime>
 				<EndDate>2018-11-22</EndDate>
-				<EndTime>02:37:13</EndTime>
+				<EndTime>02:37:12</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -131,10 +92,10 @@
 					<Description>Tot a Prigi</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="11">
+			<Event id="8">
 				<IdName>STILOELACATTOLICA</IdName>
 				<StartDate>2018-11-22</StartDate>
-				<StartTime>02:37:13</StartTime>
+				<StartTime>02:37:12</StartTime>
 				<EndDate>2018-11-22</EndDate>
 				<EndTime>02:44:27</EndTime>
 				<ShortEventDescription>
@@ -144,7 +105,7 @@
 					<Description>Stilo e la  cattolica</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="12">
+			<Event id="9">
 				<IdName>TRAILERPARTE4DEL05-11-2018</IdName>
 				<StartDate>2018-11-22</StartDate>
 				<StartTime>02:44:27</StartTime>
@@ -157,7 +118,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="13">
+			<Event id="10">
 				<IdName>StarshipTroopers2-Glieroidellafederazione</IdName>
 				<StartDate>2018-11-22</StartDate>
 				<StartTime>02:53:24</StartTime>
@@ -170,7 +131,7 @@
 					<Description>Trooper 2</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="14">
+			<Event id="11">
 				<IdName>Tadpole_mpeg2video</IdName>
 				<StartDate>2018-11-22</StartDate>
 				<StartTime>04:21:16</StartTime>
@@ -183,7 +144,7 @@
 					<Description>TODPOLE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="15">
+			<Event id="12">
 				<IdName>TG_21_11_medio</IdName>
 				<StartDate>2018-11-22</StartDate>
 				<StartTime>05:36:21</StartTime>
@@ -196,7 +157,7 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="16">
+			<Event id="13">
 				<IdName>TRAILERPARTE5DEL05-11-2018</IdName>
 				<StartDate>2018-11-22</StartDate>
 				<StartTime>05:43:31</StartTime>
@@ -209,12 +170,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="17">
+			<Event id="14">
 				<IdName>DGM19dt</IdName>
 				<StartDate>2018-11-22</StartDate>
 				<StartTime>05:52:28</StartTime>
 				<EndDate>2018-11-22</EndDate>
-				<EndTime>06:18:52</EndTime>
+				<EndTime>06:18:51</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
