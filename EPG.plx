@@ -1,18 +1,58 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-23/11/2018	20:53:37	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	documentari
-23/11/2018	21:15:06	TG_23_11_medio	Sconosciuto	Nuovo File	00:06:41	0	
-23/11/2018	21:21:48	L'ultimorediScozia	Sconosciuto	L' ultimo re di Scozia	00:59:18	22	
-23/11/2018	22:21:07	TRAILERPARTE4DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
-23/11/2018	22:30:03	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-23/11/2018	22:30:07	GeracePiccolaGrandeItalia_mpeg2video	Sconosciuto	Gerace Piccola Grande città	00:23:27	42	
-23/11/2018	22:53:34	DGM7DT	Sconosciuto	Nuovo File	00:24:57	0	
-23/11/2018	23:18:31	TG_23_11_medio	Sconosciuto	Nuovo File	00:06:41	0	
-23/11/2018	23:25:13	TRAILERPARTE6DEL05-11-2018	Sconosciuto	Nuovo File	00:09:18	0	
-23/11/2018	23:34:31	PROMOVIDEOSPOT2	SPOT  PROMOVIDEOTV 2	SPOT  PROMOVIDEOTV 2	00:00:06	11	spot
-23/11/2018	23:34:38	Tempimoderni_mpeg2video	Sconosciuto	Tempi  moderni	01:27:33	1	Film
-24/11/2018	01:02:11	ThePrison	Sconosciuto	The  prison	01:45:47	1	Film
-24/11/2018	02:47:59	TG_21_11_medio	Sconosciuto	Nuovo File	00:07:10	0	
-24/11/2018	02:55:09	TRAILERPARTE5DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
-24/11/2018	03:04:06	TotoaParigi_mpeg2video	Sconosciuto	Tot a Prigi	01:33:42	1	Film
-24/11/2018	04:37:48	Speed2-SenzaLimiti	SPOEED 2 SENZA LIMITI	SPEED 2 SENZA LIMITI	01:54:12	1	Film
-24/11/2018	06:32:01	TG_23_11_medio	Sconosciuto	Nuovo File	00:06:41	0	
+24/11/2018	06:00:01	SimsalaGrimm2-Ep.10-LabellaelabestiaHDItaliano(474p_27fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:25:00	0	
+24/11/2018	06:25:01	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+24/11/2018	06:26:06	GrotteriaPresepe2012_mpeg2video(1)	GROTTERIA PRESEPE	GROTTERIA PRESEPE	00:46:15	71	documentari
+24/11/2018	07:12:22	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+24/11/2018	07:12:29	Simsalagrimm1-Ep.4-IlRedeiladriHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:24:35	0	
+24/11/2018	07:37:04	Simsalagrimm1-Ep.10-Ilgiovanecheparti'perimpararelapauraHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:22:14	0	
+24/11/2018	07:59:19	Simsalagrimm1-Ep.16-IltavolinomagicoHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:32:45	0	
+24/11/2018	08:32:05	TRAILERPARTE6DEL05-11-2018	Sconosciuto	Nuovo File	00:09:18	0	
+24/11/2018	08:41:23	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
+24/11/2018	08:41:39	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+24/11/2018	08:42:44	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+24/11/2018	08:42:55	SPOTMILLEVOCINAPOLETXFACEBOOK	SPOT MILLE VOCI CON  PROMOVIDEO	Nuovo File	00:00:36	0	
+24/11/2018	08:43:31	InstantFuture_puntata3	INSTANT FUTURE 3 P	INSTANT FUTURE 3 P	00:22:30	31	programmi informativi
+24/11/2018	09:06:01	TRAILERPARTE3DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
+24/11/2018	09:14:58	GERACEBorgoIncantato2017Primaserata(byEL)(360p_30fps_H264-96kbit_AAC)	Sconosciuto	Nuovo File	00:29:45	0	
+24/11/2018	09:44:44	NoceraTerineseSabatoSanto1991(480p_25fps_H264128kbit_AAC)	Sconosciuto	Nuovo File	00:11:35	0	
+24/11/2018	09:56:19	DGM19dt	Sconosciuto	Nuovo File	00:26:23	0	
+24/11/2018	10:22:43	agrisapori714x28-5-17	Sconosciuto	Nuovo File	00:29:01	0	
+24/11/2018	10:51:44	TRAILERPARTE3DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
+24/11/2018	11:00:41	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
+24/11/2018	11:00:57	CIBOR-ISPOTPERREGIA	Sconosciuto	Nuovo File	00:00:37	0	
+24/11/2018	11:01:34	CariatiPiccolaGrandeItalia	CARIATI	cariati	00:21:41	71	documentari
+24/11/2018	11:23:15	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
+24/11/2018	11:25:35	FormulaMotoriPuntata25-06-18	Sconosciuto	Nuovo File	00:12:00	0	
+24/11/2018	11:37:35	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+24/11/2018	11:37:42	TRAILERPARTE2DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
+24/11/2018	11:46:39	TotoaParigi_mpeg2video	Sconosciuto	Tot a Prigi	01:33:42	1	Film
+24/11/2018	13:20:21	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+24/11/2018	13:21:26	MilleVocinapoletane-Puntata01di02_Edizione2016©(468p_25fps_H264-128kbit_AAC)	mille voci napoletane 1	mille    voci napoletane 1	01:29:30	81	videoclip
+24/11/2018	14:50:56	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
+24/11/2018	14:51:12	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
+24/11/2018	14:51:28	TRAILERPARTE3DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
+24/11/2018	15:00:24	FormulamotoriMpuntata9del10-11-18	Sconosciuto	Nuovo File	00:12:00	0	
+24/11/2018	15:12:24	POLSI218MITIRELIGIOSITA'EPAESAGGIO	polsi 2018 santa  croce	polsi  2018	00:36:36	41	programmi culturali
+24/11/2018	15:49:01	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
+24/11/2018	15:51:21	Puntata7FormilaMotoridel27ottobre	Sconosciuto	Nuovo File	00:12:00	0	
+24/11/2018	16:03:21	Souvenird'Italie_mpeg2video	Souvenir d'Italy	Souvenir d'Italy	01:44:43	1	Film
+24/11/2018	17:48:04	TRAILERPARTE2DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
+24/11/2018	17:57:01	Spotoffertaestiva_mpeg2video	SPOT OFEFRTA ESTIVA	SPOT OFFERAT ESTIVA	00:00:46	11	spot
+24/11/2018	17:57:47	PillolaSalute_20150302_48922	Sconosciuto	Nuovo File	00:00:40	0	
+24/11/2018	17:58:27	PROMORADIONETWORK_mpeg2video	PROMORADIONETWORK	PROMORADIONETWORK	00:00:57	11	spot
+24/11/2018	17:59:25	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+24/11/2018	17:59:32	TRAILERPARTE5DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
+24/11/2018	18:08:29	Labandadeglionesti_mpeg2video	LA BANDA DEGLI ONESTI	LA BANDA DEGLI  ONESTI	01:40:55	1	Film
+24/11/2018	19:49:24	CommandPerformance2009iTALiANDVDRipXviDPrEsTiGe	Sconosciuto	Command performance	01:29:22	1	Film
+24/11/2018	21:18:46	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
+24/11/2018	21:19:02	TRAILERPARTE4DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
+24/11/2018	21:27:59	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	Film
+24/11/2018	23:13:41	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+24/11/2018	23:13:48	AVISLOCRI	Sconosciuto	Nuovo File	00:00:33	0	
+24/11/2018	23:14:21	Infiltratospeciale_mpeg2video	Sconosciuto	Infiltrato  speciale	01:34:35	1	Film
+25/11/2018	00:48:57	LaCarbonarafilmcompleto_mpeg2video	LA  CARBONARA	LA CARBONARA	01:48:07	1	Film
+25/11/2018	02:37:04	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	Film
+25/11/2018	04:22:46	TRAILERPARTE3DEL05-11-2018	Sconosciuto	Nuovo File	00:08:56	0	
+25/11/2018	04:31:43	ChiedimiSeSonoFelice_mpeg2video	CHIEDIMI SE SONO  FELICE	CHIEDIMI SE SONO  FELICE	01:36:35	1	Film
+25/11/2018	06:08:18	2018_WELLIFE_EP05	Sconosciuto	Nuovo File	00:13:12	0	
+25/11/2018	06:21:30	TRAILERPARTE6DEL05-11-2018	Sconosciuto	Nuovo File	00:09:18	0	
