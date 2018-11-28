@@ -1,7 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-28/11/2018	18:11:14	MYTECH-PIXMINDreplicaestate(9ok)	Sconosciuto	Nuovo File	00:23:59	0	
-28/11/2018	18:35:13	049-LaTerradelSoleRosso(11')eD	LA TERRA DEL   SOLE ROSSO	LA TERRA DEL   SOLE  ROSSO	00:10:48	71	documentari
-28/11/2018	18:46:02	SPOTtraPROMOVIDEOTV10	Sconosciuto	SPOT PROMOVIDEOTV2	00:00:03	11	spot
 28/11/2018	18:46:05	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
 28/11/2018	20:34:36	Economiacriminale,corruzione,ecoreati_NicolaGratteri(1080p_25fps_H264-128kbit_AAC)	ECONOMIA CRIMINALE	GRATTERI	01:18:24	41	programmi culturali
 28/11/2018	21:53:01	TRAILERPARTE7DEL15-10-2018	Sconosciuto	Nuovo File	00:09:06	0	
