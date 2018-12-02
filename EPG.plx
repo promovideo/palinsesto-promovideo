@@ -1,19 +1,49 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-01/12/2018	21:17:46	L'ultimorediScozia	Sconosciuto	L' ultimo re di Scozia	00:59:18	22	
-01/12/2018	22:17:05	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-01/12/2018	22:17:08	GeracePiccolaGrandeItalia_mpeg2video	Sconosciuto	Gerace Piccola Grande città	00:23:27	42	
-01/12/2018	22:40:35	DGM7DT	Sconosciuto	Nuovo File	00:24:57	0	
-01/12/2018	23:05:33	PROMOVIDEOSPOT2	SPOT  PROMOVIDEOTV 2	SPOT  PROMOVIDEOTV 2	00:00:06	11	spot
-01/12/2018	23:05:40	TRAILERPARTE4DEL26-11-2018	Sconosciuto	Nuovo File	00:10:03	0	
-01/12/2018	23:15:43	Tempimoderni_mpeg2video	Sconosciuto	Tempi  moderni	01:27:33	1	Film
-02/12/2018	00:43:16	BovaChoratuVuaIlGioielloD'Aspromonte	BOVA GIOIELLO D' ASPROMONTE	BOVA	00:16:11	41	programmi culturali
-02/12/2018	00:59:28	TotoaParigi_mpeg2video	Sconosciuto	Tot a Prigi	01:33:42	1	Film
-02/12/2018	02:33:10	Puntata7FormilaMotoridel27ottobre	Sconosciuto	Nuovo File	00:12:00	0	
-02/12/2018	02:45:10	TRAILERPARTE3DEL26-11-2018	Sconosciuto	Nuovo File	00:09:45	0	
-02/12/2018	02:54:56	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-02/12/2018	03:02:10	80vogliadicantareFaustoCigliano	Sconosciuto	Nuovo File	00:15:43	0	
-02/12/2018	03:17:54	Puntata7FormilaMotoridel27ottobre	Sconosciuto	Nuovo File	00:12:00	0	
-02/12/2018	03:29:54	Mammola(RC)-CALABRIA(720p_30fps_H264-192kbit_AAC)	mammola docu	MAMMOLA	00:05:29	41	programmi culturali
-02/12/2018	03:35:23	TRAILERPARTE2DEL26-11-2018	Sconosciuto	Nuovo File	00:09:45	0	
-02/12/2018	03:45:09	ThePrison	Sconosciuto	The  prison	01:45:47	1	Film
-02/12/2018	05:30:57	Emigrantiedimmigrati	aemigrandi ed  immigrati	scuola siderno	01:33:33	41	programmi culturali
+02/12/2018	05:28:22	Simsalagrimm1-Ep.16-IltavolinomagicoHDItaliano(360p_24fps_H264-128kbit_AAC)	Sconosciuto	Nuovo File	00:32:45	0	
+02/12/2018	06:01:08	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
+02/12/2018	06:01:24	GERACE-Cittàmillenaria	SPOT GERACE CITTà1000ENARIA	GERACECITTAMILLENARIA SPOT	00:01:05	11	spot
+02/12/2018	06:02:29	minispotapplicazione	SPOTAPP	SPOTAPP	00:00:10	11	spot
+02/12/2018	06:02:40	SPOTMILLEVOCINAPOLETXFACEBOOK	SPOT MILLE VOCI CON  PROMOVIDEO	Nuovo File	00:00:36	0	
+02/12/2018	06:03:17	InstantFuture_puntata3	INSTANT FUTURE 3 P	INSTANT FUTURE 3 P	00:22:30	31	programmi informativi
+02/12/2018	06:25:47	TRAILERPARTE3DEL26-11-2018	Sconosciuto	Nuovo File	00:09:45	0	
+02/12/2018	06:35:32	Puntata11FormulaMotoriNazionale	Sconosciuto	Nuovo File	00:12:00	0	
+02/12/2018	06:47:33	GERACEBorgoIncantato2017Primaserata(byEL)(360p_30fps_H264-96kbit_AAC)	Sconosciuto	Nuovo File	00:29:45	0	
+02/12/2018	07:17:18	NoceraTerineseSabatoSanto1991(480p_25fps_H264128kbit_AAC)	Sconosciuto	Nuovo File	00:11:35	0	
+02/12/2018	07:28:54	agrisapori714x28-5-17	Sconosciuto	Nuovo File	00:29:01	0	
+02/12/2018	07:57:55	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
+02/12/2018	07:58:11	CIBOR-ISPOTPERREGIA	Sconosciuto	Nuovo File	00:00:37	0	
+02/12/2018	07:58:48	CariatiPiccolaGrandeItalia	CARIATI	cariati	00:21:41	71	documentari
+02/12/2018	08:20:30	TRAILERPARTE7DEL26-11-2018	Sconosciuto	Nuovo File	00:09:45	0	
+02/12/2018	08:30:15	PiedoneAHongKong	Sconosciuto	Piedone ad Hong Gong	01:50:01	22	
+02/12/2018	10:20:16	GrotteriaPresepe2012_mpeg2video(1)	GROTTERIA PRESEPE	GROTTERIA PRESEPE	00:46:15	71	documentari
+02/12/2018	11:06:32	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
+02/12/2018	11:08:52	FormulaMotoriPuntata25-06-18	Sconosciuto	Nuovo File	00:12:00	0	
+02/12/2018	11:20:52	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+02/12/2018	11:20:59	TRAILERPARTE6DEL26-11-2018	Sconosciuto	Nuovo File	00:09:45	0	
+02/12/2018	11:30:45	DonCamilloMonsignoremanontroppo	DON CAMILLO   MONSIGNORE	DON CAMILLO MONSIGNORE	01:53:25	1	Film
+02/12/2018	13:24:10	MilleVocinapoletane-Puntata01di02_Edizione2016©(468p_25fps_H264-128kbit_AAC)	mille voci napoletane 1	mille    voci napoletane 1	01:29:30	81	videoclip
+02/12/2018	14:53:41	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
+02/12/2018	14:53:56	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
+02/12/2018	14:54:12	TRAILERPARTE4DEL26-11-2018	Sconosciuto	Nuovo File	00:10:03	0	
+02/12/2018	15:04:15	POLSI218MITIRELIGIOSITA'EPAESAGGIO	polsi 2018 santa  croce	polsi  2018	00:36:36	41	programmi culturali
+02/12/2018	15:40:51	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
+02/12/2018	15:43:11	Puntata7FormilaMotoridel27ottobre	Sconosciuto	Nuovo File	00:12:00	0	
+02/12/2018	15:55:11	TRAILERPARTE5DEL26-11-2018	Sconosciuto	Nuovo File	00:10:03	0	
+02/12/2018	16:05:14	PROMORADIONETWORK_mpeg2video	PROMORADIONETWORK	PROMORADIONETWORK	00:00:57	11	spot
+02/12/2018	16:06:12	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
+02/12/2018	17:56:48	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+02/12/2018	17:56:55	Labandadeglionesti_mpeg2video	LA BANDA DEGLI ONESTI	LA BANDA DEGLI  ONESTI	01:40:55	1	Film
+02/12/2018	19:37:50	TRAILERPARTE2DEL26-11-2018	Sconosciuto	Nuovo File	00:09:45	0	
+02/12/2018	19:47:36	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
+02/12/2018	19:47:52	2Fastand2Furios	Sconosciuto	Nuovo File	01:43:10	1	Film
+02/12/2018	21:31:02	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	Film
+02/12/2018	23:16:44	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+02/12/2018	23:16:51	TRAILERPARTE7DEL26-11-2018	Sconosciuto	Nuovo File	00:09:45	0	
+02/12/2018	23:26:37	SPOTCIBRIO-PROMOVIDEOTVOK	Sconosciuto	Nuovo File	00:00:44	0	
+02/12/2018	23:27:21	AVISLOCRI	Sconosciuto	Nuovo File	00:00:33	0	
+02/12/2018	23:27:55	Infiltratospeciale_mpeg2video	Sconosciuto	Infiltrato  speciale	01:34:35	1	Film
+03/12/2018	01:02:30	LaCarbonarafilmcompleto_mpeg2video	LA  CARBONARA	LA CARBONARA	01:48:07	1	Film
+03/12/2018	02:50:37	TropeaPiccolaGrandeItalia	Piccola grande Italia	TROPEA	00:26:53	71	documentari
+03/12/2018	03:17:31	TRAILERPARTE6DEL26-11-2018	Sconosciuto	Nuovo File	00:09:45	0	
+03/12/2018	03:27:17	GliAnimalipiPericolosiGiunglaUrbana(ITA)	Animali pericolosi	ANIMALI PERICOLOSI	00:47:02	71	documentari
+03/12/2018	04:14:19	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	Film
