@@ -1,34 +1,16 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-02/12/2018	08:01:13	PiedoneAHongKong	Sconosciuto	Piedone ad Hong Gong	01:50:01	22	
-02/12/2018	09:51:14	GrotteriaPresepe2012_mpeg2video(1)	GROTTERIA PRESEPE	GROTTERIA PRESEPE	00:46:15	71	documentari
-02/12/2018	10:37:29	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
-02/12/2018	10:39:50	FormulaMotoriPuntata25-06-18	Sconosciuto	Nuovo File	00:12:00	0	
-02/12/2018	10:51:50	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-02/12/2018	10:51:56	TRAILERPARTE6DEL26-11-2018	Sconosciuto	Nuovo File	00:09:45	0	
-02/12/2018	11:01:42	DonCamilloMonsignoremanontroppo	DON CAMILLO   MONSIGNORE	DON CAMILLO MONSIGNORE	01:53:25	1	Film
-02/12/2018	12:55:08	MilleVocinapoletane-Puntata01di02_Edizione2016©(468p_25fps_H264-128kbit_AAC)	mille voci napoletane 1	mille    voci napoletane 1	01:29:30	81	videoclip
-02/12/2018	14:24:38	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
-02/12/2018	14:24:54	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-02/12/2018	14:25:09	TRAILERPARTE4DEL26-11-2018	Sconosciuto	Nuovo File	00:10:03	0	
-02/12/2018	14:35:13	POLSI218MITIRELIGIOSITA'EPAESAGGIO	polsi 2018 santa  croce	polsi  2018	00:36:36	41	programmi culturali
-02/12/2018	15:11:49	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
-02/12/2018	15:14:09	Puntata7FormilaMotoridel27ottobre	Sconosciuto	Nuovo File	00:12:00	0	
-02/12/2018	15:26:09	TRAILERPARTE5DEL26-11-2018	Sconosciuto	Nuovo File	00:10:03	0	
-02/12/2018	15:36:12	PROMORADIONETWORK_mpeg2video	PROMORADIONETWORK	PROMORADIONETWORK	00:00:57	11	spot
-02/12/2018	15:37:10	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
-02/12/2018	17:27:46	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
-02/12/2018	17:27:53	Labandadeglionesti_mpeg2video	LA BANDA DEGLI ONESTI	LA BANDA DEGLI  ONESTI	01:40:55	1	Film
-02/12/2018	19:08:48	TRAILERPARTE2DEL26-11-2018	Sconosciuto	Nuovo File	00:09:45	0	
-02/12/2018	19:18:34	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
-02/12/2018	19:18:50	2Fastand2Furios	Sconosciuto	Nuovo File	01:43:10	1	Film
-02/12/2018	21:02:00	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	Film
-02/12/2018	22:47:42	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-02/12/2018	22:47:49	TRAILERPARTE7DEL26-11-2018	Sconosciuto	Nuovo File	00:09:45	0	
-02/12/2018	22:57:34	SPOTCIBRIO-PROMOVIDEOTVOK	Sconosciuto	Nuovo File	00:00:44	0	
-02/12/2018	22:58:19	AVISLOCRI	Sconosciuto	Nuovo File	00:00:33	0	
-02/12/2018	22:58:53	Infiltratospeciale_mpeg2video	Sconosciuto	Infiltrato  speciale	01:34:35	1	Film
-03/12/2018	00:33:28	LaCarbonarafilmcompleto_mpeg2video	LA  CARBONARA	LA CARBONARA	01:48:07	1	Film
-03/12/2018	02:21:35	TropeaPiccolaGrandeItalia	Piccola grande Italia	TROPEA	00:26:53	71	documentari
-03/12/2018	02:48:28	TRAILERPARTE6DEL26-11-2018	Sconosciuto	Nuovo File	00:09:45	0	
-03/12/2018	02:58:14	GliAnimalipiPericolosiGiunglaUrbana(ITA)	Animali pericolosi	ANIMALI PERICOLOSI	00:47:02	71	documentari
-03/12/2018	03:45:17	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	Film
+02/12/2018	17:03:51	Labandadeglionesti_mpeg2video	LA BANDA DEGLI ONESTI	LA BANDA DEGLI  ONESTI	01:40:55	1	Film
+02/12/2018	18:44:46	TRAILERPARTE2DEL26-11-2018	Sconosciuto	Nuovo File	00:09:45	0	
+02/12/2018	18:54:32	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
+02/12/2018	18:54:48	2Fastand2Furios	Sconosciuto	Nuovo File	01:43:10	1	Film
+02/12/2018	20:37:58	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	Film
+02/12/2018	22:23:40	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+02/12/2018	22:23:47	TRAILERPARTE7DEL26-11-2018	Sconosciuto	Nuovo File	00:09:45	0	
+02/12/2018	22:33:33	SPOTCIBRIO-PROMOVIDEOTVOK	Sconosciuto	Nuovo File	00:00:44	0	
+02/12/2018	22:34:17	AVISLOCRI	Sconosciuto	Nuovo File	00:00:33	0	
+02/12/2018	22:34:51	Infiltratospeciale_mpeg2video	Sconosciuto	Infiltrato  speciale	01:34:35	1	Film
+03/12/2018	00:09:26	LaCarbonarafilmcompleto_mpeg2video	LA  CARBONARA	LA CARBONARA	01:48:07	1	Film
+03/12/2018	01:57:33	TropeaPiccolaGrandeItalia	Piccola grande Italia	TROPEA	00:26:53	71	documentari
+03/12/2018	02:24:26	TRAILERPARTE6DEL26-11-2018	Sconosciuto	Nuovo File	00:09:45	0	
+03/12/2018	02:34:12	GliAnimalipiPericolosiGiunglaUrbana(ITA)	Animali pericolosi	ANIMALI PERICOLOSI	00:47:02	71	documentari
+03/12/2018	03:21:15	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	Film
