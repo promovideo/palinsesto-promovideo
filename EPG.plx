@@ -1,3 +1,39 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-08/12/2018	04:50:58	Tentazionemortale_mpeg2video	Sconosciuto	Tentazione mortale	01:27:28	22	
-08/12/2018	06:18:26	Unafortunasfacciata_mpeg2video	Sconosciuto	Una fortuna sfacciata	01:34:56	22	
+08/12/2018	09:42:50	SuperTG_7_12_2018	Sconosciuto	Nuovo File	00:29:33	0	
+08/12/2018	10:12:23	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
+08/12/2018	10:12:39	Puntata8FormulaMotoridel3nov2018	Sconosciuto	Nuovo File	00:12:00	0	
+08/12/2018	10:24:39	TRAILERPARTE6DEL26-11-2018	Sconosciuto	Nuovo File	00:09:45	0	
+08/12/2018	10:34:24	CIBOR-ISPOTPERREGIA	Sconosciuto	Nuovo File	00:00:37	0	
+08/12/2018	10:35:02	PiedoneAHongKong	Sconosciuto	Piedone ad Hong Gong	01:50:01	22	
+08/12/2018	12:25:03	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
+08/12/2018	12:27:23	FormulaMotoriPuntata25-06-18	Sconosciuto	Nuovo File	00:12:00	0	
+08/12/2018	12:39:23	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+08/12/2018	12:39:30	AmicimieiattoIII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO III	01:49:20	1	Film
+08/12/2018	14:28:51	TRAILERPARTE4DEL26-11-2018	Sconosciuto	Nuovo File	00:10:03	0	
+08/12/2018	14:38:54	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
+08/12/2018	14:39:10	SuperTG_7_12_2018	Sconosciuto	Nuovo File	00:29:33	0	
+08/12/2018	15:08:43	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
+08/12/2018	15:08:58	POLSI218MITIRELIGIOSITA'EPAESAGGIO	polsi 2018 santa  croce	polsi  2018	00:36:36	41	programmi culturali
+08/12/2018	15:45:34	SLAPROMOVIDEOPERILSOCIALE	Sconosciuto	Nuovo File	00:02:20	0	
+08/12/2018	15:47:54	Puntata7FormilaMotoridel27ottobre	Sconosciuto	Nuovo File	00:12:00	0	
+08/12/2018	15:59:54	TRAILERPARTE2DEL26-11-2018	Sconosciuto	Nuovo File	00:09:45	0	
+08/12/2018	16:09:40	PROMORADIONETWORK_mpeg2video	PROMORADIONETWORK	PROMORADIONETWORK	00:00:57	11	spot
+08/12/2018	16:10:38	SuperTG_7_12_2018	Sconosciuto	Nuovo File	00:29:33	0	
+08/12/2018	16:40:11	TRAILERPARTE7DEL26-11-2018	Sconosciuto	Nuovo File	00:09:45	0	
+08/12/2018	16:49:57	filmcompletoPiratiRPolanski1986	PIRATI	Pirati	01:45:39	1	Film
+08/12/2018	18:35:36	6PROMOVIDEOSPOT6	6 SPOT PTOMOVIDEO	PROMOVIDEOSPOT 6	00:00:06	11	spot
+08/12/2018	18:35:43	Labandadeglionesti_mpeg2video	LA BANDA DEGLI ONESTI	LA BANDA DEGLI  ONESTI	01:40:55	1	Film
+08/12/2018	20:16:38	AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI	Sconosciuto	ABRAMO ISACCO GIACOBBE	01:26:07	1	Film
+08/12/2018	21:42:46	TRAILERPARTE3DEL26-11-2018	Sconosciuto	Nuovo File	00:09:45	0	
+08/12/2018	21:52:31	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
+08/12/2018	21:52:47	SuperTG_7_12_2018	Sconosciuto	Nuovo File	00:29:33	0	
+08/12/2018	22:22:20	Nell'annoDelSignoreManfredi,Sordi,Tognazzi(Filmcompleto)	Sconosciuto	Nell'anno del  Signore	01:57:54	1	Film
+09/12/2018	00:20:15	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	Film
+09/12/2018	02:05:57	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
+09/12/2018	02:06:04	SPOTCIBRIO-PROMOVIDEOTVOK	Sconosciuto	Nuovo File	00:00:44	0	
+09/12/2018	02:06:48	TRAILERPARTE5DEL26-11-2018	Sconosciuto	Nuovo File	00:10:03	0	
+09/12/2018	02:16:52	AVISLOCRI	Sconosciuto	Nuovo File	00:00:33	0	
+09/12/2018	02:17:25	Infiltratospeciale_mpeg2video	Sconosciuto	Infiltrato  speciale	01:34:35	1	Film
+09/12/2018	03:52:01	SuperTG_7_12_2018	Sconosciuto	Nuovo File	00:29:33	0	
+09/12/2018	04:21:34	AlbertoSordiIlVedovo	Sconosciuto	IL  VEDOVO	01:27:06	1	Film
+09/12/2018	05:48:40	'ComeEravamo'	COME ERAVAMO	COME ERAVAMO 	00:02:11	11	spot
