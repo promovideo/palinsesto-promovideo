@@ -1,5 +1,4 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-09/12/2018	17:45:28	CORRADOALVARO---	CORRADO ALVARO	CORRADO ALVARO	00:58:17	41	programmi culturali
 09/12/2018	18:43:45	MissinginAmerica	Sconosciuto	Missing  America	01:38:23	1	Film
 09/12/2018	20:22:09	PROMOVIDEOSPOT1	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:06	11	spot
 09/12/2018	20:22:16	TRAILERPARTE5DEL26-11-2018	Sconosciuto	Nuovo File	00:10:03	0	
@@ -14,9 +13,9 @@ Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata
 10/12/2018	00:27:51	Arredi%20alvaro	ARREDI ALVARO DAL 02 10 18	ARREDI ALVARO	00:00:15	11	spot
 10/12/2018	00:28:07	PROMOVIDEOSPOT2	SPOT  PROMOVIDEOTV 2	SPOT  PROMOVIDEOTV 2	00:00:06	11	spot
 10/12/2018	00:28:14	Tempimoderni_mpeg2video	Sconosciuto	Tempi  moderni	01:27:33	1	Film
-10/12/2018	01:55:48	BovaChoratuVuaIlGioielloD'Aspromonte	BOVA GIOIELLO D' ASPROMONTE	BOVA	00:16:11	41	programmi culturali
+10/12/2018	01:55:47	BovaChoratuVuaIlGioielloD'Aspromonte	BOVA GIOIELLO D' ASPROMONTE	BOVA	00:16:11	41	programmi culturali
 10/12/2018	02:11:59	TRAILERPARTE6DEL26-11-2018	Sconosciuto	Nuovo File	00:09:45	0	
-10/12/2018	02:21:45	Puntata7FormilaMotoridel27ottobre	Sconosciuto	Nuovo File	00:12:00	0	
+10/12/2018	02:21:44	Puntata7FormilaMotoridel27ottobre	Sconosciuto	Nuovo File	00:12:00	0	
 10/12/2018	02:33:45	TotoaParigi_mpeg2video	Sconosciuto	Tot a Prigi	01:33:42	1	Film
 10/12/2018	04:07:27	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
 10/12/2018	04:14:41	80vogliadicantareFaustoCigliano	Sconosciuto	Nuovo File	00:15:43	0	
