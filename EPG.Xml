@@ -2,24 +2,37 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>Azzurro_mpeg2video</IdName>
-				<StartDate>2018-12-11</StartDate>
-				<StartTime>20:30:55</StartTime>
-				<EndDate>2018-12-11</EndDate>
-				<EndTime>21:52:46</EndTime>
+				<IdName>StarshipTroopers2-Glieroidellafederazione</IdName>
+				<StartDate>2018-12-12</StartDate>
+				<StartTime>06:08:29</StartTime>
+				<EndDate>2018-12-12</EndDate>
+				<EndTime>07:36:21</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Sconosciuto</Name>
-					<Description>AZZURRO</Description>
+					<Description>Trooper 2</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="2">
-				<IdName>TRAILERPARTE6DEL26-11-2018</IdName>
-				<StartDate>2018-12-11</StartDate>
-				<StartTime>21:52:46</StartTime>
-				<EndDate>2018-12-11</EndDate>
-				<EndTime>22:02:32</EndTime>
+				<IdName>L'ultimorediScozia</IdName>
+				<StartDate>2018-12-12</StartDate>
+				<StartTime>07:36:21</StartTime>
+				<EndDate>2018-12-12</EndDate>
+				<EndTime>08:35:40</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>L' ultimo re di Scozia</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="3">
+				<IdName>ArmaLetale4_cd1_mpeg2video</IdName>
+				<StartDate>2018-12-12</StartDate>
+				<StartTime>08:35:40</StartTime>
+				<EndDate>2018-12-12</EndDate>
+				<EndTime>09:35:14</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -27,25 +40,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="3">
-				<IdName>STILOELACATTOLICA</IdName>
-				<StartDate>2018-12-11</StartDate>
-				<StartTime>22:02:32</StartTime>
-				<EndDate>2018-12-11</EndDate>
-				<EndTime>22:09:47</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>STILO E LA CATTOLICA</Name>
-					<Description>Stilo e la  cattolica</Description>
-				</ShortEventDescription>
-			</Event>
 			<Event id="4">
-				<IdName>TRAILERPARTE6DEL26-11-2018</IdName>
-				<StartDate>2018-12-11</StartDate>
-				<StartTime>22:09:47</StartTime>
-				<EndDate>2018-12-11</EndDate>
-				<EndTime>22:19:33</EndTime>
+				<IdName>ArmaLetale4_cd2_mpeg2video</IdName>
+				<StartDate>2018-12-12</StartDate>
+				<StartTime>09:35:14</StartTime>
+				<EndDate>2018-12-12</EndDate>
+				<EndTime>10:34:12</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -54,63 +54,63 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="5">
-				<IdName>StarshipTroopers2-Glieroidellafederazione</IdName>
-				<StartDate>2018-12-11</StartDate>
-				<StartTime>22:19:33</StartTime>
-				<EndDate>2018-12-11</EndDate>
-				<EndTime>23:47:25</EndTime>
+				<IdName>TRAILERPARTE7DEL26-11-2018</IdName>
+				<StartDate>2018-12-12</StartDate>
+				<StartTime>10:34:12</StartTime>
+				<EndDate>2018-12-12</EndDate>
+				<EndTime>10:43:58</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Sconosciuto</Name>
-					<Description>Trooper 2</Description>
+					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="6">
-				<IdName>L'ultimorediScozia</IdName>
-				<StartDate>2018-12-11</StartDate>
-				<StartTime>23:47:25</StartTime>
+				<IdName>MissinginAmerica</IdName>
+				<StartDate>2018-12-12</StartDate>
+				<StartTime>10:43:58</StartTime>
 				<EndDate>2018-12-12</EndDate>
-				<EndTime>00:46:44</EndTime>
+				<EndTime>12:22:22</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Sconosciuto</Name>
-					<Description>L' ultimo re di Scozia</Description>
+					<Description>Missing  America</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="7">
-				<IdName>ArmaLetale4_cd1_mpeg2video</IdName>
+				<IdName>AttackForce</IdName>
 				<StartDate>2018-12-12</StartDate>
-				<StartTime>00:46:44</StartTime>
+				<StartTime>12:22:22</StartTime>
 				<EndDate>2018-12-12</EndDate>
-				<EndTime>01:46:18</EndTime>
+				<EndTime>13:52:57</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>ATTACK FORCR </Name>
+					<Description>ATTACK FORCE</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="8">
-				<IdName>ArmaLetale4_cd2_mpeg2video</IdName>
+				<IdName>STILOELACATTOLICA</IdName>
 				<StartDate>2018-12-12</StartDate>
-				<StartTime>01:46:18</StartTime>
+				<StartTime>13:52:57</StartTime>
 				<EndDate>2018-12-12</EndDate>
-				<EndTime>02:45:16</EndTime>
+				<EndTime>14:00:12</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>STILO E LA CATTOLICA</Name>
+					<Description>Stilo e la  cattolica</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="9">
-				<IdName>TRAILERPARTE7DEL26-11-2018</IdName>
+				<IdName>TRAILERPARTE6DEL26-11-2018</IdName>
 				<StartDate>2018-12-12</StartDate>
-				<StartTime>02:45:16</StartTime>
+				<StartTime>14:00:12</StartTime>
 				<EndDate>2018-12-12</EndDate>
-				<EndTime>02:55:02</EndTime>
+				<EndTime>14:09:57</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -119,50 +119,50 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="10">
-				<IdName>MissinginAmerica</IdName>
+				<IdName>StarshipTroopers2-Glieroidellafederazione</IdName>
 				<StartDate>2018-12-12</StartDate>
-				<StartTime>02:55:02</StartTime>
+				<StartTime>14:09:57</StartTime>
 				<EndDate>2018-12-12</EndDate>
-				<EndTime>04:33:26</EndTime>
+				<EndTime>15:37:49</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Sconosciuto</Name>
-					<Description>Missing  America</Description>
+					<Description>Trooper 2</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="11">
-				<IdName>AttackForce</IdName>
+				<IdName>L'ultimorediScozia</IdName>
 				<StartDate>2018-12-12</StartDate>
-				<StartTime>04:33:26</StartTime>
+				<StartTime>15:37:49</StartTime>
 				<EndDate>2018-12-12</EndDate>
-				<EndTime>06:04:01</EndTime>
+				<EndTime>16:37:08</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>ATTACK FORCR </Name>
-					<Description>ATTACK FORCE</Description>
+					<Name>Sconosciuto</Name>
+					<Description>L' ultimo re di Scozia</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="12">
-				<IdName>STILOELACATTOLICA</IdName>
+				<IdName>ArmaLetale4_cd1_mpeg2video</IdName>
 				<StartDate>2018-12-12</StartDate>
-				<StartTime>06:04:01</StartTime>
+				<StartTime>16:37:08</StartTime>
 				<EndDate>2018-12-12</EndDate>
-				<EndTime>06:11:15</EndTime>
+				<EndTime>17:36:43</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>STILO E LA CATTOLICA</Name>
-					<Description>Stilo e la  cattolica</Description>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="13">
-				<IdName>TRAILERPARTE6DEL26-11-2018</IdName>
+				<IdName>ArmaLetale4_cd2_mpeg2video</IdName>
 				<StartDate>2018-12-12</StartDate>
-				<StartTime>06:11:15</StartTime>
+				<StartTime>17:36:43</StartTime>
 				<EndDate>2018-12-12</EndDate>
-				<EndTime>06:21:01</EndTime>
+				<EndTime>18:35:41</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -171,206 +171,37 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="14">
-				<IdName>StarshipTroopers2-Glieroidellafederazione</IdName>
+				<IdName>TRAILERPARTE7DEL26-11-2018</IdName>
 				<StartDate>2018-12-12</StartDate>
-				<StartTime>06:21:01</StartTime>
+				<StartTime>18:35:41</StartTime>
 				<EndDate>2018-12-12</EndDate>
-				<EndTime>07:48:53</EndTime>
+				<EndTime>18:45:27</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Sconosciuto</Name>
-					<Description>Trooper 2</Description>
+					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="15">
-				<IdName>L'ultimorediScozia</IdName>
+				<IdName>MissinginAmerica</IdName>
 				<StartDate>2018-12-12</StartDate>
-				<StartTime>07:48:53</StartTime>
+				<StartTime>18:45:27</StartTime>
 				<EndDate>2018-12-12</EndDate>
-				<EndTime>08:48:12</EndTime>
+				<EndTime>20:23:50</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Sconosciuto</Name>
-					<Description>L' ultimo re di Scozia</Description>
+					<Description>Missing  America</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="16">
-				<IdName>ArmaLetale4_cd1_mpeg2video</IdName>
-				<StartDate>2018-12-12</StartDate>
-				<StartTime>08:48:12</StartTime>
-				<EndDate>2018-12-12</EndDate>
-				<EndTime>09:47:47</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="17">
-				<IdName>ArmaLetale4_cd2_mpeg2video</IdName>
-				<StartDate>2018-12-12</StartDate>
-				<StartTime>09:47:47</StartTime>
-				<EndDate>2018-12-12</EndDate>
-				<EndTime>10:46:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="18">
-				<IdName>TRAILERPARTE7DEL26-11-2018</IdName>
-				<StartDate>2018-12-12</StartDate>
-				<StartTime>10:46:45</StartTime>
-				<EndDate>2018-12-12</EndDate>
-				<EndTime>10:56:31</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="19">
-				<IdName>MissinginAmerica</IdName>
-				<StartDate>2018-12-12</StartDate>
-				<StartTime>10:56:31</StartTime>
-				<EndDate>2018-12-12</EndDate>
-				<EndTime>12:34:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Missing  America</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="20">
 				<IdName>AttackForce</IdName>
 				<StartDate>2018-12-12</StartDate>
-				<StartTime>12:34:54</StartTime>
+				<StartTime>20:23:50</StartTime>
 				<EndDate>2018-12-12</EndDate>
-				<EndTime>14:05:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ATTACK FORCR </Name>
-					<Description>ATTACK FORCE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="21">
-				<IdName>STILOELACATTOLICA</IdName>
-				<StartDate>2018-12-12</StartDate>
-				<StartTime>14:05:29</StartTime>
-				<EndDate>2018-12-12</EndDate>
-				<EndTime>14:12:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>STILO E LA CATTOLICA</Name>
-					<Description>Stilo e la  cattolica</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="22">
-				<IdName>TRAILERPARTE6DEL26-11-2018</IdName>
-				<StartDate>2018-12-12</StartDate>
-				<StartTime>14:12:44</StartTime>
-				<EndDate>2018-12-12</EndDate>
-				<EndTime>14:22:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="23">
-				<IdName>StarshipTroopers2-Glieroidellafederazione</IdName>
-				<StartDate>2018-12-12</StartDate>
-				<StartTime>14:22:30</StartTime>
-				<EndDate>2018-12-12</EndDate>
-				<EndTime>15:50:22</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Trooper 2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="24">
-				<IdName>L'ultimorediScozia</IdName>
-				<StartDate>2018-12-12</StartDate>
-				<StartTime>15:50:22</StartTime>
-				<EndDate>2018-12-12</EndDate>
-				<EndTime>16:49:41</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>L' ultimo re di Scozia</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="25">
-				<IdName>ArmaLetale4_cd1_mpeg2video</IdName>
-				<StartDate>2018-12-12</StartDate>
-				<StartTime>16:49:41</StartTime>
-				<EndDate>2018-12-12</EndDate>
-				<EndTime>17:49:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="26">
-				<IdName>ArmaLetale4_cd2_mpeg2video</IdName>
-				<StartDate>2018-12-12</StartDate>
-				<StartTime>17:49:15</StartTime>
-				<EndDate>2018-12-12</EndDate>
-				<EndTime>18:48:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="27">
-				<IdName>TRAILERPARTE7DEL26-11-2018</IdName>
-				<StartDate>2018-12-12</StartDate>
-				<StartTime>18:48:13</StartTime>
-				<EndDate>2018-12-12</EndDate>
-				<EndTime>18:57:59</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="28">
-				<IdName>MissinginAmerica</IdName>
-				<StartDate>2018-12-12</StartDate>
-				<StartTime>18:57:59</StartTime>
-				<EndDate>2018-12-12</EndDate>
-				<EndTime>20:36:23</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Missing  America</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="29">
-				<IdName>AttackForce</IdName>
-				<StartDate>2018-12-12</StartDate>
-				<StartTime>20:36:23</StartTime>
-				<EndDate>2018-12-12</EndDate>
-				<EndTime>22:06:58</EndTime>
+				<EndTime>21:54:26</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
