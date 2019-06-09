@@ -2,22 +2,9 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>TotoaParigi_mpeg2video</IdName>
-				<StartDate>2019-06-09</StartDate>
-				<StartTime>18:34:23</StartTime>
-				<EndDate>2019-06-09</EndDate>
-				<EndTime>20:08:06</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Tot a Prigi</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
 				<IdName>STILOELACATTOLICA</IdName>
 				<StartDate>2019-06-09</StartDate>
-				<StartTime>20:08:06</StartTime>
+				<StartTime>20:08:05</StartTime>
 				<EndDate>2019-06-09</EndDate>
 				<EndTime>20:15:20</EndTime>
 				<ShortEventDescription>
@@ -27,12 +14,12 @@
 					<Description>Stilo e la  cattolica</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="3">
+			<Event id="2">
 				<IdName>SerraSanBrunoPiccolaGrandeItalia</IdName>
 				<StartDate>2019-06-09</StartDate>
 				<StartTime>20:15:20</StartTime>
 				<EndDate>2019-06-09</EndDate>
-				<EndTime>20:36:19</EndTime>
+				<EndTime>20:36:18</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -40,10 +27,10 @@
 					<Description>SERRA S. BRUNO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="4">
+			<Event id="3">
 				<IdName>80vogliadicantareFaustoCigliano</IdName>
 				<StartDate>2019-06-09</StartDate>
-				<StartTime>20:36:19</StartTime>
+				<StartTime>20:36:18</StartTime>
 				<EndDate>2019-06-09</EndDate>
 				<EndTime>20:52:02</EndTime>
 				<ShortEventDescription>
