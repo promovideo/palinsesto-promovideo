@@ -2,24 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="Service Name">
 			<Event id="1">
-				<IdName>STILOELACATTOLICA</IdName>
-				<StartDate>2019-06-09</StartDate>
-				<StartTime>20:08:05</StartTime>
-				<EndDate>2019-06-09</EndDate>
-				<EndTime>20:15:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>STILO E LA CATTOLICA</Name>
-					<Description>Stilo e la  cattolica</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
 				<IdName>SerraSanBrunoPiccolaGrandeItalia</IdName>
-				<StartDate>2019-06-09</StartDate>
-				<StartTime>20:15:20</StartTime>
-				<EndDate>2019-06-09</EndDate>
-				<EndTime>20:36:18</EndTime>
+				<StartDate>2019-06-10</StartDate>
+				<StartTime>12:24:11</StartTime>
+				<EndDate>2019-06-10</EndDate>
+				<EndTime>12:45:09</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -27,17 +14,212 @@
 					<Description>SERRA S. BRUNO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="3">
+			<Event id="2">
 				<IdName>80vogliadicantareFaustoCigliano</IdName>
-				<StartDate>2019-06-09</StartDate>
-				<StartTime>20:36:18</StartTime>
-				<EndDate>2019-06-09</EndDate>
-				<EndTime>20:52:02</EndTime>
+				<StartDate>2019-06-10</StartDate>
+				<StartTime>12:45:09</StartTime>
+				<EndDate>2019-06-10</EndDate>
+				<EndTime>13:00:53</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
 					<Name>Sconosciuto</Name>
 					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="3">
+				<IdName>STILOELACATTOLICA</IdName>
+				<StartDate>2019-06-10</StartDate>
+				<StartTime>13:00:53</StartTime>
+				<EndDate>2019-06-10</EndDate>
+				<EndTime>13:08:07</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>STILO E LA CATTOLICA</Name>
+					<Description>Stilo e la  cattolica</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="4">
+				<IdName>SerraSanBrunoPiccolaGrandeItalia</IdName>
+				<StartDate>2019-06-10</StartDate>
+				<StartTime>13:08:07</StartTime>
+				<EndDate>2019-06-10</EndDate>
+				<EndTime>13:29:06</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Piccola Grande Italia</Name>
+					<Description>SERRA S. BRUNO</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="5">
+				<IdName>80vogliadicantareFaustoCigliano</IdName>
+				<StartDate>2019-06-10</StartDate>
+				<StartTime>13:29:06</StartTime>
+				<EndDate>2019-06-10</EndDate>
+				<EndTime>13:44:49</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="6">
+				<IdName>Speed</IdName>
+				<StartDate>2019-06-10</StartDate>
+				<StartTime>13:44:49</StartTime>
+				<EndDate>2019-06-10</EndDate>
+				<EndTime>15:34:50</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPEED</Name>
+					<Description>SPEED</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="7">
+				<IdName>PROMOVIDEOSPOT2</IdName>
+				<StartDate>2019-06-10</StartDate>
+				<StartTime>15:34:50</StartTime>
+				<EndDate>2019-06-10</EndDate>
+				<EndTime>15:34:57</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOT  PROMOVIDEOTV 2</Name>
+					<Description>SPOT  PROMOVIDEOTV 2</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="8">
+				<IdName>PiedoneL'Africano</IdName>
+				<StartDate>2019-06-10</StartDate>
+				<StartTime>15:34:57</StartTime>
+				<EndDate>2019-06-10</EndDate>
+				<EndTime>17:23:52</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Piedone l' Africano</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="9">
+				<IdName>DonCamilloel'onorevolePeppone</IdName>
+				<StartDate>2019-06-10</StartDate>
+				<StartTime>17:23:52</StartTime>
+				<EndDate>2019-06-10</EndDate>
+				<EndTime>19:00:53</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>DON CAMILLO E L 'ONOREVOLE PEPPONE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="10">
+				<IdName>LeComiche2</IdName>
+				<StartDate>2019-06-10</StartDate>
+				<StartTime>19:00:53</StartTime>
+				<EndDate>2019-06-10</EndDate>
+				<EndTime>20:28:09</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Le comiche 2</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="11">
+				<IdName>Fantozzisubisceancora</IdName>
+				<StartDate>2019-06-10</StartDate>
+				<StartTime>20:28:09</StartTime>
+				<EndDate>2019-06-10</EndDate>
+				<EndTime>21:51:56</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>FANTOZZI  SUBISCE ANCORA</Name>
+					<Description>FANTOZZI  SUBISCE ANCORA</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="12">
+				<IdName>Sedottiebidonati</IdName>
+				<StartDate>2019-06-10</StartDate>
+				<StartTime>21:51:56</StartTime>
+				<EndDate>2019-06-10</EndDate>
+				<EndTime>23:29:09</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Sedotti ed abbandonati</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="13">
+				<IdName>MenInBlackI</IdName>
+				<StartDate>2019-06-10</StartDate>
+				<StartTime>23:29:09</StartTime>
+				<EndDate>2019-06-11</EndDate>
+				<EndTime>01:03:10</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Men In Black I</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="14">
+				<IdName>Consiglio29ott2016xregia</IdName>
+				<StartDate>2019-06-11</StartDate>
+				<StartTime>01:03:10</StartTime>
+				<EndDate>2019-06-11</EndDate>
+				<EndTime>01:03:12</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>CONSIGLIO COMUNALE GERACE </Name>
+					<Description>CONS DEL 29 OTT 2016</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="15">
+				<IdName>CorsoUrgenzaEmergenza</IdName>
+				<StartDate>2019-06-11</StartDate>
+				<StartTime>01:03:12</StartTime>
+				<EndDate>2019-06-11</EndDate>
+				<EndTime>02:06:29</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>CORSO URGENZA EMERGENZA</Name>
+					<Description>CORSO  URGENZA EMERGENZA</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="16">
+				<IdName>Pasticciniallemandorle</IdName>
+				<StartDate>2019-06-11</StartDate>
+				<StartTime>02:06:29</StartTime>
+				<EndDate>2019-06-11</EndDate>
+				<EndTime>02:08:44</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>PASTICCINI  ALLE MANDORLE</Name>
+					<Description>PASTICCINI ALLE MANDORLE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="17">
+				<IdName>prosindacoRiace</IdName>
+				<StartDate>2019-06-11</StartDate>
+				<StartTime>02:08:44</StartTime>
+				<EndDate>2019-06-11</EndDate>
+				<EndTime>03:01:02</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>PROSINDACO RIACE </Name>
+					<Description>PRO SINDACO RIACE 1O 017</Description>
 				</ShortEventDescription>
 			</Event>
 		</Service>
